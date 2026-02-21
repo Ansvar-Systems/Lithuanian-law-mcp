@@ -29,35 +29,35 @@ describe('getProvision', () => {
 
   it('should return provision by direct document ID and provision_ref', async () => {
     const result = await getProvision(db, {
-      document_id: 'lt-pdpa-2018',
+      document_id: 'lt-pdpa-i1374',
       provision_ref: '1',
     });
     expect(result.results).toHaveLength(1);
-    expect(result.results[0].content).toContain('protection of personal data');
-    expect(result.results[0].provision_ref).toBe('1');
+    expect(result.results[0].content.toLowerCase()).toContain('asmens duomen');
+    expect(result.results[0].provision_ref).toBe('art1');
   });
 
   it('should resolve document by English title', async () => {
     const result = await getProvision(db, {
-      document_id: 'Cyber Security Law',
+      document_id: 'Cybersecurity Law',
       provision_ref: '1',
     });
     expect(result.results).toHaveLength(1);
-    expect(result.results[0].content).toContain('cyber security');
+    expect(result.results[0].content.toLowerCase()).toContain('kibernetinio saugumo');
   });
 
   it('should resolve document by Lithuanian title substring', async () => {
     const result = await getProvision(db, {
       document_id: 'kibernetinio saugumo',
-      provision_ref: '8',
+      provision_ref: '18',
     });
     expect(result.results).toHaveLength(1);
-    expect(result.results[0].content).toContain('incident');
+    expect(result.results[0].content.toLowerCase()).toContain('incident');
   });
 
   it('should return all provisions when no ref specified', async () => {
     const result = await getProvision(db, {
-      document_id: 'lt-ts-2018',
+      document_id: 'lt-ns-ix1132',
     });
     expect(result.results.length).toBeGreaterThan(10);
   });
@@ -72,7 +72,7 @@ describe('getProvision', () => {
 
   it('should return empty for non-existent provision', async () => {
     const result = await getProvision(db, {
-      document_id: 'lt-pdpa-2018',
+      document_id: 'lt-pdpa-i1374',
       provision_ref: '999ZZZ',
     });
     expect(result.results).toHaveLength(0);
@@ -80,7 +80,7 @@ describe('getProvision', () => {
 
   it('should include metadata in response', async () => {
     const result = await getProvision(db, {
-      document_id: 'lt-pdpa-2018',
+      document_id: 'lt-pdpa-i1374',
       provision_ref: '4',
     });
     expect(result._metadata).toBeDefined();
@@ -94,7 +94,7 @@ describe('getProvision', () => {
       provision_ref: '196',
     });
     expect(result.results).toHaveLength(1);
-    expect(result.results[0].content).toContain('information system');
-    expect(result.results[0].content).toContain('unlawfully accesses');
+    expect(result.results[0].content.toLowerCase()).toContain('informacin');
+    expect(result.results[0].content.toLowerCase()).toContain('neteisėtai');
   });
 });

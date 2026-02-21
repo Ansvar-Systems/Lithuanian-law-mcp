@@ -31,8 +31,8 @@ describe('EU reference tools', () => {
   describe('getProvisionEUBasis', () => {
     it('should find EU basis for GDPR implementing provision', async () => {
       const result = await getProvisionEUBasis(db, {
-        document_id: 'lt-pdpa-2018',
-        provision_ref: '1',
+        document_id: 'lt-pdpa-i1374',
+        provision_ref: 'art1',
       });
       expect(result.results).toBeDefined();
       const text = JSON.stringify(result.results);
@@ -41,8 +41,8 @@ describe('EU reference tools', () => {
 
     it('should find EU basis for NIS2 implementing provision', async () => {
       const result = await getProvisionEUBasis(db, {
-        document_id: 'lt-cybersec-2018',
-        provision_ref: '1',
+        document_id: 'lt-cybersec-xii1428',
+        provision_ref: 'art38',
       });
       expect(result.results).toBeDefined();
       const text = JSON.stringify(result.results);
@@ -53,7 +53,7 @@ describe('EU reference tools', () => {
   describe('getEUBasis', () => {
     it('should find EU basis for the data protection law', async () => {
       const result = await getEUBasis(db, {
-        document_id: 'lt-pdpa-2018',
+        document_id: 'lt-pdpa-i1374',
       });
       expect(result.results).toBeDefined();
       const text = JSON.stringify(result.results);
@@ -68,7 +68,7 @@ describe('EU reference tools', () => {
       });
       expect(result.results).toBeDefined();
       const text = JSON.stringify(result.results);
-      expect(text).toContain('lt-pdpa-2018');
+      expect(text).toContain('lt-pdpa-i1374');
     });
   });
 });

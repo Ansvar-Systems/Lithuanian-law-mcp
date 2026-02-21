@@ -1,73 +1,146 @@
 /**
- * Rate-limited HTTP client for Lithuanian legislation from the Sejm ELI API.
+ * TAR open-data fetcher for Lithuanian legislation.
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
+ * Official source:
+ * - https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai
  *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
- * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
+ * This fetcher reads:
+ * - Dokumentas (law-level metadata)
+ * - Suvestine (consolidated edition metadata and text)
  */
 
-const USER_AGENT = 'Lithuanian-Law-MCP/1.0 (https://github.com/Ansvar-Systems/lithuanian-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+const API_BASE = 'https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai';
+const USER_AGENT = 'Ansvar-Law-MCP/1.0 (legal-data-ingestion)';
+const MIN_DELAY_MS = 1200;
 
-let lastRequestTime = 0;
+let lastRequestAt = 0;
+
+interface ApiEnvelope<T> {
+  _data?: T[];
+}
+
+export interface DocumentRecord {
+  dokumento_id: string;
+  pavadinimas: string;
+  nuoroda: string;
+  atv_dok_nr?: string | null;
+  galioj_busena?: string | null;
+  rusis?: string | null;
+  priimtas?: string | null;
+  isigalioja?: string | null;
+}
+
+export interface EditionRecord {
+  dokumento_id: string;
+  suvestines_id: string;
+  nuoroda: string;
+  galioja_nuo: string;
+  galioja_iki: string | null;
+}
+
+export interface EditionTextRecord extends EditionRecord {
+  tekstas_lt: string | null;
+}
+
+async function sleep(ms: number): Promise<void> {
+  await new Promise(resolve => setTimeout(resolve, ms));
+}
 
 async function rateLimit(): Promise<void> {
   const now = Date.now();
-  const elapsed = now - lastRequestTime;
+  const elapsed = now - lastRequestAt;
   if (elapsed < MIN_DELAY_MS) {
-    await new Promise(resolve => setTimeout(resolve, MIN_DELAY_MS - elapsed));
+    await sleep(MIN_DELAY_MS - elapsed);
   }
-  lastRequestTime = Date.now();
+  lastRequestAt = Date.now();
 }
 
-export interface FetchResult {
-  status: number;
-  body: string;
-  contentType: string;
-  url: string;
+function buildUrl(model: 'Dokumentas' | 'Suvestine', params: Record<string, string>): string {
+  const query = Object.entries(params)
+    .map(([key, value]) => (
+      value === ''
+        ? encodeURIComponent(key)
+        : `${encodeURIComponent(key)}=${encodeURIComponent(value)}`
+    ))
+    .join('&');
+  return `${API_BASE}/${model}/:format/json?${query}`;
 }
 
-/**
- * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
- */
-export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
-  await rateLimit();
+async function fetchJson<T>(url: string): Promise<T[]> {
+  const maxRetries = 3;
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    await rateLimit();
+
     const response = await fetch(url, {
       headers: {
         'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
+        'Accept': 'application/json',
       },
       redirect: 'follow',
     });
 
-    if (response.status === 429 || response.status >= 500) {
-      if (attempt < maxRetries) {
-        const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
-        await new Promise(resolve => setTimeout(resolve, backoff));
-        continue;
-      }
+    if (response.ok) {
+      const payload = await response.json() as ApiEnvelope<T>;
+      return payload._data ?? [];
     }
 
-    const body = await response.text();
-    return {
-      status: response.status,
-      body,
-      contentType: response.headers.get('content-type') ?? '',
-      url: response.url,
-    };
+    if ((response.status === 429 || response.status >= 500) && attempt < maxRetries) {
+      await sleep((attempt + 1) * 1500);
+      continue;
+    }
+
+    throw new Error(`HTTP ${response.status} while fetching ${url}`);
   }
 
-  throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
+  throw new Error(`Failed to fetch ${url}`);
+}
+
+function quote(value: string): string {
+  // API filter syntax expects single-quoted values.
+  return `'${value.replace(/'/g, "''")}'`;
+}
+
+export async function fetchDocumentRecord(documentId: string): Promise<DocumentRecord | null> {
+  const url = buildUrl('Dokumentas', {
+    'select(dokumento_id,pavadinimas,nuoroda,atv_dok_nr,galioj_busena,rusis,priimtas,isigalioja)': '',
+    'dokumento_id': quote(documentId),
+  });
+
+  const rows = await fetchJson<DocumentRecord>(url);
+  return rows[0] ?? null;
+}
+
+export async function fetchEditionRecords(documentId: string): Promise<EditionRecord[]> {
+  const url = buildUrl('Suvestine', {
+    'select(dokumento_id,suvestines_id,nuoroda,galioja_nuo,galioja_iki)': '',
+    'dokumento_id': quote(documentId),
+    'limit(500)': '',
+  });
+
+  return fetchJson<EditionRecord>(url);
+}
+
+export async function fetchEditionText(documentId: string, editionId: string): Promise<EditionTextRecord | null> {
+  const url = buildUrl('Suvestine', {
+    'select(dokumento_id,suvestines_id,nuoroda,galioja_nuo,galioja_iki,tekstas_lt)': '',
+    'dokumento_id': quote(documentId),
+    'suvestines_id': quote(editionId),
+  });
+
+  const rows = await fetchJson<EditionTextRecord>(url);
+  return rows[0] ?? null;
+}
+
+export function pickCurrentEdition(editions: EditionRecord[]): EditionRecord | null {
+  if (editions.length === 0) return null;
+
+  const current = editions.find(e => e.galioja_iki === null);
+  if (current) return current;
+
+  return [...editions].sort((a, b) => b.galioja_nuo.localeCompare(a.galioja_nuo))[0] ?? null;
+}
+
+export function sortEditionsNewestFirst(editions: EditionRecord[]): EditionRecord[] {
+  return [...editions].sort((a, b) => b.galioja_nuo.localeCompare(a.galioja_nuo));
 }

@@ -26,30 +26,30 @@ describe('searchLegislation', () => {
     fs.rmSync(tmpDir, { recursive: true, force: true });
   });
 
-  it('should find provisions matching "personal data"', async () => {
-    const result = await searchLegislation(db, { query: 'personal data' });
+  it('should find provisions matching "asmens duomenų"', async () => {
+    const result = await searchLegislation(db, { query: 'asmens duomenų' });
     expect(result.results.length).toBeGreaterThan(0);
     const allText = result.results.map(r => r.snippet).join(' ').toLowerCase();
-    expect(allText).toContain('personal');
+    expect(allText).toContain('duomen');
   });
 
-  it('should find provisions matching "cyber incident"', async () => {
-    const result = await searchLegislation(db, { query: 'cyber incident' });
+  it('should find provisions matching "kibernetin"', async () => {
+    const result = await searchLegislation(db, { query: 'kibernetin' });
     expect(result.results.length).toBeGreaterThan(0);
   });
 
-  it('should find provisions matching "critical infrastructure"', async () => {
-    const result = await searchLegislation(db, { query: 'critical infrastructure' });
+  it('should find provisions matching "informacinių išteklių"', async () => {
+    const result = await searchLegislation(db, { query: 'informacinių išteklių' });
     expect(result.results.length).toBeGreaterThan(0);
   });
 
-  it('should find provisions matching "electronic signature"', async () => {
-    const result = await searchLegislation(db, { query: 'electronic signature' });
+  it('should find provisions matching "elektroninės atpažinties"', async () => {
+    const result = await searchLegislation(db, { query: 'elektroninės atpažinties' });
     expect(result.results.length).toBeGreaterThan(0);
   });
 
-  it('should find provisions matching "trade secret"', async () => {
-    const result = await searchLegislation(db, { query: 'trade secret' });
+  it('should find provisions matching "nacionaliniam saugumui"', async () => {
+    const result = await searchLegislation(db, { query: 'nacionaliniam saugumui' });
     expect(result.results.length).toBeGreaterThan(0);
   });
 
@@ -64,23 +64,23 @@ describe('searchLegislation', () => {
   });
 
   it('should respect limit parameter', async () => {
-    const result = await searchLegislation(db, { query: 'information', limit: 3 });
+    const result = await searchLegislation(db, { query: 'informacija', limit: 3 });
     expect(result.results.length).toBeLessThanOrEqual(3);
   });
 
   it('should filter by document_id', async () => {
     const result = await searchLegislation(db, {
-      query: 'security',
-      document_id: 'lt-cybersec-2018',
+      query: 'kibernetinio',
+      document_id: 'lt-cybersec-xii1428',
     });
     expect(result.results.length).toBeGreaterThan(0);
     for (const r of result.results) {
-      expect(r.document_id).toBe('lt-cybersec-2018');
+      expect(r.document_id).toBe('lt-cybersec-xii1428');
     }
   });
 
   it('should include metadata', async () => {
-    const result = await searchLegislation(db, { query: 'data' });
+    const result = await searchLegislation(db, { query: 'duomenų' });
     expect(result._metadata).toBeDefined();
     expect(result._metadata.jurisdiction).toBe('LT');
   });

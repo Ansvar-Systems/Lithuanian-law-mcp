@@ -3,23 +3,39 @@ mcp_name: "Lithuanian Law MCP"
 jurisdiction: "LT"
 
 sources:
-  - name: "TAR (Teisės aktų registras)"
-    authority: "Seimas of the Republic of Lithuania"
+  - name: "TAR Open Data API (Teisės aktų registras)"
+    authority: "Seimas of the Republic of Lithuania (Lietuvos Respublikos Seimo kanceliarija)"
     official_portal: "https://www.e-tar.lt"
-    retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
+    retrieval_method: "API"
+    update_frequency: "unknown"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Lithuanian Government Open Data (public domain under Lithuanian Copyright Law Art. 5)"
-      url: "https://www.e-tar.lt"
-      summary: "Official legislative texts are public domain"
+      type: "government_terms"
+      url: "https://data.gov.lt/datasets/2613/"
+      summary: "Official Lithuanian legal register data is published through the government open-data portal and TAR."
     coverage:
-      scope: "Key Lithuanian legislation covering data protection, cybersecurity, e-commerce, criminal law cyber provisions, and related statutes"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "10 key Lithuanian statutes on data protection, cybersecurity, communications, information governance, and related criminal/security provisions."
+      limitations: "Focused statute subset; latest TAR suvestine text is used where available via API."
     languages:
       - "lt"
 
+  - name: "Lithuanian Open Data Portal"
+    authority: "Information Society Development Committee / Government of Lithuania"
+    official_portal: "https://data.gov.lt"
+    retrieval_method: "API"
+    update_frequency: "unknown"
+    license_or_terms:
+      type: "government_terms"
+      url: "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/:ns"
+      summary: "Machine-readable TAR document and suvestine records, including consolidated legal text fields."
+    coverage:
+      scope: "Dokumentas and Suvestine models from dataset gov/lrsk/teises_aktai"
+      limitations: "Model content depends on upstream publication and text availability in each suvestine row."
+    languages:
+      - "lt"
+
+
 data_freshness:
-  automated_checks: true
-  check_frequency: "weekly"
+  automated_checks: false
+  check_frequency: "manual"
   last_verified: "2026-02-21"

@@ -247,45 +247,117 @@ function dedupeProvisions(provisions: ProvisionSeed[]): ProvisionSeed[] {
   return Array.from(byRef.values());
 }
 
+function normalizeEuType(rawType: string): EUDocumentType {
+  const value = rawType.toLowerCase();
+  if (value.startsWith('dir') || value.startsWith('direktyv')) {
+    return 'directive';
+  }
+  return 'regulation';
+}
+
+function normalizeCommunity(rawCommunity: string | undefined): EUCommunity {
+  const value = rawCommunity?.toUpperCase() ?? 'EU';
+  if (value === 'ES') return 'EU';
+  if (value === 'EB') return 'EC';
+  if (value === 'EEB') return 'EEC';
+  if (value === 'EURATOM') return 'Euratom';
+  if (value === 'EC' || value === 'EEC' || value === 'Euratom') return value;
+  return 'EU';
+}
+
+function parseEuYearAndNumber(rawA: string, rawB: string): { year: number; number: number } | null {
+  const a = Number.parseInt(rawA, 10);
+  const b = Number.parseInt(rawB, 10);
+  if (!Number.isFinite(a) || !Number.isFinite(b) || a <= 0 || b <= 0) return null;
+
+  let year: number;
+  let number: number;
+
+  // Handle both year/number (2016/679) and number/year (910/2014) forms.
+  if (rawA.length === 4 && rawB.length !== 4) {
+    year = a;
+    number = b;
+  } else if (rawB.length === 4 && rawA.length !== 4) {
+    year = b;
+    number = a;
+  } else if (rawA.length === 2) {
+    year = a >= 50 ? 1900 + a : 2000 + a;
+    number = b;
+  } else if (rawB.length === 2 && rawA.length > 2) {
+    year = b >= 50 ? 1900 + b : 2000 + b;
+    number = a;
+  } else {
+    year = a;
+    number = b;
+  }
+
+  if (year < 1950 || year > 2100 || number <= 0) return null;
+  return { year, number };
+}
+
 function extractEuReferences(text: string): ExtractedEUReference[] {
   if (!text || text.trim().length === 0) return [];
 
   const refs: ExtractedEUReference[] = [];
   const seen = new Set<string>();
 
-  const patterns: RegExp[] = [
-    /\b(Regulation|Directive)\s*\((EU|EC|EEC|Euratom)\)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\b/gi,
-    /\b(Regulation|Directive)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\/(EU|EC|EEC|Euratom)\b/gi,
-    /\b(Regulation|Directive)\s*(?:No\.?\s*)?(\d{2,4})\/(\d{1,4})\b/gi,
+  const instrument = '(Regulation|Directive|reglament[a-z]*|direktyv[a-z]*)';
+  const community = '(EU|EC|EEC|Euratom|ES|EB|EEB)';
+  const patterns: Array<{ regex: RegExp; shape: 'prefix' | 'suffix' | 'bare' }> = [
+    {
+      regex: new RegExp(`\\b${instrument}\\s*\\(${community}\\)\\s*(?:No\\.?|Nr\\.?)?\\s*(\\d{2,4})\\s*\\/\\s*(\\d{1,4})\\b`, 'gi'),
+      shape: 'prefix',
+    },
+    {
+      regex: new RegExp(`\\b${instrument}\\s*(?:No\\.?|Nr\\.?)?\\s*(\\d{2,4})\\s*\\/\\s*(\\d{1,4})\\s*\\/\\s*${community}\\b`, 'gi'),
+      shape: 'suffix',
+    },
+    {
+      regex: new RegExp(`\\b${instrument}\\s*(?:No\\.?|Nr\\.?)?\\s*(\\d{2,4})\\s*\\/\\s*(\\d{1,4})\\b`, 'gi'),
+      shape: 'bare',
+    },
   ];
 
   for (const pattern of patterns) {
     let match: RegExpExecArray | null;
-    while ((match = pattern.exec(text)) !== null) {
-      const type = match[1].toLowerCase() as EUDocumentType;
-      let rawYear: string, rawNumber: string, communityRaw: string | undefined;
+    while ((match = pattern.regex.exec(text)) !== null) {
+      const type = normalizeEuType(match[1]);
+      let rawA: string;
+      let rawB: string;
+      let communityRaw: string | undefined;
 
-      if (pattern === patterns[0]) {
-        communityRaw = match[2]; rawYear = match[3]; rawNumber = match[4];
-      } else if (pattern === patterns[1]) {
-        rawYear = match[2]; rawNumber = match[3]; communityRaw = match[4];
+      if (pattern.shape === 'prefix') {
+        communityRaw = match[2];
+        rawA = match[3];
+        rawB = match[4];
+      } else if (pattern.shape === 'suffix') {
+        rawA = match[2];
+        rawB = match[3];
+        communityRaw = match[4];
       } else {
-        rawYear = match[2]; rawNumber = match[3]; communityRaw = undefined;
+        rawA = match[2];
+        rawB = match[3];
+        communityRaw = undefined;
       }
 
-      const parsedYear = Number.parseInt(rawYear, 10);
-      const year = rawYear.length === 2 ? (parsedYear >= 50 ? 1900 + parsedYear : 2000 + parsedYear) : parsedYear;
-      const number = Number.parseInt(rawNumber, 10);
-      if (year <= 0 || Number.isNaN(number) || number <= 0) continue;
+      const parsed = parseEuYearAndNumber(rawA, rawB);
+      if (!parsed) continue;
+      const { year, number } = parsed;
 
-      const community = (communityRaw?.toUpperCase() ?? 'EU') as EUCommunity;
+      const community = normalizeCommunity(communityRaw);
       const euDocumentId = `${type}:${year}/${number}`;
 
       const start = Math.max(0, match.index - 120);
       const end = Math.min(text.length, match.index + match[0].length + 120);
       const referenceContext = text.slice(start, end).replace(/\s+/g, ' ').trim();
-      const euArticle = referenceContext.match(/\bArticle\s+(\d+[A-Za-z]?(?:\(\d+\))?)/i)?.[1] ?? null;
-      const referenceType: EUReferenceType = /\b(implement|align|transpos|equivalent)\b/i.test(referenceContext) ? 'implements' : 'references';
+      const euArticle =
+        referenceContext.match(/\bArticle\s+(\d+[A-Za-z]?(?:\(\d+\))?)/i)?.[1] ??
+        referenceContext.match(/\b(\d+[A-Za-z]?(?:\(\d+\))?)\s*straipsn[a-z]*\b/i)?.[1] ??
+        null;
+      const referenceType: EUReferenceType =
+        /\b(implement|align|transpos|equivalent|[i\u012f]gyvendin[a-z]*|perkel[a-z]*|taikym[a-z]*)\b/i.test(referenceContext)
+          ? 'implements'
+          : 'references';
 
       const dedupeKey = `${euDocumentId}:${euArticle ?? ''}`;
       if (seen.has(dedupeKey)) continue;
