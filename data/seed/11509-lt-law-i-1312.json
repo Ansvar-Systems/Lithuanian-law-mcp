@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-i-1312",
+  "type": "statute",
+  "title": "Lietuvos Respublikos žemės mokesčio įstatymo 12 ir 13 straipsnių pakeitimo įstatymas",
+  "short_name": "I-1312",
+  "status": "in_force",
+  "issued_date": "1996-04-30",
+  "in_force_date": "1996-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.F09A1A11ECE2/VpISImcegr",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 12 straipsnio pakeitimas",
+      "content": "Pakeisti 12 straipsnį ir jį išdėstyti taip:\n\n„12 straipsnis.\n\nLaiku neapmokestinti mokėtojai apmokestinami, mokestis išieškomas, grąžinamas bei patikslinamas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 13 straipsnio pakeitimas",
+      "content": "13 straipsnyje vietoj žodžių „už kiekvieną praleistą dieną imama 0,1 procento delspinigių“ įrašyti žodžius „imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka“ ir straipsnį išdėstyti taip:\n\n„13 straipsnis.\n\nMokesčio laiku nesumokėjus, imami delspinigiai Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS\n______________"
+    }
+  ],
+  "definitions": []
+}

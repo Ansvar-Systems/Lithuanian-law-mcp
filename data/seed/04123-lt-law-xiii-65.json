@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiii-65",
+  "type": "statute",
+  "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 15 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XIII-65",
+  "status": "in_force",
+  "issued_date": "2016-12-08",
+  "in_force_date": "2017-11-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/a2e2eb40c68111e69dec860c1f4a5372/fmtNPIAvby",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 15 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 15 straipsnį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2017 m. lapkričio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

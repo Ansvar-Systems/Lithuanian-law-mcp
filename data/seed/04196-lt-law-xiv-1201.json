@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-1201",
+  "type": "statute",
+  "title": "Lietuvos Respublikos civilinio kodekso 2.138 ir 5.28 straipsnių pakeitimo įstatymas",
+  "short_name": "XIV-1201",
+  "status": "in_force",
+  "issued_date": "2022-06-28",
+  "in_force_date": "2023-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/a5db9e82040311edb32c9f9d8ba206f8/hFAhSodWgU",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 2.138 straipsnio pakeitimas",
+      "content": "Pakeisti 2.138 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:\n\n„2) asmenų, esančių laisvės atėmimo vietų įstaigoje, įgaliojimai, patvirtinti Lietuvos kalėjimų tarnybos direktoriaus įgaliotų bausmių vykdymo sistemos pareigūnų;“."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 5.28 straipsnio pakeitimas",
+      "content": "Pakeisti 5.28 straipsnio 6 dalies 5 punktą ir jį išdėstyti taip:\n\n„5) asmenų, esančių laisvės atėmimo vietų įstaigoje, testamentai, patvirtinti Lietuvos kalėjimų tarnybos direktoriaus įgaliotų bausmių vykdymo sistemos pareigūnų;“."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2023 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda\n\npart_74bfebc1f7b84edbbc009ea3bdb73ff1_end"
+    }
+  ],
+  "definitions": []
+}

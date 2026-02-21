@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-ix-1791",
+  "type": "statute",
+  "title": "Lietuvos Respublikos valstybinių pensijų įstatymo 4 ir 5 straipsnių pakeitimo įstatymas",
+  "short_name": "IX-1791",
+  "status": "in_force",
+  "issued_date": "2003-10-16",
+  "in_force_date": "2004-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.5D1B9E08D358",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 4 straipsnio 4 dalies pripažinimas netekusia galios",
+      "content": "4 straipsnio 4 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 5 straipsnio 5 dalies pakeitimas",
+      "content": "1. 5 straipsnio 5 dalį pripažinti netekusia galios.\n\n2. Buvusias šio straipsnio 6, 7 ir 8 dalis laikyti atitinkamai 5, 6 ir 7 dalimis."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS\n______________"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "lt-law-viii-297",
+  "type": "statute",
+  "title": "Lietuvos Respublikos sveikatos priežiūros biudžetinių įstaigų reorganizavimo į valstybės ir savivaldybių sveikatos priežiūros viešąsias įstaigas įstatymas",
+  "short_name": "VIII-297",
+  "status": "in_force",
+  "issued_date": "1997-06-24",
+  "in_force_date": "1997-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.7BE14C69DE62",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šio įstatymo tikslas – nustatyti sveikatos priežiūros biudžetinių įstaigų reorganizavimo į valstybės ir savivaldybių sveikatos priežiūros viešąsias įstaigas, kurias reglamentuoja Sveikatos priežiūros įstaigų įstatymas, tvarką."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Biudžetinės įstaigos (toliau – BĮ) – valstybės ir savivaldybių sveikatos priežiūros biudžetinės įstaigos, kurias reglamentuoja Biudžetinių įstaigų įstatymas ir Sveikatos priežiūros įstaigų įstatymas.\n\n2. Viešosios įstaigos (toliau – VĮ) – valstybės ir savivaldybių sveikatos priežiūros viešosios įstaigos, kurias reglamentuoja Sveikatos priežiūros įstaigų įstatymas ir Viešųjų įstaigų įstatymas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įpareigojimai BĮ steigėjams",
+      "content": "BĮ steigėjai (savivaldybės, kurios patikėjimo teise valdo sveikatos priežiūros įstaigų turtą, ir Sveikatos apsaugos ministerija) privalo reorganizuoti šias įstaigas (pakeisti įstaigų rūšį) į VĮ šio įstatymo 4 straipsnyje nustatytu laiku ir tvarka."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. BĮ pertvarkymo į VĮ tvarka",
+      "content": "1. BĮ, išskyrus tas, kurios pagal Sveikatos priežiūros įstaigų įstatymą lieka biudžetinės, reorganizuojamos į VĮ pagal Sveikatos priežiūros įstaigų įstatyme numatytą nomenklatūrą ir pavaldumą. Šis reorganizavimas turi būti baigtas iki 1997 m. spalio 1 d. ir atliekamas šia tvarka:\n\n1) BĮ steigėjas priima sprendimą pertvarkyti BĮ į VĮ ir patvirtina VĮ įstatus;\n\n2) BĮ steigėjas nustato BĮ prievoles, perduodamas atitinkamai VĮ, ir jų perdavimo tvarką;\n\n3) BĮ inventorizuoja savo turtą ir inventorizavimo duomenis perduoda VĮ steigėjui;\n\n4) VĮ steigėjas su VĮ sudaro panaudos sutartį;\n\n5) VĮ įregistruojama įstatymų nustatyta tvarka.\n\n2. BĮ pertvarkymo laikotarpiu BĮ vadovų ir darbuotojų darbo santykiai tęsiasi atitinkamoje VĮ pagal Darbo sutarties įstatymo 32 straipsnio reikalavimus, išskyrus jų darbo apmokėjimo sąlygas, kurios gali būti keičiamos Darbo sutarties įstatymo 22 straipsnio nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. BĮ skolų dengimo tvarka",
+      "content": "BĮ skolos pereina VĮ, išskyrus teisėtas skolas, kurios pereina jų steigėjams. BĮ teisėtos skolos - tai skolos, kurios susidarė dėl nelaiku atlikto ir nepakankamo įstaigų finansavimo (pagal patvirtintą sąmatą) ir kurios nėra pripažintos valstybės vidaus skola."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Baigiamosios nuostatos",
+      "content": "1. Vyriausybė iki 1997 m. rugpjūčio 1 d. parengia ir patvirtina panaudos sutarties, pagal kurią valstybės ir savivaldybių institucijos (steigėjai) perduoda valstybės turtą VĮ, tipinę formą.\n\n2. Sveikatos apsaugos ministerija iki 1997 m. liepos 15 d. parengia ir patvirtina asmens sveikatos priežiūros viešųjų įstaigų pavyzdinius nuostatus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS\n______________"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Biudžetinės įstaigos (toliau",
+      "definition": "BĮ) – valstybės ir savivaldybių sveikatos priežiūros biudžetinės įstaigos, kurias reglamentuoja Biudžetinių įstaigų įstatymas ir Sveikatos priežiūros įstaigų įstatymas.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Viešosios įstaigos (toliau",
+      "definition": "VĮ) – valstybės ir savivaldybių sveikatos priežiūros viešosios įstaigos, kurias reglamentuoja Sveikatos priežiūros įstaigų įstatymas ir Viešųjų įstaigų įstatymas.",
+      "source_provision": "art2"
+    }
+  ]
+}

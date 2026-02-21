@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-ix-123",
+  "type": "statute",
+  "title": "Lietuvos Respublikos Seimo kontrolierių įstatymo 28 ir 30 straipsnių pakeitimo įstatymas",
+  "short_name": "IX-123",
+  "status": "in_force",
+  "issued_date": "2000-12-21",
+  "in_force_date": "2001-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.22BD5FF870DD/khzOYbNTRY",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 28 straipsnio 2 dalies pakeitimas",
+      "content": "28 straipsnio 2 dalyje vietoj žodžio „valdininkai“ įrašyti žodžius „valstybės tarnautojai“ ir šią dalį išdėstyti taip:\n\n„2. Seimo kontrolierių padėjėjai yra valstybės tarnautojai. Tirdami skundą Seimo kontrolieriaus pavedimu, jie turi šio straipsnio 1 dalies 1–4 punktuose išvardytas teises, išskyrus teisę pasitelkti policijos pareigūnus.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 30 straipsnio 3 dalies pakeitimas",
+      "content": "Pakeisti 30 straipsnio 3 dalį ir ją dalį išdėstyti taip:\n\n„3. Atleidus Seimo kontrolierių iš pareigų, išskyrus, kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": []
+}

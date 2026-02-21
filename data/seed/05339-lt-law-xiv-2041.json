@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-2041",
+  "type": "statute",
+  "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-1 straipsnių pakeitimo įstatymas",
+  "short_name": "XIV-2041",
+  "status": "in_force",
+  "issued_date": "2023-06-08",
+  "in_force_date": "2023-06-23",
+  "url": "https://e-tar.lt/portal/lt/legalAct/d2fbb71010b911ee9f7ec2ffce8b47bc/uEuUahfRmb",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 27 straipsnio pakeitimas",
+      "content": "Pakeisti 27 straipsnio 33 dalį ir ją išdėstyti taip:\n\n„33. Jeigu išdavus statybą leidžiantį dokumentą keičiasi esminiai statinio projekto sprendiniai, norint tęsti statybą, šio įstatymo 37 straipsnyje nustatyta tvarka apie numatomą statinių projektavimą (kai jis privalomas) turi būti informuojama visuomenė ir šiame straipsnyje nustatyta tvarka reikia gauti naują statybą leidžiantį dokumentą (kai jis privalomas), išskyrus atvejus, kai nepažeidžiant teisės aktų, normatyvinių statybos techninių dokumentų, teritorijų planavimo dokumentų, statybą leidžiančių dokumentų, specialiųjų reikalavimų, esminių statinio architektūros reikalavimų ir esminių statinio reikalavimų:\n\n1) dėl objektyvių priežasčių keičiama inžinerinių tinklų ar susisiekimo komunikacijų trasa ar jos dalis ir dėl to keičiasi inžinerinių tinklų ar susisiekimo komunikacijų ilgis;\n\n2) iki 1 m keičiama statinio vieta žemės sklype (teritorijoje);\n\n3) iki 1 m keičiami (didinami ar mažinami) pastato ar turinčio stogą inžinerinio statinio ar jo dalių išorės matmenys;\n\n4) iki 1 m didinami ar neribotai mažinami neturinčio stogo inžinerinio statinio ar jo dalių išorės matmenys;\n\n5) keičiamos statinio laikančiosios konstrukcijos ar jų išdėstymas statinio viduje ir nesikeičia statinio kategorija.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 271 straipsnio pakeitimas",
+      "content": "Pakeisti 271 straipsnio 8 dalies 1 punktą ir jį išdėstyti taip:\n\n„1) elektrinių (didesnės kaip 100 kW įrengtosios galios) ir katilinių;“."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo taikymas",
+      "content": "Iki šio įstatymo įsigaliojimo dienos pateikti naujai statomų ar rekonstruojamų iki 100 kW įrengtosios galios elektrinių projektai nagrinėjami taikant jų pateikimo metu galiojusių teisės aktų nuostatas.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda\n\npart_de53d31ffadd4adc953cfb536e677c76_end"
+    }
+  ],
+  "definitions": []
+}

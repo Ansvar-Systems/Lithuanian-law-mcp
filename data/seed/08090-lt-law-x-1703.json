@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-x-1703",
+  "type": "statute",
+  "title": "Lietuvos Respublikos komercinio arbitražo įstatymo IX skyriaus pripažinimo netekusiu galios įstatymas",
+  "short_name": "X-1703",
+  "status": "in_force",
+  "issued_date": "2008-07-15",
+  "in_force_date": "2008-07-31",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.4BB431B98943/bPCEJtbqOh",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. IX skyriaus pripažinimas netekusiu galios",
+      "content": "IX skyrių pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Baigiamosios nuostatos",
+      "content": "Iki šio įstatymo įsigaliojimo pradėtos ikiarbitražinio tarpininkavimo procedūros baigiamos pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": []
+}

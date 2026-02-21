@@ -1,0 +1,43 @@
+{
+  "id": "lt-law-xiii-2861",
+  "type": "statute",
+  "title": "Lietuvos Respublikos naujojo koronaviruso (COVID-19) sukeltų pasekmių poveikio Lietuvos Respublikos juridinių asmenų nemokumo įstatymo taikymui įstatymas",
+  "short_name": "XIII-2861",
+  "status": "in_force",
+  "issued_date": "2020-04-21",
+  "in_force_date": "2020-04-25",
+  "url": "https://e-tar.lt/portal/lt/legalAct/745bd8f0863011eab005936df725feed",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis ir sąvokos",
+      "content": "1. Šis įstatymas taikomas juridiniams asmenims, susidūrusiems su finansiniais sunkumais ir (ar) tapusiems nemokiais dėl naujojo koronaviruso (COVID-19) plitimo pasaulyje po 2020 m. kovo 16 d. Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbto karantino (toliau – karantinas).\n\n2. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos juridinių asmenų nemokumo įstatyme."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Juridinio asmens bankroto proceso inicijavimas",
+      "content": "1. Juridinio asmens vadovui inicijavus nemokumo procesą, susitarimo dėl pagalbos finansiniams sunkumams įveikti sudarymo termino, nustatyto Juridinių asmenų nemokumo įstatymo 8 straipsnio 3 dalyje, skaičiavimas sustabdomas ir juridinio asmens vadovo pareiga kreiptis į teismą dėl restruktūrizavimo ar bankroto bylos iškėlimo arba inicijuoti bankroto procesą ne teismo tvarka netaikoma karantino laikotarpiu ir 3 mėnesius nuo jo atšaukimo.\n\n2. Kreditoriui, inicijavusiam juridinio asmens nemokumo procesą, susitarimo dėl pagalbos finansiniams sunkumams įveikti sudarymo termino, nustatyto Juridinių asmenų nemokumo įstatymo 9 straipsnio 3 dalyje, skaičiavimas sustabdomas karantino laikotarpiu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Juridinio asmens restruktūrizavimo bylos nutraukimas",
+      "content": "Juridinių asmenų nemokumo įstatymo 114 straipsnio 2 dalyje nustatytas 3 mėnesių termino skaičiavimas sustabdomas karantino laikotarpiu ir 3 mėnesius nuo jo atšaukimo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Sandorių pripažinimas negaliojančiais",
+      "content": "Sandoriams, sudarytiems pasinaudojus dėl naujojo koronaviruso (COVID-19) nustatytomis valstybės finansinėmis priemonėmis, mutatis mutandis taikoma Juridinių asmenų nemokumo įstatymo 64 straipsnio 3 dalis."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Įstatymo įgyvendinimas",
+      "content": "Lietuvos Respublikos Vyriausybė, įvertinusi ekonominę situaciją, rinkos balanso atsikūrimą ir jo trukmę, taip pat šių procesų įtaką juridinių asmenų mokumui, turi teisę pratęsti šio įstatymo 2 straipsnio 1 dalyje ir 3 straipsnyje nurodytus terminus, bet ne ilgiau kaip iki 2020 m. gruodžio 31 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

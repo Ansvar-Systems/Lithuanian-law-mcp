@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiii-2415",
+  "type": "statute",
+  "title": "Lietuvos Respublikos darbo kodekso 123 straipsnio pakeitimo įstatymas",
+  "short_name": "XIII-2415",
+  "status": "in_force",
+  "issued_date": "2019-08-20",
+  "in_force_date": "2020-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/7827a130cae711e9929af1b9eea48566/eLMLTSUySo",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 123 straipsnio pakeitimas",
+      "content": "1. Papildyti 123 straipsnio 1 dalį nauju 12 punktu:\n\n„12) lapkričio 2-ąją – Mirusiųjų atminimo (Vėlinių) dieną;“.\n\n2. Buvusius 123 straipsnio 1 dalies 12 ir 13 punktus laikyti atitinkamai 13 ir 14 punktais."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2020 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

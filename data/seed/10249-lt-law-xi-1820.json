@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xi-1820",
+  "type": "statute",
+  "title": "Lietuvos Respublikos visuomenės informavimo įstatymo 28 straipsnio pakeitimo ir 27-1 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XI-1820",
+  "status": "in_force",
+  "issued_date": "2011-12-20",
+  "in_force_date": "2012-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.B3D3E82B891C",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 271 straipsnio pripažinimas netekusiu galios",
+      "content": "271 straipsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 28 straipsnio 5 dalies pripažinimas netekusia galios",
+      "content": "28 straipsnio 5 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2012 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

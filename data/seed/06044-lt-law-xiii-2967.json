@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiii-2967",
+  "type": "statute",
+  "title": "Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 7 ir 8 straipsnių pakeitimo įstatymas",
+  "short_name": "XIII-2967",
+  "status": "in_force",
+  "issued_date": "2020-05-21",
+  "in_force_date": "2020-06-15",
+  "url": "https://e-tar.lt/portal/lt/legalAct/edc4e5d0a0aa11ea9515f752ff221ec9/LosBEasaaA",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 7 straipsnio pakeitimas",
+      "content": "Pakeisti 7 straipsnio 9 dalį ir ją išdėstyti taip:\n\n„9. Apie priimtą sprendimą dėl licencijos išdavimo paskelbiama priežiūros institucijos interneto svetainėje.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 8 straipsnio pakeitimas",
+      "content": "Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:\n\n„2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama kredito unijai ir paskelbiama priežiūros institucijos interneto svetainėje.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2020 m. birželio 15 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

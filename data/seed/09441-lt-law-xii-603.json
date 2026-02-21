@@ -1,0 +1,73 @@
+{
+  "id": "lt-law-xii-603",
+  "type": "statute",
+  "title": "Lietuvos Respublikos administracinių nusižengimų registro įstatymas",
+  "short_name": "XII-603",
+  "status": "in_force",
+  "issued_date": "2013-11-19",
+  "in_force_date": "2015-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.8DAC23BAB910/omZuzNTAAR",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis įstatymas nustato Administracinių nusižengimų registro (toliau – Registras) sukūrimą, Registro objektus ir jų registravimą, Registro valdytoją ir Registro tvarkytojų skyrimą, Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymo, teikimo, perdavimo ir skelbimo pagrindus, Registro finansavimą, reorganizavimą ir likvidavimą.\n\nStraipsnio pakeitimai:\nNr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Registro sukūrimas",
+      "content": "1. Registras sukuriamas reorganizuojant Administracinių teisės pažeidimų ir eismo įvykių žinybinį registrą, jį pertvarkant į valstybės registrą.\n\n2. Registro nuostatus tvirtina ir Registro veiklos pradžią nustato Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), priimdama nutarimą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Registro objektai ir jų registravimas",
+      "content": "1. Registro objektai yra:\n\n1) Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka užfiksuoti administraciniai nusižengimai;\n\n2) Lietuvos Respublikos įstatymų ir Europos Sąjungos teisės aktų (toliau – specialieji teisės aktai) nustatyta tvarka užfiksuoti ūkio subjektų padaryti teisės pažeidimai, už kuriuos priežiūros institucijos skiria ūkio subjektams specialiuosiuose teisės aktuose nustatytas poveikio priemones.\n\n2. Registro objektai registruojami Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme ir Registro nuostatuose nustatyta tvarka.\n\n3. Registro objektai Registre registruojami neatlygintinai.\n\nStraipsnio pakeitimai:\nNr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Teikėjai",
+      "content": "1. Subjektai, Registro nuostatuose nustatyta tvarka teikiantys Registro tvarkytojams teisės aktuose nustatytus duomenis, informaciją, dokumentus ir (arba) jų kopijas (toliau – Teikėjai), nurodomi Registro nuostatuose.\n\n2. Teikėjų teises ir pareigas reglamentuoja šis įstatymas, Valstybės informacinių išteklių valdymo įstatymas, kiti įstatymai ir Registro nuostatai.\n\n3. Teikėjai privalo užtikrinti, kad jų teikiami duomenys, informacija, dokumentai ir (arba) jų kopijos būtų tinkamai surašyti, pateikti laiku ir atitiktų susijusio registro duomenis."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Registro valdytojas ir Registro tvarkytojų skyrimas",
+      "content": "1. Registro valdytoja yra Lietuvos Respublikos vidaus reikalų ministerija.\n\n2. Registro tvarkytojais skiriami:\n\n1) juridiniai asmenys, kurių pareigūnai Administracinių nusižengimų kodekso nustatyta tvarka turi teisę pradėti administracinių nusižengimų teiseną, atlikti administracinių nusižengimų tyrimą, surašyti administracinių nusižengimų protokolus ir (ar) kurių pareigūnai turi teisę ne teismo tvarka nagrinėti administracinių nusižengimų bylas;\n\n2) juridiniai asmenys, kurių vadovai, jų įgalioti asmenys ir (ar) pareigūnai arba kurie patys kaip kolegialios institucijos specialiųjų teisės aktų nustatyta tvarka nagrinėja bylas dėl ūkio subjektų padarytų teisės pažeidimų ir skiria poveikio priemones.\n\nPapildyta straipsnio dalimi:\nNr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295\nStraipsnio dalies pakeitimai:\nNr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998\n\n3. Registro tvarkytojai paskiriami Vyriausybės priimtu teisės aktu, kuriuo tvirtinami Registro nuostatai.\nStraipsnio dalies numeracijos pakeitimas:\nNr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas",
+      "content": "Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos tvarkomi vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), Administracinių nusižengimų kodeksu, specialiaisiais teisės aktais, Lietuvos Respublikos administracinių bylų teisenos įstatymu, Lietuvos Respublikos civilinio proceso kodeksu, Lietuvos Respublikos mokesčių administravimo įstatymu, Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.\n\nStraipsnio pakeitimai:\nNr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295\nNr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų teikimas, perdavimas ir skelbimas",
+      "content": "1. Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos viešai neskelbiami, išskyrus šio straipsnio 4 dalyje nustatytą išimtį.\n\n2. Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos Registro nuostatuose nustatyta tvarka neatlygintinai teikiami arba perduodami Valstybės informacinių išteklių valdymo įstatymo 29 straipsnio 3 dalyje nurodytiems Registro duomenų gavėjams.\n\n3. Kitiems šio straipsnio 2 dalyje nenurodytiems Registro duomenų gavėjams, turintiems Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytą teisę šiuos Registro duomenis, Registro informaciją, Registrui pateiktus dokumentus ir (arba) jų kopijas gauti jų funkcijoms atlikti, Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos, išskyrus Registro nuostatuose nustatytas išimtis, teikiami už atlyginimą, kurio dydį nustato Vyriausybė. Fiziniams asmenims ar ūkio subjektams, kai Registre tvarkomi duomenys apie šiuos asmenis ar ūkio subjektus, Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos, patvirtinti Registro tvarkytojo atsakingo asmens parašu, daugiau negu kartą per kalendorinius metus, išskyrus Registro nuostatuose nustatytas išimtis, teikiami už atlyginimą, kurio dydį nustato Vyriausybė.\n\n4. Viešai gali būti skelbiami statistiniai Registro duomenys.\n\nStraipsnio pakeitimai:\nNr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Registro finansavimas",
+      "content": "Registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto (įskaitant Europos Sąjungos lėšas), taip pat lėšų, gautų už Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų teikimą, ir kitų Registro nuostatuose nustatytų finansavimo šaltinių."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 straipsnis. Registro reorganizavimas ir likvidavimas",
+      "content": "Registras reorganizuojamas ir likviduojamas Valstybės informacinių išteklių valdymo įstatymo ir kitų teisės aktų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. liepos 1 d.\nStraipsnio dalies pakeitimai:\nNr. XII-1512, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21278\n\n2. Vyriausybė ir (arba) jos įgaliota institucija iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-631",
+  "type": "statute",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymo Nr. XIII-2900 22 straipsnio pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XIV-631",
+  "status": "in_force",
+  "issued_date": "2021-11-11",
+  "in_force_date": "2022-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/014e96f04dc011ec862fdcbc8b3e3e05/yxaSfaPQtR",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 11 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 11 straipsnį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 22 straipsnio pakeitimas",
+      "content": "Pripažinti netekusia galios 22 straipsnio 4 dalį."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2022 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

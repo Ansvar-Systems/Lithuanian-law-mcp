@@ -1,0 +1,48 @@
+{
+  "id": "lt-law-xiv-526",
+  "type": "statute",
+  "title": "Lietuvos Respublikos vidaus vandenų transporto kodekso 2, 3 ir 6 straipsnių pakeitimo įstatymas",
+  "short_name": "XIV-526",
+  "status": "in_force",
+  "issued_date": "2021-09-16",
+  "in_force_date": "2021-09-18",
+  "url": "https://e-tar.lt/portal/lt/legalAct/a5fba50017b311ec9f09e7df20500045/wLQgQteOrT",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 2 straipsnio pakeitimas",
+      "content": "Pakeisti 2 straipsnį ir jį išdėstyti taip:\n\n„2 straipsnis. Pagrindinės šio įstatymo sąvokos\n\n1. Vidaus vandenų transportas – sudėtinė Lietuvos Respublikos ūkio ir socialinės infrastruktūros dalis, skirta laivybai, žmonėms, bagažui ir (arba) kroviniams vežti vidaus vandenimis.\n\n2. Vidaus vandenų transporto infrastruktūra – transporto infrastruktūros dalis, kurią sudaro vidaus vandenų keliai, apsauginės dambos, bunos, laivų šliuzai.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 3 straipsnio pakeitimas",
+      "content": "Pakeisti 3 straipsnį ir jį išdėstyti taip:\n\n„3 straipsnis. Vidaus vandenų transporto objektų nuosavybė\n\n1. Vidaus vandenų transporto infrastruktūra ir vidaus vandenų transporto priemonės nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir užsienio fiziniams bei juridiniams asmenims, kitoms organizacijoms ar jų padaliniams, užsienio valstybėms.\n\n2. Valstybinės reikšmės vidaus vandenų keliai nuosavybės teise priklauso tik Lietuvos valstybei.\n\n3. Valstybinės reikšmės vidaus vandenų transporto infrastruktūra, išskyrus valstybinės reikšmės vidaus vandenų kelius, gali priklausyti valstybei, uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybei (toliau – valstybės valdoma bendrovė), arba uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybės valdomai bendrovei.\n\n4. Vietinės reikšmės vidaus vandenų transporto infrastruktūra nuosavybės teise priklauso savivaldybėms.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 6 straipsnio pakeitimas",
+      "content": "Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:\n\n„4. Vyriausybė skiria valstybinės reikšmės vidaus vandenų kelių valdytoją, kuris tvarko, prižiūri ir eksploatuoja valstybinės reikšmės vidaus vandenų kelius.“"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Įstatymo taikymas",
+      "content": "Lietuvos Respublikos Vyriausybei priimant sprendimą dėl akcinės bendrovės Vidaus vandens kelių direkcijos įstatinio kapitalo formavimo, valstybei nuosavybės teise priklausantis ir valstybės įmonės Vidaus vandens kelių direkcijos patikėjimo teise valdomas ilgalaikis materialusis, nematerialusis, trumpalaikis materialusis ir finansinis turtas (išskyrus žemę ir turtą, kuris pagal šį įstatymą yra išimtinė Lietuvos Respublikos nuosavybė) Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka investuojamas sudarant akcinės bendrovės Vidaus vandens kelių direkcijos įstatinį kapitalą.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                            Gitanas Nausėda"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vidaus vandenų transportas",
+      "definition": "sudėtinė Lietuvos Respublikos ūkio ir socialinės infrastruktūros dalis, skirta laivybai, žmonėms, bagažui ir (arba) kroviniams vežti vidaus vandenimis.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "Vidaus vandenų transporto infrastruktūra",
+      "definition": "transporto infrastruktūros dalis, kurią sudaro vidaus vandenų keliai, apsauginės dambos, bunos, laivų šliuzai.“",
+      "source_provision": "art1"
+    }
+  ]
+}

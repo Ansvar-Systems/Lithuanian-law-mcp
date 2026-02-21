@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xii-1563",
+  "type": "statute",
+  "title": "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 26 ir 72 straipsnių pakeitimo įstatymas",
+  "short_name": "XII-1563",
+  "status": "in_force",
+  "issued_date": "2015-03-26",
+  "in_force_date": "2015-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/f50d5160ddb411e48b678a6bad30f55f/NMuwbVEmSK",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 26 straipsnio pakeitimas",
+      "content": "Pripažinti netekusia galios 26 straipsnio 5 dalį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 72 straipsnio pakeitimas",
+      "content": "Pripažinti netekusia galios 72 straipsnio 6 dalį."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2015 m. liepos 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

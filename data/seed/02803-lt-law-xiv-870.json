@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-870",
+  "type": "statute",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 573 ir 589 straipsnių pakeitimo įstatymas",
+  "short_name": "XIV-870",
+  "status": "in_force",
+  "issued_date": "2021-12-23",
+  "in_force_date": "2022-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/6d9f4750658a11eca9ac839120d251c4/mEMrgktxOF",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 573 straipsnio pakeitimas",
+      "content": "Pakeisti 573 straipsnio 2 dalį ir ją išdėstyti taip:\n\n„2. Teismas šaukimus ir kitus procesinius dokumentus administracinio nusižengimo teisenoje dalyvaujantiems asmenims siunčia elektroninių ryšių priemonėmis teisingumo ministro nustatyta tvarka ir forma arba registruotąja pašto siunta. Registruotosios pašto siuntos įteikimui taikomos šio straipsnio 1 dalies nuostatos. Institucijai, kurios pareigūnas atliko administracinio nusižengimo tyrimą, kitiems viešojo administravimo subjektams, advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, Lietuvos Respublikos Seimo kontrolieriams, žvalgybos kontrolieriams, lygių galimybių kontrolieriui, vaiko teisių apsaugos kontrolieriui, valstybės ir savivaldybių įmonėms, finansų įstaigoms, draudimo ir audito įmonėms, teismo ekspertams, bankroto administratoriams ir restruktūrizavimo administratoriams teismas šaukimus, pranešimus, skundų, nutarimų (nutarčių) kopijas (nuorašus) ir kitus procesinius dokumentus įteikia elektroninių ryšių priemonėmis. Elektroninių ryšių priemonėmis šaukimai, pranešimai, skundų kopijos (nuorašai) ir kiti procesiniai dokumentai taip pat įteikiami asmenims, kuriems teisės aktuose ar su teismų ar administracinį nusižengimą tiriančios arba bylą nagrinėjančios institucijos informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga priimti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims teismas šaukimus, pranešimus, skundų kopijas (nuorašus) ir kitus procesinius dokumentus įteikia šio straipsnio 1 dalyje nurodytomis elektroninių ryšių priemonėmis, jeigu jie pageidauja procesinius dokumentus gauti tokiu būdu ir yra nurodę gavėjo E. pristatymo sistemos elektroninio pristatymo dėžutės adresą, elektroninio pašto adresą arba kitą elektroninių ryšių priemonių adresą.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 589 straipsnio pakeitimas",
+      "content": "Papildyti 589 straipsnį 103 punktu:\n\n„103) Lietuvos Respublikos žvalgybos kontrolierių įstaigos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2022 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

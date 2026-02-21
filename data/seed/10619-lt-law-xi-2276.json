@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xi-2276",
+  "type": "statute",
+  "title": "Lietuvos Respublikos fiskalinės drausmės įstatymo 3 ir 4 straipsnių pakeitimo įstatymas",
+  "short_name": "XI-2276",
+  "status": "in_force",
+  "issued_date": "2012-10-16",
+  "in_force_date": "2013-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.C6500D9EDDC6/tCdsbVYdrI",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 3 straipsnio 4 dalies 2 punkto pripažinimas netekusiu galios",
+      "content": "3 straipsnio 4 dalies 2 punktą pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 4 straipsnio 2 dalies pripažinimas netekusia galios",
+      "content": "4 straipsnio 2 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2013 m. liepos 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ"
+    }
+  ],
+  "definitions": []
+}

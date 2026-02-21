@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-1864",
+  "type": "statute",
+  "title": "Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 13 straipsnio pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas",
+  "short_name": "XIV-1864",
+  "status": "in_force",
+  "issued_date": "2023-03-30",
+  "in_force_date": "2024-05-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/66eeb030d37011ed9978886e85107ab2/YQzFCYgNwL",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 13 straipsnio pakeitimas",
+      "content": "1. Papildyti 13 straipsnio 4 dalį nauju 3 punktu:\n\n„3) valdant ir tiriant kibernetinius incidentus tiek, kiek tai būtina šio įstatymo 14 straipsnio 1 ir 2 dalyse nustatytoms institucijų funkcijoms atlikti;“.\n\n2. Buvusį 13 straipsnio 4 dalies 3 punktą laikyti 4 punktu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo papildymas 131 straipsniu",
+      "content": "Papildyti Įstatymą 131 straipsniu:\n\n„131 straipsnis. Duomenų apie privalomus nurodymus tvarkymas Kibernetinio saugumo informaciniame tinkle\n\n1. Kibernetinio saugumo informaciniame tinkle įstatymų nustatytais atvejais tvarkomi duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę.\n\n2. Šio straipsnio 1 dalyje nustatytus nurodymus duodančios institucijos ir juos įgyvendinantys kibernetinio saugumo subjektai privalo naudotis Kibernetinio saugumo informacinio tinklo dalimi, kurioje tvarkomi duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę, nepriklausomai nuo kibernetinio saugumo subjektų atitikties Kibernetinio saugumo informacinio tinklo nuostatuose nurodytiems reikalavimams.\n\n3. Kibernetinio saugumo informaciniame tinkle viešai skelbiami duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. gegužės 1 d.\n\n2. Krašto apsaugos ministras iki 2024 m. balandžio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda\n\npart_1e8256efb2274c87a9e52f9f53ac37b0_end"
+    }
+  ],
+  "definitions": []
+}

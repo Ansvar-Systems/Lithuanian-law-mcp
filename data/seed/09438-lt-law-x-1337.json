@@ -1,0 +1,571 @@
+{
+  "id": "lt-law-x-1337",
+  "type": "statute",
+  "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymas",
+  "short_name": "X-1337",
+  "status": "in_force",
+  "issued_date": "2007-11-22",
+  "in_force_date": "2008-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.8D97CD7E1857/RvVoWrpaLv",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo nauja redakcija",
+      "content": "Pakeisti Lietuvos Respublikos saugaus eismo automobilių keliais įstatymą ir jį išdėstyti taip:\n\n„LIETUVOS RESPUBLIKOS\nSAUGAUS EISMO AUTOMOBILIŲ KELIAIS\nĮSTATYMAS\n\nPIRMASIS SKIRSNIS\nBENDROSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis ir taikymas",
+      "content": "1. Šis įstatymas nustato eismo saugumo automobilių keliais Lietuvos Respublikoje teisinius pagrindus, valstybės ir savivaldybių institucijų ir įstaigų pareigas įgyvendinant saugaus eismo politiką, eismo dalyvių mokymą, pagrindines eismo dalyvių, už kelių priežiūrą atsakingų asmenų, policijos, muitinės pareigūnų ir kitų tikrinančių pareigūnų teises ir pareigas, taip pat pagrindinius su transporto priemonių technine būkle, techninės būklės tikrinimu, transporto priemonių registravimu susijusius reikalavimus, eismo saugumo reikalavimus keliams, siekiant apsaugoti eismo dalyvių ir kitų asmenų gyvybę, sveikatą ir turtą, gerinti transporto ir pėsčiųjų eismo sąlygas.\n\n2. Reikalavimus keliams, jų projektavimui, tiesimui ir priežiūrai, kelio statiniams, įrenginiams, techninėms eismo reguliavimo priemonėms ir su tuo susijusias kelių savininkų bei kitų institucijų pareigas nustato Kelių įstatymas.\n\n3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Antikvarinė motorinė transporto priemonė – prieš 50 metų ar anksčiau sukurta transporto priemonė ar jos dalys, nesvarbu, kokia jų išliekamoji kultūrinė vertė.\n\n2. Automagistralė – specialiai motorinių transporto priemonių eismui suprojektuotas ir nutiestas kelias, kuris nėra skirtas įvažiuoti į šalia esančias teritorijas arba iš jų išvažiuoti ir kuris:\n\n1) turi, išskyrus tam tikras vietas arba laikinus atvejus, atskiras dviejų krypčių važiuojamąsias kelio dalis, viena nuo kitos atskirtas transporto priemonėms važiuoti nenumatyta skiriamąja juosta arba išimtiniais atvejais kitais būdais;\n\n2) viename lygyje nekerta jokio kelio, geležinkelio bėgių arba pėsčiųjų tako;\n\n3) pažymėtas kelio ženklu „Automagistralė“.\n\n3. Automobilis – bet kokia motorinė transporto priemonė, skirta važiuoti keliu, vežti krovinius ir (ar) keleivius arba vilkti kitas transporto priemones. Prie automobilių taip pat priskiriami troleibusai, nebėginės elektrinės transporto priemonės, kurioms energija tiekiama elektros laidais. Prie automobilių nepriskiriami motociklai, lengvieji keturračiai motociklai, keturračiai motociklai, mopedai, traktoriai ir savaeigės mašinos.\n\n4. Automobilių kelias – visas viešajam eismui naudojamo kelio ar gatvės ploto paviršius.\n\n5. Bėginė transporto priemonė – geležinkelių ar kita bėgiais judanti transporto priemonė.\n\n6. Blogas matomumas – meteorologinių ar kitų reiškinių lemiamas kelio matomumas mažesniu kaip 300 m atstumu, neatsižvelgiant į kelio parametrus.\n\n7. Didžiausioji leidžiamoji masė – visiškai sukomplektuotos transporto priemonės (ar transporto priemonių junginio) su vairuotoju, keleiviais ir kroviniu masė, kurią transporto priemonės gamintojas arba Vyriausybės įgaliotos institucijos nustatė kaip didžiausią leidžiamą.\n\n8. Dviračių takas – dviračių eismui skirtas kelias arba kelio dalis, pažymėti kelio ženklu „Dviračių takas“, kuriuose motorinių transporto priemonių eismas draudžiamas. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio ženklais arba kelio inžinerinėmis priemonėmis.\n\n9. Dviratis – ne mažiau kaip du ratus turinti transporto priemonė, varoma tik ja važiuojančio asmens raumenų jėga, naudojant pedalus ar rankenas. Neįgaliųjų vežimėliai prie dviračių nepriskiriami.\n\n10. Egzaminas – Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atliekamas teisę vairuoti tam tikro tipo ir kategorijos transporto priemonę įgyti norinčio asmens teorinių žinių, praktinių transporto priemonės valdymo įgūdžių ir gebėjimų patikrinimas.\n\n11. Eismo dalyvis – kelių eisme dalyvaujantis asmuo (vairuotojas, pėsčiasis, keleivis).\n\n12. Eismo įvykis – įvykis kelyje, viešose arba privačiose teritorijose, kurio metu, judant transporto priemonei, žuvo ar buvo sužeista žmonių, sugadinta ar apgadinta bent viena transporto priemonė, krovinys, kelias, jo statiniai ar bet koks kitas įvykio vietoje buvęs turtas.\n\n13. Eismo juosta – Vyriausybės patvirtintose Kelių eismo taisyklėse (toliau – KET) nustatytomis kelių horizontaliojo ženklinimo linijomis (toliau – ženklinimo linijos) ir (arba) kelio ženklais pažymėta arba nepažymėta išilginė važiuojamosios kelio dalies juosta, kurios pločio pakanka automobiliams važiuoti viena eile.\n\n14. Eismo organizavimas – transporto priemonių ir eismo dalyvių judėjimo keliais reguliavimo teisinių ir techninių priemonių bei tvarkomųjų veiksmų kompleksas.\n\n15. Eismo saugumas – kelių eismo ypatybių visuma, rodanti, kiek eismo dalyviai yra apsaugoti nuo eismo įvykių ir jų padarinių.\n\n16. Eismo saugumo užtikrinimas – veikla, kuria siekiama užkirsti kelią eismo įvykiams, sušvelninti jų padarinius.\n\n17. Eismo tvarka – transporto priemonių, pėsčiųjų, kitų eismo dalyvių judėjimo, sustojimo ir stovėjimo tvarka keliuose, numatyta šiame ir kituose Lietuvos Respublikos įstatymuose, KET ir kituose teisės aktuose.\n\n18. Gyvenvietė – namų pristatyta teritorija, kurioje galioja papildomi kelių eismo reikalavimai ir kurios pradžioje keliai pažymėti ženklu „Gyvenvietės pradžia“, o pabaigoje – „Gyvenvietės pabaiga“.\n\n19. Greitkelis – motorinių transporto priemonių eismui skirtas ženklu „Automobilių kelias“ pažymėtas kelias, į kurį įvažiuojama tik per skirtingo lygio ar reguliuojamas sankryžas ir kurio važiuojamojoje dalyje (važiuojamosiose dalyse) draudžiama sustoti ir stovėti.\n\n20. Kelio saugumo auditas – nustatyta tvarka atliekamas išsamus techninis kelio projekto saugumo charakteristikų patikrinimas visais projekto rengimo ir įgyvendinimo etapais, pradedant nuo planavimo ir baigiant kelio priežiūros darbais, taip pat eksploatuojamo kelio būklės įvertinimas kelių eismo saugumo užtikrinimo požiūriu.\n\n21. Kelio ženklas – KET nurodytas ženklas, kuriuo nustatoma eismo tvarka, įspėjami eismo dalyviai arba jiems suteikiama informacija.\n\n22. Kelyje dirbantis asmuo – asmuo, taisantis ar prižiūrintis kelią, technines eismo reguliavimo priemones, reguliuojantis ir kontroliuojantis eismą, šalinantis nuo kelio arba aptveriantis priverstinai sustojusią transporto priemonę ar kitokią kliūtį, likviduojantis eismo įvykio ar kito nelaimingo atsitikimo padarinius, atliekantis kitus gelbėjimo darbus, teikiantis medicinos pagalbą kelyje esančiam eismo įvykyje nukentėjusiam asmeniui ar kitam asmeniui, kuriam reikalinga medicinos pagalba.\n\n23. Kelių eismo reguliuotojas (toliau – reguliuotojas) – asmuo, teisės aktų nustatyta tvarka įgaliotas reguliuoti kelių eismą, dėvintis uniformą ir turintis skiriamąjį ženklą (raištį ant rankovės, reguliuotojo lazdelę, skritulį su raudonu atšvaitu).\n\n24. Keturratis motociklas – keturratė motorinė transporto priemonė, išskyrus lengvuosius keturračius motociklus, kurios didžiausiasis konstrukcinis greitis didesnis kaip 45 km/h ir (arba) variklio darbinis cilindro tūris didesnis kaip 50 cm3, eksploatacinė masė ne didesnė kaip 400 kg, o kroviniams vežti skirtos eksploatacinė masė ne didesnė kaip 550 kg (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma transporto priemonė) ir kurios didžiausioji naudingoji galia ne didesnė kaip 15 kW.\n\n25. Lengvasis keturratis motociklas – keturratė motorinė transporto priemonė, kurios eksploatacinė masė (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma transporto priemonė) ne didesnė kaip 350 kg, didžiausiasis konstrukcinis greitis ne didesnis 45 km/h ir kurios variklio cilindro darbinis tūris ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji išėjimo galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), didžiausioji tolygioji nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui).\n\n26. Maršrutinė transporto priemonė – viešojo transporto priemonės (autobusai, troleibusai, maršrutiniai taksi), kuriomis reguliariai vežami keleiviai nustatytu maršrutu su nurodytomis sustojimo vietomis, taip pat mokykliniai autobusai.\n\n27. Mokyklinis autobusas – geltonas skiriamaisiais ženklais paženklintas autobusas, kuriuo vežami vaikai (švietimo įstaigų mokiniai) specialiu maršrutu.\n\n28. Mokinys – asmuo, kuris nustatyta tvarka mokosi vairuoti transporto priemonę.\n\n29. Mopedas – dviratė motorinė transporto priemonė, kurios didžiausiasis konstrukcinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis cilindro tūris ne didesnis kaip 50 cm3 (esant vidaus degimo varikliui), o didžiausioji tolygioji nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui), ar triratė motorinė transporto priemonė, kurios didžiausiasis konstrukcinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis cilindro turis ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji išėjimo galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), o didžiausioji tolygioji nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui).\n\n30. Motociklas – dviratė ar daugiau ratų turinti motorinė transporto priemonė (su šonine priekaba arba be jos), kurios vidaus degimo variklio cilindro (cilindrų) darbinis tūris didesnis kaip 50 cm3 ir (arba) didžiausiasis konstrukcinis greitis didesnis kaip 45 km/h. Prie motociklų taip pat priskiriamos triratės motorinės transporto priemonės, kurių masė be krovinio ne didesnė kaip 400 kg.\n\n31. Motorinė transporto priemonė – variklį turinti transporto priemonė, išskyrus skirtas judėti ne keliais bėgines transporto priemones, traktorius ir kitas savaeiges transporto priemones.\n\n32. Motorinės transporto priemonės arba priekabos registravimas – veiksmai, apimantys motorinės transporto priemonės arba priekabos tapatumo nustatymą, jų duomenų įrašymą į Kelių transporto priemonių registrą, valstybinio numerio ženklų ir transporto priemonės registravimo dokumento išdavimą.\n\n33. Papildomas vairuotojų mokymas – mokymas nustatyta tvarka, organizuojamas ir vykdomas tik praktinio mokymo centruose pradedantiesiems vairuotojams, C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojams, motorinių transporto priemonių vairuotojams, nuolat pažeidžiantiems KET reikalavimus ir už tai nubaustiems administracine tvarka, įkaitant specialiosios teisės vairuoti atėmimą.\n\n34. Pėsčiasis – asmuo, esantis kelyje ne transporto priemonėje, taip pat važiuojantis neįgaliųjų vežimėliu, riedučiais, riedlente, paspirtuku, vedantis dviratį, mopedą, motociklą, traukiantis (stumiantis) rogutes, vaikišką ar kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo.\n\n35. Pėsčiųjų perėja – važiuojamojoje dalyje esanti pėsčiųjų perėjimo per kelią vieta, pažymėta kelio ženklu „Pėsčiųjų perėja“ ir ženklinimo linijomis arba tik kelio ženklu „Pėsčiųjų perėja“. Pėsčiųjų perėjos ribas žymi ženklinimo linijos, o jeigu jų nėra, – įsivaizduojamos tiesės, einančios nuo kelio ženklų statmenai per kelią.\n\n36. Pėsčiųjų takas – pėstiesiems skirta kelio dalis arba takas, pažymėti atitinkamais kelio ženklais „Pėsčiųjų takas“ arba „Pėsčiųjų ir dviračių takas“.\n\n37. Pirminis mokymas – mokymas, per kurį įgyjama teorinių žinių, praktinių transporto priemonės valdymo įgūdžių ir gebėjimų.\n\n38. Pradedantysis vairuotojas – asmuo, įgijęs teisę vairuoti A, A1, B1, B kategorijos motorinę transporto priemonę ir turintis vairavimo stažą iki dvejų metų.\n\n39. Praktinio vairuotojų mokymo centras – įstaiga ar įmonė, kuriai Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka suteikta teisė organizuoti ir rengti papildomą motorinių transporto priemonių vairuotojų mokymą.\n\n40. Priekaba – transporto priemonė, skirta tempti motorine transporto priemone. Priekabomis laikomos ir puspriekabės.\n\n41. Privalomoji techninė apžiūra – Lietuvos Respublikoje įregistruotų transporto priemonių ir priekabų privalomas techninės būklės tikrinimas, apimantis transporto priemonės ir priekabos tapatumo nustatymą ir jų techninės būklės atitikties teisės aktų reikalavimams įvertinimą.\n\n42. Priverstinis transporto priemonės sustojimas (toliau – priverstinis sustojimas) – transporto priemonės sustabdymas (sustojimas), kai toliau važiuoti neįmanoma arba pavojinga.\n\n43. Puspriekabė – su motorine transporto priemone sukabinta priekaba taip, kad jos dalis remiasi į motorinę transporto priemonę ir dalis jos masės, taip pat krovinio masės dalis tenka motorinei transporto priemonei.\n\n44. Sankryža – kelių susikirtimo, susijungimo arba atsišakojimo viename lygyje vieta, įskaitant atvirus plotus, kuriuos sudaro minėti kelių susikirtimai, susijungimai arba atsišakojimai. Sankryžomis nelaikomos vietos, kur išvažiuojama iš kelio į esančias šalia jo teritorijas arba įvažiuojama į kelią iš esančių šalia jo teritorijų.\n\n45. Skiriamoji kelio juosta (toliau – skiriamoji juosta) – konstrukcinis kelio elementas (apželdintas veja, želdiniais arba su kelio danga, kurioje įrengti apsauginiai atitvarai), skiriantis gretimas važiuojamąsias kelio dalis ir nenumatytas transporto priemonėms važiuoti arba sustoti (stovėti).\n\n46. Specialiosios transporto priemonės – operatyvinių tarnybų ir kitos transporto priemonės su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais.\n\n47. Šaligatvis – pėstiesiems skirta kelio dalis, esanti prie važiuojamosios kelio dalies arba atskirta nuo jos.\n\n48. Taktinės ir logistinės transporto priemonės – transporto priemonės, skirtos karinėms operacijoms, joms pasirengti ir kitoms kariuomenės funkcijoms atlikti.\n\n49. Tamsusis paros metas – laiko tarpas nuo saulėlydžio iki saulėtekio.\n\n50. Techninės apžiūros kontrolierius – asmuo, atliekantis viešojo administravimo funkcijas ir atitinkantis nustatytus reikalavimus, dirbantis techninės apžiūros įmonėje ir turintis nustatyta tvarka išduotą pažymėjimą, kuriuo suteikiama teisė atlikti privalomąją techninę apžiūrą ir priimti sprendimus dėl dokumentų, kuriais patvirtinamas privalomosios techninės apžiūros atlikimas, išdavimo.\n\n51. Tikrinantys pareigūnai – uniformuoti valstybės institucijų (policijos, muitinės, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, aplinkos apsaugos valstybinės kontrolės) įgalioti pareigūnai, kuriems Lietuvos Respublikos įstatymų nustatyta tvarka suteikta teisė stabdyti transporto priemones.\n\n52. Traktorius – ratinė arba vikšrinė ne mažiau kaip dviejų ašių transporto priemonė, kurios didžiausiasis projektinis greitis yra ne mažesnis kaip 6 km/h, o pagrindinė paskirtis – traukti, vilkti, stumti, vežti žemės ir miškų ūkio techniką arba vilkti priekabas, kuri taip pat gali būti pritaikyta kroviniams vežti ir turėti keleivių sėdynių.\n\n53. Transporto priemonė – priemonė žmonėms ir (arba) kroviniams, taip pat ant jos sumontuotai stacionariai įrangai vežti. Ši sąvoka taip pat apima traktorius, savaeiges mašinas ir eismui ne keliais skirtas transporto priemones.\n\n54. Transporto priemonės ir priekabos atitikties įvertinimas – veikla, kuria tiesiogiai ar netiesiogiai nustatoma, kiek transporto priemonė ir jos dalys atitinka nustatytus reikalavimus.\n\n55. Transporto priemonės masė be krovinio (toliau – masė be krovinio) – transporto priemonės masė be vairuotojo, keleivių ir krovinio, tačiau su visa degalų atsarga ir įrankių komplektu.\n\n56. Transporto priemonės masė su kroviniu (toliau – masė su kroviniu) – faktinė transporto priemonės masė su vairuotoju, keleiviais ir kroviniu.\n\n57. Transporto priemonės savininkas – asmuo, kuriam nuosavybės teise priklauso transporto priemonė.\n\n58. Transporto priemonės stovėjimas (toliau – stovėjimas) – iš anksto numatytas transporto priemonės sustabdymas ilgesniam laikui, negu reikia keleiviams laipinti arba transporto priemonei krauti.\n\n59. Transporto priemonės sustojimas (toliau – sustojimas) – iš anksto numatytas transporto priemonės sustabdymas ne ilgesniam laikui, negu reikia keleiviams laipinti arba transporto priemonei krauti.\n\n60. Transporto priemonės vairavimas – asmens, esančio transporto priemonėje ar ant jos, veiksmai, kuriais valdoma judanti transporto priemonė.\n\n61. Transporto priemonės valdytojas – asmuo, nuosavybės, patikėjimo, nuomos, panaudos ar kitokiu teisėtu pagrindu valdantis ir naudojantis transporto priemonę.\n\n62. Transporto priemonių junginys – sujungtos kelios transporto priemonės, kurios kelių eisme dalyvauja kaip vienetas.\n\n63. Vairavimo instruktorius – asmuo, kuriam šio įstatymo ir kitų teisės aktų nustatyta tvarka suteikta teisė mokyti kitus asmenis vairuoti transporto priemones.\n\n64. Vairuotojas – asmuo, vairuojantis transporto priemonę. Vairuotojams gali būti prilyginami asmenys, dalyvaujantys eisme pagal šiame įstatyme apibrėžtus papildomus reikalavimus (vadeliotojai, raiteliai, asmenys, varantys keliu gyvulius ar paukščius), taip pat asmenys, kurie moko vairuoti.\n\n65. Vairuotojo pažymėjimas – teisės aktų nustatyta tvarka išduotas dokumentas, kuriuo patvirtinama asmens teisė vairuoti tam tikros kategorijos motorinę transporto priemonę (priemones) ir nurodomos vairavimo sąlygos.\n\n66. Važiuojamoji kelio dalis – kelio dalis transporto priemonėms važiuoti.\n\n67. Viešasis eismas – procesas, atsirandantis judant žmonėms ir kroviniams keliais transporto priemonėmis arba be jų kelių ribose."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Eismo tvarka",
+      "content": "1. Lietuvos Respublikoje eismas keliais vyksta dešine kelio puse.\n\n2. Eismo tvarką Lietuvos Respublikos teritorijoje nustato KET, kurias tvirtina Vyriausybė.\n\n3. Eismą keliuose Lietuvos Respublikoje gali riboti tik KET numatyti kelio ženklai, ženklinimo linijos, šviesoforai ir reguliuotojo signalai. Jeigu kelio ženklo ir ženklinimo linijų reikalavimai skiriasi, vadovaujamasi kelio ženklo reikalavimais."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Eismo saugumo užtikrinimo principai",
+      "content": "Eismo saugumo užtikrinimo principai yra:\n\n1) valstybės pareiga – sudaryti saugias ir vienodas visiems eismo dalyviams dalyvavimo eisme sąlygas, eismo dalyvių pareiga – žinoti ir laikytis valstybės nustatytos eismo tvarkos;\n\n2) eismo dalyvių sveikatos ir gyvybės užtikrinimas svarbiau negu ūkinės veiklos ekonominiai rezultatai;\n\n3) asmens, visuomenės ir valstybės interesų įvertinimas ir derinimas užtikrinant saugų eismą."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Eismo saugumo užtikrinimo teisinis reglamentavimas",
+      "content": "Eismo saugumo užtikrinimą reglamentuoja šis įstatymas, kiti Lietuvos Respublikos teisės aktai, tarptautinės sutartys ir Europos Sąjungos teisės aktai."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Pagrindinės eismo saugumo užtikrinimo kryptys",
+      "content": "Eismo saugumas užtikrinamas:\n\n1) nustatant Vyriausybės, jos įgaliotų institucijų, savivaldybių įgaliojimus eismo saugumo užtikrinimo srityje;\n\n2) reguliuojant ir kontroliuojant juridinių ir fizinių asmenų veiklą eismo saugumo užtikrinimo srityje;\n\n3) priimant eismo saugumo užtikrinimą reglamentuojančius teisės aktus;\n\n4) eismo dalyvius bei specialistus šviečiant ir mokant;\n\n5) sprendžiant klausimus, susijusius su mokslo ir technikos naujovių diegimu transporto srityje;\n\n6) materialiai ir finansiškai užtikrinant priemonių įgyvendinimą eismo saugumo srityje;\n\n7) vykdant socialiai orientuotą civilinės atsakomybės privalomojo draudimo politiką transporto srityje;\n\n8) vykdant valstybinę įstatymų ir kitų eismo saugumo užtikrinimą reguliuojančių teisės aktų vykdymo priežiūrą ir kontrolę;\n\n9) skatinant aplinką tausojančių transporto priemonių įsigijimą ir naudojimą.\n\nANTRASIS SKIRSNIS\nSAUGAUS EISMO UŽTIKRINIMO VALDYMAS"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Valstybinė eismo saugumo užtikrinimo politika",
+      "content": "1. Valstybinę eismo saugumo užtikrinimo politiką formuoja ir Valstybinę eismo saugumo programą tvirtina Seimas.\n\n2. Seimo patvirtintą Valstybinę eismo saugumo programą įgyvendina Vyriausybė, patvirtindama Valstybinės eismo saugumo programos įgyvendinimo priemonių planą."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Valstybinės eismo saugumo programos vykdymo finansavimas",
+      "content": "1. Valstybinė eismo saugumo programa finansuojama valstybės ir savivaldybių biudžetų lėšomis.\n\n2. Valstybinei eismo saugumo programai finansuoti gali būti naudojamos ir kitos teisėtai gautos lėšos."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 straipsnis. Valstybinė eismo saugumo komisija",
+      "content": "1. Valstybinės eismo saugumo užtikrinimo politikos įgyvendinimą kontroliuoja nuolatinė Valstybinė eismo saugumo komisija (toliau – Komisija).\n\n2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Vyriausybės patvirtintais Komisijos veiklos nuostatais ir kitais teisės aktais.\n\n3. Komisiją sudaro Ministras Pirmininkas, susisiekimo ministras, vidaus reikalų ministras, Finansų ministerijos atstovas, Sveikatos apsaugos ministerijos atstovas, Švietimo ir mokslo ministerijos atstovas bei Lietuvos savivaldybių asociacijos prezidentas. Komisijos pirmininkas yra Ministras Pirmininkas.\n\n4. Komisija:\n\n1) teikia Respublikos Prezidentui, Seimui, Vyriausybei, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms siūlymus šio įstatymo įgyvendinimo klausimais;\n\n2) teikia valstybės ir savivaldybių institucijoms ir įstaigoms išvadas dėl teisės aktų atitikties eismo saugumo reikalavimams;\n\n3) rengia Valstybinės eismo saugumo programos projektą ir jį teikia Vyriausybei;\n\n4) svarsto eismo saugumo užtikrinimo klausimus ir priima dėl jų sprendimus.\n\n5. Komisijos pirmininkas ne rečiau kaip kartą per eilinę Seimo sesiją atsiskaito Seimui už Komisijos darbą.\n\n6. Komisija Vyriausybės nustatyta tvarka sudaro Eismo saugumo tarybą, konsultuojančią Komisiją eismo saugumo klausimais."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "10 straipsnis. Eismo saugumo užtikrinimas",
+      "content": "1. Užtikrindama eismo saugumą, Susisiekimo ministerija ar jos įgaliotos institucijos:\n\n1) tvirtina techninius motorinių transporto priemonių ir jų priekabų reikalavimus, motorinių transporto priemonių ir jų priekabų gamybos ir perdirbimo reikalavimus, normatyvinius statybos techninius dokumentus, nustatančius kelių rekonstrukcijos, kelių projektavimo, kelių saugumo audito reikalavimus;\n\n2) suderinusi su Vidaus reikalų ministerija, nustato tvarką ir atvejus, kada taisomuose kelių (gatvių) ruožuose keliuose dirbantys asmenys gali reguliuoti eismą;\n\n3) nustato keleivių vežimo reguliariais reisais nustatytais maršrutais leidimo išdavimo tvarką;\n\n4) nustato motorinių transporto priemonių ir jų priekabų privalomos techninės apžiūros atlikimo tvarką;\n\n5) nustato reikalavimus įmonėms, atliekančioms motorinių transporto priemonių ir jų priekabų privalomą techninę apžiūrą;\n\n6) nustato kvalifikacijos reikalavimus įmonių, atliekančių motorinių transporto priemonių ir jų priekabų privalomą techninę apžiūrą, darbuotojams;\n\n7) išduoda leidimus atlikti motorinių transporto priemonių ir jų priekabų privalomą techninę apžiūrą teisės aktų reikalavimus atitinkančioms įmonėms;\n\n8) organizuoja eismo dalyvių švietimą eismo saugumo srityje;\n\n9) nustato vairuotojų pirminio mokymo tvarką;\n\n10) nustato pradedančiųjų vairuotojų papildomo mokymo tvarką;\n\n11) nustato C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojų papildomo mokymo tvarką (jei šie mokymai susiję su pirminiu profesiniu, tęstiniu profesiniu ar neformaliuoju suaugusiųjų švietimu, tvarka turi būti suderinta su Švietimo ir mokslo ministerija);\n\n12) nustato motorinių transporto priemonių vairuotojų, nuolat pažeidžiančių KET reikalavimus ir už tai nubaustų administracine tvarka, įskaitant vairavimo teisės atėmimą, papildomo mokymo tvarką;\n\n13) nustato šeimos narių, siekiančių įgyti teisę vairuoti B1 ar B kategorijų transporto priemones, mokymo tvarką;\n\n14) nustato reikalavimus vairavimo instruktoriams ir mokymo įstaigoms bei teritorijoms, kuriose bus mokoma pradėti vairuoti motorinę transporto priemonę;\n\n15) organizuoja motorinių transporto priemonių ir jų priekabų techninės būklės, vairuotojų vairavimo ir poilsio režimo kontrolę;\n\n16) tvirtina motorinių transporto priemonių ir jų priekabų kategorijas ir klases pagal konstrukciją;\n\n17) suderinusi su Vidaus reikalų ministerija, nustato motorinių transporto priemonių, priekabų, sugadintų eismo ar kitokio įvykio metu, kai jos negali judėti sava eiga, uždraudimo dalyvauti viešajame eisme tvarką, taip pat tokio draudimo panaikinimo tvarką;\n\n18) nustato motorinės transporto priemonės, priekabos, kurioms uždrausta dalyvauti viešajame eisme, remonto ir techninės ekspertizės reikalavimus ir atlikimo tvarką;\n\n19) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.\n\n2. Užtikrindama eismo saugumą, Socialinės apsaugos ir darbo ministerija ar jos įgaliotos institucijos nustato skiriamojo ženklo „Neįgalusis“ išdavimo tvarką.\n\n3. Užtikrindama eismo saugumą, Sveikatos apsaugos ministerija ar jos įgaliotos institucijos:\n\n1) nustato vairuotojų sveikatos ir psichofiziologinių gebėjimų tikrinimo reikalavimus ir tvarką;\n\n2) nustato eismo dalyvių mokymo teikti pirmąją pagalbą tvarką;\n\n3) nustato sveikatos sutrikimus, dėl kurių ribojama teisė arba draudžiama vairuoti tam tikros kategorijos motorines transporto priemones;\n\n4) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.\n\n4. Užtikrindama eismo saugumą, Švietimo ir mokslo ministerija ar jos įgaliotos institucijos:\n\n1) organizuoja ir koordinuoja privalomąjį eismo saugumo pagrindų mokymą ikimokyklinio ugdymo, bendrojo lavinimo ir neformaliojo suaugusiųjų švietimo įstaigose;\n\n2) organizuoja mokinių mokymą, suteikiant jiems saugaus važiavimo dviračiais įgūdžius;\n\n3) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.\n\n5. Užtikrindama eismo saugumą, Vidaus reikalų ministerija ar jos įgaliotos institucijos:\n\n1) suderinusi su Susisiekimo ministerija, nustato motorinių transporto priemonių vairuotojų egzaminavimo sąlygas ir tvarką;\n\n2) kaupia duomenis apie išduotus motorinių transporto priemonių vairuotojų pažymėjimus;\n\n3) nustato motorinių transporto priemonių ir jų priekabų registravimo ir apskaitos tvarką;\n\n4) organizuoja motorinių transporto priemonių ir jų priekabų registravimą ir apskaitą;\n\n5) suderinusi su Susisiekimo ministerija, nustato motorinės transporto priemonės vairuotojo pažymėjimo išdavimo, atėmimo ir grąžinimo tvarką;\n\n6) nustato leidimo trumpalaikiam (vienos dienos) dalyvavimui eisme motorinei transporto priemonei išdavimo ir tokio dalyvavimo tvarką;\n\n7) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.\n\n6. Užtikrindama eismo saugumą, Žemės ūkio ministerija ar jos įgaliotos institucijos:\n\n1) nustato ir tvirtina traktorių ir savaeigių mašinų kategorijas ir mažiausią jų vairuotojų amžių;\n\n2) nustato ir tvirtina traktorių, savaeigių mašinų ir jų priekabų atitikties įvertinimo tvarką;\n\n3) nustato ir tvirtina traktorių ir savaeigių mašinų techninės apžiūros tvarką ir techninius reikalavimus traktoriams ir savaeigėms mašinoms ir jų priekaboms;\n\n4) nustato ir tvirtina traktorių ir savaeigių mašinų vairuotojų rengimo ir teisės vairuoti šias transporto priemones įgijimo tvarką (jei mokymai susiję su pirminiu profesiniu, tęstiniu profesiniu ar neformaliuoju suaugusiųjų švietimu, tvarka turi būti suderinta su Švietimo ir mokslo ministerija);\n\n5) nustato ir tvirtina dokumento, patvirtinančio teisę vairuoti traktorius ir (ar) savaeiges mašinas, formą, išdavimo tvarką;\n\n6) suderinusi su Susisiekimo ministerija, tvirtina traktorių ir savaeigių mašinų maksimalius leidžiamus transporto priemonių matmenis, ašių apkrovas ir bendrąją masę;\n\n7) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.\n\n7. Užtikrindamas eismo saugumą, apskrities viršininkas kontroliuoja Valstybinės eismo saugumo programos įgyvendinimą visoje apskrities teritorijoje.\n\n8. Užtikrindamas eismo saugumą, savivaldybės administracijos direktorius:\n\n1) vadovaudamasis Valstybine eismo saugumo programa, tvirtina savivaldybės eismo saugumo programą;\n\n2) iš savivaldybės administravimo subjektų ir valstybinio administravimo subjektų savivaldybėje, nevyriausybinių organizacijų atstovų sudaro savivaldybės eismo saugumo komisiją, tvirtina jos nuostatus. Savivaldybės pagrįstu prašymu valstybinio administravimo subjektai turi deleguoti atstovus į savivaldybės saugaus eismo komisiją;\n\n3) sprendžia eismo organizavimo klausimus miestų ir kaimų gyvenamosiose vietovėse, vietinės reikšmės keliuose;\n\n4) rūpinasi vietinės reikšmės kelių ir gatvių priežiūra, transporto infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir rekonstravimu bei organizuoja medicinos pagalbos teikimą eismo įvykiuose nukentėjusiems asmenims;\n\n5) įgyvendina švietėjišką mokomąją veiklą eismo saugumo srityje;\n\n6) atlieka kitas funkcijas, susijusias su eismo saugumo užtikrinimu savivaldybės teritorijoje.\n\n9. Eismo priežiūrą vykdo specializuoti policijos padaliniai ir įgalioti policijos pareigūnai. Užtikrindama eismo saugumą, policija:\n\n1) prižiūri, kaip eismo dalyviai laikosi šio įstatymo nuostatų ir kituose teisės aktuose nustatytos eismo tvarkos;\n\n2) reguliuoja eismą;\n\n3) tiria KET pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų nustatytais atvejais surašo administracinių teisės pažeidimų protokolus, nagrinėja administracinių teisės pažeidimų bylas ir priima nutarimus šiose bylose, taiko kitas įstatymų numatytas priemones;\n\n4) kontroliuoja, ar neviršyti leistini transporto priemonių masė ir matmenys;\n\n5) kontroliuoja, kaip fiziniai ir juridiniai asmenys vykdo įstatymuose ir kituose teisės aktuose nustatytas pareigas dėl eismo saugumo užtikrinimo;\n\n6) kontroliuoja transporto priemonių techninę būklę, vairuotojų vairavimo ir poilsio režimą keliuose;\n\n7) kaupia ir analizuoja duomenis apie KET pažeidimus ir eismo įvykius, kurių metu nukentėjo žmonės;\n\n8) teikia eismo įvykio metu nukentėjusiems asmenims pirmąją pagalbą tuo atveju, kai šalia nėra kvalifikuoto medicinos darbuotojo;\n\n9) imasi priemonių, būtinų saugiam eismui užtikrinti ir dėl eismo įvykio paliktam be priežiūros turtui apsaugoti;\n\n10) eskortuoja ir lydi vadovybę, oficialius Lietuvos Respublikos svečius ir oficialias delegacijas, lydi didžiagabarites transporto priemones, kai jos gali kelti grėsmę eismo saugumui, ir transporto priemones, kuriomis vežami keleiviai, masinių ir kitokių renginių dalyviai;\n\n11) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.\n\n10. Tikrinantys pareigūnai, atlikdami savo funkcijas, neturi kelti grėsmės eismo saugumui.\n\nTREČIASIS SKIRSNIS\nKELIAS"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "11 straipsnis. Saugių eismo sąlygų užtikrinimas keliuose",
+      "content": "1. Saugių eismo sąlygų valstybinės reikšmės keliuose užtikrinimą įgyvendinant eismo saugumo priemones organizuoja ir koordinuoja Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos ir jai pavaldžios valstybinės reikšmės kelius prižiūrinčios valstybės įmonės. Savivaldybės ar kiti juridiniai ir (ar) fiziniai asmenys – kelių savininkai ar valdytojai, atlikdami priskirtąsias funkcijas, užtikrina vietinės reikšmės keliuose ir gatvėse saugias eismo sąlygas, įgyvendindami juose eismo saugumo priemones.\n\n2. Eismo saugumo priemonės įgyvendinamos projektuojant, tiesiant, rekonstruojant, taisant (remontuojant) ir prižiūrint kelius, vadovaujantis Lietuvos kelių projektavimo normatyviniais dokumentais, Lietuvos Respublikos standartais ir kitais normatyviniais teisės aktais.\n\n3. Vykdant kelių tiesimo ir rekonstrukcijos darbus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka prieš tai turi būti atliekamas kelių saugumo auditas. Auditas – neatsiejama kelio projekto įgyvendinimo dalis. Juo siekiama nustatyti ir pašalinti pavojų saugiam eismui keliuose.\n\n4. Dviračių takai, pėsčiųjų ir dviračių takai, kurie yra tiesiami ne motorinių transporto priemonių eismui skirtoje kelio dalyje, turi būti atskiriami kelio ženklais ar konstrukciniais kelio elementais.\n\n5. Asmenys, organizuojantys darbus kelyje, turi užtikrinti, kad darbo vietos kelyje (gatvėje) ar šalia kelio (gatvės) būtų aptvertos ir pažymėtos reikiamais kelio ženklais, atitvarais ir nukreipiamaisiais įtaisais, o tamsiuoju paros metu ar esant blogam matomumui, – ir šviesomis. Kelyje (gatvėje) dirbantys asmenys privalo vilkėti ryškiaspalvius darbo drabužius, įspėjamąsias liemenes arba uniformas. Taisomuose kelių (gatvių) ruožuose dirbantys asmenys nustatytais atvejais ir tvarka gali reguliuoti eismą.\n\n6. Reklamos įrengimo keliuose, virš kelių, kelių juostose ir jų apsaugos zonose, taip pat gatvėse ar prie jų, reikalavimus ir ribojimus nustato Reklamos įstatymas. Reklama, įrengta pažeidžiant nustatytus reikalavimus, turi būti nuimta, nugriauta ar išardyta jos savininko arba įrengusių asmenų lėšomis, neatlyginant nuostolių.\n\n7. Kelio savininkas (valdytojas) privalo:\n\n1) užtikrinti, kad kelias būtų tinkamas transporto priemonių ir pėsčiųjų eismui bei atitiktų teisės aktų reikalavimus;\n\n2) organizuoti eismą ir užtikrinti kelio, jo inžinerinių statinių ir techninių eismo organizavimo priemonių priežiūrą taip, kad ji atitiktų kelių priežiūrą reglamentuojančių teisės aktų reikalavimus;\n\n3) užtikrinti, kad nedelsiant būtų panaikintos kliūtys, trukdančios eismui ir keliančios pavojų, o jei to padaryti neįmanoma, užtikrinti, kad pavojingose vietose būtų įrengtos atitinkamos techninės eismo organizavimo priemonės tol, kol šios kliūtys bus panaikintos;\n\n4) tobulinti eismo organizavimą, atsižvelgiant į eismo įvykių kelyje priežastis ir aplinkybes;\n\n5) atlyginti žalą asmenims, atsiradusią dėl teisės aktų nustatyta tvarka neatliktų kelio savininko pareigų.\n\nKETVIRTASIS SKIRSNIS\nEISMO DALYVIAI"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "12 straipsnis. Bendrosios eismo dalyvių pareigos",
+      "content": "1. Eismo dalyvių elgesys grindžiamas savitarpio pagarba ir atsargumu.\n\n2. Eismo dalyviai privalo išmanyti šį įstatymą, mokėti KET.\n\n3. Kiekvienas eismo dalyvis turi teisę naudotis keliais, laikydamasis šio ir kitų įstatymų, KET ir kitų teisės aktų nustatytų reikalavimų, tvarkos ir apribojimų.\n\n4. Eismo dalyviai privalo paklusti teisėtiems tikrinančių pareigūnų ir už kelių priežiūrą atsakingų institucijų įgaliotų pareigūnų, reguliuotojų reikalavimams, vykdyti jų nurodymus.\n\n5. Eismo dalyviai privalo laikytis visų būtinų atsargumo priemonių, nekelti pavojaus kitų eismo dalyvių, kitų asmenų ar jų turto saugumui ir aplinkai, taip pat, siekdami išvengti nuostolingų padarinių arba juos sumažinti, privalo imtis visų būtinų priemonių, išskyrus atvejus, kai dėl to kiltų pavojus jų pačių, kitų žmonių gyvybei ar sveikatai arba tokios priemonės padarytų dar daugiau žalos, palyginti su ta, kurios būtų galima išvengti.\n\n6. Eismo dalyviai negali savavališkai perkelti, uždengti, pašalinti arba įrengti eismo tvarką nustatančių techninių priemonių, užtverti kelią, palikti kelyje kokių nors daiktų ar kitaip trukdyti eismui, gadinti kelio, eismo reguliavimo priemonių, avarinio ryšio linijų ir želdinių, užtverti ar kitaip trukdyti privažiuoti prie priešgaisrinio hidranto ar kitos pastate įrengtos gelbėjimo įrangos, mėtyti iš transporto priemonės kokius nors daiktus, šiukšles, pilti tepalus ne specialiai tam skirtose vietose ar kitaip teršti aplinką.\n\n7. Eismo dalyviai, sudarę ar pastebėję kliūtį kelyje, sukėlę ar pastebėję jame pavojų, privalo šią kliūtį ar pavojų pašalinti, o negalėdami to padaryti, – pranešti policijai, kelio savininkui ar kelią prižiūrinčiai įmonei, pažymėti kliūtį ar pavojingą vietą ir visais įmanomais būdais įspėti apie kliūtį ar pavojų kitus eismo dalyvius.\n\n8. Gavęs policijos kvietimą, eismo dalyvis privalo nurodytu laiku atvykti į policijos įstaigą. Su savimi jis privalo turėti asmens tapatybę patvirtinantį dokumentą ir kitus kvietime nurodytus dokumentus.\n\n9. Eismo dalyviai KET nustatyta tvarka privalo nedelsdami duoti kelią artėjančioms specialiosioms transporto priemonėms su įjungtais mėlynais ir (ar) raudonais žybčiojančiais švyturėliais ir (arba) specialiaisiais garso signalais.\n\n10. Eismo dalyviai privalo netrukdyti atlikti pareigas transporto priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais vairuotojams."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "13 straipsnis. Bendrosios transporto priemonių vairuotojų pareigos",
+      "content": "1. Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną asmenims, neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo psichiką veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu kasdieniu poilsiu. Taip pat neleidžiama vairuoti susirgus ar pavargus, jeigu dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims, kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės vairuoti šią transporto priemonę.\n\n2. Draudžiama vairuoti techniškai netvarkingą, transporto priemonėms keliamų techninių reikalavimų (toliau – techninių reikalavimų) neatitinkančią transporto priemonę. Prieš pradėdamas važiuoti, motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo įsitikinti, ar transporto priemonė tvarkinga, ar joje yra pirmosios pagalbos, priešgaisrinės, avarinio sustojimo vietos ženklinimo ir kitos atitinkamai transporto priemonės rūšiai privalomos priemonės, taip pat kelionės metu stebėti transporto priemonės techninę būklę. Tuo atveju, kai važiuojanti transporto priemonė sugenda ir dėl to ji neatitinka techninių reikalavimų, o gedimo pašalinti neįmanoma, vairuotojas, laikydamasis būtinų atsargumo priemonių, gali važiuoti iki stovėjimo ar remonto vietos, išskyrus KET nustatytus atvejus.\n\n3. Vairuotojas privalo imtis visų būtinų priemonių savo ir keleivių saugumui kelionės metu užtikrinti. Saugos diržų, šalmų, vaikiškų saugos sėdynių ir kitų saugumo priemonių naudojimo atvejus ir tvarką nustato KET.\n\n4. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo mokėti suteikti pirmąją pagalbą eismo įvykyje nukentėjusiems asmenims.\n\n5. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir policijos, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos ar muitinės pareigūno reikalavimu pateikti nustatytos formos dokumentą, patvirtinantį teisę vairuoti transporto priemonę, transporto priemonės registravimo, privalomos techninės apžiūros ir kitus Lietuvos Respublikos įstatymų bei KET nustatytus dokumentus, taip pat leisti jiems patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis. Šioje dalyje nurodyto vairuotojo pažymėjimo nereikia asmenims, turintiems Europos Sąjungos valstybėse narėse ir Europos ekonominės erdvės Europos laisvosios prekybos asociacijos (EEE EFTA) šalyse išduotus vairuotojo pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai galioja, jei asmuo nėra nuolatinis Lietuvos Respublikos gyventojas.\n\n6. Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės nustatyta tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo psichiką veikiančių medžiagų.\n\n7. Transporto priemonių vairuotojai privalo vykdyti šiame įstatyme, Policijos veiklos įstatyme, kituose Lietuvos Respublikos teisės aktuose nustatytus teisėtus tikrinančių pareigūnų ir reguliuotojų nurodymus, laikytis KET nustatytos elgesio tvarkos, kai šių institucijų įgalioti pareigūnai, reguliuotojai, policijos, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos ar muitinės pareigūnai sustabdo.\n\n8. Motorinių transporto priemonių, traktorių, savaeigių mašinų vairuotojai privalo užtikrinti, kad jų transporto priemonės neviršytų teisės aktuose nustatyto triukšmo lygio.\n\n9. Motorinių transporto priemonių, traktorių, savaeigių mašinų vairuotojams draudžiama naudotis mobiliojo ryšio priemonėmis, jeigu jomis naudojamasi rankomis, išskyrus atvejus, kai stovinčios motorinės transporto priemonės variklis išjungtas.\n\n10. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas, sustojęs tamsiuoju paros metu neapšviestame kelyje, išskyrus stovėti skirtas vietas, išlipęs iš motorinės transporto priemonės, privalo vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais arba būti prisisegęs prie drabužių kitiems eismo dalyviams matomoje vietoje atšvaitą.\n\n11. Motorinių transporto priemonių vairuotojai privalo nustatyta tvarka dalyvauti ir užbaigti papildomus vairuotojų mokymus.\n\n12. Transporto priemonių vairuotojai privalo kelyje visada elgtis taip, kad nesukeltų pavojaus kitiems eismo dalyviams ir nesudarytų kliūčių jų eismui.\n\n13. Transporto priemonių vairuotojai privalo imtis papildomų atsargumo priemonių, jei kelyje yra vaikai arba neįgalieji.\n\n14. Kitas transporto priemonių vairuotojų pareigas ir jų veiksmus konkrečiomis eismo situacijomis nustato KET."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "14 straipsnis. Vairuotojų, vežančių keleivius ir krovinius, pareigos",
+      "content": "1. Keleivius vežti leidžiama tik tam skirtomis (arba specialiai tam pritaikytomis) transporto priemonėmis ir tik pagal konstrukciją žmonėms skirtose vietose.\n\n2. Vairuotojas, kuris verčiasi keleivių vežimu, privalo su savimi turėti Vyriausybės nustatyta tvarka išduotą galiojančią licencijos kortelę, o veždamas keleivius reguliariais reisais nustatytais maršrutais, – ir nustatyta tvarka išduotą galiojantį leidimą, ir tikrinančių pareigūnų reikalavimu juos bei kitus dokumentus pateikti.\n\n3. Vairuotojui draudžiama važiuoti (tęsti judėjimą), jei yra (atsirado važiuojant) pavojingi keleivių (krovinių) vežimo tvarkos reikalavimų pažeidimai, keliantys pavojų žmonėms ir aplinkai, iki jie bus pašalinti.\n\n4. Reikalavimus, kurių turi laikytis transporto priemonių, vežančių keleivius (krovinius), vairuotojai, ir keleivių (krovinių) vežimo tvarką užtikrinant eismo saugumą nustato KET."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "15 straipsnis. Pėsčiųjų pareigos",
+      "content": "1. Pėstieji, eidami neapšviestu kelkraščiu arba važiuojamosios dalies kraštu tamsiuoju paros metu arba esant blogam matomumui, privalo neštis šviečiantį žibintą arba vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais, arba būti prie drabužių prisisegę kitiems eismo dalyviams matomoje vietoje atšvaitą.\n\n2. Į kitą važiuojamosios dalies pusę pėstieji privalo eiti tik pėsčiųjų (taip pat požeminėmis ir esančiomis virš kelio) perėjomis, o kur jų nėra, – per sankryžas pagal šaligatvių arba kelkraščių liniją. Kai matomumo zonoje perėjos ar sankryžos nėra, leidžiama eiti per kelią stačiu kampu į abi puses gerai apžvelgiamose vietose, tačiau tik įsitikinus, kad eiti saugu ir nebus trukdoma transporto priemonėms.\n\n3. Pėstiesiems draudžiama:\n\n1) eiti per važiuojamąją dalį tose vietose, kur yra transporto ar pėsčiųjų atitvarai, o gyvenvietėse – ir ten, kur yra skiriamoji juosta (išskyrus pėsčiųjų perėjas ir sankryžas);\n\n2) eiti automagistrale ar greitkeliu;\n\n3) eiti skiriamąja juosta arba greta jos važiuojamosios dalies pakraščiu;\n\n4) išeiti iš už stovinčios transporto priemonės ar kitos kliūties, trukdančios apžvelgti vietą, neįsitikinus, kad nėra artėjančių transporto priemonių;\n\n5) eiti dviračių takais;\n\n6) pasišalinti iš eismo įvykio vietos, jeigu pėstieji yra susiję su juo.\n\n4. Kitos pėsčiųjų pareigos yra nustatytos KET."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "16 straipsnis. Keleivių pareigos",
+      "content": "1. Maršrutinio transporto leidžiama laukti tik stotelių laipinimo aikštelėse, o kur jų nėra, – prie stotelės ženklo ant šaligatvio ar kelkraščio.\n\n2. Keleiviams leidžiama įlipti (išlipti) tik kai transporto priemonė visiškai sustoja.\n\n3. Jeigu tikrinantis pareigūnas sustabdo transporto priemonę, keleiviams leidžiama išlipti tik jam leidus.\n\n4. Iš važiuojamosios dalies pusės keleiviams leidžiama įlipti į transporto priemonę (išlipti iš jos) tik tuo atveju, jeigu to padaryti neįmanoma iš šaligatvio ar kelkraščio pusės ir jeigu tai bus saugu, netrukdys kitiems eismo dalyviams.\n\n5. Važiuodami motorine transporto priemone su įrengtais saugos diržais, keleiviai privalo būti užsisegę saugos diržus, o važiuodami motociklu ar mopedu, – užsidėję ir (ar) užsisegę saugos šalmus.\n\n6. Keleiviams draudžiama blaškyti vairuotojo dėmesį ir trukdyti jam vairuoti transporto priemonę.\n\n7. Kitos keleivių pareigos yra nustatytos KET."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "17 straipsnis. Reikalavimai dviračių vairuotojams",
+      "content": "1. Važiuoti keliais dviračiu leidžiama ne jaunesniems kaip 14 metų, o išklausiusiems atitinkamą mokymo kursą ir turintiems mokymo įstaigos išduotą pažymėjimą, – ne jaunesniems kaip 12 metų asmenims. Gyvenamojoje zonoje dviračių vairuotojų amžius neribojamas.\n\n2. Dviračio vairuotojui leidžiama važiuoti keliu tik tvarkingą stabdį ir garso signalą turinčiu dviračiu. Dviračio gale turi būti raudonas šviesos atšvaitas, iš abiejų šonų – oranžiniai šviesos atšvaitai arba kiti šviesą atspindintys elementai, pritvirtinti prie ratų stipinų. Važiuojant keliu tamsiuoju paros metu arba esant blogam matomumui, priekyje turi degti baltos šviesos žibintas, o gale – raudonos šviesos žibintas, dviračio vairuotojas privalo dėvėti šviesą atspindinčią liemenę arba būti prie drabužių kitiems eismo dalyviams matomoje vietoje prisisegęs šviesą atspindinčius elementus. Dviračio vairuotojai (keleiviai) iki 18 metų, važiuodami (vežami) keliu, privalo būti užsidėję ir užsisegę šalmą. Kitiems vyresniems kaip 18 metų asmenims, dviračiu važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus šalmą.\nStraipsnio dalies pakeitimai:\nNr. X-1594, 2008-06-10, Žin., 2008, Nr. 71-2719 (2008-06-21), i. k. 1081010ISTA00X-1594\n\n3. Dviračių taku dviračio vairuotojas privalo važiuoti kuo arčiau tako (jiems skirtos tako dalies) dešiniojo krašto. Jeigu pėsčiųjų ir dviračių eismui skirtame take ar šaligatvyje važiuojamosios dalies ženklinimo linijomis (baltu dviračio simboliu) yra paženklinta dviračių eismui skirta tako (šaligatvio) dalis, dviračio vairuotojas privalo važiuoti tik ja ir kuo arčiau jos dešiniojo krašto. Dviračių vairuotojai privalo nekelti pavojaus pėstiesiems.\n\n4. Dviračių vairuotojams draudžiama:\n\n1) važiuoti važiuojamąja dalimi, jeigu įrengti dviračių takai;\n\n2) važiuoti automagistralėmis ir greitkeliais;\n\n3) važiuoti nelaikant bent viena ranka vairo;\n\n4) vežti keleivius, jeigu nėra įrengtų specialių sėdėjimo vietų;\n\n5) vežti, vilkti ar stumti krovinius, kurie trukdo vairuoti arba kelia pavojų kitiems eismo dalyviams;\n\n6) būti velkamiems kitų transporto priemonių;\n\n7) vilkti kitas transporto priemones, išskyrus tam skirtas priekabas;\n\n8) važiuoti įsikibus į kitas transporto priemones.\n\n5. Kiti reikalavimai dviračių vairuotojams yra nustatyti KET."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "18 straipsnis. Reikalavimai vadeliotojams, gyvulių ar paukščių varovams, raiteliams",
+      "content": "1. Vadeliojamų vežimo ar rogių priekyje turi būti balti, iš šonų oranžiniai, gale raudoni šviesos atšvaitai, pritvirtinti gerai matomose vietose ir pažymintys kraštinius vežimo ar rogių gabaritus. Tamsiuoju paros metu ar esant blogam matomumui vadeliotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais.\n\n2. Vadeliotojams, gyvulių ar paukščių varovams, raiteliams, kitiems asmenims draudžiama:\n\n1) palikti gyvulius ar paukščius ant kelio arba greta jo be priežiūros;\n\n2) pririšti gyvulius taip, kad jie galėtų išeiti į kelią;\n\n3) varyti gyvulius ar paukščius grindiniu, keliu su asfalto arba betono danga be kelio savininko sutikimo;\n\n4) varyti gyvulius ar paukščius per geležinkelį ir kelią, kur nėra specialiai tam skirtų vietų;\n\n5) joti važiuojamąja dalimi tamsiuoju paros metu;\n\n6) automagistralėse ir greitkeliuose vadelioti, varyti gyvulius ar paukščius, joti.\n\n3. Kiti reikalavimai vadeliotojams, gyvulių ar paukščių varovams, raiteliams nustatyti KET."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "19 straipsnis. Specialiųjų transporto priemonių vairuotojų teisės ir pareigos",
+      "content": "1. Specialiųjų transporto priemonių vairuotojai gali turėti ir važiuoti su įjungtais mėlynais ir (ar) raudonais (arba tik mėlynais) žybčiojančiais švyturėliais ir (ar) specialiaisiais garso signalais tik tuo atveju, kai tai būtina gelbėti žmogaus gyvybę, sveikatą ar turtą, užtikrinti viešąją tvarką, sulaikyti įtariamus padarius teisės pažeidimą asmenis. Šia teise taip pat naudojasi transporto priemonių, kurias lydi specialiosios transporto priemonės, vairuotojai.\n\n2. Dviračio vairuotojui leidžiama važiuoti keliu tik tvarkingą stabdį ir garso signalą turinčiu dviračiu. Dviračio gale turi būti raudonas šviesos atšvaitas, iš abiejų šonų – oranžiniai šviesos atšvaitai arba kiti šviesą atspindintys elementai, pritvirtinti prie ratų stipinų. Važiuojant keliu tamsiuoju paros metu arba esant blogam matomumui, priekyje turi degti baltos šviesos žibintas, o gale – raudonos šviesos žibintas, dviračio vairuotojas privalo dėvėti šviesą atspindinčią liemenę arba būti prie drabužių kitiems eismo dalyviams matomoje vietoje prisisegęs šviesą atspindinčius elementus. Dviračio vairuotojai (keleiviai) iki 18 metų, važiuodami (vežami) keliu, privalo būti užsidėję ir užsisegę šalmą. Kitiems vyresniems kaip 18 metų asmenims, dviračiu važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus šalmą.\nStraipsnio dalies pakeitimai:\nNr. X-1594, 2008-06-10, Žin., 2008, Nr. 71-2719 (2008-06-21), i. k. 1081010ISTA00X-1594\n\n3. Specialiųjų šviesos ir garso signalų naudojimo tvarką nustato KET.\n\n4. Oranžinį švyturėlį leidžiama įjungti tik tada, kai trukdoma eismui (transporto priemonės matmenims su kroviniu ar be jo viršijant leistinus, dirbant kelyje, sustojus ir stovint, važiuojant lėtai, vežant pavojingus krovinius ir t. t.). Žybčiojantis oranžinis švyturėlis nesuteikia pirmenybės, tik atkreipia dėmesį ir įspėja kitus eismo dalyvius apie galimą pavojų.\n\n5. Transporto priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais vairuotojai, važiuodami kelyje, stovėdami ir (ar) atlikdami darbus, užtikrina, kad nepakenks eismo saugumui."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "20 straipsnis. Bendrieji reikalavimai transporto priemonių savininkams ir valdytojams",
+      "content": "1. Transporto priemonės savininkas ar valdytojas rūpinasi ir atsako už jam nuosavybės ar kita teise priklausančią transporto priemonę.\n\n2. Policijos pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone. Transporto priemonės savininkas (valdytojas), nepateikęs šioje dalyje nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka. Transporto priemonės savininkui (valdytojui) atsakomybė už pareigų neatlikimą netaikoma, jei jis prarado transporto priemonę prieš savo valią.\n\n3. Gavęs kvietimą, transporto priemonės savininkas (valdytojas) arba jo įgaliotas asmuo (jeigu savininkas – juridinis asmuo) privalo nurodytu laiku atvykti į policijos įstaigą ir turėti asmens tapatybę patvirtinantį dokumentą bei kitus kvietime nurodytus dokumentus."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "21 straipsnis. Mokymas vairuoti",
+      "content": "1. Mokyti vairuoti motorinę transporto priemonę, traktorių ar savaeigę mašiną automobilių keliuose turi teisę asmuo, atitinkantis vairavimo instruktoriui keliamus reikalavimus.\n\n2. Mokymo metu vairavimo instruktorius visada privalo su savimi turėti dokumentą, patvirtinantį, kad jis turi teisę mokyti vairuoti. Mokyti vairuoti keliuose šeimos narius, siekiančius įgyti teisę vairuoti B1 ar B kategorijų transporto priemones, leidžiama nustatyta tvarka.\n\n3. Šio straipsnio 1 dalyje nurodyti asmenys turi teisę mokyti vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną, jeigu mokinys moka KET ir laikosi jų reikalavimų. Draudžiama mokytis vairuoti motorinę transporto priemonę, nedalyvaujant turinčiam teisę mokyti asmeniui.\n\n4. Pradėti mokyti vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną leidžiama tik nustatytus reikalavimus atitinkančioje aikštelėje arba teritorijoje. Keliuose mokyti vairuoti leidžiama tik tada, kai mokinys yra pakankamai įgudęs vairuoti. Mokyti vairuoti galima tik tuose keliuose, kuriuose to nėra uždraudęs kelio savininkas.\n\n5. Kelyje mokomas vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną mokinys neturi būti jaunesnis daugiau kaip vienais metais negu nustatytas amžius, nuo kurio teisės aktai leidžia vairuoti tos kategorijos transporto priemonę.\n\n6. Asmuo, kuris moko vairuoti, yra prilyginamas vairuotojui. Jis privalo laikytis vairuotojams nustatytų reikalavimų ir užtikrinti, kad mokymo metu būtų laikomasi KET."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "22 straipsnis. Teisės vairuoti motorines transporto priemones, traktorius, savaeiges mašinas suteikimas",
+      "content": "1. Teisė vairuoti motorines transporto priemones, traktorius, savaeiges mašinas suteikiama Lietuvos Respublikoje gyvenantiems, ne jaunesniems kaip šio įstatymo 23 straipsnyje nustatyto amžiaus asmenims, kurių sveikatos būklė ir psichofiziologiniai gebėjimai yra tinkami vairuoti tam tikros kategorijos motorinę transporto priemonę, mokantiems KET, išmanantiems kitus teisės aktus, reglamentuojančius kelių eismą, mokantiems vairuoti ir nustatyta tvarka išlaikiusiems egzaminus.\n\n2. Teisė vairuoti motorines transporto priemones, traktorius, savaeiges mašinas nesuteikiama, jei nėra pasibaigęs šios teisės atėmimo, įstatymų nustatyta tvarka paskirto asmeniui už KET pažeidimus, tarp jų ir už transporto priemonės vairavimą neturint tam teisės, terminas.\n\n3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones patvirtina įrašas Kelių transporto priemonių vairuotojų registre ir valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, taip pat vairuotojų pažymėjimai, išduoti policijos įstaigų.\n\n4. Pradedantiesiems vairuotojams išduodamas 2 metus galiojantis vairuotojo pažymėjimas. Pradedantysis vairuotojas gali pakeisti šį pažymėjimą į nuolat galiojantį vairuotojo pažymėjimą tik užbaigęs papildomus mokymus pagal nustatytą tvarką.\n\n5. C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojai nustatyta tvarka privalo dalyvauti ir užbaigti papildomus mokymus.\n\n6. Vairuodamas motorinę transporto priemonę, traktorių, savaeigę mašiną, vairuotojas privalo vykdyti vairuotojo pažymėjime nurodytas sąlygas (vairuoti tik su akiniais ar kontaktiniais lęšiais; tik transporto priemones su rankiniu valdymu, transporto priemones su automatine pavarų dėže ir pan.).\n\n7. Vairavimo praktinį egzaminą asmuo gali laikyti tik sukakęs šio įstatymo 23 straipsnyje nustatytą amžių, atsižvelgiant į motorinės transporto priemonės, traktoriaus ar savaeigės mašinos kategoriją, taip pat pasibaigus teisės vairuoti transporto priemones atėmimo terminui.\n\n8. Asmenims, kurie neturi teisės vairuoti ar neturi teisės vairuoti atitinkamos kategorijos motorinių transporto priemonių, traktorių, savaeigių mašinų ir kurie vairavo motorines transporto priemones, traktorius, savaeiges mašinas būdami neblaivūs arba apsvaigę nuo psichiką veikiančių medžiagų, taip pat kurie vengė blaivumo (girtumo) ar apsvaigimo patikrinimo, teisę įgyti vairuoti transporto priemones leidžiama ne mažiau kaip po vienerių metų nuo pažeidimo padarymo dienos."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "23 straipsnis. Transporto priemonių kategorijos ir vairuotojų amžius",
+      "content": "1. Automobilių, jų junginių su priekabomis (puspriekabėmis), motociklų ir mopedų kategorijos:\n\n1) AM kategorija – mopedai ir lengvieji keturračiai motociklai;\n\n2) A1 kategorija – motociklai, kurių variklio darbinis tūris didesnis kaip 50 cm3, bet ne didesnis kaip 125 cm3 ir jų galia neviršija 11 kW;\n\n3) A kategorija – motociklai su šonine priekaba arba be jos;\n\n4) B1 kategorija – triračiai ar keturračiai motociklai;\n\n5) B kategorija – automobiliai, kurių didžiausioji leidžiamoji masė ne didesnė kaip 3 500 kg ir turintys ne daugiau kaip aštuonias sėdimas vietas be vairuotojo vietos; šie automobiliai gali būti sujungti su priekaba, kurios didžiausioji leidžiamoji masė ne didesnė kaip 750 kg; šie automobiliai taip pat gali būti sujungti su priekaba, kurios didžiausioji leidžiamoji masė didesnė kaip 750 kg, tačiau junginio didžiausioji leidžiamoji masė turi būti ne didesnė kaip 3 500 kg, o priekabos didžiausioji leidžiamoji masė turi būti ne didesnė už automobilio masę be krovinio;\n\n6) BE kategorija – B kategorijos automobilio ir priekabos, kurios didžiausioji leidžiamoji masė didesnė kaip 750 kg, junginiai;\n\n7) C1 kategorija – automobiliai, kurie nepriskiriami D1 ir D kategorijoms ir kurių didžiausioji leidžiamoji masė didesnė kaip 3 500 kg, bet ne didesnė kaip 7 500 kg; šie automobiliai gali būti sujungti su priekabomis, kurių didžiausioji leidžiamoji masė ne didesnė kaip 750 kg;\n\n8) C1E kategorija – C1 kategorijos automobilių ir priekabų, kurių didžiausioji leidžiamoji masė didesnė kaip 750 kg, junginiai; šių junginių didžiausioji leidžiamoji masė turi būti ne didesnė kaip 12 000 kg, o priekabos didžiausioji leidžiamoji masė ne didesnė už automobilio masę be krovinio;\n\n9) C kategorija – automobiliai, kurie nepriskiriami D1 ir D kategorijoms ir kurių didžiausioji leidžiamoji masė didesnė kaip 3 500 kg; šios kategorijos automobiliai gali būti sujungti su priekabomis, kurių didžiausioji leidžiamoji masė ne didesnė kaip 750 kg;\n\n10) CE kategorija – C kategorijos automobilių ir priekabų, kurių didžiausioji leidžiamoji masė didesnė kaip 750 kg, junginiai;\n\n11) D1 kategorija – automobiliai, skirti vežti keleivius ir turintys daugiau kaip aštuonias, bet ne daugiau kaip šešiolika sėdimų vietų be vairuotojo vietos; šie automobiliai gali būti sujungti su priekabomis, kurių didžiausioji leidžiamoji masė ne didesnė kaip 750 kg;\n\n12) D1E kategorija – D1 kategorijos automobilių ir priekabų, kurių didžiausioji leidžiamoji maksimali masė didesnė kaip 750 kg, junginiai; šių junginių didžiausioji leidžiamoji masė ne didesnė kaip 12 000 kg bei priekabos didžiausioji leidžiamoji masė ne didesnė už automobilio masę be krovinio ir ji nenaudojama keleiviams vežti;\n\n13) D kategorija – automobiliai, skirti vežti keleivius ir turintys daugiau kaip aštuonias sėdimas vietas be vairuotojo vietos; šie automobiliai gali būti sujungti su priekaba, kurios didžiausioji leidžiamoji masė ne didesnė kaip 750 kg;\n\n14) DE kategorija – D kategorijos automobilių ir priekabų, kurių didžiausioji leidžiamoji masė didesnė kaip 750 kg, junginiai;\n\n15) T kategorija – troleibusai, tai yra nebėginės transporto priemonės, sujungtos su išoriniu elektros šaltiniu.\n\n2. Minimalus amžius, nuo kurio leidžiama įgyti teisę vairuoti automobilius, jų junginius su priekabomis, motociklus bei mopedus ir galima išduoti vairuotojo pažymėjimus, turi būti toks:\n\n1) AM kategorija – 15 metų;\n\n2) Al kategorija – 16 metų;\n\n3) A kategorija – 18 metų (teisė vairuoti motociklus, kurių galia didesnė kaip 25 kW arba galios ir svorio santykis didesnis kaip 0,16 kW/kg, bei motociklus su šonine priekaba, kurių galios ir svorio santykis viršija 0,16 kW/kg, suteikiama tik turint ne trumpesnį kaip dvejų metų motociklų su žemesnėmis charakteristikomis vairavimo patirtį) arba 21 metai;\n\n4) B1 kategorija – 16 metų;\n\n5) B kategorija – 18 metų;\n\n6) BE kategorija – 18 metų;\n\n7) C1 kategorija – 18 metų;\n\n8) C1E kategorija – 18 metų;\n\n9) C kategorija – 18 metų (tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti krovinius) arba 21 metai;\n\n10) CE kategorija – 18 metų (tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti krovinius) arba 21 metai;\n\n11) D1 kategorija – 18 metų (tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti keleivius) arba 21 metai;\n\n12) D1E kategorija – 18 metų (tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti keleivius) arba 21 metai;\n\n13) D kategorija – 18 metų (vežti keleivius reguliariais reisais, jeigu maršrutas ne ilgesnis kaip 50 km, ir tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti keleivius), 21 metai (vežti keleivius reguliariais reisais, jeigu maršrutas ne ilgesnis kaip 50 km, arba tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti keleivius) arba 23 metai;\n\n14) DE kategorija ir D kategorija – 18 metų (vežti keleivius reguliariais reisais, jeigu maršrutas ne ilgesnis kaip 50 km, ir tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti keleivius), 21 metai (vežti keleivius reguliariais reisais, jeigu maršrutas ne ilgesnis kaip 50 km, arba tik teisės aktų nustatyta tvarka įgijus pradinę profesinę kvalifikaciją vežti keleivius) arba 23 metai;\n\n15) T kategorija – 21 metai."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "24 straipsnis. Teisės vairuoti transporto priemones atėmimas ir grąžinimas",
+      "content": "1. Teisė vairuoti transporto priemones atimama:\n\n1) įstatymuose nustatytais atvejais;\n\n2) sutrikus elgesiui, asmenybei ir (ar) susirgus ligomis, įtrauktomis į patvirtintą sąrašą, kai dėl asmens sveikatos ar elgesio būklės asmuo negali tinkamai vairuoti transporto priemonių, teisė vairuoti transporto priemones atimama nustatyta tvarka;\n\n3) paaiškėjus, kad teisė vairuoti transporto priemones buvo suteikta pateikus neteisingus asmens, sveikatos būklės duomenis ar kitą neteisingą informaciją, lėmusią teisės vairuoti transporto priemones suteikimą.\n\n2. Teisė vairuoti transporto priemones grąžinama asmeniui, iš kurio teisė vairuoti transporto priemones buvo atimta pagal šio straipsnio 1 dalies 2 punktą, kai jo sveikatos būklė atitinka nustatytus reikalavimus.\n\n3. Asmeniui, kuriam teisė vairuoti transporto priemones buvo atimta dėl KET pažeidimų, teisė vairuoti transporto priemones grąžinama tik jam nustatyta tvarka užbaigus papildomus vairuotojų mokymus.\n\n4. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta dėl teisės pažeidimo padarymo vieniems metams ir ilgiau, teisė vairuoti transporto priemones grąžinama tik pasibaigus šios teisės atėmimo laikui ir perlaikius egzaminą.\n\n5. Teisė vairuoti transporto priemones grąžinama nustatyta tvarka.\n\nPENKTASIS SKIRSNIS\nTRANSPORTO PRIEMONĖS"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "25 straipsnis. Bendrieji reikalavimai motorinėms transporto priemonėms ir priekaboms",
+      "content": "1. Lietuvos Respublikoje viešajame eisme leidžiama dalyvauti tik techniškai tvarkingoms motorinėms transporto priemonėms, priekaboms, išskyrus KET numatytus atvejus. Trumpalaikis (vienos dienos) dalyvavimas viešajame eisme nustatyta tvarka leidžiamas laikinaisiais valstybinio numerio ženklais paženklintoms motorinėms transporto priemonėms, priekaboms, kurių savininkai (valdytojai) yra apsidraudę transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir sumokėję valstybės nustatytus su transporto priemone ar su dalyvavimu viešajame eisme susijusius mokesčius.\n\n2. Dalyvauti viešajame eisme Lietuvos Respublikoje leidžiama nustatyta tvarka įregistruotoms motorinėms transporto priemonėms, priekaboms, kurioms atlikta ir galioja privaloma techninė apžiūra ir kurių valdytojai yra apsidraudę transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir sumokėję valstybės nustatytus su transporto priemone ar su dalyvavimu viešajame eisme susijusius mokesčius.\n\n3. Motorinės transporto priemonės, priekabos, dalyvaujančios eisme, techninę būklę, registravimą ir civilinės atsakomybės privalomąjį draudimą užtikrina transporto priemonės valdytojas ir vairuotojas.\n\n4. Draudžiama dalyvauti viešajame eisme motorinėms transporto priemonėms, kurios pritaikytos eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje, išskyrus tas, kurios buvo įregistruotos Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurios pagal konstrukciją ir įrangą yra skirtos specialioms darbo funkcijoms atlikti. Šis draudimas netaikomas laikinai (iki 90 dienų per metus) į Lietuvos Respubliką su užsienio valstybėje įregistruotomis transporto priemonėmis atvykusiems užsieniečiams, kurie neturi leidimo laikinai apsigyventi arba leidimo nuolat gyventi Lietuvos Respublikoje, taip pat Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, taip pat transporto priemonėms, kurios Kilnojamųjų kultūros vertybių apsaugos įstatymo nustatyta tvarka priskirtos antikvarinių daiktų kategorijai.\n\n5. Transporto priemonėje draudžiama įrengti greitį matuoti trukdančias priemones ir daiktus.\n\n6. Motorinėms transporto priemonėms, priekaboms, sugadintoms eismo ar kitokio įvykio metu, kai jos negali judėti sava eiga, nustatyta tvarka uždraudžiama dalyvauti viešajame eisme. Po atstatomojo motorinės transporto priemonės, priekabos remonto, kurio metu visiškai atkuriamos kėbulo (rėmo), važiuoklės konstrukcijos ir jų stiprumas bei gamintojo įrengta saugos įranga, jos vėl gali dalyvauti viešajame eisme tik nustatyta tvarka atlikus techninę ekspertizę ekspertizių įmonėse ir panaikinus tokį draudimą."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "26 straipsnis. Transporto priemonių ir priekabų skiriamieji ženklai",
+      "content": "1. Kiekviena motorinė transporto priemonė, priekaba turi būti su tam skirtoje vietoje vertikalioje plokštumoje pritvirtintais, registruojant jai priskirtais valstybinio numerio ženklais.\n\n2. Valstybinio numerio ženklus draudžiama uždengti apsauginėmis medžiagomis, lankstyti ar kitaip keisti jų formą, jie neturi būti apgadinti, užteršti ar surūdiję.\n\n3. Transporto priemonė, į Lietuvos Respubliką atvykusi iš kitos valstybės, turi būti paženklinta tos valstybės, kurioje ji įregistruota, skiriamuoju ženklu, jei šio ženklo nėra valstybiniame numeryje. Į Lietuvos Respubliką atvykstančių užsienyje registruotų transporto priemonių skiriamieji ženklai nustatomi tarptautinėmis sutartimis.\n\n4. KET gali nustatyti, kad tam tikrų kelio ženklų ar ženklinimo reikalavimai neprivalomi skiriamuoju ženklu „Neįgalusis“ pažymėtų transporto priemonių vairuotojams."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "27 straipsnis. Transporto priemonių registravimas",
+      "content": "1. Lietuvos Respublikoje viešajame eisme dalyvauti leidžiama nustatyta tvarka įregistruotoms motorinėms transporto priemonėms, priekaboms. Reikalavimas įregistruoti motorinę transporto priemonę Lietuvos Respublikoje netaikomas laikinai (iki 90 dienų per metus) su užsienio valstybėje įregistruota motorine transporto priemone į Lietuvos Respubliką atvykusiems užsieniečiams, kurie neturi leidimo laikinai gyventi ar leidimo nuolat gyventi Lietuvos Respublikoje arba kurie turi Europos Sąjungos valstybės narės piliečio leidimą gyventi, taip pat Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje.\n\n2. Motorinės transporto priemonės, priekabos, kurios dėl jų sugedimo ar susidėvėjimo baigtos eksploatuoti užsienyje, kai kompetentingos institucijos paima jų registravimo dokumentus, taip pat motorinės transporto priemonės, pritaikytos eismui kairiąja puse ir (ar) turinčios vairą dešinėje pusėje, išskyrus antikvarines ir skirtas specialioms darbo funkcijoms atlikti motorines transporto priemones, Lietuvos Respublikoje neregistruojamos.\n\n3. Transporto priemonės, priekabos registruojamos Lietuvos Respublikos motorinių transporto priemonių registre arba Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio mašinų ir jų priekabų registre. Taktinės ir logistinės paskirties transporto priemonės registruojamos Lietuvos Respublikos taktinės ir logistinės paskirties transporto priemonių registre.\n\n4. Lietuvos Respublikos motorinių transporto priemonių ir jų priekabų registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Vidaus reikalų ministerija ir registro tvarkymo įstaiga – valstybės įmonė „Regitra“. Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio mašinų ir jų priekabų registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Žemės ūkio ministerija ir registro tvarkymo įstaigos – valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras ir savivaldybės. Lietuvos Respublikos taktinės ir logistinės paskirties transporto priemonių registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Krašto apsaugos ministerija ir registro tvarkymo įstaiga – Lietuvos kariuomenė."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "28 straipsnis. Motorinių transporto priemonių ir priekabų atitikties įvertinimas",
+      "content": "1. Atitikties įvertinimas Vyriausybės įgaliotos institucijos nustatyta tvarka atliekamas motorinėms transporto priemonėms ir jų priekaboms bei šių transporto priemonių sudedamosios dalims.\n\n2. Motorinių transporto priemonių, priekabų ir šių transporto priemonių sudedamųjų dalių atitikties įvertinimą atlieka Vyriausybės įgaliota institucija."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "29 straipsnis. Motorinių transporto priemonių ir priekabų privaloma techninė apžiūra",
+      "content": "1. Lietuvos Respublikoje registruotos motorinės transporto priemonės ir priekabos valdytojas privalo jas pateikti periodinei privalomai techninei apžiūrai.\n\n2. Motorinės transporto priemonės, priekabos septynias dienas nuo jų įregistravimo Lietuvos Respublikoje dienos dalyvauja eisme be atliktos privalomos techninės apžiūros.\n\n3. Šio įstatymo 25 straipsnio 6 dalyje nurodytais atvejais motorinių transporto priemonių, priekabų valdytojai privalo pateikti jas privalomai neeilinei techninei apžiūrai.\n\n4. Naujos motorinės transporto priemonės ir priekabos laikotarpiu nuo pirmos transporto priemonės registravimo datos iki pirmos techninės apžiūros dalyvauja viešajame eisme be privalomos techninės apžiūros (išskyrus vienetinės gamybos transporto priemones).\n\n5. Privalomas technines apžiūras atlieka įmonės, atitinkančios nustatytus reikalavimus ir gavusios leidimus verstis šia veikla.\n\n6. Sprendimus dėl motorinės transporto priemonės ir priekabos techninės būklės atitikties nustatytiems reikalavimams priima techninės apžiūros kontrolierius.\n\nŠEŠTASIS SKIRSNIS\nEISMO ĮVYKIAI"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "30 straipsnis. Eismo dalyvio pareigos įvykus eismo įvykiui",
+      "content": "Įvykus eismo įvykiui, eismo dalyviai (dalyvis), susiję (susijęs) su eismo įvykiu, privalo:\n\n1) nedelsdami (nedelsdamas) sustoti ir pažymėti eismo įvykio vietą KET nustatyta tvarka;\n\n2) pasilikti eismo įvykio vietoje ir apie įvykį pranešti policijai, išskyrus teisės aktuose nustatytus atvejus;\n\n3) imtis visų reikiamų priemonių, kad būtų suteikta pirmoji pagalba nukentėjusiesiems, iškviesti medicinos pagalbą ar prireikus nuvežti nukentėjusįjį į medicinos įstaigą, išskyrus atvejus, kai tai sukeltų pavojų nukentėjusiojo gyvybei ar sveikatai;\n\n4) po eismo įvykio nevartoti alkoholinių gėrimų, vaistų, narkotinių ar kitų svaigiųjų medžiagų, iki bus patikrintas neblaivumas (girtumas) ar apsvaigimas arba bus atsisakyta tai atlikti."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "31 straipsnis. Gelbėjimo darbai",
+      "content": "Jeigu eismo įvykyje buvo sužeistas arba (ir) žuvo žmogus, jei dėl eismo įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja transporto priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė (išsiliejo) ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų institucijų tarnybos privalo nedelsdamos atvykti į eismo įvykio vietą, suteikti neatidėliotiną pagalbą nukentėjusiesiems, neutralizuoti įvykio padarinius.\n\nSEPTINTASIS SKIRSNIS\nATSAKOMYBĖ"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "32 straipsnis. Atsakomybė",
+      "content": "Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveikatą ir turtą, asmenims taikoma atsakomybė už teisės aktų, reglamentuojančių eismo keliais saugumą, pažeidimus."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "33 straipsnis. Transporto priemonės priverstinis nuvežimas arba draudimas važiuoti",
+      "content": "1. Priverstinai transporto priemonė gali būti nuvežama į ūkio subjekto, kuris teisės aktų nustatyta tvarka turi teisę verstis tokia ūkine komercine veikla, transporto priemonių stovėjimo aikštelę arba uždraudžiama važiuoti, jei transporto priemonės valdytojas, naudodamas transporto priemonę, sukelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba trukdo saugiam transporto priemonių ar pėsčiųjų eismui ir pažeidžia KET ar kitų teisės aktų reikalavimus.\n\n2. Priverstinai transporto priemonė gali būti nuvežama iš vietų, kur leidžiama transporto priemonėms stovėti, į kitą vietą, jei trukdo valstybės institucijoms ar tarnyboms atlikti gelbėjimo darbus arba likviduoti avarijos padarinius, ir iš vietų, kurios turi būti atlaisvintos dėl rengiamo oficialaus vizito. Šiuo atveju transporto priemonės savininkas ar valdytojas neatlygina išlaidų, susijusių su transporto priemonės priverstiniu nuvežimu.\n\n3. Sprendimą dėl priverstinio transporto priemonės nuvežimo ar uždraudimo toliau važiuoti, jei yra šio straipsnio 1 dalyje nustatyti pagrindai, gali priimti policijos ir Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos pareigūnai, o jei yra šio straipsnio 2 dalyje nustatyti pagrindai, – policijos ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai.\n\n4. Policijos pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės nuvežimo, praneša transporto priemonės savininkui (valdytojui) teisės aktų nustatyta tvarka apie priimtą sprendimą dėl priverstinio transporto priemonės nuvežimo.\n\n5. Priverstinio transporto priemonių nuvežimo ar draudimo vairuoti tvarką nustato Vyriausybė arba jos įgaliota institucija.\n\n6. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonės stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonės stovėjimo aikštelėje, ūkio subjektui transporto priemonės savininkas ir valdytojas atlygina solidariai. Išlaidos turi būti atlygintos iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės.\n\nLietuvos Respublikos\nsaugaus eismo automobilių\nkeliais įstatymo\npriedas\n\nSaugaus eismo automobilių keliais įstatymas yra suderintas su:\n\n1) 1970 m. vasario 6 d. Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, priimtų dėl transporto priemonių ir jų priekabų tipų patvirtinimo, derinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 44) su paskutiniais pakeitimais, padarytais 2007 m. birželio 31 d. Komisijos direktyva 2007/37/EB, iš dalies keičiančia Tarybos direktyvos 70/156/EEB dėl valstybių narių įstatymų, reglamentuojančių motorinių transporto priemonių ir jų priekabų tipo patvirtinimą, suderinimo I ir III priedus (OL 2007 L 161, p. 60);\n\n2) 1991 m. liepos 29 d. Tarybos direktyva 91/439/EEB dėl vairuotojų pažymėjimų (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 317) su paskutiniais pakeitimais, padarytais 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų (OL 2006 L 403, p. 18);\n\n3) 2002 m. kovo 18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių arba triračių transporto priemonių tipo patvirtinimo ir Tarybos direktyvos 92/6 l/EEB panaikinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 399) su paskutiniais pakeitimais, padarytais 2005 m. balandžio 22 d. Komisijos direktyva 2005/30/EB, derindama su technikos pažanga, iš dalies keičiančia Europos Parlamento ir Tarybos direktyvas 97/24/EB ir 2002/24/EB dėl dviračių arba triračių motorinių transporto priemonių tipo patvirtinimo (OL 2005 L 275M, p. 325);\n\n4) 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų (OL 2006 L 403, p. 18);\n\n5) Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pasiūlymas Vyriausybei",
+      "content": "Vyriausybė ar jos įgaliotos institucijos iki 2008 m. liepos 1 d. parengia ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "1. Šis įstatymas, išskyrus 2 straipsnį ir šio straipsnio 2 dalyje numatytą išimtį, įsigalioja nuo 2008 m. liepos 1 d.\n\n2. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 25 straipsnio 6 dalis įsigalioja nuo 2009 m. liepos 1 d."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Baigiamosios nuostatos",
+      "content": "Įsigaliojus šiam įstatymui, netenka galios:\n\n1) Bevariklio transporto įstatymas (Žin., 2000, Nr. 56-1642);\n\n2) Bevariklio transporto įstatymo 15 straipsnio pakeitimo įstatymas (Žin., 2002, Nr. 123-5549);\n\n3) Bevariklio transporto įstatymo 14 straipsnio pakeitimo įstatymas (Žin., 2003, Nr. 61-2770);\n\n4) Bevariklio transporto įstatymo 8 straipsnio pakeitimo ir papildymo įstatymas (Žin., 2004, Nr. 152-5526).\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Antikvarinė motorinė transporto priemonė",
+      "definition": "prieš 50 metų ar anksčiau sukurta transporto priemonė ar jos dalys, nesvarbu, kokia jų išliekamoji kultūrinė vertė.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Automagistralė",
+      "definition": "specialiai motorinių transporto priemonių eismui suprojektuotas ir nutiestas kelias, kuris nėra skirtas įvažiuoti į šalia esančias teritorijas arba iš jų išvažiuoti ir kuris:\n\n1) turi, išskyrus tam tikras vietas arba laikinus atvejus, atskiras dviejų krypčių važiuojamąsias kelio dalis, viena nuo kitos atskirtas transporto priemonėms važiuoti nenumatyta skiriamąja juosta arba išimtiniais atvejais kitais būdais;\n\n2) viename lygyje nekerta jokio kelio, geležinkelio bėgių arba pėsčiųjų tako;\n\n3) pažymėtas kelio ženklu „Automagistralė“.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Automobilis",
+      "definition": "bet kokia motorinė transporto priemonė, skirta važiuoti keliu, vežti krovinius ir (ar) keleivius arba vilkti kitas transporto priemones. Prie automobilių taip pat priskiriami troleibusai, nebėginės elektrinės transporto priemonės, kurioms energija tiekiama elektros laidais. Prie automobilių nepriskiriami motociklai, lengvieji keturračiai motociklai, keturračiai motociklai, mopedai, traktoriai ir savaeigės mašinos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Automobilių kelias",
+      "definition": "visas viešajam eismui naudojamo kelio ar gatvės ploto paviršius.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Bėginė transporto priemonė",
+      "definition": "geležinkelių ar kita bėgiais judanti transporto priemonė.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Blogas matomumas",
+      "definition": "meteorologinių ar kitų reiškinių lemiamas kelio matomumas mažesniu kaip 300 m atstumu, neatsižvelgiant į kelio parametrus.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Didžiausioji leidžiamoji masė",
+      "definition": "visiškai sukomplektuotos transporto priemonės (ar transporto priemonių junginio) su vairuotoju, keleiviais ir kroviniu masė, kurią transporto priemonės gamintojas arba Vyriausybės įgaliotos institucijos nustatė kaip didžiausią leidžiamą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Dviračių takas",
+      "definition": "dviračių eismui skirtas kelias arba kelio dalis, pažymėti kelio ženklu „Dviračių takas“, kuriuose motorinių transporto priemonių eismas draudžiamas. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio ženklais arba kelio inžinerinėmis priemonėmis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Dviratis",
+      "definition": "ne mažiau kaip du ratus turinti transporto priemonė, varoma tik ja važiuojančio asmens raumenų jėga, naudojant pedalus ar rankenas. Neįgaliųjų vežimėliai prie dviračių nepriskiriami.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Egzaminas",
+      "definition": "Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atliekamas teisę vairuoti tam tikro tipo ir kategorijos transporto priemonę įgyti norinčio asmens teorinių žinių, praktinių transporto priemonės valdymo įgūdžių ir gebėjimų patikrinimas.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eismo dalyvis",
+      "definition": "kelių eisme dalyvaujantis asmuo (vairuotojas, pėsčiasis, keleivis).",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eismo įvykis",
+      "definition": "įvykis kelyje, viešose arba privačiose teritorijose, kurio metu, judant transporto priemonei, žuvo ar buvo sužeista žmonių, sugadinta ar apgadinta bent viena transporto priemonė, krovinys, kelias, jo statiniai ar bet koks kitas įvykio vietoje buvęs turtas.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eismo juosta",
+      "definition": "Vyriausybės patvirtintose Kelių eismo taisyklėse (toliau – KET) nustatytomis kelių horizontaliojo ženklinimo linijomis (toliau – ženklinimo linijos) ir (arba) kelio ženklais pažymėta arba nepažymėta išilginė važiuojamosios kelio dalies juosta, kurios pločio pakanka automobiliams važiuoti viena eile.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eismo organizavimas",
+      "definition": "transporto priemonių ir eismo dalyvių judėjimo keliais reguliavimo teisinių ir techninių priemonių bei tvarkomųjų veiksmų kompleksas.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eismo saugumas",
+      "definition": "kelių eismo ypatybių visuma, rodanti, kiek eismo dalyviai yra apsaugoti nuo eismo įvykių ir jų padarinių.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eismo saugumo užtikrinimas",
+      "definition": "veikla, kuria siekiama užkirsti kelią eismo įvykiams, sušvelninti jų padarinius.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Eismo tvarka",
+      "definition": "transporto priemonių, pėsčiųjų, kitų eismo dalyvių judėjimo, sustojimo ir stovėjimo tvarka keliuose, numatyta šiame ir kituose Lietuvos Respublikos įstatymuose, KET ir kituose teisės aktuose.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gyvenvietė",
+      "definition": "namų pristatyta teritorija, kurioje galioja papildomi kelių eismo reikalavimai ir kurios pradžioje keliai pažymėti ženklu „Gyvenvietės pradžia“, o pabaigoje – „Gyvenvietės pabaiga“.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Greitkelis",
+      "definition": "motorinių transporto priemonių eismui skirtas ženklu „Automobilių kelias“ pažymėtas kelias, į kurį įvažiuojama tik per skirtingo lygio ar reguliuojamas sankryžas ir kurio važiuojamojoje dalyje (važiuojamosiose dalyse) draudžiama sustoti ir stovėti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kelio saugumo auditas",
+      "definition": "nustatyta tvarka atliekamas išsamus techninis kelio projekto saugumo charakteristikų patikrinimas visais projekto rengimo ir įgyvendinimo etapais, pradedant nuo planavimo ir baigiant kelio priežiūros darbais, taip pat eksploatuojamo kelio būklės įvertinimas kelių eismo saugumo užtikrinimo požiūriu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kelio ženklas",
+      "definition": "KET nurodytas ženklas, kuriuo nustatoma eismo tvarka, įspėjami eismo dalyviai arba jiems suteikiama informacija.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kelyje dirbantis asmuo",
+      "definition": "asmuo, taisantis ar prižiūrintis kelią, technines eismo reguliavimo priemones, reguliuojantis ir kontroliuojantis eismą, šalinantis nuo kelio arba aptveriantis priverstinai sustojusią transporto priemonę ar kitokią kliūtį, likviduojantis eismo įvykio ar kito nelaimingo atsitikimo padarinius, atliekantis kitus gelbėjimo darbus, teikiantis medicinos pagalbą kelyje esančiam eismo įvykyje nukentėjusiam asmeniui ar kitam asmeniui, kuriam reikalinga medicinos pagalba.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kelių eismo reguliuotojas (toliau",
+      "definition": "reguliuotojas) – asmuo, teisės aktų nustatyta tvarka įgaliotas reguliuoti kelių eismą, dėvintis uniformą ir turintis skiriamąjį ženklą (raištį ant rankovės, reguliuotojo lazdelę, skritulį su raudonu atšvaitu).",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Keturratis motociklas",
+      "definition": "keturratė motorinė transporto priemonė, išskyrus lengvuosius keturračius motociklus, kurios didžiausiasis konstrukcinis greitis didesnis kaip 45 km/h ir (arba) variklio darbinis cilindro tūris didesnis kaip 50 cm3, eksploatacinė masė ne didesnė kaip 400 kg, o kroviniams vežti skirtos eksploatacinė masė ne didesnė kaip 550 kg (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma transporto priemonė) ir kurios didžiausioji naudingoji galia ne didesnė kaip 15 kW.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Lengvasis keturratis motociklas",
+      "definition": "keturratė motorinė transporto priemonė, kurios eksploatacinė masė (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma transporto priemonė) ne didesnė kaip 350 kg, didžiausiasis konstrukcinis greitis ne didesnis 45 km/h ir kurios variklio cilindro darbinis tūris ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji išėjimo galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), didžiausioji tolygioji nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui).",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Maršrutinė transporto priemonė",
+      "definition": "viešojo transporto priemonės (autobusai, troleibusai, maršrutiniai taksi), kuriomis reguliariai vežami keleiviai nustatytu maršrutu su nurodytomis sustojimo vietomis, taip pat mokykliniai autobusai.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Mokyklinis autobusas",
+      "definition": "geltonas skiriamaisiais ženklais paženklintas autobusas, kuriuo vežami vaikai (švietimo įstaigų mokiniai) specialiu maršrutu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Mokinys",
+      "definition": "asmuo, kuris nustatyta tvarka mokosi vairuoti transporto priemonę.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Mopedas",
+      "definition": "dviratė motorinė transporto priemonė, kurios didžiausiasis konstrukcinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis cilindro tūris ne didesnis kaip 50 cm3 (esant vidaus degimo varikliui), o didžiausioji tolygioji nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui), ar triratė motorinė transporto priemonė, kurios didžiausiasis konstrukcinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis cilindro turis ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji išėjimo galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), o didžiausioji tolygioji nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui).",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Motociklas",
+      "definition": "dviratė ar daugiau ratų turinti motorinė transporto priemonė (su šonine priekaba arba be jos), kurios vidaus degimo variklio cilindro (cilindrų) darbinis tūris didesnis kaip 50 cm3 ir (arba) didžiausiasis konstrukcinis greitis didesnis kaip 45 km/h. Prie motociklų taip pat priskiriamos triratės motorinės transporto priemonės, kurių masė be krovinio ne didesnė kaip 400 kg.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Motorinė transporto priemonė",
+      "definition": "variklį turinti transporto priemonė, išskyrus skirtas judėti ne keliais bėgines transporto priemones, traktorius ir kitas savaeiges transporto priemones.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Motorinės transporto priemonės arba priekabos registravimas",
+      "definition": "veiksmai, apimantys motorinės transporto priemonės arba priekabos tapatumo nustatymą, jų duomenų įrašymą į Kelių transporto priemonių registrą, valstybinio numerio ženklų ir transporto priemonės registravimo dokumento išdavimą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Papildomas vairuotojų mokymas",
+      "definition": "mokymas nustatyta tvarka, organizuojamas ir vykdomas tik praktinio mokymo centruose pradedantiesiems vairuotojams, C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojams, motorinių transporto priemonių vairuotojams, nuolat pažeidžiantiems KET reikalavimus ir už tai nubaustiems administracine tvarka, įkaitant specialiosios teisės vairuoti atėmimą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Pėsčiasis",
+      "definition": "asmuo, esantis kelyje ne transporto priemonėje, taip pat važiuojantis neįgaliųjų vežimėliu, riedučiais, riedlente, paspirtuku, vedantis dviratį, mopedą, motociklą, traukiantis (stumiantis) rogutes, vaikišką ar kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Pėsčiųjų perėja",
+      "definition": "važiuojamojoje dalyje esanti pėsčiųjų perėjimo per kelią vieta, pažymėta kelio ženklu „Pėsčiųjų perėja“ ir ženklinimo linijomis arba tik kelio ženklu „Pėsčiųjų perėja“. Pėsčiųjų perėjos ribas žymi ženklinimo linijos, o jeigu jų nėra, – įsivaizduojamos tiesės, einančios nuo kelio ženklų statmenai per kelią.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Pėsčiųjų takas",
+      "definition": "pėstiesiems skirta kelio dalis arba takas, pažymėti atitinkamais kelio ženklais „Pėsčiųjų takas“ arba „Pėsčiųjų ir dviračių takas“.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Pirminis mokymas",
+      "definition": "mokymas, per kurį įgyjama teorinių žinių, praktinių transporto priemonės valdymo įgūdžių ir gebėjimų.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Pradedantysis vairuotojas",
+      "definition": "asmuo, įgijęs teisę vairuoti A, A1, B1, B kategorijos motorinę transporto priemonę ir turintis vairavimo stažą iki dvejų metų.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Praktinio vairuotojų mokymo centras",
+      "definition": "įstaiga ar įmonė, kuriai Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka suteikta teisė organizuoti ir rengti papildomą motorinių transporto priemonių vairuotojų mokymą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Priekaba",
+      "definition": "transporto priemonė, skirta tempti motorine transporto priemone. Priekabomis laikomos ir puspriekabės.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Privalomoji techninė apžiūra",
+      "definition": "Lietuvos Respublikoje įregistruotų transporto priemonių ir priekabų privalomas techninės būklės tikrinimas, apimantis transporto priemonės ir priekabos tapatumo nustatymą ir jų techninės būklės atitikties teisės aktų reikalavimams įvertinimą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Priverstinis transporto priemonės sustojimas (toliau",
+      "definition": "priverstinis sustojimas) – transporto priemonės sustabdymas (sustojimas), kai toliau važiuoti neįmanoma arba pavojinga.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Puspriekabė",
+      "definition": "su motorine transporto priemone sukabinta priekaba taip, kad jos dalis remiasi į motorinę transporto priemonę ir dalis jos masės, taip pat krovinio masės dalis tenka motorinei transporto priemonei.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Sankryža",
+      "definition": "kelių susikirtimo, susijungimo arba atsišakojimo viename lygyje vieta, įskaitant atvirus plotus, kuriuos sudaro minėti kelių susikirtimai, susijungimai arba atsišakojimai. Sankryžomis nelaikomos vietos, kur išvažiuojama iš kelio į esančias šalia jo teritorijas arba įvažiuojama į kelią iš esančių šalia jo teritorijų.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Skiriamoji kelio juosta (toliau",
+      "definition": "skiriamoji juosta) – konstrukcinis kelio elementas (apželdintas veja, želdiniais arba su kelio danga, kurioje įrengti apsauginiai atitvarai), skiriantis gretimas važiuojamąsias kelio dalis ir nenumatytas transporto priemonėms važiuoti arba sustoti (stovėti).",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Specialiosios transporto priemonės",
+      "definition": "operatyvinių tarnybų ir kitos transporto priemonės su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Šaligatvis",
+      "definition": "pėstiesiems skirta kelio dalis, esanti prie važiuojamosios kelio dalies arba atskirta nuo jos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Taktinės ir logistinės transporto priemonės",
+      "definition": "transporto priemonės, skirtos karinėms operacijoms, joms pasirengti ir kitoms kariuomenės funkcijoms atlikti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Tamsusis paros metas",
+      "definition": "laiko tarpas nuo saulėlydžio iki saulėtekio.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Techninės apžiūros kontrolierius",
+      "definition": "asmuo, atliekantis viešojo administravimo funkcijas ir atitinkantis nustatytus reikalavimus, dirbantis techninės apžiūros įmonėje ir turintis nustatyta tvarka išduotą pažymėjimą, kuriuo suteikiama teisė atlikti privalomąją techninę apžiūrą ir priimti sprendimus dėl dokumentų, kuriais patvirtinamas privalomosios techninės apžiūros atlikimas, išdavimo.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Tikrinantys pareigūnai",
+      "definition": "uniformuoti valstybės institucijų (policijos, muitinės, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, aplinkos apsaugos valstybinės kontrolės) įgalioti pareigūnai, kuriems Lietuvos Respublikos įstatymų nustatyta tvarka suteikta teisė stabdyti transporto priemones.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Traktorius",
+      "definition": "ratinė arba vikšrinė ne mažiau kaip dviejų ašių transporto priemonė, kurios didžiausiasis projektinis greitis yra ne mažesnis kaip 6 km/h, o pagrindinė paskirtis – traukti, vilkti, stumti, vežti žemės ir miškų ūkio techniką arba vilkti priekabas, kuri taip pat gali būti pritaikyta kroviniams vežti ir turėti keleivių sėdynių.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonė",
+      "definition": "priemonė žmonėms ir (arba) kroviniams, taip pat ant jos sumontuotai stacionariai įrangai vežti. Ši sąvoka taip pat apima traktorius, savaeiges mašinas ir eismui ne keliais skirtas transporto priemones.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonės ir priekabos atitikties įvertinimas",
+      "definition": "veikla, kuria tiesiogiai ar netiesiogiai nustatoma, kiek transporto priemonė ir jos dalys atitinka nustatytus reikalavimus.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonės masė be krovinio (toliau",
+      "definition": "masė be krovinio) – transporto priemonės masė be vairuotojo, keleivių ir krovinio, tačiau su visa degalų atsarga ir įrankių komplektu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonės masė su kroviniu (toliau",
+      "definition": "masė su kroviniu) – faktinė transporto priemonės masė su vairuotoju, keleiviais ir kroviniu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonės savininkas",
+      "definition": "asmuo, kuriam nuosavybės teise priklauso transporto priemonė.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonės stovėjimas (toliau",
+      "definition": "stovėjimas) – iš anksto numatytas transporto priemonės sustabdymas ilgesniam laikui, negu reikia keleiviams laipinti arba transporto priemonei krauti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonės sustojimas (toliau",
+      "definition": "sustojimas) – iš anksto numatytas transporto priemonės sustabdymas ne ilgesniam laikui, negu reikia keleiviams laipinti arba transporto priemonei krauti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonės vairavimas",
+      "definition": "asmens, esančio transporto priemonėje ar ant jos, veiksmai, kuriais valdoma judanti transporto priemonė.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonės valdytojas",
+      "definition": "asmuo, nuosavybės, patikėjimo, nuomos, panaudos ar kitokiu teisėtu pagrindu valdantis ir naudojantis transporto priemonę.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Transporto priemonių junginys",
+      "definition": "sujungtos kelios transporto priemonės, kurios kelių eisme dalyvauja kaip vienetas.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vairavimo instruktorius",
+      "definition": "asmuo, kuriam šio įstatymo ir kitų teisės aktų nustatyta tvarka suteikta teisė mokyti kitus asmenis vairuoti transporto priemones.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vairuotojas",
+      "definition": "asmuo, vairuojantis transporto priemonę. Vairuotojams gali būti prilyginami asmenys, dalyvaujantys eisme pagal šiame įstatyme apibrėžtus papildomus reikalavimus (vadeliotojai, raiteliai, asmenys, varantys keliu gyvulius ar paukščius), taip pat asmenys, kurie moko vairuoti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vairuotojo pažymėjimas",
+      "definition": "teisės aktų nustatyta tvarka išduotas dokumentas, kuriuo patvirtinama asmens teisė vairuoti tam tikros kategorijos motorinę transporto priemonę (priemones) ir nurodomos vairavimo sąlygos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Važiuojamoji kelio dalis",
+      "definition": "kelio dalis transporto priemonėms važiuoti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Viešasis eismas",
+      "definition": "procesas, atsirandantis judant žmonėms ir kroviniams keliais transporto priemonėmis arba be jų kelių ribose.",
+      "source_provision": "art2"
+    }
+  ]
+}

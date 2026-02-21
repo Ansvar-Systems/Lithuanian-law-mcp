@@ -1,0 +1,37 @@
+{
+  "id": "lt-law-xiv-1350",
+  "type": "statute",
+  "title": "Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 35, 38 ir 105 straipsnių pakeitimo įstatymas",
+  "short_name": "XIV-1350",
+  "status": "in_force",
+  "issued_date": "2022-06-30",
+  "in_force_date": "2023-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/ba2d7a10034611edb32c9f9d8ba206f8/SJxXhIWeeW",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 35 straipsnio pakeitimas",
+      "content": "Pakeisti 35 straipsnio 3 dalį ir ją išdėstyti taip:\n\n„3. Šiame straipsnyje nurodytus skundus (prašymus, pareiškimus) ir jų priedus paduodant teismui tik elektroninių ryšių priemonėmis, taip pat išreiškus pageidavimą procesinius dokumentus gauti tik šiomis priemonėmis, mokama 75 procentai už atitinkamą skundą (prašymą, pareiškimą) mokėtinos žyminio mokesčio sumos. Jeigu pareiškėjas bylos nagrinėjimo metu atsisako procesinius dokumentus gauti tik elektroninių ryšių priemonėmis, pareiškėjas primoka trūkstamą žyminio mokesčio dalį.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 38 straipsnio pakeitimas",
+      "content": "Papildyti 38 straipsnio 1 dalį 9 punktu:\n\n„9) skundą (prašymą, pareiškimą) palikus nenagrinėtą, kai pareiškėjas neprimoka trūkstamos žyminio mokesčio dalies.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 105 straipsnio pakeitimas",
+      "content": "Pakeisti 105 straipsnio 6 punktą ir jį išdėstyti taip:\n\n„6) jeigu bylos nagrinėjimo pirmosios instancijos teisme metu paaiškėja, kad skundas (prašymas, pareiškimas) neatitinka jo turiniui keliamų reikalavimų arba kad nesumokėtas žyminis mokestis ar neprimokėta trūkstama žyminio mokesčio dalis. Šiuo pagrindu skundas (prašymas, pareiškimas) gali būti paliekamas nenagrinėtas tik tuo atveju, jeigu pareiškėjas per teismo nustatytą terminą trūkumų nepašalina;“."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Įstatymo įsigaliojimas ir taikymas",
+      "content": "1. Šis įstatymas įsigalioja 2023 m. sausio 1 d.\n\n2. Šis įstatymas taikomas po šio įstatymo įsigaliojimo teismui pateiktiems skundams (prašymams, pareiškimams).\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda\n\npart_301bdd90e7dc4989abbb2e14cea6beb6_end"
+    }
+  ],
+  "definitions": []
+}

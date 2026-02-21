@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiv-1960",
+  "type": "statute",
+  "title": "Lietuvos Respublikos farmacijos įstatymo Nr. X-709 35 straipsnio pakeitimo įstatymas",
+  "short_name": "XIV-1960",
+  "status": "in_force",
+  "issued_date": "2023-05-16",
+  "in_force_date": "2023-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/4c7d8920006011ee9978886e85107ab2/BLkZWrWiMF",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 35 straipsnio pakeitimas",
+      "content": "Pakeisti 35 straipsnio 13 dalį ir ją išdėstyti taip:\n\n„13. Vaistininko padėjėjo (farmakotechniko) teikiamos farmacinės paslaugos, vaistinių preparatų pardavimo (išdavimo) ir ekstemporaliųjų vaistinių preparatų gamybos priežiūra vaistinėje suprantama kaip receptų, pagal kuriuos vaistininko padėjėjas (farmakotechnikas) pardavė (išdavė) vaistinius preparatus, patikrinimas, jeigu reikia, vaistininko padėjėjo (farmakotechniko) konsultavimas (žodžiu ar ryšio priemonėmis), parenkant gyventojui reikalingus vaistinius preparatus, teikiant farmacinę informaciją, vaistininko padėjėjo (farmakotechniko) pagamintų ekstemporaliųjų vaistinių preparatų patikrinimas. Vienas vaistininkas ryšio priemonėmis gali prižiūrėti ne daugiau kaip tris vaistininko padėjėjus (farmakotechnikus).“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2023 m. liepos 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda\n\npart_04effb1e1e6f4ca5a7d905f582809114_end"
+    }
+  ],
+  "definitions": []
+}

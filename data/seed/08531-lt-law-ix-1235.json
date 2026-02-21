@@ -1,0 +1,67 @@
+{
+  "id": "lt-law-ix-1235",
+  "type": "statute",
+  "title": "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 3, 5, 6, 7, 8, 9, 10 straipsnių ir priedėlio pakeitimo įstatymas",
+  "short_name": "IX-1235",
+  "status": "in_force",
+  "issued_date": "2002-12-10",
+  "in_force_date": "2003-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.604034235568",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 3 straipsnio 2 punkto pakeitimas",
+      "content": "3 straipsnio 2 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodžius „gyventojų“ ir šį punktą išdėstyti taip:\n\n„2) šio Įstatymo priedėlyje nurodytą gyventojų pajamų mokesčio dalį (procentais), iš apskaičiuotos gyventojų pajamų mokesčio sumos atskaitęs atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu patvirtintas šio mokesčio į Privalomojo sveikatos draudimo fondo biudžetą ir į valstybės biudžetą dalis (procentais). Likusi gyventojų pajamų mokesčio dalis pervedama į Valstybės iždo sąskaitą;“."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 5 straipsnio 1 dalies 1 punkto pakeitimas",
+      "content": "5 straipsnio 1 dalies 1 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir šį punktą išdėstyti taip:\n\n„1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo 6 ir 7 straipsnius (kai åL1i > åPi, tai BD1 = åL1i – åPi; kai åL1i <= åPi, tai BD1 = 0);“."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 6 straipsnio pakeitimas",
+      "content": "6 straipsnyje vietoj žodžių „fizinių asmenų“ įrašyti žodžius „gyventojų“ ir šį straipsnį išdėstyti taip:\n\n„6 straipsnis.       Lėšų, skiriamų savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dydis\n\nLėšas (L), skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų pajamų mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos prie Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos mokesčių administratoriai perveda į Valstybės iždo sąskaitą (3 straipsnio 2 punktas, (L = åPi).“"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. 7 straipsnio pakeitimas(",
+      "content": "7 straipsnyje vietoj žodžių „fizinių asmenų“ įrašyti žodžius „gyventojų“ ir šį straipsnį išdėstyti taip:\n\n„7 straipsnis.       Lėšų, skiriamų savivaldybių gyventojų pajamų mokesčiui išlyginti, paskirstymas\n\n1. Iš lėšų (L), skiriamų savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų skirtumams išlyginti, dalies savivaldybių gyventojų pajamų mokesčiui išlyginti (L1) remiamos tos savivaldybės, kurių faktinės praėjusio mėnesio pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui yra mažesnės už faktines praėjusio mėnesio visų savivaldybių vidutines pajamas iš gyventojų pajamų mokesčio vienam gyventojui.\n\n2. Remiama savivaldybė gauna nustatytą vienodą dalį (h) skirtumo, susidarančio tarp faktinių praėjusio mėnesio visų savivaldybių vidutinių pajamų iš gyventojų pajamų mokesčio vienam gyventojui (xf) ir faktinių praėjusio mėnesio pajamų iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui (xif), pagal formulę L1i = Gi · h · (xf – xif) – (BD1i /12), čia:\n\n1) L1i – i-ajai savivaldybei skiriama lėšų dalis gyventojų pajamų mokesčiui išlyginti;\n\n2) Gi – i-osios savivaldybės gyventojų skaičius;\n\n3) xf – faktinės praėjusio mėnesio visų savivaldybių vidutinės pajamos iš gyventojų pajamų mokesčio vienam gyventojui;\n\n4) xif – faktinės praėjusio mėnesio i-osios savivaldybės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui;\n\n5) BD1i – i-ajai savivaldybei skiriama valstybės biudžeto bendrosios dotacijos dalis gyventojų pajamų mokesčiui išlyginti;\n\n6) h – 0,9 – išlyginimo koeficientas, nuo kurio priklauso kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui išlyginti dalis.\n\n3. Kai Valstybės iždo sąskaitoje pritrūksta lėšų gyventojų pajamų mokesčiui išlyginti, apskaičiuota trūkstama suma pervedama kiekvienai savivaldybei iš kito mėnesio įplaukų Valstybės iždo sąskaitoje. Jei pajamos iš gyventojų pajamų mokesčio, apskaičiuotos pagal šio straipsnio 2 dalies formulę, liktų neišlygintos, trūkstama suma dengiama iš valstybės biudžeto.\n\n4. Valstybės biudžeto bendrosios dotacijos dalis (BD1), skiriama savivaldybei ateinančių biudžetinių metų gyventojų pajamų mokesčiui išlyginti, apskaičiuojama pagal formulę BD1i= BD1 · [Gi · h · (xf – xif)] / åGi · h · (xf – xif), čia:\n\n1) BD1i – i-ajai savivaldybei skiriama valstybės biudžeto bendrosios dotacijos dalis gyventojų pajamų mokesčiui išlyginti;\n\n2) BD1 – valstybės biudžeto bendrosios dotacijos dalis gyventojų pajamų mokesčiui išlyginti;\n\n3) xf – faktinės (arba numatomos faktiškai gauti) biudžetinių metų visų savivaldybių vidutinės pajamos iš gyventojų pajamų mokesčio vienam gyventojui;\n\n4) xif – faktinės (arba numatomos faktiškai gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui.\n\n5. Faktinės pajamos iš gyventojų pajamų mokesčio vienam savivaldybės gyventojui ir visų savivaldybių gyventojams apskaičiuojamos pagal nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.“"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. 8 straipsnio 3 dalies 3 punkto ir 4 dalies 3 punkto pakeitimas",
+      "content": "1. 8 straipsnio 3 dalies 3 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir šį punktą išdėstyti taip:\n\n„3) Eni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuota pagal formulę , čia Rni – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni, imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.“\n\n2. 8 straipsnio 4 dalies 3 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir šį punktą išdėstyti taip:\n\n„3) Eni – i-ajai savivaldybei tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis, apskaičiuojama pagal formulę , čia Rni – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni, imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.“"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. 9 straipsnio pakeitimas",
+      "content": "9 straipsnyje vietoj žodžių „fizinių asmenų“ įrašyti žodžius „gyventojų“ ir šį straipsnį išdėstyti taip:\n\n„9 straipsnis. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai\n\nSavivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai yra išlyginimo koeficientas h, nuo kurio priklauso kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis (procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie demografiniai, socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys šių rodiklių įtaką savivaldybių išlaidų struktūrų skirtumų pasikeitimui:\n\n1) rodiklis R1 – vietinių kelių ir gatvių ilgis, kurio koeficientas K1 lygus 0,13;\n\n2) rodiklis R2 – savivaldybės teritorijos plotas, kurio koeficientas K2 lygus 0,17;\n\n3) rodiklis R3 – pensinio amžiaus gyventojų skaičius, kurio koeficientas K3 lygus 0,13;\n\n4) rodiklis R4 – vaikų nuo 7 iki 17 metų skaičius, kurio koeficientas K4 lygus 0,11;\n\n5) rodiklis R5 – vaikų nuo 0 iki 6 metų skaičius, kurio koeficientas K5 lygus 0,25;\n\n6) rodiklis R6 – savivaldybei priklausančių (iš savivaldybės biudžeto finansuojamų) švietimo įstaigų patalpų naudingas plotas, kurio koeficientas K6 lygus 0,13;\n\n7) rodiklis R7 – savivaldybės teritorijos užstatytas plotas, kurio koeficientas K7 lygus 0,04;\n\n8) rodiklis R8 – kurorto statusą turinčių savivaldybių gyventojų tankumui priešingas rodiklis, kurio koeficientas K8 lygus 0,04.\n\n2. Savivaldybės gyventojų skaičius, demografinių, socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys, kuriais vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių gyventojų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių duomenų bazėse.“"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. 10 straipsnio 1 dalies 1 punkto, 2 ir 4 dalių pakeitimai",
+      "content": "1. 10 straipsnio 1 dalies 1 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir šį punktą išdėstyti taip:\n\n„1) gyventojų pajamų mokesčio dalį (į kurią neįskaitytos Privalomojo sveikatos draudimo fondo biudžetui ir valstybės biudžetui skiriamos dalys), tenkančią visų savivaldybių biudžetams. Jos dydis koreguojamas, atsižvelgiant į einamųjų ar ateinančių biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus savivaldybių išlaidų ar pajamų pokyčius;“.\n\n2. Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:\n\n„2. Patvirtintas valstybės biudžeto dotacijų sumas, nurodytas šio straipsnio 1 dalyje, išskyrus specialią tikslinę dotaciją valstybės investicijų programoje numatytiems projektams ir priskirtajai (ribotai savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo savivaldybių funkcijai finansuoti, Finansų ministerija perveda kas ketvirtį lygiomis dalimis. Speciali tikslinė dotacija valstybės investicijų programoje numatytiems projektams finansuoti pervedama atsižvelgiant į faktiškai atliktus darbus, nurodytus Finansų ministerijai savivaldybių teikiamose paraiškose, o speciali tikslinė dotacija priskirtajai (ribotai savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo savivaldybių funkcijai finansuoti pervedama atsižvelgiant į lėšų poreikį švietimo įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas mokėti.“\n\n3. 10 straipsnio 4 dalyje vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir šią dalį išdėstyti taip:\n\n„4. Jeigu Seimas ar Vyriausybė biudžetiniais metais priima ar ateinančiais biudžetiniais metais numato priimti sprendimus, dėl kurių keičiasi savivaldybių biudžetų pajamos ir išlaidos, pajamų ir išlaidų pokyčiai, išskyrus pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami. Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o ateinančiais biudžetiniais metais koreguojama gyventojų pajamų mokesčio dalis, tenkanti visų savivaldybių biudžetams.“"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Įstatymo priedėlio pakeitimas",
+      "content": "1. Įstatymo priedėlio pavadinime vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir priedėlio pavadinimą išdėstyti taip:\n\n„SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMOS GYVENTOJŲ PAJAMŲ MOKESČIO DALYS (PROCENTAIS)“.\n\n2. Įstatymo priedėlio eilutėje „Visagino miesto 100“ išbraukti žodį „miesto“ ir šią eilutę išdėstyti taip:\n\n„Visagino 100“.\n\n3. Įstatymo priedėlio eilutėje „Ignalinos rajono 78“ vietoj skaičiaus „78“ įrašyti skaičių „100“ ir šią eilutę išdėstyti taip:\n\n„Ignalinos rajono 100“."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS\n______________"
+    }
+  ],
+  "definitions": []
+}

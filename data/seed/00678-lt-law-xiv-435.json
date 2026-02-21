@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiv-435",
+  "type": "statute",
+  "title": "Lietuvos Respublikos darbo kodekso 139 straipsnio pakeitimo įstatymas",
+  "short_name": "XIV-435",
+  "status": "in_force",
+  "issued_date": "2021-06-22",
+  "in_force_date": "2022-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/19e67600dfe911eb9f09e7df20500045/oqiRdXPlVi",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 139 straipsnio pakeitimas",
+      "content": "Pakeisti 139 straipsnio 3 dalį ir ją išdėstyti taip:\n\n„3. Darbo užmokestis privalo būti mokamas pinigais. Darbdavio ar kitų asmenų perduoti daiktai ar suteiktos paslaugos negali būti laikomi darbo užmokesčiu, išskyrus šio kodekso 140 straipsnio 6 dalyje nurodytus atvejus. Darbo užmokestis ir kitos su darbo santykiais susijusios išmokos, taip pat dienpinigiai ir komandiruotės išlaidų kompensacijos privalo būti mokami pavedimu į darbuotojo nurodytą darbuotojo mokėjimo sąskaitą, išskyrus jūrininkus, kuriems taikoma Lietuvos Respublikos prekybinės laivybos įstatymo nustatyta darbo užmokesčio mokėjimo tvarka.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2022 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

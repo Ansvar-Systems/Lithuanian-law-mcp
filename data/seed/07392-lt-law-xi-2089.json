@@ -1,0 +1,459 @@
+{
+  "id": "lt-law-xi-2089",
+  "type": "statute",
+  "title": "Lietuvos Respublikos komercinio arbitražo įstatymo pakeitimo įstatymas",
+  "short_name": "XI-2089",
+  "status": "in_force",
+  "issued_date": "2012-06-21",
+  "in_force_date": "2012-06-30",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.29DD25DE4E1D/oODcjLyQCF",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos komercinio arbitražo įstatymo nauja redakcija",
+      "content": "Pakeisti Lietuvos Respublikos komercinio arbitražo įstatymą ir jį išdėstyti taip:\n\n„LIETUVOS RESPUBLIKOS KOMERCINIO ARBITRAŽO ĮSTATYMAS\n\nI SKYRIUS\nBENDROSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art1",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis įstatymas reglamentuoja Lietuvos Respublikos teritorijoje vykstantį arbitražinį nagrinėjimą, nustato arbitražinio susitarimo formos ir turinio reikalavimus, arbitražo teismo sudarymą ir kompetenciją, laikinųjų apsaugos priemonių taikymą ir preliminarios nutarties priėmimą, arbitražo teismo sprendimų priėmimą ir bylos užbaigimą nepriėmus sprendimo iš esmės, arbitražo teismo sprendimo panaikinimo tvarką, užsienio arbitražo sprendimų pripažinimo ir vykdymo Lietuvos Respublikos teritorijoje tvarką, reglamentuoja kitus su arbitražu susijusius klausimus."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo taikymo sritis",
+      "content": "1. Neatsižvelgiant į ginčo šalių pilietybę ar nacionalinę priklausomybę ir į tai, ar ginčo šalys yra fiziniai ar juridiniai asmenys, taip pat į tai, ar arbitražo procesą organizuoja nuolatinė arbitražo institucija, ar vyksta ad hoc arbitražas, šis įstatymas taikomas arbitražui, kurio vieta yra Lietuvos Respublikos teritorijoje.\n\n2. Šio įstatymo nuostatos, reglamentuojančios teisminį arbitražinio susitarimo pripažinimą, šio susitarimo nuginčijimą, teisminį laikinųjų apsaugos priemonių taikymą bei užsienio arbitražų sprendimų pripažinimą ir vykdymą, yra taikomos neatsižvelgiant į tai, kurioje valstybėje yra arbitražo vieta ar kur atliekami atskiri arbitražo procesiniai veiksmai."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "3",
+      "title": "3 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Ad hoc arbitražas – arbitražas, kai šalių susitarimu ginčo sprendimo procedūros neorganizuoja nuolatinė arbitražo institucija.\n\n2. Arbitras – fizinis asmuo, paskirtas arba ginčo šalies, arba ginčo šalių susitarimu, arba šio įstatymo nustatyta tvarka ginčui spręsti.\n\n3. Arbitražinio nagrinėjimo vieta – vieta, kurioje rengiami arbitražo teismo posėdžiai ir atliekami kiti komercinio ginčo nagrinėjimo veiksmai.\n\n4. Arbitražinis nagrinėjimas – komercinio arbitražo procesas nuo ginčo nagrinėjimo arbitraže pradžios iki arbitražo teismo sprendimo arba nutarties, kuria byla užbaigiama nepriėmus sprendimo iš esmės, įsiteisėjimo dienos.\n\n5. Arbitražinis susitarimas – dviejų ar daugiau šalių susitarimas perduoti spręsti arbitražo teismui visus ar tam tikrus ginčus, kilusius ar galinčius kilti tarp jų dėl kokių nors konkrečių sutartinių ar kitokių teisinių santykių, kurie gali būti arbitražinio nagrinėjimo dalykas. Valstybė, savivaldybė ir kiti viešieji juridiniai asmenys taip pat gali sudaryti arbitražinį susitarimą.\n\n6. Arbitražo procedūros reglamentas – nuolatinės arbitražo institucijos patvirtintos taisyklės, kuriomis vadovaujamasi nagrinėjant ir sprendžiant ginčus arbitraže.\n\n7. Arbitražo teismas – arbitras ar arbitrų kolegija, sprendžianti arbitražo bylą.\n\n8. Arbitražo vieta – arbitražiniame susitarime nurodyta arba arbitražo teismo nustatyta arbitražo vieta. Jeigu šalys nėra susitarusios dėl arbitražo vietos arba šalių susitarimas dėl arbitražo vietos nėra aiškus ir kol arbitražo vieta nenustatyta arbitražo teismo, arbitražo vieta laikoma nuolatinės arbitražo institucijos buveinė, ad hoc arbitražo atveju – atsakovo gyvenamoji vieta ar buveinė, o kai yra keli atsakovai, – vieno iš atsakovų gyvenamoji vieta ar buveinė ieškovo pasirinkimu. Arbitražo vieta gali nesutapti su arbitražinio nagrinėjimo vieta.\n\n9. Institucinis arbitražas – arbitražas, kai šalių susitarimu ginčo sprendimą organizuoja, administruoja, sudaro sąlygas arbitražiniam nagrinėjimui ir kitus šalių susitarimu suteiktus įgaliojimus vykdo nuolatinė arbitražo institucija.\n\n10. Komercinis arbitražas (toliau – arbitražas) – komercinio ginčo sprendimo būdas, kai fiziniai ar juridiniai asmenys, remdamiesi savo susitarimu, tarpusavio ginčui spręsti kreipiasi ar įsipareigoja kreiptis ne į teismą, o į savo susitarimu arba šio įstatymo nustatyta tvarka paskirtą arbitrą (arbitrus) (nesvarbu, ar arbitražo procesą organizuoja nuolatinė arbitražo institucija (institucinis arbitražas), ar vyksta ad hoc arbitražas), kuris (kurie) priima arbitražo teismo sprendimą, privalomą ginčo šalims.\n\n11. Komercinis ginčas – bet koks šalių nesutarimas dėl fakto ar (ir) teisės klausimų, kilęs iš sutartinių ar nesutartinių teisinių santykių, įskaitant prekių tiekimą ar paslaugų teikimą, distribuciją, komercinį atstovavimą, faktoringą, nuomą, rangą, konsultavimą, inžinerines paslaugas, licencijavimą, investavimą, finansavimą, bankinę veiklą, draudimą, koncesiją, jungtinės veiklos kūrimą ir vykdymą, bet kokią kitokią pramonės ar verslo kooperaciją, žalos, padarytos pažeidus konkurencijos teisės normas, atlyginimą, sutartis, sudarytas viešųjų pirkimų pagrindu, prekių ar keleivių vežimą oru, jūra ir sausuma, bet tuo neapsiribojant.\n\n12. Nuolatinė arbitražo institucija – nuolatos arbitražą organizuojantis ir administruojantis viešasis juridinis asmuo.\n\n13. Nuolatinės arbitražo institucijos pirmininkas – fizinis asmuo, nuolatinės arbitražo institucijos steigimo dokumentų nustatyta tvarka paskirtas organizuoti šios institucijos veiklą ir atlikti jos administravimo bei šio įstatymo jam priskirtas funkcijas.\n\n14. Teismas – bet kuri institucija ar organizacija, priklausanti valstybės teismų sistemai.\n\n15. Užsienio arbitražo sprendimas – arbitražo teismo sprendimas, priimtas arbitražo byloje, kai arbitražo vieta yra ne Lietuvos Respublikoje."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "4",
+      "title": "4 straipsnis. Įstatymo ir Įstatymo sąvokų aiškinimas",
+      "content": "1. Visais atvejais, kai šiame įstatyme ginčo šalims suteikiama laisvė nuspręsti dėl tam tikro klausimo, išskyrus teisę pasirinkti ginčo sprendimui taikytiną materialinę teisę, ginčo šalys gali pačios nuspręsti dėl šio klausimo arba paskirti bet kurį trečiąjį asmenį ar instituciją, kad šie priimtų sprendimą.\n\n2. Ginčo šalys turi teisę savo bendru susitarimu nukrypti nuo visų šio įstatymo normų, išskyrus imperatyviąsias normas.\n\n3. Šalių susitarimas dėl ginčo nagrinėjimo arbitraže apima ir bet kurių arbitražo procedūros reglamentų, nurodytų minėtame susitarime, nuostatų taikymą.\n\n4. Šio įstatymo nuostatos dėl ieškinio ar atsiliepimo į ieškinį mutatis mutandis taikomos ir priešieškiniui ar atsiliepimui į priešieškinį.\n\n5. Šiam įstatymui ir jame vartojamoms sąvokoms aiškinti subsidiariai taikytinas 1985 metų Jungtinių Tautų Tarptautinės prekybos teisės komisijos pavyzdinis įstatymas dėl tarptautinio komercinio arbitražo su vėlesniais pakeitimais ir papildymais.\n\n6. Šio įstatymo reguliuojami, tačiau išsamiai nereglamentuoti klausimai turi būti sprendžiami vadovaujantis teisingumo, protingumo, sąžiningumo ir kitais bendraisiais teisės principais.\n\n7. Šis įstatymas privalo būti aiškinamas taip, kad pagal šį įstatymą vykstantis arbitražo procesas maksimaliai atitiktų arbitražo principus."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "5",
+      "title": "5 straipsnis. Nuolatinė arbitražo institucija",
+      "content": "1. Lietuvos Respublikos asociacijos, atstovaujančios Lietuvos Respublikos gamybos, verslo ir teisinės veiklos ūkio subjektams, gali steigti savarankiškus ribotos civilinės atsakomybės juridinius asmenis, kurių teisinė forma yra nuolatinė arbitražo institucija. Nuolatinės arbitražo institucijos pagrindinė funkcija yra organizuoti ir administruoti arbitražą, vykdyti kitas ginčo šalių suteiktas ir su nuolatinės arbitražo institucijos veikla susijusias funkcijas.\n\n2. Šio straipsnio 1 dalyje numatytų nuolatinių arbitražo institucijų steigimo ir valdymo, atstovavimo ir atsakomybės klausimai sprendžiami įstatymų nustatyta tvarka. Nuolatinės arbitražo institucijos steigėjų parengtas ir patvirtintas nuolatinės arbitražo institucijos statutas teisės aktų nustatyta tvarka registruojamas Juridinių asmenų registre.\n\n3. Nuolatinei arbitražo institucijai draudžiama spręsti ginčus arbitražu ar daryti bet kokią įtaką arbitražiniam nagrinėjimui, arbitražo teismui ar arbitrams, išskyrus patarimų teikimą arbitražo teismui dėl arbitražo teismo sprendimo formos. Nuolatinė arbitražo institucija arbitražinio nagrinėjimo metu turi tik tas teises, kurias ginčo šalys jai suteikė savo susitarimu. Nuolatinė arbitražo institucija negali atsisakyti atlikti savo funkcijas, jeigu apie savo veiklą ji yra paskelbusi viešai ir arbitražinio nagrinėjimo šalys sumoka nuolatinei arbitražo institucijai jos nustatytas rinkliavas.\n\n4. Nuolatinė arbitražo institucija patvirtina arbitražo procedūros reglamentą. Nuolatinės arbitražo institucijos patvirtinti arbitražo procedūros reglamentai turi susitarimo tarp šalių teisinę reikšmę tik tuo atveju, kai šalys arbitražiniu susitarimu nutarė juos taikyti.\n\n5. Nuolatinei arbitražo institucijai vadovauja pirmininkas. Nuolatinės arbitražo institucijos pirmininkas atlieka jam šiame įstatyme nustatytas ir nuolatinės arbitražo institucijos paskirtas funkcijas."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "6",
+      "title": "6 straipsnis. Rašytinių pranešimų gavimas",
+      "content": "Jeigu šalys nesusitarė kitaip, laikoma, kad:\n\n1) bet koks rašytinis pranešimas yra gautas, jeigu jis adresatui įteiktas asmeniškai, pristatytas į jo buveinę, gyvenamąją vietą arba pagal nurodytą pašto adresą, arba elektroninių ryšių galiniais įrenginiais. Jeigu atlikus informacijos paiešką neįmanoma nustatyti nė vienos iš šių vietų, laikoma, kad rašytinis pranešimas yra adresato gautas, kai jis registruotu laišku ar bet kuria kita priemone, kuri liudija siuntėjo pranešimo išsiuntimą, yra pristatytas į paskutinę žinomą adresato buveinę, gyvenamąją vietą arba paskutiniu žinomu pašto adresu, arba elektroninių ryšių galiniais įrenginiais;\n\n2) pranešimas yra gautas tą dieną, kurią jis įteiktas arba pristatytas pagal šio straipsnio 1 punktą."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "7",
+      "title": "7 straipsnis. Teisės į prieštaravimą atsisakymas",
+      "content": "1. Jeigu ginčo šalis, žinodama, kad yra pažeista jos teisė, vis tiek dalyvauja arbitražinio nagrinėjimo procese ir per protingą laiką nepareiškia savo nesutikimo dėl tokio pažeidimo, laikoma, kad šalis atsisako savo teisės į prieštaravimą.\n\n2. Šio straipsnio 1 dalyje nustatyta taisyklė taip pat taikoma reikalavimams dėl arbitražinio susitarimo pripažinimo negaliojančiu, dėl jo panaikinimo, dėl arbitražo teismo sprendimo pripažinimo ir vykdymo."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "8",
+      "title": "8 straipsnis. Arbitražo proceso principai",
+      "content": "1. Arbitražo teismas, nuolatinė arbitražo institucija ir jos pirmininkas, spręsdami šiame įstatyme reglamentuojamus klausimus, yra nepriklausomi.\n\n2. Teismai negali kištis į arbitražo teismo, į nuolatinės arbitražo institucijos ir jos pirmininko veiklą, išskyrus šiame įstatyme numatytus atvejus.\n\n3. Arbitražo procesas yra konfidencialus.\n\n4. Arbitražo šalių procesinės teisės yra lygios.\n\n5. Arbitražo šalys turi teisę laisvai disponuoti savo teisėmis.\n\n6. Arbitražo procese laikomasi šalių autonomiškumo, rungimosi, ekonomiškumo, kooperacijos ir operatyvumo principų."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "9",
+      "title": "9 straipsnis. Teismo pagalba arbitražo procese",
+      "content": "1. Arbitražinis susitarimas nėra kliūtis šaliai ar šalims arba šio įstatymo numatytais atvejais arbitražo teismui kreiptis į:\n\n1) Vilniaus apygardos teismą dėl šio įstatymo 14, 16, 17, 25, 27, 36 ir 38 straipsniuose nurodytų veiksmų atlikimo;\n\n2) Lietuvos apeliacinį teismą dėl šio įstatymo 26, 50 ir 51 straipsniuose nurodytų veiksmų atlikimo.\n\nII SKYRIUS\nARBITRAŽINIS SUSITARIMAS"
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II SKYRIUS ARBITRAŽINIS SUSITARIMAS",
+      "section": "10",
+      "title": "10 straipsnis. Arbitražinio susitarimo forma",
+      "content": "1. Arbitražinis susitarimas gali būti įformintas kaip arbitražinė išlyga, įrašyta sutartyje, arba kaip šalių sudaryta atskira sutartis.\n\n2. Arbitražinis susitarimas sudaromas raštu ir laikomas galiojančiu, jeigu:\n\n1) įformintas bendru šalių pasirašytu dokumentu arba\n\n2) sudarytas šalims apsikeičiant raštais (kurie gali būti siunčiami elektroninių ryšių galiniais įrenginiais, jeigu yra užtikrintas perduodamos informacijos vientisumas ir autentiškumas) ar kitais dokumentais, kuriuose fiksuojamas tokio susitarimo sudarymo faktas; arba\n\n3) sudarytas naudojantis elektroninių ryšių galiniais įrenginiais, jeigu yra užtikrintas perduodamos informacijos vientisumas ir autentiškumas ir juose esanti informacija yra prieinama toliau naudoti; arba\n\n4) šalys apsikeičia ieškiniu ir atsiliepimu į ieškinį, kuriuose viena šalis tvirtina, o kita šalis neneigia, kad jos sudarė arbitražinį susitarimą; arba\n\n5) yra kitokių rašytinių įrodymų, kad šalys yra sudariusios ar pripažįsta arbitražinį susitarimą.\n\n3. Nuoroda šalių sudarytoje sutartyje į dokumentą, kuriame yra arbitražinė išlyga, laikoma arbitražiniu susitarimu, jeigu ta sutartis ar tas dokumentas atitinka šio straipsnio 2 dalyje nustatytus formos reikalavimus."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II SKYRIUS ARBITRAŽINIS SUSITARIMAS",
+      "section": "11",
+      "title": "11 straipsnis. Arbitražinio susitarimo teisminis pripažinimas",
+      "content": "1. Teismas, gavęs ieškinį dėl klausimo, dėl kurio šalys yra sudariusios šio įstatymo 10 straipsnyje nustatytos formos arbitražinį susitarimą, atsisako jį priimti. Jeigu arbitražinio susitarimo sudarymo faktas paaiškėja po to, kai teismas priėmė ieškinį, teismas ieškinį dėl klausimo, dėl kurio yra sudarytas arbitražinis susitarimas, palieka nenagrinėtą.\n\n2. Arbitražinis susitarimas gali būti pripažintas negaliojančiu teismo tvarka vienos iš šalių reikalavimu bendrais sandorių pripažinimo negaliojančiais pagrindais arba nustačius, kad pažeisti šio įstatymo 10 ir 12 straipsnių reikalavimai. Prasidėjus arbitražiniam nagrinėjimui, arbitražinio susitarimo negaliojimo klausimas sprendžiamas tik šio įstatymo 19 straipsnyje nustatyta tvarka.\n\n3. Teismas privalo sustabdyti bylą, jeigu tos bylos negalima nagrinėti tol, kol bus išspręsta arbitražo byla."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "II SKYRIUS ARBITRAŽINIS SUSITARIMAS",
+      "section": "12",
+      "title": "12 straipsnis. Ginčai, kurie negali būti perduoti arbitražui",
+      "content": "1. Visi ginčai gali būti sprendžiami arbitraže, išskyrus šiame straipsnyje nustatytas išimtis.\n\n2. Arbitražas negali spręsti ginčų, nagrinėtinų administracinių bylų teisena, ir nagrinėti bylų, kurių nagrinėjimas priskirtas Lietuvos Respublikos Konstitucinio Teismo kompetencijai. Arbitražui negali būti perduoti ginčai, kylantys iš šeimos teisinių santykių, ir ginčai dėl patentų, prekių ženklų ir dizaino registracijos. Arbitražui negali būti perduoti ginčai, kylantys iš darbo ir vartojimo sutarčių, išskyrus atvejus, kai arbitražinis susitarimas buvo sudarytas po to, kai kilo ginčas.\n\n3. Arbitražui negali būti perduoti ginčai, jeigu viena iš šalių yra valstybės ar savivaldybės įmonė, taip pat valstybės ar savivaldybės įstaiga ar organizacija, išskyrus Lietuvos banką, jeigu dėl arbitražinio susitarimo nebuvo gautas išankstinis šios įmonės, įstaigos ar organizacijos steigėjo sutikimas.\n\n4. Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota valstybės institucija bendra tvarka gali sudaryti arbitražinį susitarimą dėl ginčų, susijusių su Vyriausybės ar jos įgaliotos valstybės institucijos sudarytomis komercinėmis sutartimis.\n\nIII SKYRIUS\nARBITRAŽO TEISMO SUDARYMAS"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "III SKYRIUS ARBITRAŽO TEISMO SUDARYMAS",
+      "section": "13",
+      "title": "13 straipsnis. Arbitrų skaičius",
+      "content": "1. Šalys gali nustatyti arbitrų skaičių. Arbitrų skaičius turi būti nelyginis. Arbitražo teismo, sudaryto iš lyginio arbitrų skaičiaus, priimtas arbitražo teismo sprendimas dėl šios priežasties nelaikomas negaliojančiu.\n\n2. Jeigu šalys nenustato arbitrų skaičiaus, skiriami trys arbitrai."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "III SKYRIUS ARBITRAŽO TEISMO SUDARYMAS",
+      "section": "14",
+      "title": "14 straipsnis. Arbitrų skyrimas",
+      "content": "1. Arbitru gali būti paskirtas bet kuris veiksnus fizinis asmuo, jeigu šalys nesusitaria kitaip. Visais atvejais reikalingas rašytinis asmens sutikimas būti arbitru.\n\n2. Šalys gali savo nuožiūra susitarti dėl arbitro ar arbitrų skyrimo tvarkos, laikydamosi šio straipsnio 5 ir 6 dalių reikalavimų.\n\n3. Jeigu šalys nesusitaria kitaip, tai:\n\n1) kai arbitražo teismas sudaromas iš trijų arbitrų, kiekviena šalis skiria po vieną arbitrą, o šie abu skiria trečią arbitrą – arbitražo teismo primininką;\n\n2) kai arbitražo teismas sudaromas iš vieno arbitro ir šalys negali susitarti dėl jo paskyrimo, arbitrą bet kurios iš šalių prašymu paskiria nuolatinės arbitražo institucijos pirmininkas;\n\n3) kai ieškovas, pareikšdamas ieškinį, nepaskiria arbitro ir to nepadaro per 20 dienų nuo ieškinio pareiškimo dienos, arbitrą paskiria nuolatinės arbitražo institucijos pirmininkas per 20 dienų nuo termino ieškovui paskirti arbitrą pabaigos;\n\n4) kai atsakovas nepaskiria arbitro per 20 dienų nuo ieškinio gavimo dienos, arbitrą paskiria nuolatinės arbitražo institucijos pirmininkas per 20 dienų nuo termino atsakovui paskirti arbitrą pabaigos;\n\n5) kai šalių paskirti arbitrai per 20 dienų nuo jų paskyrimo nesusitarė dėl trečio arbitro skyrimo, šį arbitrą paskiria nuolatinės arbitražo institucijos pirmininkas per 20 dienų nuo termino arbitrams paskirti trečiąjį arbitrą pabaigos;\n\n6) ad hoc arbitražo atveju šaliai nepaskyrus arbitro, jį paskiria Vilniaus apygardos teismas, o jeigu šalių paskirti arbitrai per 20 dienų nuo jų paskyrimo nesusitaria dėl arbitražo teismo pirmininko skyrimo, ad hoc arbitražo teismo pirmininką paskiria Vilniaus apygardos teismas per 20 dienų nuo termino šaliai paskirti arbitrą arba arbitrams paskirti arbitražo teismo pirmininką pabaigos.\n\n4. Jeigu šalims susitarus dėl arbitrų skyrimo procedūros viena iš jų nesilaiko šio susitarimo, arbitražo teismas sudaromas šio straipsnio 3 dalyje nustatyta tvarka.\n\n5. Kai arbitraže dalyvauja du ar daugiau ieškovų (procesinis bendrininkavimas), bendraieškiai, pareikšdami ieškinį arbitražo teismui, privalo pateikti rašytinį susitarimą dėl bendro arbitro paskyrimo. Jeigu pareikšdami ieškinį bendraieškiai arbitražo teismui nepateikė rašytinio susitarimo dėl bendro arbitro paskyrimo, šį susitarimą bendraieškiai turi pateikti arbitražo teismui per 20 dienų nuo ieškinio arbitražo teismui pareiškimo dienos. Jeigu per šį terminą bendraieškiai arbitro nepaskiria, arbitrą paskiria nuolatinės arbitražo institucijos pirmininkas per 20 dienų nuo minėto termino pabaigos. Ad hoc arbitražo atveju bendraieškiams per nustatytą terminą nepaskyrus arbitro, arbitrą paskiria Vilniaus apygardos teismas per 20 dienų nuo minėto termino pabaigos.\n\n6. Kai arbitraže dalyvauja du ar daugiau atsakovų (procesinis bendrininkavimas), bendraatsakoviai turi pateikti rašytinį susitarimą paskirti bendrą arbitrą. Rašytinis susitarimas turi būti pateiktas arbitražo teismui per 20 dienų nuo ieškovo ar bendraieškių prašymo paskirti arbitrą gavimo dienos. Jeigu per šį terminą bendraatsakoviai nepaskiria arbitro, arbitrą paskiria nuolatinės arbitražo institucijos pirmininkas per 20 dienų nuo minėto termino pabaigos. Ad hoc arbitražo atveju bendraatsakoviams per nustatytą terminą nepaskyrus arbitro, arbitrą paskiria Vilniaus apygardos teismas per 20 dienų nuo minėto termino pabaigos.\n\n7. Nuolatinės arbitražo institucijos pirmininkas ar Vilniaus apygardos teismas, skirdamas arbitrą (arbitrus), turi atsižvelgti į ginčo esmę, šalių susitarimu arbitrui nustatytus reikalavimus, taip pat į aplinkybes, užtikrinančias arbitro (arbitrų) nepriklausomumą ir nešališkumą.\n\n8. Nuolatinės arbitražo institucijos pirmininko priimti sprendimai, priskirti jo kompetencijai šiame straipsnyje numatytais atvejais, ir Vilniaus apygardos teismo priimtos nutartys, priskirtos jo kompetencijai šiame straipsnyje numatytais atvejais, yra galutiniai ir neskundžiami."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "III SKYRIUS ARBITRAŽO TEISMO SUDARYMAS",
+      "section": "15",
+      "title": "15 straipsnis. Arbitro nušalinimo pagrindai",
+      "content": "1. Asmuo, į kurį kreipiamasi dėl galimo jo skyrimo arbitru, prieš duodamas sutikimą būti arbitru, atsižvelgdamas į šio įstatymo 6 straipsnį, turi raštu pranešti šalims, nuolatinei arbitražo institucijai, Vilniaus apygardos teismui (ar kitam subjektui, kai tą padaryti įpareigoja šalių susitarimas arba šalių pasirinktos arbitražo taisyklės) apie visas aplinkybes, galinčias kelti pagrįstų abejonių dėl jo nepriklausomumo ar nešališkumo. Pranešti apie šių aplinkybių buvimą arbitras privalo ir po paskyrimo ar arbitražinio nagrinėjimo metu, jeigu to nepadarė anksčiau arba jeigu aplinkybės atsirado po paskyrimo ar arbitražinio nagrinėjimo metu.\n\n2. Arbitras gali būti nušalintas tik tuo atveju, kai yra pagrįstų abejonių dėl jo nepriklausomumo ar nešališkumo arba kai jis neturi šalių susitarime aptartos kvalifikacijos.\n\n3. Apie nušalinimą arbitrui, kurį šalis paskyrė pati arba kartu su kita šalimi, gali būti pareikšta tik dėl tokių aplinkybių, kurias šalis sužinojo po arbitro paskyrimo."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "III SKYRIUS ARBITRAŽO TEISMO SUDARYMAS",
+      "section": "16",
+      "title": "16 straipsnis. Arbitro nušalinimo tvarka",
+      "content": "1. Šalys gali susitarti dėl arbitro nušalinimo, sprendimo dėl arbitro nušalinimo apskundimo ir kitų su arbitro nušalinimo tvarka susijusių klausimų.\n\n2. Kai nėra susitarta dėl arbitro nušalinimo tvarkos, šalis, norinti pareikšti arbitrui apie nušalinimą, turi per 15 dienų nuo to momento, kai sužinojo apie arbitražo teismo sudarymą arba apie šio įstatymo 15 straipsnio 2 dalyje nurodytas aplinkybes, pranešti raštu arbitražo teismui nušalinimo motyvus. Jeigu arbitras, kuriam pareikšta apie nušalinimą, nenusišalina pats arba kita šalis nesutinka su nušalinimu, šio arbitro nušalinimo klausimą sprendžia likę arbitražo teismo arbitrai. Kai arbitražo teismą sudaro vienas arbitras arba kai nušalinimas pareikštas visiems arbitražo teismo arbitrams, pats arbitras (patys arbitrai) išsprendžia nušalinimo klausimą.\n\n3. Kai šio straipsnio 2 dalyje nustatyta tvarka nušalinimas atmetamas, šalis, pareiškusi apie nušalinimą, gali per 20 dienų nuo pranešimo apie nušalinimo atmetimą gavimo dienos prašyti Vilniaus apygardos teismą priimti nutartį dėl arbitro nušalinimo. Vilniaus apygardos teismo priimta nutartis šiuo klausimu yra galutinė ir neskundžiama. Kol Vilniaus apygardos teismas nagrinėja šalies prašymą dėl arbitro nušalinimo, arbitražo teismas, įskaitant arbitrą, kuriam pareikšta apie nušalinimą, gali tęsti arbitražinį nagrinėjimą ir priimti arbitražo teismo sprendimą."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "III SKYRIUS ARBITRAŽO TEISMO SUDARYMAS",
+      "section": "17",
+      "title": "17 straipsnis. Arbitro įgaliojimų nutraukimas",
+      "content": "1. Arbitras, de jure arba de facto negalintis atlikti savo funkcijų arba vilkinantis jų atlikimą be pateisinamų priežasčių, privalo atsistatydinti. Arbitro įgaliojimai pasibaigia jam atsistatydinus arba šalims susitarus dėl jo atstatydinimo. Kai arbitras nevykdo savo pareigos atsistatydinti arba kai šalys nesusitaria dėl jo atstatydinimo, bet kuri šalis gali kreiptis į nuolatinės arbitražo institucijos pirmininką dėl atitinkamo klausimo išsprendimo. Šiuo atveju nuolatinės arbitražo institucijos pirmininko sprendimas yra galutinis ir neskundžiamas. Ad hoc arbitražo atveju atitinkamą klausimą sprendžia Vilniaus apygardos teismas; šio teismo priimta nutartis yra galutinė ir neskundžiama.\n\n2. Arbitro įgaliojimų nutraukimas nereiškia, kad pripažįstamas bet kuris iš šiame arba 15 straipsnyje nustatytų pagrindų."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "III SKYRIUS ARBITRAŽO TEISMO SUDARYMAS",
+      "section": "18",
+      "title": "18 straipsnis. Kito arbitro paskyrimas",
+      "content": "1. Kai arbitro įgaliojimai pasibaigia pagal šio įstatymo 15 ar 17 straipsnį arba kai arbitras pats atsistatydina dėl kitų priežasčių, taip pat kai arbitro įgaliojimai pasibaigia kitais pagrindais, kitas arbitras skiriamas tokia pat tvarka, kokia buvo paskirtas arbitras, kurio įgaliojimai pasibaigė.\n\n2. Paskyrus kitą arbitrą, byla pradedama nagrinėti nuo pradžių, jeigu šalys nesusitaria kitaip.\n\nIV SKYRIUS\nARBITRAŽO TEISMO KOMPETENCIJA"
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "IV SKYRIUS ARBITRAŽO TEISMO KOMPETENCIJA",
+      "section": "19",
+      "title": "19 straipsnis. Teisė priimti sprendimą dėl kompetencijos nagrinėti ginčą",
+      "content": "1. Arbitražo teismas turi teisę pats priimti sprendimą dėl savo kompetencijos nagrinėti ginčą, įskaitant atvejus, kai kyla abejonių dėl arbitražinio susitarimo buvimo arba jo galiojimo. Šiuo tikslu arbitražinė išlyga, kuri yra sutarties dalis, turi būti vertinama kaip atskiras susitarimas, nepriklausantis nuo kitų sutarties sąlygų. Arbitražo teismo sprendimas dėl sutarties pripažinimo negaliojančia savaime nereiškia arbitražinės išlygos pripažinimo negaliojančia.\n\n2. Šalies pareiškimas, kad arbitražo teismas yra nekompetentingas spręsti ginčą, turi būti padarytas ne vėliau negu pareiškiamas prieštaravimas dėl ieškinio. Šalies dalyvavimas skiriant arbitrą neatima iš jos teisės padaryti šį pareiškimą. Pareiškimas, kad arbitražo teismas yra nekompetentingas spręsti ginčą, turi būti padarytas iš karto, kai arbitražinio nagrinėjimo metu iškeliamas klausimas, kuris, šalies nuomone, nepriskirtas arbitražo teismo kompetencijai. Arbitražo teismas gali šioje dalyje numatytą pareiškimą priimti ir vėliau, jeigu pripažins, kad delsimas jį padaryti pateisinamas.\n\n3. Dėl šio straipsnio 2 dalyje nurodyto pareiškimo arbitražo teismas gali priimti dalinį sprendimą arba išspręsti šį klausimą galutiniu arbitražo teismo sprendimu.\n\nV SKYRIUS\nLAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "V SKYRIUS LAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS",
+      "section": "20",
+      "title": "20 straipsnis. Laikinosios apsaugos priemonės",
+      "content": "1. Jeigu šalys nesusitarė kitaip, bet kurios iš šalių prašymu arbitražo teismas, pranešęs kitoms šalims, gali nutartimi taikyti laikinąsias apsaugos priemones, kurių tikslas – užtikrinti, kad šalies reikalavimai bus įvykdyti, taip pat užtikrinti įrodymus.\n\n2. Laikinosios apsaugos priemonės gali būti:\n\n1) draudimas šaliai dalyvauti tam tikruose sandoriuose ar atlikti tam tikrus veiksmus;\n\n2) šalies įpareigojimas saugoti su arbitražiniu nagrinėjimu susijusį turtą, pateikti piniginį užstatą, banko ar draudimo garantiją;\n\n3) šalies įpareigojimas užtikrinti įrodymus, kurie gali būti reikšmingi arbitražiniam nagrinėjimui.\n\n3. Šalis, prašanti arbitražo teismo taikyti šio straipsnio 2 dalies 1 ir 2 punktuose nurodytas laikinąsias apsaugos priemones, turi įrodyti, kad:\n\n1) jos ieškinio reikalavimai yra tikėtinai pagrįsti; šio tikėtinumo nustatymas nelemia arbitražo teismo teisės vėliau arbitražinio nagrinėjimo metu priimti kitokį sprendimą ar nutartį;\n\n2) nesiėmus šių priemonių, arbitražo teismo sprendimo įvykdymas gali iš esmės pasunkėti arba pasidaryti nebeįmanomas;\n\n3) laikinosios apsaugos priemonės yra ekonomiškos ir proporcingos jų siekiamam tikslui.\n\n4. Šalis, prašanti arbitražo teismo taikyti šio straipsnio 2 dalies 3 punkte nurodytas laikinąsias apsaugos priemones, turi įrodyti, kad:\n\n1) prašomi užtikrinti įrodymai gali būti reikšmingi bylai;\n\n2) yra reali grėsmė, kad nesiėmus laikinųjų apsaugos priemonių prašomi užtikrinti įrodymai kitos šalies bus sunaikinti ar sugadinti taip, kad jų negalima bus panaudoti arbitražinio nagrinėjimo metu.\n\n5. Arbitražo teismas gali įpareigoti šalį skubiai pranešti apie aplinkybių, kurių pagrindu buvo išspręstas klausimas dėl laikinųjų apsaugos priemonių taikymo, esminį pasikeitimą."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "V SKYRIUS LAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS",
+      "section": "21",
+      "title": "21 straipsnis. Preliminarios nutartys",
+      "content": "1. Jeigu šalys nesusitarė kitaip, šalis gali prašyti arbitražo teismo taikyti laikinąsias apsaugos priemones nepranešus kitai šaliai, pateikdama prašymą priimti preliminarią nutartį, įpareigojančią atitinkamą šalį prašymo dėl laikinųjų apsaugos priemonių taikymo nagrinėjimo metu nesiimti jokių veiksmų, galinčių pakenkti laikinųjų apsaugos priemonių taikymui.\n\n2. Prašanti arbitražo teismo priimti preliminarią nutartį šalis turi įrodyti, kad:\n\n1) pranešimas kitai šaliai apie prašymą dėl laikinųjų apsaugos priemonių taikymo gali iš esmės pakenkti tų priemonių tikslams;\n\n2) yra šio įstatymo 20 straipsnio 3 dalies 1 ir 3 punktuose nurodyti pagrindai.\n\n3. Prašanti arbitražo teismo priimti preliminarią nutartį šalis privalo atskleisti arbitražo teismui visas aplinkybes, kurios gali būti reikšmingos šiam prašymui nagrinėti. Šią pareigą ši šalis turi visą preliminarios nutarties galiojimo laikotarpį.\n\n4. Priėmęs preliminarią nutartį, arbitražo teismas privalo nedelsdamas šio įstatymo 6 straipsnyje nustatyta tvarka įteikti visoms šalims prašymą dėl laikinųjų apsaugos priemonių taikymo, prašymą priimti preliminarią nutartį, pačią preliminarią nutartį ir (jeigu yra) bet kokią preliminarią nutartį prašiusios priimti šalies ir arbitražo teismo susirašinėjimo medžiagą (įskaitant informaciją apie žodinį prašymo priimti preliminarią nutartį nagrinėjimą, jeigu šis nagrinėjimas buvo).\n\n5. Arbitražo teismas privalo kuo operatyviau suteikti galimybę šaliai, dėl kurios yra priimta preliminari nutartis, būti išklausytai ir išnagrinėti šios šalies prieštaravimus dėl preliminarios nutarties priėmimo.\n\n6. Preliminari nutartis galioja 20 dienų nuo jos priėmimo. Šiuo laikotarpiu arbitražo teismas, išklausęs šalį, dėl kurios yra priimta preliminari nutartis, ir išnagrinėjęs šios šalies prieštaravimus, jeigu jie pateikti, gali taikyti atitinkamas laikinąsias apsaugos priemones.\n\n7. Preliminari nutartis yra privaloma šalims, tačiau nėra vykdytinas dokumentas."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "V SKYRIUS LAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS",
+      "section": "22",
+      "title": "22 straipsnis. Nutarčių dėl laikinųjų apsaugos priemonių pakeitimas ir panaikinimas ir preliminarių nutarčių panaikinimas",
+      "content": "Arbitražo teismas šalies prašymu, o išimtiniais atvejais – pranešęs visoms šalims savo iniciatyva gali pakeisti, panaikinti nutartį dėl laikinųjų apsaugos priemonių ar panaikinti preliminarią nutartį."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "V SKYRIUS LAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS",
+      "section": "23",
+      "title": "23 straipsnis. Nuostolių, galimų dėl laikinųjų apsaugos priemonių taikymo ar preliminarios nutarties priėmimo, atlyginimo užtikrinimas",
+      "content": "1. Arbitražo teismas gali įpareigoti prašančią taikyti laikinąsias apsaugos priemones šalį pateikti kitos šalies nuostolių, galinčių atsirasti dėl laikinųjų apsaugos priemonių taikymo, atlyginimo užtikrinimą.\n\n2. Arbitražo teismas įpareigoja prašančią priimti preliminarią nutartį šalį pateikti kitos šalies nuostolių, galinčių atsirasti dėl preliminarios nutarties priėmimo, atlyginimo užtikrinimą, nebent nustato, kad nėra pagrindo reikalauti užtikrinti tokių nuostolių atlyginimą."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "V SKYRIUS LAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS",
+      "section": "24",
+      "title": "24 straipsnis. Nuostolių, galimų dėl laikinųjų apsaugos priemonių taikymo ar preliminarios nutarties priėmimo, atlyginimas",
+      "content": "1. Prašiusi taikyti laikinąsias apsaugos priemones ar priimti preliminarią nutartį šalis atsako už nuostolius, atsiradusius dėl šių priemonių taikymo ar preliminarios nutarties priėmimo, jeigu vėliau arbitražinio nagrinėjimo metu nustatoma, kad taikytos priemonės ar preliminari nutartis yra nepagrįstos.\n\n2. Šalies prašymu arbitražo teismas galutiniu sprendimu gali įpareigoti šalį, kurios prašymu buvo pritaikytos laikinosios apsaugos priemonės, atlyginti nuostolius, atsiradusius dėl laikinųjų apsaugos priemonių taikymo."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "V SKYRIUS LAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS",
+      "section": "25",
+      "title": "25 straipsnis. Nutarčių dėl laikinųjų apsaugos priemonių vykdymas ir atsisakymo išduoti vykdomąjį raštą pagrindai",
+      "content": "1. Arbitražo teismo nutartis dėl laikinųjų apsaugos priemonių taikymo yra vykdytinas dokumentas.\n\n2. Jeigu nevykdoma arbitražo teismo nutartis dėl laikinųjų apsaugos priemonių taikymo, Vilniaus apygardos teismas šalies prašymu Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka išduoda vykdomąjį raštą. Prašymas išduoti vykdomąjį raštą nagrinėjamas teismo posėdyje, pranešus arbitražinio nagrinėjimo šalims. Šalių neatvykimas nekliudo teismui išspręsti vykdomojo rašto išdavimo klausimą.\n\n3. Šalis, kurios prašymu Vilniaus apygardos teismas išdavė vykdomąjį raštą nutarčiai dėl laikinųjų apsaugos priemonių taikymo vykdyti, privalo nedelsdama pranešti šiam teismui apie laikinųjų apsaugos priemonių pakeitimą ar panaikinimą. Prašymas dėl vykdomojo rašto pakeitimo ar panaikinimo nagrinėjamas teismo posėdyje, pranešus arbitražinio nagrinėjimo šalims. Šalių neatvykimas nekliudo teismui išspręsti vykdomojo rašto pakeitimo ar panaikinimo klausimo.\n\n4. Vilniaus apygardos teismas gali atsisakyti išduoti vykdomąjį raštą tik tuo atveju, kai:\n\n1) yra pateikta nepakankamai duomenų vykdomojo rašto privalomam turiniui nustatyti ir šio trūkumo neįmanoma pašalinti prašymo išduoti vykdomąjį raštą nagrinėjimo teisme metu;\n\n2) šalis, dėl kurios prašoma išduoti vykdomąjį raštą, įrodo, kad arbitražo teismas jai tinkamai nepranešė apie klausimo dėl laikinųjų apsaugos priemonių taikymo nagrinėjimą ir tokiu būdu jai buvo užkirsta galimybė pateikti savo paaiškinimus;\n\n3) arbitražo teismas, priimdamas nutartį dėl laikinųjų apsaugos priemonių taikymo, akivaizdžiai viršijo savo kompetenciją;\n\n4) neįvykdyta arbitražo teismo nutartis dėl nuostolių, galimų dėl laikinųjų apsaugos priemonių taikymo, atlyginimo užtikrinimo;\n\n5) arbitražo teismas pakeitė ar panaikino nutartį dėl laikinųjų apsaugos priemonių taikymo.\n\n5. Dėl Vilniaus apygardos teismo nutarties atsisakyti išduoti vykdomąjį raštą gali būti duodamas atskirasis skundas."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "V SKYRIUS LAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS",
+      "section": "26",
+      "title": "26 straipsnis. Užsienio arbitražo sprendimų ar nutarčių dėl laikinųjų apsaugos priemonių pripažinimas ar vykdymas ir atsisakymo pripažinti ar vykdyti užsienio arbitražo sprendimą ar nutartį pagrindai",
+      "content": "1. Arbitražo teismo sprendimas ar nutartis dėl laikinųjų apsaugos priemonių taikymo, priimti bet kurioje kitoje valstybėje, gali būti pripažinti ir vykdomi Lietuvos Respublikos teritorijoje.\n\n2. Šalies prašymas pripažinti ir leisti vykdyti užsienio arbitražo sprendimą ar nutartį dėl laikinųjų apsaugos priemonių taikymo paduodamas Lietuvos apeliaciniam teismui. Šio prašymo turiniui mutatis mutandis taikomos šio įstatymo 51 straipsnio 2 dalies nuostatos.\n\n3. Lietuvos apeliacinis teismas nutartimi gali atsisakyti pripažinti ar vykdyti užsienio arbitražo sprendimą ar nutartį dėl laikinųjų apsaugos priemonių taikymo, kai:\n\n1) tokio sprendimo ar nutarties neįmanoma įvykdyti Lietuvos Respublikos teritorijoje;\n\n2) yra šio įstatymo 25 straipsnio 4 dalies 2, 3, 4 ir 5 punktuose nurodyti pagrindai.\n\n4. Šiame straipsnyje nustatytų Lietuvos apeliacinio teismo nutarčių apskundimui mutatis mutandis taikomos šio įstatymo 51 straipsnio 3 dalies nuostatos."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "V SKYRIUS LAIKINOSIOS APSAUGOS PRIEMONĖS IR PRELIMINARIOS NUTARTYS",
+      "section": "27",
+      "title": "27 straipsnis. Laikinųjų apsaugos priemonių taikymas ir įrodymų užtikrinimas teismo nutartimi",
+      "content": "1. Šalis turi teisę prašyti Vilniaus apygardos teismo taikyti laikinąsias apsaugos priemones ar užtikrinti įrodymus iki arbitražinio nagrinėjimo pradžios arba iki arbitražo teismo sudarymo. Teismas šalies prašymu gali taikyti laikinąsias apsaugos priemones ar įrodymų užtikrinimą ir po arbitražo teismo sudarymo. Atitinkamai kita šalis turi teisę Civilinio proceso kodekso nustatyta tvarka prašyti užtikrinti nuostolių, galimų dėl laikinųjų apsaugos priemonių taikymo ar įrodymų užtikrinimo, atlyginimą.\n\n2. Teismo atsisakymas taikyti laikinąsias apsaugos priemones ar užtikrinti įrodymus nėra kliūtis šaliai arbitražinio nagrinėjimo metu prašyti arbitražo teismo taikyti laikinąsias apsaugos priemones ar užtikrinti įrodymus.\n\nVI SKYRIUS\nARBITRAŽINIS NAGRINĖJIMAS"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "28",
+      "title": "28 straipsnis. Bendrosios arbitražinio nagrinėjimo nuostatos",
+      "content": "1. Ginčo šalių procesinės teisės arbitražo teisme yra lygios. Kiekvienai iš jų turi būti sudarytos vienodos galimybės pagrįsti savo reikalavimus ar prieštaravimus.\n\n2. Nepažeisdamos šio įstatymo imperatyvių nuostatų, ginčo šalys gali susitarti dėl tvarkos, kuria bus nagrinėjami jų ginčai arbitraže.\n\n3. Kai nėra šalių susitarimo dėl ginčų nagrinėjimo tvarkos, arbitražo teismas, laikydamasis šio įstatymo nuostatų, gali ginčą nagrinėti tokia tvarka, kokią laiko tinkama."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "29",
+      "title": "29 straipsnis. Arbitražinio nagrinėjimo vieta",
+      "content": "1. Šalys gali susitarti dėl arbitražinio nagrinėjimo vietos. Šalims nesusitarus, arbitražinio nagrinėjimo vietą nustato arbitražo teismas, atsižvelgdamas į bylos aplinkybes ir į patogumą šalims.\n\n2. Nepaisydamas šio straipsnio 1 dalies nuostatų, arbitražo teismas gali, jeigu šalys nesusitaria kitaip, susirinkti bet kurioje vietoje, kurią laiko tinkama konsultuotis arbitrams, kurioje galima išklausyti liudytojus, ekspertus ar šalis, apžiūrėti dokumentus, prekes ar kitokį turtą."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "30",
+      "title": "30 straipsnis. Arbitražinio nagrinėjimo pradžia",
+      "content": "Jeigu šalys nesusitaria kitaip, laikoma, kad arbitražinis nagrinėjimas pradėtas tą dieną, kurią atsakovas gavo prašymą dėl arbitražo pradžios arba ieškinį. Prašyme dėl arbitražo pradžios arba ieškinyje turi būti nurodyti šalių pavadinimai ar vardai ir pavardės, ginčo esmė, nuoroda į arbitražinį susitarimą ir arbitro kandidatūra. Ieškinys turi atitikti šio įstatymo 32 straipsnio reikalavimus."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "31",
+      "title": "31 straipsnis. Arbitražinio nagrinėjimo kalba",
+      "content": "1. Jeigu šalys nesusitaria kitaip, kalbą ar kalbas, kurios bus vartojamos arbitražinio nagrinėjimo metu, nustato arbitražo teismas. Jeigu šalys nesusitarė dėl arbitražinio nagrinėjimo kalbos, tol, kol arbitražo teismas nustatys arbitražinio nagrinėjimo kalbą, arbitražinio nagrinėjimo kalba laikoma kalba, kuria sudarytas arbitražinis susitarimas.\n\n2. Arbitražinio nagrinėjimo kalba pateikiami arbitražo teismui ir nuolatinei arbitražo institucijai visi rašytiniai šalių dokumentai, vyksta arbitražinis nagrinėjimas, surašomi arbitražo teismo ir nuolatinės arbitražo institucijos sprendimai, nutartys arba kiti arbitražo teismo ir nuolatinės arbitražo institucijos priimti dokumentai, jeigu šalių susitarime ar arbitražo teismo nutartyje nenustatyta kitaip.\n\n3. Arbitražo teismas bet kada arbitražinio nagrinėjimo metu gali nustatyti kitą arbitražinio nagrinėjimo kalbą, jeigu dėl to nebus pažeista šalių teisė būti išklausytoms."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "32",
+      "title": "32 straipsnis. Ieškinys ir prieštaravimai dėl ieškinio",
+      "content": "1. Per šalių suderintą ar arbitražo teismo nustatytą terminą ieškovas turi nurodyti aplinkybes, kuriomis jis grindžia savo ieškinį, ginčijamus klausimus, paskirti arbitrą (jeigu arbitras nebuvo paskirtas) ir suformuluoti ieškinio reikalavimus, o atsakovas turi pateikti savo atsikirtimus, nebent šalys susitarė kitaip.\n\n2. Jeigu šalys nesusitaria kitaip, bet kuri iš jų arbitražinio nagrinėjimo metu gali pakeisti ar papildyti savo ieškinio reikalavimus ar prieštaravimus dėl ieškinio, išskyrus atvejus, kai arbitražo teismas pripažįsta, kad netikslinga leisti daryti šiuos pakeitimus ar papildymus dėl nepagrįstai pavėluoto jų pateikimo."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "33",
+      "title": "33 straipsnis. Įrodymai ir įrodinėjimo pareiga",
+      "content": "1. Jeigu šalys nesusitarė kitaip ar kitaip nereikalaujama pagal ginčui taikytiną teisę, kiekviena šalis turi įrodyti aplinkybes, kuriomis ji grindžia savo reikalavimus ar atsikirtimus.\n\n2. Arbitražinio nagrinėjimo metu arbitražo teismas gali pareikalauti, kad šalys pateiktų dokumentus ar kitus įrodymus, susijusius su nagrinėjama byla.\n\n3. Arbitražo teismas turi teisę atsisakyti priimti įrodymus, kurie arbitražinio nagrinėjimo metu galėjo būti pateikti anksčiau ir kurių pateikimas vilkins arbitražinį nagrinėjimą.\n\n4. Jeigu šalys nesusitaria kitaip, jokie įrodymai arbitražo teismui nėra privalomi.\n\n5. Jeigu šalys nesusitaria dėl arbitražiniam nagrinėjimui taikytinų įrodinėjimo taisyklių, jas nustato arbitražo teismas. Iki arbitražiniam nagrinėjimui taikytinų įrodinėjimo taisyklių nustatymo įrodymams rinkti ir įrodinėjimo pareigai paskirstyti taikomos šio įstatymo nuostatos.\n\n6. Jeigu šalis nepateikia arbitražo teismui prašomų įrodymų, arbitražo teismas gali priimti sprendimą remdamasis turimais įrodymais ar išimtiniais atvejais įrodymo nepateikimo faktą vertinti šio įrodymo nepateikusios šalies nenaudai.\n\n7. Arbitražo teismas turi teisę nustatyti bet kokių įrodymų leistinumą, pakankamumą ir ryšį su byla."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "34",
+      "title": "34 straipsnis. Žodinis ir rašytinis bylos nagrinėjimas",
+      "content": "1. Jeigu šalys nesusitarė dėl arbitražinio nagrinėjimo formos, arbitražo teismas nusprendžia dėl arbitražinio nagrinėjimo formos. Arbitražinis nagrinėjimas gali vykti žodine, rašytine ar kita tvarka. Jeigu šalys susitarė, kad byla bus nagrinėjama šalims tiesiogiai nedalyvaujant, arbitražo teismas bet kada arbitražinio nagrinėjimo metu turi pereiti prie jos nagrinėjimo žodžiu, kai to reikalauja kuri nors ginčo šalis.\n\n2. Apie visus arbitražo teismo posėdžius šalims turi būti pranešta iš anksto per pagrįstai tam reikalingą laiką.\n\n3. Visi įrodymai, dokumentai ar kita informacija, kuriuos viena šalis pateikia arbitražo teismui, turi būti perduoti kitai šaliai. Šalims taip pat turi būti perduoti įrodymai, dokumentai ar kita informacija, kuriuos gavo arbitražo teismas."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "35",
+      "title": "35 straipsnis. Šalies nedalyvavimas",
+      "content": "Jeigu šalys nesusitarė kitaip, kai šalis be pateisinamos priežasties nepateikia privalomo procesinio dokumento ar nedalyvauja arbitražo teismo posėdyje, arbitražo teismas turi teisę tęsti arbitražinį nagrinėjimą ir priimti arbitražo teismo sprendimą pagal byloje esančius įrodymus arba priimti šio įstatymo 49 straipsnyje nurodytus procesinius sprendimus."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "36",
+      "title": "36 straipsnis. Liudytojai ir ekspertai",
+      "content": "1. Arbitražo teismas nustato liudytojų ir ekspertų apklausos laiką, vietą ir būdą.\n\n2. Jeigu kviečiami liudytojai neatvyksta ar atvykę atsisako duoti parodymus, arbitražo teismas gali prašančiai apklausti liudytojus šaliai leisti per arbitražo teismo nustatytą terminą kreiptis į Vilniaus apygardos teismą su prašymu apklausti liudytojus Civilinio proceso kodekso ir šio įstatymo nustatyta tvarka. Liudytojų apklausai Vilniaus apygardos teisme mutatis mutandis taikomos Civilinio proceso kodekso II dalies XIII skyriaus devintojo skirsnio nuostatos. Liudytojų apklausos teisme laikotarpiu arbitražo teismas gali sustabdyti arbitražinį nagrinėjimą ar jį atidėti.\n\n3. Jeigu šalys nesusitaria kitaip, arbitražo teismas gali:\n\n1) paskirti vieną ar kelis ekspertus išvadoms konkrečiais arbitražo teismo pateiktais klausimais pateikti;\n\n2) pareikalauti, kad šalis pateiktų ekspertui bet kokią su byla susijusią informaciją, pristatytų arba sudarytų sąlygas apžiūrėti su byla susijusius įrodymus.\n\n4. Jeigu šalys nesusitarė kitaip ir kuri nors šalis reikalauja arba taip nusprendžia arbitražo teismas, posėdyje privalo dalyvauti ekspertas ir pateikti savo išvadas bei atsakyti į šalių ar arbitražo teismo jam pateiktus klausimus.\n\n5. Šalys turi teisę prašyti arbitražo teismo apklausti jų liudytojus."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "37",
+      "title": "37 straipsnis. Arbitražo bylų sujungimas",
+      "content": "Arbitražo bylos gali būti sujungtos šalių susitarimu."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "VI SKYRIUS ARBITRAŽINIS NAGRINĖJIMAS",
+      "section": "38",
+      "title": "38 straipsnis. Teismo pagalba įrodymams rinkti",
+      "content": "Arbitražo teismas ar šalis arbitražo teismo pritarimu turi teisę kreiptis į Vilniaus apygardos teismą ir prašyti padėti surinkti įrodymus. Įrodymams rinkti teisme mutatis mutandis taikomos Civilinio proceso kodekso II dalies XIII skyriaus devintojo skirsnio nuostatos. Arbitrai ir šalys turi teisę dalyvauti bet kuriame pagal šiame straipsnyje numatytą prašymą vykstančiame Vilniaus apygardos teismo posėdyje ir užduoti klausimų, teikti paaiškinimus žodžiu ar raštu ir naudotis kitomis įrodymams surinkti reikalingomis procesinėmis teisėmis.\n\nVII SKYRIUS\nSPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "39",
+      "title": "39 straipsnis. Ginčui taikytina materialinė teisė",
+      "content": "1. Arbitražo teismas sprendžia ginčus vadovaudamasis šalių pasirinkta teise, taikytina ginčui. Nuoroda į taikytiną užsienio teisę reiškia nuorodą į atitinkamos valstybės vidaus materialinę teisę, o ne į tos valstybės tarptautinę privatinę teisę.\n\n2. Jeigu šalys dėl taikytinos teisės nesusitarė, arbitražo teismas taiko teisę, kuri, arbitražo teismo pagrįsta nuomone, yra taikytina konkrečiam ginčui spręsti, įskaitant prekybos papročius (lex mercatoria).\n\n3. Principais ex aequo et bono (pagal teisingumą) arba amiable compositeur (draugiškas tarpininkavimas) arbitražo teismas vadovaujasi tik tais atvejais, kai šalys aiškiai įgalioja jį tai daryti."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "40",
+      "title": "40 straipsnis. Iš kelių arbitrų sudaryto arbitražo teismo sprendimo priėmimas",
+      "content": "1. Jeigu šalys nesusitarė kitaip, arbitražo teismo sprendimas priimamas arbitrų balsų dauguma. Kai arbitražo teismo sprendimui priimti nėra balsų daugumos arba arbitrų balsai pasiskirsto po lygiai, lemia arbitražo teismo pirmininko balsas.\n\n2. Neatsižvelgiant į šio straipsnio 1 dalies nuostatas, procedūrinius arbitražinio nagrinėjimo klausimus gali vienasmeniškai išspręsti arbitražo teismo pirmininkas, jeigu jį tam įgalioja šalys arba visi kiti šio arbitražo teismo arbitrai.\n\n3. Tai, kad be pateisinamos priežasties arbitras vengia dalyvauti arbitražo teismui nagrinėjant ginčą, neužkerta kelio likusiems arbitražo teismo arbitrams priimti teisėtą sprendimą."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "41",
+      "title": "41 straipsnis. Arbitražo teismo sprendimo įsiteisėjimas ir vykdymas",
+      "content": "1. Arbitražo teismo sprendimas įsiteisėja nuo priėmimo momento ir šalių turi būti vykdomas.\n\n2. Arbitražo teismo sprendimas laikomas priimtu nuo arbitražo teismo sprendime nurodytos datos.\n\n3. Įsiteisėjus arbitražo teismo sprendimui, tos pačios ginčo šalys netenka teisės pareikšti ieškinį dėl to paties dalyko ir tuo pačiu pagrindu.\n\n4. Arbitražo teismo sprendimas yra vykdytinas dokumentas, vykdomas nuo jo įsiteisėjimo Civilinio proceso kodekso nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "42",
+      "title": "42 straipsnis. Arbitražo teismo sprendimų rūšys",
+      "content": "1. Arbitražo teismas dėl ginčo esmės gali priimti galutinį sprendimą, dalinį sprendimą, papildomą sprendimą.\n\n2. Procesiniais klausimais arbitražo teismas turi teisę priimti nutartis."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "43",
+      "title": "43 straipsnis. Galutinis arbitražo teismo sprendimas",
+      "content": "Galutiniu arbitražo teismo sprendimu ginčas išsprendžiamas visiškai."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "44",
+      "title": "44 straipsnis. Dalinis arbitražo teismo sprendimas",
+      "content": "1. Daliniu arbitražo teismo sprendimu išsprendžiama tik dalis ginčo.\n\n2. Dalinis arbitražo teismo sprendimas yra galutinis sprendimas tik dėl ginčo dalies, kuri išspręsta visiškai.\n\n3. Dalinis arbitražo teismo sprendimas gali būti priimamas:\n\n1) dėl arbitražo teismo kompetencijos nagrinėti ginčą (šio įstatymo 19 straipsnis);\n\n2) dėl savarankiškų reikalavimų, kylančių iš materialinių teisinių santykių;\n\n3) kitais šalių ar arbitražo teismo numatytais atvejais."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "45",
+      "title": "45 straipsnis. Papildomas arbitražo teismo sprendimas. Arbitražo teismo sprendimo tikslinimas ir aiškinimas",
+      "content": "1. Papildomu arbitražo teismo sprendimu išsprendžiami reikalavimai, kurie buvo pareikšti arbitražinio nagrinėjimo metu, tačiau nebuvo išspręsti priimtu arbitražo teismo sprendimu. Papildomu sprendimu taip pat gali būti tikslinamas ar aiškinamas arbitražo teismo sprendimas, kai būtina:\n\n1) ištaisyti arbitražo teismo sprendime rašybos, aritmetines ar kitas panašaus pobūdžio klaidas;\n\n2) išaiškinti arbitražo teismo sprendimo rezoliucinę dalį ar jos punktą;\n\n3) išspręsti arbitražo išlaidų paskirstymo klausimą.\n\n2. Papildomas arbitražo teismo sprendimas gali būti priimamas arbitražo teismo iniciatyva arba suinteresuotos šalies prašymu. Arbitražo teismas savo iniciatyva gali priimti papildomą sprendimą per 30 dienų nuo galutinio arbitražo teismo sprendimo priėmimo. Prašymą priimti papildomą arbitražo teismo sprendimą suinteresuota šalis turi teisę pateikti ne vėliau kaip per 30 dienų nuo arbitražo teismo sprendimo gavimo dienos.\n\n3. Papildomas arbitražo teismo sprendimas turi būti priimtas per 30 dienų nuo suinteresuotos šalies prašymo priimti šį sprendimą gavimo. Papildomas sprendimas yra sudedamoji arbitražo teismo sprendimo dalis ir jam taikomos šio įstatymo 46 straipsnio nuostatos.\n\n4. Arbitražo teismas turi teisę pratęsti arba atnaujinti šio straipsnio 2 ir 3 dalyse nustatytus terminus.\n\n5. Papildomu sprendimu negali būti keičiama arbitražo teismo sprendimo esmė."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "46",
+      "title": "46 straipsnis. Arbitražo teismo sprendimo forma ir turinys",
+      "content": "1. Arbitražo teismo sprendimas turi būti rašytinis ir pasirašytas arbitrų ar arbitro. Arbitražo teismo sprendimas yra teisėtas, kai jį pasirašo dauguma arbitrų, taip pat nurodomos kitų arbitrų nepasirašymo priežastys. Arbitras arba arbitrai, nesutinkantys su daugumos nuomone, turi teisę raštu išdėstyti savo atskirąją nuomonę, kuri pridedama prie arbitražo teismo sprendimo. Šalys gali susitarti, kad arbitražo teismo pirmininkas gali pasirašyti sprendimą vienasmeniškai.\n\n2. Arbitražo teismo sprendime turi būti nurodyti motyvai, kuriais remiantis jis priimtas, nebent šalys susitarė, kad nurodyti motyvus nebūtina, arba arbitražo teismo sprendimas yra priimtas sutartomis sąlygomis pagal šio įstatymo 47 straipsnio 1 dalies 1 punktą.\n\n3. Arbitražo teismo sprendime turi būti nurodyta jo priėmimo data ir vieta. Laikoma, kad arbitražo teismo sprendimas priimtas tą dieną ir toje vietoje, kuri nurodyta arbitražo teismo sprendime.\n\n4. Kiekvienai šaliai turi būti įteikta po vieną pasirašytą arbitražo teismo sprendimo egzempliorių. Arbitražo teismo sprendimo įteikimas gali būti atidėtas, kol bus sumokėtos visos arbitražo išlaidos."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "47",
+      "title": "47 straipsnis. Taikus ginčo išsprendimas",
+      "content": "1. Šalys turi teisę pabaigti arbitražo bylą taikiu susitarimu. Šalių prašymu arbitražo teismas turi teisę:\n\n1) arbitražo teismo sprendimu patvirtinti šalių sudarytą taikos sutartį arba\n\n2) priimti nutartį nutraukti arbitražo bylą.\n\n2. Arbitražo teismo sprendimas, kuriuo patvirtinta šalių sudaryta taikos sutartis, yra galutinis arbitražo teismo sprendimas."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "48",
+      "title": "48 straipsnis. Sprendimas dėl arbitražo išlaidų",
+      "content": "1. Arbitražo išlaidas sudaro:\n\n1) arbitrų atlyginimai ir pagrįstos kitos jų patirtos išlaidos;\n\n2) nuolatinės arbitražo institucijos ar kitos šalių susitarimų pagrindu atsiradusios ir pagrįstos išlaidos;\n\n3) šalių patirtos pagrįstos išlaidos.\n\n2. Nuolatinės arbitražo institucijos taikomi rinkliavų tarifai, arbitražo išlaidų apskaičiavimo, apmokėjimo ir grąžinimo tvarka nustatoma arbitražo procedūros reglamente ir (ar) šalių susitarime, neprieštaraujančiame arbitražo procedūros reglamentui. Ad hoc arbitražo atveju arbitrų atlyginimo dydis, arbitražo išlaidų apskaičiavimo, apmokėjimo ir grąžinimo tvarka nustatoma šalių susitarimu ir (ar) ad hoc arbitražo taisyklėse.\n\n3. Jeigu šalys nesusitarė kitaip, arbitražo teismas, atsižvelgdamas į bylos aplinkybes, šalių elgesį, arbitražo teismo sprendime turi paskirstyti arbitražo išlaidas šalims.\n\n4. Kai byla baigiama bet kuriuo šiame įstatyme nurodytu pagrindu, arbitražo teismas turi teisę savo iniciatyva išspręsti arbitražo išlaidų paskirstymo klausimą."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "VII SKYRIUS SPRENDIMŲ PRIĖMIMAS IR ARBITRAŽO BYLOS UŽBAIGIMAS NEPRIĖMUS SPRENDIMO IŠ ESMĖS",
+      "section": "49",
+      "title": "49 straipsnis. Arbitražinio nagrinėjimo pabaiga",
+      "content": "1. Arbitražinis nagrinėjimas baigiamas galutiniu arbitražo teismo sprendimu arba šio straipsnio 2 ir 4 dalyse nustatytais pagrindais priimta arbitražo teismo nutartimi.\n\n2. Arbitražo teismas priima nutartį nutraukti arbitražinį nagrinėjimą, kai:\n\n1) byla negali būti nagrinėjama arbitraže;\n\n2) yra įsiteisėjęs teismo sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu;\n\n3) yra įsiteisėjęs arbitražo teismo sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu;\n\n4) ieškovas atsisakė ieškinio, nebent atsakovas prieštarauja dėl ieškinio atsisakymo ir arbitražo teismas pripažįsta atsakovo teisinį interesą galutinai išspręsti ginčą;\n\n5) šalys sudarė taikos sutartį arba arbitražo teismas nusprendė pabaigti arbitražo procesą nutartimi šio įstatymo 47 straipsnio 1 dalies 2 punkte nustatyta tvarka;\n\n6) fizinis asmuo, kuris buvo viena iš bylos šalių, mirė, o jo teisių perėmimas negalimas;\n\n7) juridinis asmuo, kuris buvo viena iš bylos šalių, likviduotas, o jo teisių perėmimas negalimas;\n\n8) nebeįmanoma nagrinėti arbitražo bylos ir ieškovas neturi teisės ateityje kreiptis į arbitražą dėl to paties ginčo išsprendimo.\n\n3. Nutraukus arbitražinį nagrinėjimą, šalims neleidžiama pakartotinai kreiptis į arbitražą dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu.\n\n4. Arbitražo teismas turi teisę priimti nutartį palikti prašymą dėl arbitražo pradžios arba ieškinį nenagrinėtą, kai:\n\n1) prašymą dėl arbitražo pradžios padavė arba ieškinį pareiškė neveiksnus fizinis asmuo;\n\n2) prašymą dėl arbitražo pradžios ieškovo vardu padavė arba ieškinį ieškovo vardu pareiškė neįgaliotas vesti arbitražo bylą asmuo;\n\n3) arbitražo teisme nagrinėjamas ginčas tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu;\n\n4) abi šalys, neprašiusios nagrinėti bylos joms nedalyvaujant, neatvyko be svarbių priežasčių;\n\n5) prašymą dėl arbitražo pradžios padavęs ar ieškinį pareiškęs asmuo nesumokėjo nustatytų arbitražo išlaidų;\n\n6) ieškovas nepareiškia ieškinio pagal šio įstatymo 30 ar 32 straipsnio reikalavimus;\n\n7) šalys, kurioms neiškelta bankroto byla, prašo ginčo nenagrinėti arbitraže remdamosi šio straipsnio 8 dalimi;\n\n8) arbitražo teismas nusprendžia, kad tolesnis arbitražo bylos nagrinėjimas negalimas ar neįmanomas.\n\n5. Prašymą dėl arbitražo pradžios arba ieškinį palikus nenagrinėtą, šalys nepraranda galimybės pakartotinai kreiptis į arbitražą dėl ginčo išsprendimo.\n\n6. Arbitražo teismo nutartis įsiteisėja nuo priėmimo momento ir šalių turi būti vykdoma.\n\n7. Bankroto bylos iškėlimas arbitražinio susitarimo šaliai ar kitos bankroto procedūros arbitražinio susitarimo šaliai taikymas nedaro įtakos arbitražo procesui, arbitražinio susitarimo galiojimui ir taikymui, galimybei ginčą spręsti arbitraže ir arbitražo teismo kompetencijai spręsti ginčą, išskyrus šio straipsnio 8 ir 9 dalyse nurodytas išimtis.\n\n8. Įmonė, kuriai iškelta bankroto byla, negali sudaryti naujo arbitražinio susitarimo. Turtiniai reikalavimai arbitražinio susitarimo šaliai, kuriai iškelta bankroto byla, nagrinėjami bankroto bylą iškėlusiame teisme, kai to prašo visos arbitražinio susitarimo šalys, kurioms bankroto byla neiškelta.\n\n9. Jeigu turtiniai reikalavimai arbitražinio susitarimo šaliai, kuriai iškelta bankroto byla, nagrinėjami arbitraže, arbitražo teismas turi suteikti protingą laiko tarpą bankroto administratoriui susipažinti su arbitražo byla ir pasirengti jos nagrinėjimui, o ieškovas turi pranešti bankroto bylą nagrinėjančiam teismui apie arbitraže nagrinėjamus reikalavimus ir pateikti juos pagrindžiančius paaiškinimus ir įrodymų aprašą. Arbitražo teismas sprendimu nustato šalių tarpusavio reikalavimų dydį. Priėmus arbitražo teismo sprendimą, bankroto bylą nagrinėjantis teismas patvirtina arbitražo teismo sprendimu nustatytus šalių tarpusavio reikalavimus. Bankroto bylą nagrinėjantis teismas gali netvirtinti arbitraže nagrinėjamų kreditoriaus reikalavimų tol, kol bus priimtas tų reikalavimų dydį patvirtinantis arbitražo teismo sprendimas, tačiau teismas patvirtina visus neginčijamus reikalavimus (neginčijamą jų dalį) Lietuvos Respublikos įmonių bankroto įstatymo nustatyta tvarka.\n\n10. Arbitražo teismo įgaliojimai pasibaigia priėmus galutinį arbitražo teismo sprendimą (išskyrus šio įstatymo 45 straipsnyje ir 50 straipsnio 6 dalyje numatytus atvejus), nutraukus arbitražo bylą ar palikus prašymą dėl arbitražo pradžios arba ieškinį nenagrinėtą.\n\nVIII SKYRIUS\nARBITRAŽO TEISMO SPRENDIMO PANAIKINIMAS"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "VIII SKYRIUS ARBITRAŽO TEISMO SPRENDIMO PANAIKINIMAS",
+      "section": "50",
+      "title": "50 straipsnis. Arbitražo teismo sprendimo panaikinimo pagrindai ir tvarka",
+      "content": "1. Arbitražo teismo sprendimas gali būti panaikintas, pateikus skundą Lietuvos apeliaciniam teismui šiame straipsnyje nustatytais pagrindais.\n\n2. Lietuvos apeliacinis teismas, priėmęs skundą dėl priimto arbitražo teismo sprendimo, gali vienos iš šalių prašymu išimtiniais atvejais sustabdyti arbitražo teismo sprendimo vykdymą.\n\n3. Lietuvos apeliacinis teismas gali panaikinti arbitražo teismo sprendimą, kai padavusi skundą šalis pateikia įrodymus, kad:\n\n1) viena iš arbitražinio susitarimo šalių pagal taikomus įstatymus buvo neveiksni arba arbitražinis susitarimas negalioja pagal šalių susitarimu taikomus įstatymus, o kai šalys dėl arbitražiniam susitarimui taikomų įstatymų nesusitarė, – pagal valstybės, kurioje buvo priimtas arbitražo teismo sprendimas, įstatymus, arba\n\n2) šaliai, prieš kurią norima remtis arbitražo teismo sprendimu, nebuvo reikiamai pranešta apie arbitro paskyrimą ar apie arbitražinį nagrinėjimą arba kitaip nebuvo sudaryta galimybė pateikti savo paaiškinimus; arba\n\n3) arbitražo teismo sprendimas buvo priimtas dėl ginčo ar ginčo dalies, kuri nebuvo perduota arbitražui. Jeigu galima atskirti ginčo dalį, kuri buvo perduota arbitražui, ta arbitražo teismo sprendimo dalis, kuria yra išspręsti arbitražui perduoti klausimai, gali būti pripažįstama ir vykdoma; arba\n\n4) arbitražo teismo sudėtis ar arbitražo procesas neatitiko šalių susitarimo ir (arba) imperatyvių šio įstatymo nuostatų; arba\n\n5) ginčas pagal Lietuvos Respublikos įstatymus negali būti perduotas arbitražui; arba\n\n6) arbitražo teismo sprendimas prieštarauja Lietuvos Respublikos viešajai tvarkai.\n\n4. Lietuvos apeliacinis teismas ex officio patikrina, ar skundžiamas arbitražo teismo sprendimas neprieštarauja šio straipsnio 3 dalies 5 ir 6 punktuose nustatytiems pagrindams.\n\n5. Lietuvos apeliacinis teismas atsisako priimti skundą, kuris paduotas praėjus vienam mėnesiui po arbitražo teismo sprendimo priėmimo, o kai skundas paduotas dėl šio įstatymo 45 straipsnyje numatyto papildomo sprendimo, – nuo tos dienos, kurią arbitražo teismas priėmė papildomą sprendimą.\n\n6. Lietuvos apeliacinis teismas, gavęs skundą dėl arbitražo teismo sprendimo, gali motyvuota nutartimi, jeigu to pageidauja ginčo šalis, sustabdyti bylą dėl arbitražo teismo sprendimo panaikinimo, kad arbitražo teismas galėtų atnaujinti nagrinėjimą arba imtis kitų veiksmų, kurie, Lietuvos apeliacinio teismo nuomone, pašalintų arbitražo teismo sprendimo naikinimo pagrindą.\n\n7. Šio straipsnio 6 dalyje numatyta Lietuvos apeliacinio teismo nutartis dėl bylos sustabdymo, taip pat nutartis dėl arbitražo teismo sprendimo panaikinimo ar atsisakymo panaikinti arbitražo teismo sprendimą gali būti skundžiama Lietuvos Aukščiausiajam Teismui Civilinio proceso kodekso nustatyta tvarka.\n\nIX SKYRIUS\nUŽSIENIO ARBITRAŽO SPRENDIMŲ PRIPAŽINIMAS IR VYKDYMAS"
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "IX SKYRIUS UŽSIENIO ARBITRAŽO SPRENDIMŲ PRIPAŽINIMAS IR VYKDYMAS",
+      "section": "51",
+      "title": "51 straipsnis. Užsienio arbitražo sprendimų pripažinimas ir vykdymas",
+      "content": "1. Arbitražo teismo sprendimas, priimtas bet kurioje valstybėje – 1958 m. Niujorko konvencijos dėl užsienio arbitražų sprendimų pripažinimo ir vykdymo dalyvėje, Lietuvos Respublikoje pripažįstamas ir vykdomas pagal šio straipsnio ir 1958 m. Niujorko konvencijos dėl užsienio arbitražų sprendimų pripažinimo ir vykdymo nuostatas.\n\n2. Šalis, prašanti pripažinti ar pripažinti ir vykdyti užsienio arbitražo sprendimą, pateikia prašymą Lietuvos apeliaciniam teismui. Prie šio prašymo pridedami prašomo pripažinti ar pripažinti ir vykdyti užsienio arbitražo sprendimo ir arbitražinio susitarimo originalai arba tinkamai patvirtinti jų nuorašai. Jeigu arbitražo sprendimas ar arbitražinis susitarimas surašyti ne valstybine kalba, šalis, kuri kreipiasi, turi pateikti tinkamai patvirtintus šių dokumentų vertimus į valstybinę kalbą.\n\n3. Dėl prašymo pripažinti ar pripažinti ir vykdyti užsienio arbitražo sprendimą Lietuvos apeliacinis teismas priima nutartį. Ši nutartis įsiteisėja nuo priėmimo dienos. Lietuvos apeliacinio teismo nutartis gali būti skundžiama Lietuvos Aukščiausiajam Teismui per 30 dienų nuo jos priėmimo dienos. Skundo dėl šioje dalyje numatytos Lietuvos apeliacinio teismo nutarties padavimui ir bylų procesui pagal šį skundą mutatis mutandis taikomos Civilinio proceso kodekso XVII skyriaus nuostatos.\n\n4. Įsiteisėjus nutarčiai dėl užsienio arbitražo sprendimo pripažinimo ar pripažinimo ir vykdymo, užsienio arbitražo sprendimas yra vykdytinas dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.“"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "IX SKYRIUS UŽSIENIO ARBITRAŽO SPRENDIMŲ PRIPAŽINIMAS IR VYKDYMAS",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo taikymas veikiančioms nuolatinėms arbitražo institucijoms",
+      "content": "Šio įstatymo įsigaliojimo dieną veikiančios nuolatinės arbitražo institucijos per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos turi užtikrinti, kad jos atitinka šio įstatymo reikalavimus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ad hoc arbitražas",
+      "definition": "arbitražas, kai šalių susitarimu ginčo sprendimo procedūros neorganizuoja nuolatinė arbitražo institucija.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Arbitras",
+      "definition": "fizinis asmuo, paskirtas arba ginčo šalies, arba ginčo šalių susitarimu, arba šio įstatymo nustatyta tvarka ginčui spręsti.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Arbitražinio nagrinėjimo vieta",
+      "definition": "vieta, kurioje rengiami arbitražo teismo posėdžiai ir atliekami kiti komercinio ginčo nagrinėjimo veiksmai.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Arbitražinis nagrinėjimas",
+      "definition": "komercinio arbitražo procesas nuo ginčo nagrinėjimo arbitraže pradžios iki arbitražo teismo sprendimo arba nutarties, kuria byla užbaigiama nepriėmus sprendimo iš esmės, įsiteisėjimo dienos.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Arbitražinis susitarimas",
+      "definition": "dviejų ar daugiau šalių susitarimas perduoti spręsti arbitražo teismui visus ar tam tikrus ginčus, kilusius ar galinčius kilti tarp jų dėl kokių nors konkrečių sutartinių ar kitokių teisinių santykių, kurie gali būti arbitražinio nagrinėjimo dalykas. Valstybė, savivaldybė ir kiti viešieji juridiniai asmenys taip pat gali sudaryti arbitražinį susitarimą.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Arbitražo procedūros reglamentas",
+      "definition": "nuolatinės arbitražo institucijos patvirtintos taisyklės, kuriomis vadovaujamasi nagrinėjant ir sprendžiant ginčus arbitraže.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Arbitražo teismas",
+      "definition": "arbitras ar arbitrų kolegija, sprendžianti arbitražo bylą.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Arbitražo vieta",
+      "definition": "arbitražiniame susitarime nurodyta arba arbitražo teismo nustatyta arbitražo vieta. Jeigu šalys nėra susitarusios dėl arbitražo vietos arba šalių susitarimas dėl arbitražo vietos nėra aiškus ir kol arbitražo vieta nenustatyta arbitražo teismo, arbitražo vieta laikoma nuolatinės arbitražo institucijos buveinė, ad hoc arbitražo atveju – atsakovo gyvenamoji vieta ar buveinė, o kai yra keli atsakovai, – vieno iš atsakovų gyvenamoji vieta ar buveinė ieškovo pasirinkimu. Arbitražo vieta gali nesutapti su arbitražinio nagrinėjimo vieta.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Institucinis arbitražas",
+      "definition": "arbitražas, kai šalių susitarimu ginčo sprendimą organizuoja, administruoja, sudaro sąlygas arbitražiniam nagrinėjimui ir kitus šalių susitarimu suteiktus įgaliojimus vykdo nuolatinė arbitražo institucija.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Komercinis arbitražas (toliau",
+      "definition": "arbitražas) – komercinio ginčo sprendimo būdas, kai fiziniai ar juridiniai asmenys, remdamiesi savo susitarimu, tarpusavio ginčui spręsti kreipiasi ar įsipareigoja kreiptis ne į teismą, o į savo susitarimu arba šio įstatymo nustatyta tvarka paskirtą arbitrą (arbitrus) (nesvarbu, ar arbitražo procesą organizuoja nuolatinė arbitražo institucija (institucinis arbitražas), ar vyksta ad hoc arbitražas), kuris (kurie) priima arbitražo teismo sprendimą, privalomą ginčo šalims.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Komercinis ginčas",
+      "definition": "bet koks šalių nesutarimas dėl fakto ar (ir) teisės klausimų, kilęs iš sutartinių ar nesutartinių teisinių santykių, įskaitant prekių tiekimą ar paslaugų teikimą, distribuciją, komercinį atstovavimą, faktoringą, nuomą, rangą, konsultavimą, inžinerines paslaugas, licencijavimą, investavimą, finansavimą, bankinę veiklą, draudimą, koncesiją, jungtinės veiklos kūrimą ir vykdymą, bet kokią kitokią pramonės ar verslo kooperaciją, žalos, padarytos pažeidus konkurencijos teisės normas, atlyginimą, sutartis, sudarytas viešųjų pirkimų pagrindu, prekių ar keleivių vežimą oru, jūra ir sausuma, bet tuo neapsiribojant.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Nuolatinė arbitražo institucija",
+      "definition": "nuolatos arbitražą organizuojantis ir administruojantis viešasis juridinis asmuo.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Nuolatinės arbitražo institucijos pirmininkas",
+      "definition": "fizinis asmuo, nuolatinės arbitražo institucijos steigimo dokumentų nustatyta tvarka paskirtas organizuoti šios institucijos veiklą ir atlikti jos administravimo bei šio įstatymo jam priskirtas funkcijas.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Teismas",
+      "definition": "bet kuri institucija ar organizacija, priklausanti valstybės teismų sistemai.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Užsienio arbitražo sprendimas",
+      "definition": "arbitražo teismo sprendimas, priimtas arbitražo byloje, kai arbitražo vieta yra ne Lietuvos Respublikoje.",
+      "source_provision": "art3"
+    }
+  ]
+}

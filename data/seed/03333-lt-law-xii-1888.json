@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xii-1888",
+  "type": "statute",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 155 ir 290 straipsnių pripažinimo netekusiais galios įstatymas",
+  "short_name": "XII-1888",
+  "status": "in_force",
+  "issued_date": "2015-06-25",
+  "in_force_date": "2015-07-10",
+  "url": "https://e-tar.lt/portal/lt/legalAct/820ae930261511e5bf92d6af3f6a2e8b/zZmRiTHukl",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 155 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 155 straipsnį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 290 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 290 straipsnį."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šio įstatymo 2 straipsnis įsigalioja 2016 m. balandžio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

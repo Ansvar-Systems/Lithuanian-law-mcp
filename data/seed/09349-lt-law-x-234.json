@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-x-234",
+  "type": "statute",
+  "title": "Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnio pakeitimo ir papildymo įstatymas",
+  "short_name": "X-234",
+  "status": "in_force",
+  "issued_date": "2005-06-07",
+  "in_force_date": "2006-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.88ADD5348890",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 13 straipsnio pakeitimas ir papildymas",
+      "content": "1. 13 straipsnio 4 punkte išbraukti žodžius „įmonių ir organizacijų“ ir šį punktą išdėstyti taip:\n\n„4) nekilnojamojo turto mokestis;“.\n\n2. Papildyti 13 straipsnį 26 punktu:\n\n„26) socialinis mokestis.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja nuo 2006 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS\n______________"
+    }
+  ],
+  "definitions": []
+}

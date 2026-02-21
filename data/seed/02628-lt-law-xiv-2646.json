@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiv-2646",
+  "type": "statute",
+  "title": "Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 11-1 straipsnio pakeitimo įstatymas",
+  "short_name": "XIV-2646",
+  "status": "in_force",
+  "issued_date": "2024-05-16",
+  "in_force_date": "2024-09-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/674480c01e5911ef8b14c5bcce136045/mIrSTkpHup",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 111 straipsnio pakeitimas",
+      "content": "Pakeisti 111 straipsnio 1 dalį ir ją išdėstyti taip:\n\n„1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie bendrovės narius ir pajininkus:\n\n1) nario fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas arba nario juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens priėmimo į bendrovės narius data; nario pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); narystės pasibaigimo bendrovėje data. Teikiant duomenis apie narį užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie narį užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;\n\n2) pajininko fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas arba pajininko juridinio asmens pavadinimas, kodas, teisinė forma ir buveinė; asmens pajinio įnašo sumokėjimo data; pajininko pajinio įnašo dydis (kai įnašas yra piniginis) ir (ar) vertė (kai įnašas yra nepiniginis); pajininko pajaus perleidimo bendrovėje data. Teikiant duomenis apie pajininką užsienio valstybės fizinį asmenį, papildomai nurodoma jo gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie pajininką užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje jis yra registruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2024 m. rugsėjo 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

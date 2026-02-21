@@ -1,0 +1,55 @@
+{
+  "id": "lt-law-xiv-2515",
+  "type": "statute",
+  "title": "Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymas",
+  "short_name": "XIV-2515",
+  "status": "in_force",
+  "issued_date": "2024-03-28",
+  "in_force_date": "2025-05-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/9926c840f1be11ee9f5b8ffa077f9188",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis įstatymas nustato atsiskaitymų už prekes (paslaugas) grynaisiais pinigais sumų apvalinimo tvarką."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos rinkliavų įstatyme, Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, Lietuvos Respublikos valiutos keityklos operatorių įstatyme."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo taikymas",
+      "content": "1. Šis įstatymas taikomas:\n\n1) atsiskaitymų tarp asmenų (pirkėjų) ir ūkio subjektų už prekes (paslaugas) grynaisiais pinigais sumoms;\n\n2) ūkio subjekto grąžinamoms sumoms grynaisiais pinigais asmeniui (pirkėjui) už jo grąžinamą (-as) prekę (-es), nesuteiktą (-as) paslaugą (-as), suteiktą (-as) netinkamos kokybės paslaugą (-as).\n\n2. Šis įstatymas netaikomas:\n\n1) atsiskaitymų negrynaisiais pinigais, dovanų kuponais (čekiais, kortelėmis), lojalumo kortelėse sukauptais pinigais, socialinėmis kortelėmis sumoms;\n\n2) elektroninės prekyvietės paslaugoms;\n\n3) darbo užmokesčiui ir kitoms su darbo santykiais susijusioms išmokoms, įskaitant dienpinigius ir išmokas, skirtas su komandiruote susijusioms faktinėms kelionės, nakvynės ir maitinimo išlaidoms kompensuoti;\n\n4) pensijoms ir kitoms socialinės apsaugos išmokoms;\n\n5) mokesčiams, su mokesčiais susijusioms sumoms, rinkliavoms, baudoms ir kitoms piniginėms prievolėms, kurios skiriamos arba nustatomos vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodeksu ir kitais įstatymais;\n\n6) keičiamos valiutos sumoms;\n\n7) pinigų perlaidų grynaisiais pinigais sumoms;\n\n8) į mokėjimo sąskaitą įmokamų grynųjų pinigų ir iš mokėjimo sąskaitos išimamų grynųjų pinigų sumoms;\n\n9) kai bendra mokėtina suma už vienu metu grąžinamas (-ą) prekes (-ę), įsigyjamas ar parduodamas prekes (paslaugas) (toliau – bendra mokėtina suma) yra mažesnė nei 5 euro centai, išskyrus šio įstatymo 4 straipsnio 2 dalyje numatytus atvejus."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Atsiskaitymų grynaisiais pinigais sumų apvalinimas",
+      "content": "1. Asmeniui (pirkėjui) atsiskaitant už prekes (paslaugas) grynaisiais pinigais, ūkio subjektas bendrą mokėtiną sumą privalo apvalinti iki artimiausio 5 euro centų kartotinio. Apvalinama taip:\n\n1) bendra mokėtina suma, kuri baigiasi 1 arba 2 euro centais, apvalinama į mažesnę pusę iki 0;\n\n2) bendra mokėtina suma, kuri baigiasi 3 arba 4 euro centais, apvalinama į didesnę pusę iki 5;\n\n3) bendra mokėtina suma, kuri baigiasi 6 arba 7 euro centais, apvalinama į mažesnę pusę iki 5;\n\n4) bendra mokėtina suma, kuri baigiasi 8 arba 9 euro centais, apvalinama į didesnę pusę iki 10.\n\n2. Kai už vienu metu įsigyjamas prekes (paslaugas) atsiskaitoma grynaisiais pinigais ir kitomis mokėjimo priemonėmis, apvalinama tik grynaisiais pinigais mokama sumos dalis ir tik kai ji mokama paskiausiai.\n\n3. Šio straipsnio 1 dalies nuostatos taikomos ir ūkio subjekto grąžinamoms sumoms grynaisiais pinigais asmeniui (pirkėjui) už šio grąžinamą (-as) prekę (-es). Apvalinama grynaisiais pinigais grąžinama suma, nepriklausomai nuo grąžinamų prekių skaičiaus ir mokėjimo priemonės, kuria buvo atsiskaityta įsigyjant tą (tas) prekę (-es)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Įstatymo įgyvendinimo kontrolė",
+      "content": "Lietuvos bankas konsultuoja šio įstatymo laikymosi klausimais ir kontroliuoja, kaip jo laikomasi."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Atsakomybė už šio įstatymo pažeidimus",
+      "content": "Asmenys, pažeidę šį įstatymą, atsako Administracinių nusižengimų kodekse nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. gegužės 1 d.\n\n2. Lietuvos Respublikos Vyriausybė iki 2024 m. spalio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

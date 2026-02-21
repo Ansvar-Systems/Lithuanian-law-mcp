@@ -1,0 +1,47 @@
+{
+  "id": "lt-law-xiii-492",
+  "type": "statute",
+  "title": "Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 2 straipsnio pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XIII-492",
+  "status": "in_force",
+  "issued_date": "2017-06-22",
+  "in_force_date": "2017-09-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/6bdf1d005c0711e79198ffdb108a3753/MtymeBCwRf",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 2 straipsnio pakeitimas",
+      "content": "Pakeisti 2 straipsnį ir jį išdėstyti taip:\n\n„2 straipsnis. Pagrindinės šio įstatymo sąvokos\n\n1. Laisvės atėmimo vietos – arešto, terminuoto laisvės atėmimo, laisvės atėmimo iki gyvos galvos bausmes ir kardomąją priemonę – suėmimą vykdančios įstaigos.\n\n2. Policijos kriminalinės žvalgybos subjektai – Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinę žvalgybą vykdantys padaliniai.\n\n3. Saugomas asmuo – asmuo, kuriam taikomos šiame įstatyme numatytos apsaugos nuo nusikalstamo poveikio priemonės.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Ketvirtojo skirsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios ketvirtąjį skirsnį."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2017 m. rugsėjo 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Laisvės atėmimo vietos",
+      "definition": "arešto, terminuoto laisvės atėmimo, laisvės atėmimo iki gyvos galvos bausmes ir kardomąją priemonę – suėmimą vykdančios įstaigos.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "Policijos kriminalinės žvalgybos subjektai",
+      "definition": "Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinę žvalgybą vykdantys padaliniai.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "Saugomas asmuo",
+      "definition": "asmuo, kuriam taikomos šiame įstatyme numatytos apsaugos nuo nusikalstamo poveikio priemonės.“",
+      "source_provision": "art1"
+    }
+  ]
+}

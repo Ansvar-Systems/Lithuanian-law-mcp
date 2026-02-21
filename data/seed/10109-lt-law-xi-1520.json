@@ -1,0 +1,48 @@
+{
+  "id": "lt-law-xi-1520",
+  "type": "statute",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 314, 315 ir 330 straipsnių pakeitimo įstatymas",
+  "short_name": "XI-1520",
+  "status": "in_force",
+  "issued_date": "2011-06-23",
+  "in_force_date": "2011-09-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.AD01F1C4E9F6",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 314 straipsnio pakeitimas",
+      "content": "Pakeisti 314 straipsnį ir jį išdėstyti taip:\n\n„314 straipsnis. Šaukimo į privalomąją karo tarnybą vengimas\n\n1. Karo prievolininkas, vengęs šaukimo į privalomąją karo tarnybą sutrikdydamas savo sveikatą, simuliuodamas ligą ar sveikatos sutrikimą, suklastodamas dokumentus ar kitokia apgaule,\nbaudžiamas areštu arba laisvės atėmimu iki trejų metų.\n\n2. Karo prievolininkas, vengęs šaukimo į privalomąją karo tarnybą, jeigu nebuvo požymių, nurodytų šio straipsnio 1 dalyje, padarė baudžiamąjį nusižengimą ir\nbaudžiamas bauda arba areštu.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 315 straipsnio pakeitimas",
+      "content": "315 straipsnyje vietoj žodžių „Šauktinis ar aktyviojo rezervo karys“ įrašyti žodžius „Karo prievolininkas“ ir šį straipsnį išdėstyti taip:\n\n„315 straipsnis. Šaukimo į karo tarnybą karo padėties metu vengimas\n\nKaro prievolininkas, vengęs šaukimo į karo tarnybą karo padėties metu, baudžiamas laisvės atėmimu iki penkerių metų.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 330 straipsnio pakeitimas",
+      "content": "Pakeisti 330 straipsnį ir jį išdėstyti taip:\n\n„330 straipsnis. Sąvokų išaiškinimas\n\n1. Karys – Lietuvos Respublikos pilietis, atliekantis tikrąją karo tarnybą.\n\n2. Karo prievolininkas – karo prievolę turintis Lietuvos Respublikos pilnametis pilietis.“"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ\n\n_________________"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Karys",
+      "definition": "Lietuvos Respublikos pilietis, atliekantis tikrąją karo tarnybą.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Karo prievolininkas",
+      "definition": "karo prievolę turintis Lietuvos Respublikos pilnametis pilietis.“",
+      "source_provision": "art3"
+    }
+  ]
+}

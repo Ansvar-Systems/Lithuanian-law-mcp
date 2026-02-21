@@ -19,6 +19,9 @@ interface ApiEnvelope<T> {
   _data?: T[];
 }
 
+type ModelName = 'Dokumentas' | 'Suvestine';
+type QueryParams = Record<string, string | undefined>;
+
 export interface DocumentRecord {
   dokumento_id: string;
   pavadinimas: string;
@@ -28,6 +31,7 @@ export interface DocumentRecord {
   rusis?: string | null;
   priimtas?: string | null;
   isigalioja?: string | null;
+  tekstas_lt?: string | null;
 }
 
 export interface EditionRecord {
@@ -55,13 +59,13 @@ async function rateLimit(): Promise<void> {
   lastRequestAt = Date.now();
 }
 
-function buildUrl(model: 'Dokumentas' | 'Suvestine', params: Record<string, string>): string {
+function buildUrl(model: ModelName, params: QueryParams): string {
   const query = Object.entries(params)
-    .map(([key, value]) => (
-      value === ''
+    .map(([key, value]) =>
+      value === undefined || value === ''
         ? encodeURIComponent(key)
         : `${encodeURIComponent(key)}=${encodeURIComponent(value)}`
-    ))
+    )
     .join('&');
   return `${API_BASE}/${model}/:format/json?${query}`;
 }
@@ -101,6 +105,40 @@ function quote(value: string): string {
   return `'${value.replace(/'/g, "''")}'`;
 }
 
+function makeOrExpression(field: string, values: string[]): string {
+  if (values.length === 0) {
+    throw new Error(`Cannot build OR expression for empty values list: ${field}`);
+  }
+  return values.map(value => `${field}=${quote(value)}`).join('|');
+}
+
+async function fetchAllRows<T>(
+  model: ModelName,
+  params: QueryParams,
+  pageSize = 5000,
+): Promise<T[]> {
+  const out: T[] = [];
+  let offset = 0;
+
+  while (true) {
+    const pageParams: QueryParams = {
+      ...params,
+      [`offset(${offset})`]: '',
+      [`limit(${pageSize})`]: '',
+    };
+    const rows = await fetchJson<T>(buildUrl(model, pageParams));
+    out.push(...rows);
+
+    if (rows.length < pageSize) break;
+    offset += pageSize;
+    if (offset > 2_000_000) {
+      throw new Error(`Pagination safety stop reached for ${model}`);
+    }
+  }
+
+  return out;
+}
+
 export async function fetchDocumentRecord(documentId: string): Promise<DocumentRecord | null> {
   const url = buildUrl('Dokumentas', {
     'select(dokumento_id,pavadinimas,nuoroda,atv_dok_nr,galioj_busena,rusis,priimtas,isigalioja)': '',
@@ -115,7 +153,7 @@ export async function fetchEditionRecords(documentId: string): Promise<EditionRe
   const url = buildUrl('Suvestine', {
     'select(dokumento_id,suvestines_id,nuoroda,galioja_nuo,galioja_iki)': '',
     'dokumento_id': quote(documentId),
-    'limit(500)': '',
+    'limit(5000)': '',
   });
 
   return fetchJson<EditionRecord>(url);
@@ -143,4 +181,61 @@ export function pickCurrentEdition(editions: EditionRecord[]): EditionRecord | n
 
 export function sortEditionsNewestFirst(editions: EditionRecord[]): EditionRecord[] {
   return [...editions].sort((a, b) => b.galioja_nuo.localeCompare(a.galioja_nuo));
+}
+
+/**
+ * Fetch all in-force Lithuanian laws (rusis=Įstatymas, galioj_busena=galioja).
+ */
+export async function fetchAllInForceLaws(): Promise<DocumentRecord[]> {
+  return fetchAllRows<DocumentRecord>(
+    'Dokumentas',
+    {
+      'select(dokumento_id,pavadinimas,nuoroda,atv_dok_nr,galioj_busena,rusis,priimtas,isigalioja)': '',
+      'rusis': quote('Įstatymas'),
+      'galioj_busena': quote('galioja'),
+    },
+    10000,
+  );
+}
+
+export async function fetchDocumentTextsByIds(documentIds: string[]): Promise<DocumentRecord[]> {
+  if (documentIds.length === 0) return [];
+
+  const filterExpr = makeOrExpression('dokumento_id', documentIds);
+  return fetchAllRows<DocumentRecord>(
+    'Dokumentas',
+    {
+      'select(dokumento_id,pavadinimas,nuoroda,atv_dok_nr,galioj_busena,rusis,priimtas,isigalioja,tekstas_lt)': '',
+      [filterExpr]: '',
+    },
+    5000,
+  );
+}
+
+export async function fetchSuvestineMetadataByDocumentIds(documentIds: string[]): Promise<EditionRecord[]> {
+  if (documentIds.length === 0) return [];
+
+  const filterExpr = makeOrExpression('dokumento_id', documentIds);
+  return fetchAllRows<EditionRecord>(
+    'Suvestine',
+    {
+      'select(dokumento_id,suvestines_id,nuoroda,galioja_nuo,galioja_iki)': '',
+      [filterExpr]: '',
+    },
+    10000,
+  );
+}
+
+export async function fetchSuvestineTextsByIds(suvestineIds: string[]): Promise<EditionTextRecord[]> {
+  if (suvestineIds.length === 0) return [];
+
+  const filterExpr = makeOrExpression('suvestines_id', suvestineIds);
+  return fetchAllRows<EditionTextRecord>(
+    'Suvestine',
+    {
+      'select(dokumento_id,suvestines_id,nuoroda,galioja_nuo,galioja_iki,tekstas_lt)': '',
+      [filterExpr]: '',
+    },
+    5000,
+  );
 }

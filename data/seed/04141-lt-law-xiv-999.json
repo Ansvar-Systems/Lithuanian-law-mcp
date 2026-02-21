@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-999",
+  "type": "statute",
+  "title": "Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3 ir 18 straipsnių pakeitimo įstatymas",
+  "short_name": "XIV-999",
+  "status": "in_force",
+  "issued_date": "2022-03-31",
+  "in_force_date": "2022-05-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/a393ad20b59d11ec8d9390588bf2de65/YnKbKEcXro",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 3 straipsnio pakeitimas",
+      "content": "1. Papildyti 3 straipsnį nauja 1 dalimi:\n\n„1. Buitinės nuotekos – nuotekos, kurios susidaro namų ūkyje naudojant vandenį buitiniams poreikiams. Prie buitinių nuotekų priskiriamos ir nuotekos, susidarančios naudojant vandenį įmonių, įstaigų, organizacijų darbuotojų buitiniams poreikiams, jeigu jos surenkamos ir išleidžiamos atskirai nuo kitų objekte susidarančių nuotekų.“\n\n2. Buvusią 3 straipsnio 1 dalį laikyti 11 dalimi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 18 straipsnio pakeitimas",
+      "content": "1. Pakeisti 18 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:\n\n„5) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (išskyrus buitines nuotekas), kuriose prioritetinių medžiagų, kurių išleidimas turi būti nuosekliai nutrauktas, koncentracija viršija aplinkos ministro nustatytas išleidžiamųjų teršalų ribines vertes;“.\n\n2. Pakeisti 18 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:\n\n„6) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (išskyrus buitines nuotekas), kuriose prioritetinių medžiagų, kurių išleidimas turi būti mažinamas, koncentracija viršija aplinkos ministro nustatytas išleidžiamųjų teršalų ribines vertes;“."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "1. Šis įstatymas įsigalioja 2022 m. gegužės 1 d.\n\n2. Aplinkos ministras iki 2022 m. balandžio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

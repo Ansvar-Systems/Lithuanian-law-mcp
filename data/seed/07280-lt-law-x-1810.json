@@ -1,0 +1,43 @@
+{
+  "id": "lt-law-x-1810",
+  "type": "statute",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso 42, 62, 803 straipsnių pakeitimo ir Kodekso LX skyriaus septintojo skirsnio ir priedo pripažinimo netekusiais galios įstatymas",
+  "short_name": "X-1810",
+  "status": "in_force",
+  "issued_date": "2008-11-13",
+  "in_force_date": "2008-11-29",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.24287699931D",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 42 straipsnio 6 dalies pripažinimas netekusia galios",
+      "content": "42 straipsnio 6 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 62 straipsnio 3 dalies pakeitimas",
+      "content": "62 straipsnio 3 dalyje išbraukti žodžius ir skaičius „išskyrus šio Kodekso 818 straipsnio 5 dalyje nurodytą išimtį“ ir šią dalį išdėstyti taip:\n\n„3. Lietuvos apeliaciniame teisme civilines bylas nagrinėja trijų teisėjų kolegija.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 803 straipsnio 5 dalies pripažinimas netekusia galios",
+      "content": "803 straipsnio 5 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. LX skyriaus septintojo skirsnio pripažinimas netekusiu galios",
+      "content": "LX skyriaus septintąjį skirsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Kodekso priedo pripažinimas netekusiu galios",
+      "content": "Kodekso priedą pripažinti netekusiu galios.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xii-1773",
+  "type": "statute",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 381 straipsnio pakeitimo įstatymas",
+  "short_name": "XII-1773",
+  "status": "in_force",
+  "issued_date": "2015-06-11",
+  "in_force_date": "2018-08-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/28b2ffd013eb11e58569be21ff080a8c",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 381 straipsnio pakeitimas",
+      "content": "Pakeisti 381 straipsnio 3 dalį ir ją išdėstyti taip:\n\n„3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

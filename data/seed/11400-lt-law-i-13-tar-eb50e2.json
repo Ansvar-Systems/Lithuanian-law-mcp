@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-i-13-tar-eb50e2",
+  "type": "statute",
+  "title": "Dėl Seimo komitetų",
+  "short_name": "I-13",
+  "status": "in_force",
+  "issued_date": "1992-12-08",
+  "in_force_date": "1992-12-08",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.EB50E2AED7BD",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Seime sudaromi šie komitetai:",
+      "content": "Agrarinis,\n\nBiudžeto ir finansų,\n\nEkonomikos,\n\nGamtos apsaugos,\n\nNacionalinio saugumo,\n\nSavivaldybių,\n\nSveikatos, socialinių reikalų ir darbo,\n\nŠvietimo, mokslo ir kultūros,\n\nUžsienio reikalų,\n\nValstybės ir teisės,\n\nŽmogaus ir piliečio teisių bei tautybių reikalų."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Šis įstatymas įsigalioja nuo priėmimo.",
+      "content": "LAIKINAI EINANTIS LIETUVOS\nRESPUBLIKOS SEIMO PIRMININKO PAREIGAS                              ČESLOVAS JURŠĖNAS\n______________"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,658 @@
+{
+  "id": "lt-law-viii-1087",
+  "type": "statute",
+  "title": "Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas",
+  "short_name": "VIII-1087",
+  "status": "in_force",
+  "issued_date": "1999-03-16",
+  "in_force_date": "1999-04-02",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.C71CC1B1BFCE/QxJuOTeOyh",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis įstatymas nustato įsakomųjų ir paprastųjų vekselių išrašymo, perdavimo, laidavimo, mokėjimo, reikalavimų, atsirandančių pagal vekselį, pareiškimo ir patenkinimo tvarką bei įsipareigojusių pagal vekselį asmenų santykius."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Vekselis – vertybinis popierius, kuris išrašomas šio įstatymo nustatyta tvarka ir kuriuo jį išrašęs asmuo be sąlygų įsipareigoja tiesiogiai ar netiesiogiai sumokėti tam tikrą pinigų sumą vekselyje nurodytam asmeniui pats arba įsako tai padaryti kitam. Vekselis gali būti įsakomasis arba paprastasis.\n\n2. Vekselio turėtojas – vekselio savininkas arba kitas šio įstatymo numatytais atvejais vekselį turintis asmuo.\n\n3. Įsakomasis vekselis – vekselis, kurio davėjas įsako kitam asmeniui, kad šis vekselyje įrašytą sumą sumokėtų jame nurodytam asmeniui.\n\n4. Paprastasis vekselis – vekselis, kurio davėjas be sąlygų įsipareigoja vekselio turėtojui sumokėti vekselyje įrašytą sumą.\n\n5. Indosamentas – perduodamasis įrašas vekselio antrojoje pusėje arba jo pratąsoje, patvirtinantis visų teisių pagal vekselį perdavimą kitam asmeniui.\n\n6. Indosantas – asmuo, darantis vekselio antrojoje pusėje arba jo pratąsoje perduodamąjį įrašą.\n\n7. Neužpildytas indosamentas – indosamentas, kuriame neįrašytas vekselį priimančio asmens pavadinimas ar vardas, pavardė.\n\n8. Vekselio pratąsa – vekselio pridėtinis lapas perduodamiesiems įrašams, jeigu jie netelpa vekselyje.\n\n9. Akceptas – įrašas vekselyje, patvirtinantis, kad padaręs įrašą asmuo sutinka vekselį apmokėti laiku.\n\n10. Akceptantas – akcepto įrašą vekselyje padaręs asmuo.\n\n11. Protestas – protesto aktu įformintas oficialus patvirtinimas, kad nustatytu laiku vekselis nebuvo akceptuotas arba apmokėtas. Protesto aktu gali būti patvirtinti ir kiti šiame įstatyme numatyti veiksmai arba jų neatlikimas.\n\n12. Vekselio suma – vekselyje įrašyta suma.\n\n13. Kliringo namai – finansų institucija, kurios nustatyta tvarka kredito įstaigos apsikeičia vekseliais ir už juos atsiskaito.\n\nII DALIS\nĮSAKOMASIS VEKSELIS\n\nI SKYRIUS\nĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "3",
+      "title": "3 straipsnis. Įsakomojo vekselio rekvizitai",
+      "content": "1. Įsakomajame vekselyje (toliau – vekselis) turi būti:\n\n1) žodžiai „įsakomasis vekselis“ tekste ta kalba, kuria vekselis išrašytas;\n\n2) besąlyginis įsakymas sumokėti įrašytą sumą;\n\n3) turinčio sumokėti asmens (mokėtojo) pavadinimas ar vardas, pavardė;\n\n4) mokėjimo terminas;\n\n5) mokėjimo vieta;\n\n6) pavadinimas ar vardas, pavardė asmens, kuriam arba kurio įsakymu turi būti sumokėta;\n\n7) vekselio išrašymo vieta ir data;\n\n8) išrašančio vekselį asmens (vekselio davėjo) parašas;\n\n9) tais atvejais, kai įsakomąjį vekselį išrašantis ūkio subjektas netvarko apskaitos pagal supaprastintos apskaitos taisykles, – tai patvirtinanti informacija.\nPapildyta straipsnio punktu:\nNr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297\n\n2. Įsakomasis vekselis, kurio suma didesnė kaip trys tūkstančiai eurų, turi būti notarinės formos, jeigu vekselio davėjas yra fizinis asmuo arba ūkio subjektas, tvarkantis apskaitą pagal supaprastintos apskaitos taisykles.\n\nStraipsnio pakeitimai:\nNr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "4",
+      "title": "4 straipsnis. Vekselio, kuriame nurodyti ne visi rekvizitai, galiojimas",
+      "content": "1. Dokumentas, kuriame nėra nors vieno iš 3 straipsnyje išvardytų rekvizitų, nėra įsakomasis vekselis, išskyrus šio straipsnio 2, 3, 4 dalyse nurodytais atvejais.\n\n2. Vekselis, kuriame mokėjimo terminas nenurodytas, laikomas mokėtinu jį pateikus.\n\n3. Jei nėra atskiro įrašo, vieta, pažymėta šalia mokėtojo pavadinimo, laikoma mokėjimo vieta ir kartu mokėtojo gyvenamąja vieta (buveine).\n\n4. Vekselis, kuriame nenurodyta jo išrašymo vieta, laikomas išrašytu toje vietoje, kuri pažymėta šalia davėjo pavadinimo."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "5",
+      "title": "5 straipsnis. Vekselio išrašymas",
+      "content": "Vekselis gali būti išrašytas mokėti davėjo įsakymu:\n\n1) nurodant patį davėją;\n\n2) nurodant trečiąjį asmenį."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "6",
+      "title": "6 straipsnis. Mokėjimo vieta",
+      "content": "Vekselis gali būti pateiktas apmokėti trečiojo asmens gyvenamojoje vietoje (buveinėje), neatsižvelgiant į tai, ar ši vieta yra toje vietovėje, kur yra mokėtojo gyvenamoji vieta (buveinė), ar kitoje vietovėje."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "7",
+      "title": "7 straipsnis. Palūkanos",
+      "content": "1. Vekselyje, mokėtiname jį pateikus arba per tam tikrą laiką po pateikimo, davėjas gali nustatyti sąlygą, kad už vekselio sumą skaičiuojamos palūkanos. Vekseliuose, išrašytuose mokėti kitais terminais, sąlyga dėl palūkanų negalioja.\n\n2. Palūkanų norma privalo būti nurodyta vekselyje. Jeigu ji nenurodyta, palūkanų mokėjimo sąlyga negalioja.\n\n3. Palūkanos skaičiuojamos nuo vekselio išrašymo dienos, jeigu nenurodyta kita data."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "8",
+      "title": "8 straipsnis. Vekselyje įrašytų sumų galiojimas",
+      "content": "1. Jeigu vekselyje žodžiais ir skaitmenimis įrašyta pinigų suma nesutampa, galioja žodžiais įrašyta suma.\n\n2. Kai vekselyje pinigų suma įrašyta žodžiais arba skaitmenimis daugiau nei kartą ir šios sumos skiriasi, galioja mažiausia suma."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "9",
+      "title": "9 straipsnis. Parašų galiojimas",
+      "content": "Jeigu vekselyje yra negalinčių pagal vekselį įsipareigoti asmenų parašai, suklastoti arba išgalvotų asmenų parašai, arba parašai, kurie dėl bet kurių priežasčių negali įpareigoti pasirašiusių asmenų arba asmenų, kurių vardu vekselis pasirašytas, tai kitų vekselyje pasirašiusių asmenų įsipareigojimams įtakos neturi."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "10",
+      "title": "10 straipsnis. Veikimas be įgaliojimo",
+      "content": "Asmuo, kuris pasirašo vekselyje kaip kito asmens įgaliotinis, tačiau neturi tam suteiktos teisės, pats įsipareigoja pagal vekselį ir, jei jis vekselį apmoka, įgyja tas pačias teises kaip ir asmuo, už kurį jis tariamai veikė. Tas pačias teises įgyja ir įgaliotinis, viršijęs savo įgalinimus."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "11",
+      "title": "11 straipsnis. Vekselio davėjo atsakomybė",
+      "content": "1. Vekselio davėjas yra atsakingas už vekselio akceptą ir apmokėjimą.\n\n2. Vekselio davėjas gali atsisakyti atsakomybės už vekselio akceptą. Bet kuri atsakomybės už vekselio apmokėjimą atsisakymo sąlyga negalioja."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "I SKYRIUS ĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "section": "12",
+      "title": "12 straipsnis. Prieštaravimai dėl vekselio papildymo",
+      "content": "Jeigu vekselį išduodant buvo įrašyti ne visi rekvizitai ir vėliau jis papildytas pažeidžiant susitarimą dėl neįrašytų rekvizitų, tai dėl tokių susitarimų nesilaikymo negalima pareikšti prieštaravimų vekselio turėtojui, nebent jis vekselį įsigijo nesąžiningai arba dėl didelio neatsargumo.\n\nII SKYRIUS\nVEKSELIO PERDAVIMAS"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "13",
+      "title": "13 straipsnis. Vekselio perdavimo tvarka",
+      "content": "1. Kiekvienas vekselis gali būti perduotas indosamentu, net jeigu jame nėra įrašo „įsakymu“.\n\n2. Jeigu vekselio davėjas įrašė vekselyje „ne įsakymu“ arba kitus atitinkamus žodžius, vekselis gali būti perduotas tik teisių perleidimo tvarka.\n\n3. Perduoti vekselį galima net mokėtojo naudai, nepaisant, ar jis vekselį akceptavo, ar ne, taip pat vekselio davėjo ar kurio nors kito pagal vekselį įsipareigojusio asmens naudai. Šie asmenys gali tokį vekselį perduoti toliau."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "14",
+      "title": "14 straipsnis. Indosamento galiojimas",
+      "content": "1. Indosamentas turi būti besąlyginis. Jokia indosamentą apribojanti sąlyga negalioja.\n\n2. Dalinis indosamentas negalioja.\n\n3. Indosamentas su įrašu „pateikėjui“ turi neužpildyto indosamento galią."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "15",
+      "title": "15 straipsnis. Indosamento įrašymas",
+      "content": "1. Indosamentas turi būti įrašytas vekselyje arba jo pratąsoje. Indosantas privalo jį pasirašyti. Vekselyje, kurio suma didesnė kaip trys tūkstančiai eurų ir kurio davėjas yra fizinis asmuo, indosanto fizinio asmens arba juridinio asmens atstovo parašo tikrumas turi būti patvirtintas notaro.\nStraipsnio dalies pakeitimai:\nNr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713\n\n2. Indosamente gali būti neįrašytas asmuo, kuriam vekselis perduodamas, arba gali būti tik indosanto parašas (neužpildytas indosamentas). Šiuo atveju indosamentas, kad galiotų, įrašomas antrojoje vekselio pusėje arba pratąsoje."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "16",
+      "title": "16 straipsnis. Indosamentu perduodamos teisės",
+      "content": "1. Indosamentu perduodamos visos teisės pagal vekselį.\n\n2. Jeigu indosamentas yra neužpildytas, vekselio turėtojas gali:\n\n1) įrašyti savo arba kito asmens pavadinimą ar vardą, pavardę;\n\n2) toliau perduoti vekselį pagal savo neužpildytą indosamentą arba vardinį indosamentą;\n\n3) perleisti vekselį trečiajam asmeniui, neįrašydamas asmens ir indosamento."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "17",
+      "title": "17 straipsnis. Indosanto atsakomybė",
+      "content": "1. Indosantas atsako už vekselio akceptą ir apmokėjimą, jeigu nėra priešingo įrašo.\n\n2. Indosantas gali uždrausti perduoti vekselį toliau. Tokiu atveju jis neatsako tiems asmenims, kuriems šis vekselis vėliau perduotas."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "18",
+      "title": "18 straipsnis. Vekselio savininkas",
+      "content": "1. Vekselio turėtojas yra teisėtas jo savininkas, jeigu jis įrodo šią teisę nenutrūkstama indosamentų eile, nors paskutinysis iš jų būtų neužpildytas. Išbraukti indosamentai šiuo atveju laikomi negaliojančiais. Jeigu po neužpildyto indosamento yra kitas indosamentas, laikoma, kad pastarąjį pasirašęs asmuo įsigijo vekselį pagal neužpildytą indosamentą.\n\n2. Jeigu asmuo prarado vekselį, šio vekselio turėtojas, kuris įrodo savo teisę į jį šio straipsnio 1 dalyje nurodytu būdu, privalo vekselį grąžinti tik tada, jei jį įgijo nesąžiningai arba dėl didelio neatsargumo."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "19",
+      "title": "19 straipsnis. Įsipareigojusių pagal vekselį asmenų prieštaravimai",
+      "content": "Įsipareigoję pagal vekselį asmenys gynybai negali vekselio turėtojui pareikšti prieštaravimų, grindžiamų asmeniniais jų ir vekselio davėjo arba ankstesniųjų vekselio turėtojų santykiais, nebent vekselio turėtojas, įgydamas vekselį, tyčia būtų veikęs skolininko nenaudai."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "20",
+      "title": "20 straipsnis. Indosamento apribojimai",
+      "content": "1. Jeigu indosamente yra įrašai „inkasuoti“, „pagal įgaliojimą“ arba kitokie paprastąjį pavedimą nusakantys žodžiai, vekselio turėtojas gali naudotis visomis su vekseliu susijusiomis teisėmis, bet jį perduoti gali tik pagal savo, kaip įgaliotinio, įgaliojimus.\n\n2. Šio straipsnio 1 dalyje nurodytu atveju įsipareigoję asmenys gynybai gali vekselio turėtojui pareikšti tik tuos prieštaravimus, kuriuos jie galėtų pareikšti indosantui.\n\n3. Pavedimas indosamente, įformintame pagal įgaliojimą, nenustoja galioti ir pavedimą davusiam asmeniui mirus arba tapus neveiksniu."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "21",
+      "title": "21 straipsnis. Indosamento įrašų suteikiamos teisės",
+      "content": "1. Kai indosamente yra įrašai „garantuoti“, „įkeisti“ arba kitokie atitinkami žodžiai, vekselio turėtojas gali naudotis visomis teisėmis pagal vekselį, tačiau jo įrašytas indosamentas turi įgaliotinio padaryto indosamento galią.\n\n2. Įsipareigoję pagal vekselį asmenys gynybai negali vekselio turėtojui pareikšti prieštaravimų, grindžiamų jų asmeniniais santykiais su indosantu, nebent turėtojas, įgydamas vekselį, tyčia būtų veikęs skolininko nenaudai."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "II SKYRIUS VEKSELIO PERDAVIMAS",
+      "section": "22",
+      "title": "22 straipsnis. Vekselio perdavimas pasibaigus vekselio mokėjimo terminui",
+      "content": "1. Indosamentas, įrašytas mokėjimo terminui pasibaigus, turi tokias pat pasekmes kaip ir įrašytas prieš mokėjimo terminą. Tačiau indosamentas, įrašytas po protesto dėl neapmokėjimo arba pasibaigus protesto įforminimo terminui, laikomas tik teisių perleidimu.\n\n2. Jeigu indosamento data nenurodyta, laikoma, kad vekselyje jis įrašytas iki termino, nustatyto protestui įforminti, pabaigos, nebent būtų įrodyta priešingai.\n\nIII SKYRIUS\nVEKSELIO AKCEPTAS"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "III SKYRIUS VEKSELIO AKCEPTAS",
+      "section": "23",
+      "title": "23 straipsnis. Pateikimas akceptuoti",
+      "content": "Vekselį, iki sueis mokėjimo terminas, jo turėtojas gali pateikti mokėtojui šio gyvenamojoje vietoje (buveinėje) akceptuoti."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "III SKYRIUS VEKSELIO AKCEPTAS",
+      "section": "24",
+      "title": "24 straipsnis. Pateikimo akceptuoti sąlygos",
+      "content": "1. Vekselio davėjas gali vekselyje įrašyti sąlygą, kad vekselis turi būti pateiktas akceptuoti. Pateikimo akceptuoti terminas gali būti nurodomas arba nenurodomas.\n\n2. Vekselio davėjas gali uždrausti pateikti vekselį akceptuoti, išskyrus šiuos atvejus: kai vekselis mokėtinas trečiojo asmens adresu; kai vekselis mokėtinas kitoje vietovėje nei mokėtojo gyvenamoji vieta (buveinė); kai vekselis mokėtinas per tam tikrą laiką po pateikimo apmokėti.\n\n3. Vekselio davėjas taip pat gali įrašyti sąlygą, kad vekselis negali būti pateiktas akceptuoti anksčiau jo nurodyto termino.\n\n4. Kiekvienas indosantas gali nurodyti sąlygą, kad vekselis turi būti pateiktas akceptuoti. Pateikimo akceptuoti terminas gali būti nurodomas arba nenurodomas, jeigu tik vekselio davėjas nėra nurodęs, kad vekselis neakceptuotinas."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "III SKYRIUS VEKSELIO AKCEPTAS",
+      "section": "25",
+      "title": "25 straipsnis. Pateikimo akceptuoti terminas",
+      "content": "1. Vekseliai, mokėtini per tam tikrą laiką po pateikimo, turi būti pateikti akceptuoti per vienerius metus nuo jų išdavimo dienos.\n\n2. Vekselio davėjas gali šį terminą sutrumpinti arba pratęsti.\n\n3. Indosantai šio straipsnio 1 ir 2 dalyse nurodytus terminus gali sutrumpinti."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "III SKYRIUS VEKSELIO AKCEPTAS",
+      "section": "26",
+      "title": "26 straipsnis. Pakartotinis pateikimas akceptuoti",
+      "content": "1. Vekselio mokėtojas gali reikalauti, kad vekselis akceptuoti pakartotinai būtų jam pateiktas kitą dieną po pirmojo pateikimo. Suinteresuoti asmenys negali pateikti prieštaravimų dėl tokio reikalavimo nevykdymo, nebent apie tokį reikalavimą būtų nurodyta proteste.\n\n2. Vekselio turėtojas neprivalo palikti mokėtojui akceptuoti pateikto vekselio."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "III SKYRIUS VEKSELIO AKCEPTAS",
+      "section": "27",
+      "title": "27 straipsnis. Vekselio akcepto įforminimas",
+      "content": "1. Vekselio akceptas įrašomas vekselyje. Jis išreiškiamas žodžiu „akceptuotas“ arba kitu atitinkamu žodžiu ir pasirašomas mokėtojo. Vien mokėtojo parašas vekselio pirmojoje pusėje taip pat laikomas akceptu. Vekselyje, kurio suma didesnė kaip trys tūkstančiai eurų ir kurio davėjas yra fizinis asmuo, akceptanto fizinio asmens parašo tikrumas turi būti patvirtintas notaro.\nStraipsnio dalies pakeitimai:\nNr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713\n\n2. Jeigu vekselis mokėtinas per tam tikrą laiką po pateikimo arba jeigu jis turi būti per nustatytą terminą pateiktas akceptuoti pagal atskirą vekselyje nurodytą sąlygą, akcepto data turi būti nustatyta ta diena, kurią padarytas akceptas, nebent vekselio turėtojas reikalautų, kad būtų įrašyta pateikimo diena. Jei akcepto data nenurodyta, vekselio turėtojas, siekdamas išsaugoti savo reikalavimo teises į indosantą ir vekselio davėją, privalo tai patvirtinti laiku įformintu protestu."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "III SKYRIUS VEKSELIO AKCEPTAS",
+      "section": "28",
+      "title": "28 straipsnis. Akcepto turinys",
+      "content": "1. Akceptas yra besąlyginis. Mokėtojas gali akceptuoti vekselio sumos dalį.\n\n2. Kitoks akceptuojant padarytas vekselio turinio pakeitimas laikomas atsisakymu akceptuoti. Tačiau akceptantas vis tiek atsako pagal akcepto turinį."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "III SKYRIUS VEKSELIO AKCEPTAS",
+      "section": "29",
+      "title": "29 straipsnis. Mokėjimo vietos nurodymas",
+      "content": "1. Jeigu vekselio davėjas vekselyje nurodė kitą mokėjimo vietą negu vekselio mokėtojo gyvenamoji vieta (buveinė), bet nenurodė trečiojo asmens, kurio adresu turi būti mokama, tai mokėtojas gali šį trečiąjį asmenį nurodyti akceptuodamas vekselį. Jei trečiasis asmuo nenurodytas, laikoma, kad pats akceptantas įsipareigoja mokėti mokėjimo vietoje.\n\n2. Jeigu vekselis mokėtinas mokėtojo gyvenamojoje vietoje (buveinėje), mokėtojas gali akceptuodamas įrašyti vietos, kur turi būti mokama, adresą.\n\n30 straipsnis Akcepto veiksmingumas\n\n1. Akceptavęs vekselį mokėtojas įsipareigoja apmokėti vekselį pasibaigus jo mokėjimo terminui.\n\n2. Jeigu vekselis neapmokėtas, vekselio turėtojas, net ir būdamas šio vekselio davėjas, gali tiesiai pareikšti akceptantui reikalavimus pagal vekselį sumokėti visas sumas, kurios numatytos šio įstatymo 50 ir 51 straipsniuose."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "III SKYRIUS VEKSELIO AKCEPTAS",
+      "section": "31",
+      "title": "31 straipsnis. Akcepto išbraukimas",
+      "content": "1. Jeigu mokėtojas prieš grąžindamas vekselį išbraukia akceptą, laikoma, kad akceptuoti vekselį atsisakyta. Neįrodžius priešingai, laikoma, kad akceptas išbrauktas prieš grąžinant vekselį.\n\n2. Jeigu mokėtojas raštu pranešė apie akceptą vekselio turėtojui arba kuriam nors iš vekselį pasirašiusių asmenų, jis įsipareigoja tiems asmenims pagal akcepto turinį.\n\nIV SKYRIUS\nVEKSELIO LAIDAVIMAS"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "IV SKYRIUS VEKSELIO LAIDAVIMAS",
+      "section": "32",
+      "title": "32 straipsnis. Apmokėjimo užtikrinimas",
+      "content": "1. Visos vekselio sumos arba jos dalies apmokėjimas gali būti užtikrinamas laidavimu.\n\n2. Laiduoti gali trečiasis asmuo arba pagal vekselį įsipareigojęs asmuo."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "IV SKYRIUS VEKSELIO LAIDAVIMAS",
+      "section": "33",
+      "title": "33 straipsnis. Laidavimo įrašymas",
+      "content": "1. Laidavimas įrašomas vekselyje arba jo pratąsoje.\n\n2. Laidavimas išreiškiamas žodžiu „laiduota“ arba kitu atitinkamu įrašu ir laiduotojo parašu.\n\n3. Laidavimu laikomas ir laiduotojo parašas pirmojoje vekselio pusėje, išskyrus vekselio mokėtojo arba jo davėjo parašus.\n\n4. Laiduojant būtina nurodyti, už kurį asmenį laiduojama. Jeigu tai nenurodyta, laikoma, kad laiduota už vekselio davėją."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "IV SKYRIUS VEKSELIO LAIDAVIMAS",
+      "section": "34",
+      "title": "34 straipsnis. Laiduotojo atsakomybė",
+      "content": "1. Laiduotojas yra įpareigotas lygiai taip pat kaip ir asmuo, už kurį jis laidavo.\n\n2. Laiduotojo įsipareigojimas galioja ir tuomet, kai ta prievolė, už kurią jis laidavo, dėl kurios nors priežasties negalioja, išskyrus vekselio formos trūkumus.\n\n3. Laiduotojas, apmokėjęs vekselį, įgyja atgręžtinio reikalavimo pagal vekselį teises į asmenį, už kurį jis laidavo, ir į tuos, kurie asmeniui, už kurį buvo laiduota, įsipareigoję pagal vekselį.\n\nV SKYRIUS\nVEKSELIO APMOKĖJIMO TERMINAS"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "V SKYRIUS VEKSELIO APMOKĖJIMO TERMINAS",
+      "section": "35",
+      "title": "35 straipsnis. Vekselio mokėjimo terminai",
+      "content": "1. Vekselis gali būti išrašytas apmokėti:\n\n1) jį pateikus;\n\n2) per tam tikrą laiką po pateikimo;\n\n3) per tam tikrą laiką nuo išrašymo dienos;\n\n4) nustatytą dieną.\n\n2. Vekseliai, kuriuose nurodyti kitokie mokėjimo terminai arba vienas po kito einantys terminai, negalioja."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "V SKYRIUS VEKSELIO APMOKĖJIMO TERMINAS",
+      "section": "36",
+      "title": "36 straipsnis. Vekselis, mokėtinas jį pateikus",
+      "content": "1. Vekselis, mokėtinas jį pateikus, turi būti apmokėtas vekselį pateikus mokėtojui. Vekselis turi būti pateiktas apmokėti per vienerius metus nuo jo išrašymo dienos. Vekselio davėjas gali šį laiką sutrumpinti arba pratęsti. Indosantai šiuos terminus gali sutrumpinti.\n\n2. Vekselio davėjas gali nustatyti, kad vekselis, mokėtinas jį pateikus, negali būti pateiktas apmokėti anksčiau davėjo nurodyto termino. Šiuo atveju pateikimo laikas skaičiuojamas nuo vekselio davėjo nurodytos datos."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "V SKYRIUS VEKSELIO APMOKĖJIMO TERMINAS",
+      "section": "37",
+      "title": "37 straipsnis. Vekselis, mokėtinas per tam tikrą laiką po pateikimo",
+      "content": "1. Vekselio, mokėtino per tam tikrą laiką po pateikimo, apmokėjimo terminas nustatomas pagal vekselio akcepto arba jo protesto datą.\n\n2. Jei protesto nėra, akceptas be datos akceptanto atžvilgiu laikomas įrašytu paskutinę dieną, iki kurios nustatyta pateikti vekselį akceptuoti."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "V SKYRIUS VEKSELIO APMOKĖJIMO TERMINAS",
+      "section": "38",
+      "title": "38 straipsnis. Mokėjimo dienos nustatymas",
+      "content": "1. Vekselio, mokėtino per vieną ar kelis mėnesius nuo išrašymo arba pateikimo dienos, terminas pasibaigia atitinkamą mokėjimo mėnesio dieną. Jei tą mėnesį nėra atitinkamos dienos, vekselio mokėjimo terminas yra paskutinė to mėnesio diena.\n\n2. Jei vekselis išrašytas mokėti per pusantro mėnesio ar per kelis su puse mėnesio nuo išdavimo arba pateikimo dienos, pirmiausia suskaičiuojami pilni mėnesiai.\n\n3. Jeigu nurodytas mokėjimo terminas yra mėnesio pradžia, mėnesio vidurys (pvz., sausio vidurys, vasario vidurys) arba mėnesio pabaiga, tai reiškia pirmąją, penkioliktąją arba paskutinę mėnesio dieną.\n\n4. Žodžiai „aštuonios dienos“, „penkiolika dienų“ reiškia ne vieną arba dvi savaites, bet visų aštuonių arba penkiolikos dienų terminą.\n\n5. Žodžiai „pusė mėnesio“ reiškia penkiolikos dienų terminą."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "V SKYRIUS VEKSELIO APMOKĖJIMO TERMINAS",
+      "section": "39",
+      "title": "39 straipsnis. Mokėjimo termino nustatymas esant skirtingiems kalendoriams",
+      "content": "1. Jeigu vekselis turi būti apmokėtas nustatytą dieną vietovėje, kurioje galioja ne toks kaip vekselio išrašymo vietovėje kalendorius, mokėjimo terminas nustatomas pagal mokėjimo vietovės kalendorių.\n\n2. Jeigu vekselis, mokėtinas per tam tikrą laiką nuo išrašymo dienos, turi būti apmokėtas kitoje vietovėje, o šios kalendorius yra kitoks negu išrašymo vietovėje, vekselio išrašymo diena pritaikoma atitinkamai mokėjimo vietovės kalendoriaus dienai ir taip nustatomas mokėjimo terminas.\n\n3. Vekselių pateikimo terminai apskaičiuojami laikantis šio straipsnio 2 dalies nuostatų.\n\n4. Šio straipsnio nuostatos netaikomos, jeigu vekselyje nurodyta kitaip.\n\nVI SKYRIUS\nVEKSELIO APMOKĖJIMAS"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "VI SKYRIUS VEKSELIO APMOKĖJIMAS",
+      "section": "40",
+      "title": "40 straipsnis. Vekselio pateikimas apmokėti",
+      "content": "1. Vekselio, kuris mokėtinas nustatytą dieną arba per tam tikrą laiką po jo išrašymo ar pateikimo, turėtojas vekselį apmokėti privalo pateikti paskutinę mokėjimo termino dieną arba per dvi po jos einančias darbo dienas.\n\n2. Vekselio pateikimas kliringo namams yra tolygus pateikimui apmokėti."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "VI SKYRIUS VEKSELIO APMOKĖJIMAS",
+      "section": "41",
+      "title": "41 straipsnis. Vekselio mokėtojo teisės",
+      "content": "1. Apmokėjęs vekselį, mokėtojas gali reikalauti, kad jam būtų atiduotas vekselio turėtojo pakvituotas vekselis.\n\n2. Vekselio turėtojas negali atsisakyti priimti vekselio sumos dalies įmokos.\n\n3. Sumokėjęs sumos dalį, vekselio mokėtojas gali reikalauti, kad tai būtų pažymėta vekselyje ir jam būtų išduotas pakvitavimas."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "VI SKYRIUS VEKSELIO APMOKĖJIMAS",
+      "section": "42",
+      "title": "42 straipsnis. Vekselio apmokėjimas prieš mokėjimo terminą",
+      "content": "1. Vekselio turėtojas negali būti verčiamas priimti įmoką prieš mokėjimo terminą.\n\n2. Jeigu vekselio mokėtojas moka prieš terminą, jis veikia savo rizika.\n\n3. Tas, kuris sumokėjo laiku, nebeatsako už savo įsipareigojimus, jeigu tai padarė ne apgaulės būdu arba dėl didelio neatsargumo. Jis privalo patikrinti indosamentų seką, bet ne indosantų parašų tikrumą."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "VI SKYRIUS VEKSELIO APMOKĖJIMAS",
+      "section": "43",
+      "title": "43 straipsnis. Valiutos naudojimas apmokant vekselį",
+      "content": "1. Jeigu vekselis išrašytas valiuta, kuri mokėjimo vietovėje nėra atsiskaitymo priemonė, jo sumą galima sumokėti valstybės, kurioje mokama, valiuta pagal mokėjimo termino dieną esantį kursą. Jei pasibaigus mokėjimo terminui vekselis neapmokėtas, jo turėtojas savo nuožiūra gali reikalauti, kad vekselis būtų apmokėtas tos valstybės valiuta pagal mokėjimo termino dienos arba mokėjimo dienos kursą.\n\n2. Nustatant užsienio valiutos kursą, laikomasi mokėjimo vietos valstybėje nustatyto oficialaus valiutos kurso. Tačiau vekselio davėjas gali nurodyti sąlygą, kad mokėtina vekselio suma būtų apskaičiuota pagal vekselyje nurodytą kursą.\n\n3. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos, kai vekselio davėjas yra nurodęs sąlygą, kad turi būti sumokėta vekselyje nurodyta valiuta.\n\n4. Jeigu vekselio suma nurodyta valiuta, kurios vieneto pavadinimas davėjo ir mokėtojo valstybėje yra vienodas, tačiau skiriasi jų vertė, laikoma, kad nurodyta mokėjimo vietos valstybės valiuta."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "VI SKYRIUS VEKSELIO APMOKĖJIMAS",
+      "section": "44",
+      "title": "44 straipsnis. Mokėtinos pagal vekselį sumos deponavimas",
+      "content": "Nepateikus vekselio apmokėti šio įstatymo 40 straipsnyje nurodytu terminu, skolininkas gali įmokėti vekselio sumą į notaro depozitinę sąskaitą vekselio turėtojo sąnaudomis ir rizika.\n\nVII SKYRIUS\nREIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "45",
+      "title": "45 straipsnis. Reikalavimų sumokėti pareiškimas",
+      "content": "Vekselio turėtojas gali indosantams, davėjui ir kitiems pagal vekselį įsipareigojusiems asmenims pareikšti reikalavimus sumokėti:\n\n1) jei pasibaigus mokėjimo terminui nebuvo sumokėta;\n\n2) nepasibaigus mokėjimo terminui:\n\na) jeigu buvo atsisakyta akceptuoti visą vekselio sumą arba jos dalį;\n\nb) mokėtojo nemokumo atveju, nepaisant, ar šis akceptavo vekselį, ar ne, bet jeigu sustabdė savo mokėjimus, nors tai ir nepatvirtinta teismine tvarka, arba kai priverstinis išieškojimas iš jo turto buvo nesėkmingas;\n\nc) neakceptuotino vekselio davėjo nemokumo atveju."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "46",
+      "title": "46 straipsnis. Vekselio protestas",
+      "content": "1. Vekselio neakceptavimas arba neapmokėjimas turi būti patvirtintas oficialiu aktu (protestas dėl atsisakymo akceptuoti arba apmokėti). Vekselius protestuoja notarai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.\n\n2. Protestas neakceptavimo atveju turi būti įformintas per terminą, nustatytą pateikti vekselį akceptuoti. Jeigu šio įstatymo 26 straipsnio 1 dalyje numatytu atveju vekselis pirmą kartą akceptuoti buvo pateiktas paskutinę termino dieną, tai protestas gali būti įformintas dar ir rytojaus dieną.\n\n3. Jeigu vekselis, mokėtinas nustatytą dieną arba per tam tikrą laiką nuo jo išrašymo ar pateikimo dienos, nebuvo apmokėtas, protestas turi būti įformintas pasibaigus mokėjimo terminui per vieną arba dvi darbo dienas. Jei vekselis, mokėtinas jį pateikus, nebuvo apmokėtas, protestas turi būti įformintas kaip nurodyta šio straipsnio 2 dalyje.\n\n4. Įforminus protestą dėl neakceptavimo, nereikia nei pateikti vekselio apmokėti, nei protestuoti dėl neapmokėjimo.\n\n5. Jei vekselio mokėtojas, nepaisant, ar jis buvo akceptavęs vekselį, ar ne, nutraukė mokėjimus arba jei priverstinis išieškojimas iš jo turto buvo nesėkmingas, vekselio turėtojas gali pateikti reikalavimus tik pateikęs mokėtojui vekselį apmokėti ir įforminęs protestą.\n\n6. Jeigu vekselio mokėtojas, nepaisant, akceptavo jis vekselį ar ne, paskelbtas nemokiu, taip pat tais atvejais, kai neakceptuotino vekselio davėjas paskelbtas nemokiu, kad vekselio turėtojas galėtų pateikti reikalavimus, pakanka teismo nutarties iškelti bankroto bylą."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "47",
+      "title": "47 straipsnis. Pranešimas neakceptavus arba neapmokėjus vekselio",
+      "content": "1. Vekselio turėtojas privalo pranešti indosantui, iš kurio jis gavo vekselį, ir vekselio davėjui apie tai, kad vekselis neakceptuotas arba neapmokėtas, per keturias darbo dienas po protesto, o kai vekselyje įrašyta sąlyga „grąžinti be išlaidų“ ar „neprotestuotinas“, – per tiek pat laiko po vekselio pateikimo akceptuoti arba apmokėti. Kiekvienas gavęs pranešimą indosantas per dvi darbo dienas turi pranešti apie tai prieš jį pasirašiusiam indosantui, nurodydamas pavadinimus ar vardus, pavardes ir adresus tų, kurie pranešimus atsiuntė. Taip daroma tol, kol apie tai bus pranešta vekselio davėjui. Nurodyti terminai skaičiuojami nuo pranešimo gavimo dienos.\n\n2. Kai šio straipsnio 1 dalyje nurodyta tvarka apie neakceptuotą ar neapmokėtą vekselį buvo pranešta vekselį pasirašiusiam asmeniui, per tokį pat laiką turi būti apie tai pranešta ir asmenims, kurie už jį laidavo.\n\n3. Jeigu kuris nors indosantas nėra nurodęs savo adreso arba jį įrašęs neįskaitomai, pakanka pranešti prieš jį pasirašiusiam indosantui.\n\n4. Pranešti galima bet kuria forma, net ir grąžinant vekselį.\n\n5. Įpareigotasis pranešti privalo įrodyti, kad jis tai padarė nustatytu laiku. Laikoma, kad terminas nepraleistas, jeigu pranešimas nustatytu laiku buvo išsiųstas paštu.\n\n6. Šiame straipsnyje nurodytu laiku nepranešęs asmuo savo teisių nepraranda. Jis atsako už žalą, padarytą dėl savo kaltės, tačiau žalos atlyginamoji suma negali viršyti vekselio sumos."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "48",
+      "title": "48 straipsnis. Neprivalomas vekselio protestas",
+      "content": "1. Vekselio davėjas, indosantas arba laiduotojas, įrašydami vekselyje sąlygą „grąžinti be išlaidų“ ar „neprotestuotinas“ arba kitus atitinkamos reikšmės žodžius ir pasirašydami, gali atleisti vekselio turėtoją nuo pareigos įforminti protestą dėl neakceptavimo arba neapmokėjimo, kad jis galėtų pasinaudoti reikalavimo teise.\n\n2. Šio straipsnio 1 dalyje nurodyta sąlyga neatleidžia vekselio turėtojo nei nuo pareigos pateikti vekselį nustatytu laiku, nei nuo pareigos įteikti šio įstatymo 47 straipsnyje numatytą pranešimą. Kad nesilaikyta nustatytų terminų, turi įrodyti tas, kuris tuo remiasi ginče su vekselio turėtoju.\n\n3. Jeigu sąlygą įrašė vekselio davėjas, ji galioja visiems vekselyje pasirašiusiems asmenims, o jeigu tai padarė indosantas arba laiduotojas, ji galioja tik pačiam indosantui ar laiduotojui. Jeigu, nepaisydamas vekselio davėjo įrašytos sąlygos, vekselio turėtojas įformina protestą, dėl to susidariusios išlaidos tenka jam pačiam. Jei sąlygą įrašė indosantas arba laiduotojas, protesto išlaidos, jeigu protesto aktas buvo įformintas, gali būti išieškotos iš visų vekselyje pasirašiusiųjų."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "49",
+      "title": "49 straipsnis. Teisė pareikšti reikalavimus",
+      "content": "1. Visi – vekselio davėjas, akceptantas, indosantai ir laiduotojai – vekselio turėtojui atsako solidariai.\n\n2. Vekselio turėtojas turi teisę pareikšti reikalavimus visiems šio straipsnio 1 dalyje nurodytiems asmenims, kiekvienam iš jų atskirai ir visiems kartu, nesilaikydamas įsipareigojimų eiliškumo.\n\n3. Tokia pat teise gali naudotis kiekvienas vekselyje pasirašęs ir jį apmokėjęs asmuo.\n\n4. Reikalavimų pareiškimas vienam iš įsipareigojusių pagal vekselį asmenų nekliudo pareikšti reikalavimų kitiems asmenims, net jeigu jie įsipareigojo vėliau už asmenį, kuriam tokie reikalavimai jau pareikšti."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "50",
+      "title": "50 straipsnis. Reikalavimų sumos",
+      "content": "1. Vekselio turėtojas gali reikalauti, kad asmuo, kuriam jis pareiškė reikalavimus, sumokėtų:\n\n1) neakceptuoto arba neapmokėto vekselio sumą su palūkanomis, jeigu jos buvo numatytos;\n\n2) šešių procentų metines palūkanas, skaičiuojamas nuo mokėjimo termino pasibaigimo;\n\n3) protesto išlaidas, pranešimų siuntimo bei kitas išlaidas.\n\n2. Jeigu reikalavimo teise naudojamasi prieš pasibaigiant mokėjimo terminui, vekselio suma turi būti sumažinta. Suma, kuria turi būti sumažinta vekselyje įrašyta suma, apskaičiuojama atsižvelgiant į vidutinę terminuotų indėlių metų palūkanų normą, kuri galioja vekselio mokėtojo vietovėje tą dieną, kai naudojamasi reikalavimo teise."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "51",
+      "title": "51 straipsnis. Atgręžtinio reikalavimo teisė",
+      "content": "Apmokėjęs vekselį asmuo turi teisę atgręžtine tvarka reikalauti iš jam įsipareigojusių asmenų:\n\n1) visos jo sumokėtos sumos;\n\n2) sumokėtos sumos šešių procentų metinių palūkanų, skaičiuojamų nuo sumokėjimo dienos;\n\n3) visų jo turėtų išlaidų."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "52",
+      "title": "52 straipsnis. Vekselį apmokėjusių asmenų teisės",
+      "content": "1. Kiekvienas pagal vekselį įsipareigojęs asmuo, kurio atžvilgiu pasinaudota ar gali būti pasinaudota reikalavimo teise, apmokėjęs vekselį, gali reikalauti grąžinti jam vekselį su protestu ir išduoti pakvitavimą.\n\n2. Kiekvienas indosantas, apmokėjęs vekselį, gali išbraukti savo ir po jo įrašytų indosantų indosamentus."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "53",
+      "title": "53 straipsnis. Teisė sumokėjus neakceptuotą vekselio sumą",
+      "content": "Jeigu buvo akceptuota ne visa vekselio suma, asmuo, kuriam buvo pareikšti reikalavimai, sumokėjęs neakceptuotą (likusią) sumą, gali reikalauti, kad vekselyje būtų pažymėta apie sumokėjimą ir išduotas pakvitavimas. Be to, vekselio turėtojas turi duoti šiam asmeniui patvirtintą vekselio nuorašą ir protesto aktą, kad jis galėtų savo ruožtu pasinaudoti atgręžtinio reikalavimo teise."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "54",
+      "title": "54 straipsnis. Atgręžtinis vekselis",
+      "content": "1. Kiekvienas turintis reikalavimo teisę pagal vekselį, jeigu nėra susitarta kitaip, gali išrašyti naują įsakomąjį vekselį (atgręžtinį vekselį) vienam iš jam įsipareigojusių asmenų. Šiame vekselyje nurodoma apmokėti jį pateikus ir kad vekselis mokėtinas šio asmens gyvenamojoje vietoje (buveinėje).\n\n2. Į atgręžtinio vekselio sumą įskaičiuojamos sumos, nurodytos šio įstatymo 50 ir 51 straipsniuose."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "55",
+      "title": "55 straipsnis. Vekselio turėtojo teisės pasibaigus terminams",
+      "content": "1. Vekselio turėtojas netenka teisės pareikšti reikalavimų jo davėjui, indosantams ir kitiems įsipareigojusiems asmenims, išskyrus akceptavusįjį, kai pasibaigia nustatyti terminai:\n\n1) pateikti vekselį, mokėtiną jį pateikus arba per tam tikrą laiką po pateikimo;\n\n2) įforminti protestą dėl neakceptavimo arba neapmokėjimo;\n\n3) pateikti apmokėti, kai įrašyta sąlyga „grąžinti be išlaidų“ ar „neprotestuotinas“.\n\n2. Jeigu vekselio turėtojas nepateikia vekselio akceptuoti vekselio davėjo sąlygoje nustatytu laiku, jis netenka reikalavimo teisės, atsirandančios ir dėl neapmokėjimo, ir dėl neakceptavimo, nebent iš įrašytos sąlygos turinio būtų matyti, kad vekselio davėjas norėjo išvengti tik atsakomybės už vekselio akceptavimą.\n\n3. Jeigu sąlyga dėl vekselio pateikimo laiko nurodyta indosamente, ja pasinaudoti gali tik indosantas."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "VII SKYRIUS REIKALAVIMAI VEKSELIO NEAKCEPTAVUS ARBA NEAPMOKĖJUS",
+      "section": "56",
+      "title": "56 straipsnis. Nenugalima jėga",
+      "content": "1. Jeigu dėl nenugalimos jėgos nustatytu laiku nebuvo galima pateikti vekselio arba įforminti protesto, tam skirtas laikas pratęsiamas.\n\n2. Vekselio turėtojas nedelsdamas turi pranešti apie nenugalimos jėgos aplinkybes savo indosantui ir pažymėti vekselyje arba pratąsoje, kad indosantui pranešta, nurodyti datą ir pasirašyti. Toliau taikomos šio įstatymo 47 straipsnio nuostatos.\n\n3. Kai nenugalimos jėgos aplinkybių nelieka, vekselio turėtojas nedelsdamas turi pateikti vekselį akceptuoti arba apmokėti ir, jeigu reikia, įforminti protestą.\n\n4. Jeigu nenugalimos jėgos aplinkybės tęsiasi ilgiau kaip trisdešimt dienų po mokėjimo termino pasibaigimo, reikalavimo teisėms įgyvendinti nebūtina pateikti vekselio apmokėti ir nebūtina įforminti protesto.\n\n5. Vekselio, mokėtino jį pateikus arba per tam tikrą laiką nuo pateikimo, trisdešimties dienų terminas, net ir nepasibaigus vekselio pateikimo laikui, skaičiuojamas nuo tos dienos, kurią vekselio turėtojas pranešė savo indosantui apie nenugalimos jėgos aplinkybes. Vekseliams, mokėtiniems per tam tikrą laiką nuo pateikimo, prie trisdešimties dienų pridedamas vekselyje nurodytas laikas, kuris skaičiuojamas po pateikimo dienos.\n\n6. Nenugalimos jėgos aplinkybėmis nelaikomos asmeninės aplinkybės, kliudančios vien tik vekselio turėtojui arba tam asmeniui, kuriam vekselio turėtojas yra pavedęs pateikti vekselį arba įforminti protestą.\n\nVIII SKYRIUS\nTARPININKAVIMAS"
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "57",
+      "title": "57 straipsnis. Tarpininkavimo sąlygos",
+      "content": "1. Vekselio davėjas, indosantas arba laiduotojas gali nurodyti asmenį (tarpininką), kuris prireikus vekselį akceptuotų arba apmokėtų.\n\n2. Šiame skyriuje nustatytomis sąlygomis vekselį gali akceptuoti arba apmokėti asmuo, atstovaujantis skolininkui, kuriam gali būti pareikšti reikalavimai.\n\n3. Tarpininku gali būti trečiasis asmuo, net mokėtojas arba kitas pagal vekselį įsipareigojęs asmuo, išskyrus akceptantą.\n\n4. Tarpininkas per dvi darbo dienas turi pranešti apie tarpininkavimą tam, kuriam tarpininkauja. Laiku nepranešęs, tarpininkas atsako už dėl jo kaltės padarytą žalą. Atlygintina žalos suma negali viršyti vekselio sumos."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "58",
+      "title": "58 straipsnis. Tarpininko akceptas",
+      "content": "1. Tarpininkas gali akceptuoti vekselį visais atvejais, kai akceptuotino vekselio turėtojas iki vekselio mokėjimo termino pabaigos turi reikalavimo teisę.\n\n2. Jeigu vekselyje yra nurodytas asmuo, prireikus galintis vekselį akceptuoti arba apmokėti mokėjimo vietoje, vekselio turėtojas gali, iki pasibaigs mokėjimo terminas, nepareikšti reikalavimo teisių į šį nurodymą įrašiusį asmenį ir į vėliau po šio nurodymo pasirašiusius asmenis, nebent vekselio turėtojas būtų pateikęs vekselį nurodytam asmeniui, o šis atsisakė jį akceptuoti ir neakceptavimas buvo įformintas protesto aktu.\n\n3. Kitais tarpininkavimo atvejais vekselio turėtojas gali nepriimti tarpininko akcepto. Jeigu vekselio turėtojas sutinka su tokiu akceptu, jis prieš mokėjimo terminą praranda reikalavimo teisę į tą asmenį, už kurį buvo akceptuota, ir į po jo pasirašiusius indosantus."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "59",
+      "title": "59 straipsnis. Tarpininko akcepto įforminimas",
+      "content": "Tarpininkas akceptą įrašo vekselyje ir pasirašo nurodydamas, kieno vardu akceptuoja. Jeigu tokio nurodymo nėra, laikoma, kad akceptuota už vekselio davėją. Vekselyje, kurio suma didesnė kaip trys tūkstančiai eurų ir kurio davėjas yra fizinis asmuo, tarpininko fizinio asmens arba juridinio asmens atstovo parašo tikrumas turi būti patvirtintas notaro.\n\nStraipsnio pakeitimai:\nNr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "60",
+      "title": "60 straipsnis. Tarpininko pareigos",
+      "content": "1. Tarpininkas akceptantas įsipareigoja vekselio turėtojui ir indosantams, pasirašiusiems po asmens, kurio tarpininku jis buvo, tais pačiais pagrindais, kaip ir asmuo, kuriam jis tarpininkavo.\n\n2. Nepaisant tarpininko akceptavimo, asmuo, už kurį buvo akceptuota tarpininkaujant, ir asmenys, įsipareigoję asmeniui, už kurį buvo akceptuota tarpininkaujant, sumokėję 50 straipsnyje nurodytas sumas, gali reikalauti, kad vekselio turėtojas atiduotų vekselį su protesto aktu ir išduotų pakvitavimą."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "61",
+      "title": "61 straipsnis. Mokėjimo sąlygos",
+      "content": "1. Tarpininkas vekselį gali apmokėti visais atvejais, jeigu pasibaigus mokėjimo terminui arba prieš mokėjimo terminą vekselio turėtojas turi reikalavimo teisę.\n\n2. Šio straipsnio 1 dalyje nurodytu atveju turi būti sumokėta visa suma, kurią būtų turėjęs mokėti asmuo, už kurį ji mokama.\n\n3. Sumokėti galima vėliausiai kitą dieną, pasibaigus terminui įforminti protestą dėl vekselio neapmokėjimo."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "62",
+      "title": "62 straipsnis. Pateikimas apmokėti ir protestas",
+      "content": "1. Jeigu vekselį akceptavo tarpininkai, kurių gyvenamoji ir mokėjimo vieta yra ta pati, arba jeigu toje pat vietoje gyvena kiti asmenys, kurie vekselyje nurodyti kaip prireikus galintys apmokėti, vekselio turėtojas turi pateikti vekselį visiems šiems asmenims ir, jeigu reikia, įforminti protestą dėl neapmokėjimo ne vėliau kaip kitą dieną po tos dienos, kurią leidžiama tai padaryti.\n\n2. Protesto neįforminus šio straipsnio 1 dalyje nurodytu laiku, asmuo, nurodęs kitą asmenį, prireikus galintį apmokėti, arba asmuo, kurio vardu vekselis buvo akceptuotas, bei vėlesni indosantai tampa neįsipareigoję pagal vekselį."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "63",
+      "title": "63 straipsnis. Apmokėjimo atsisakymas",
+      "content": "Vekselio turėtojas, atsisakęs apmokėjimo tarpininkavimo tvarka, netenka reikalavimo teisės į asmenis, kurie apmokėjimo atveju būtų buvę atleisti nuo įsipareigojimų."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "64",
+      "title": "64 straipsnis. Apmokėjimo patvirtinimas",
+      "content": "1. Tarpininko mokėjimas turi būti pažymėtas vekselyje ir nurodyta, už ką mokėta. Jei tokio nurodymo nėra, laikoma, kad mokėta už vekselio davėją.\n\n2. Vekselis ir protesto aktas, jeigu šis buvo įformintas, turi būti atiduoti vekselį apmokėjusiam tarpininkui."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "VIII SKYRIUS TARPININKAVIMAS",
+      "section": "65",
+      "title": "65 straipsnis. Tarpininko teisės",
+      "content": "1. Apmokėjęs vekselį tarpininkas įgyja pagal vekselį atsirandančias teises į asmenį, už kurį mokėjo, ir į šiam asmeniui pagal vekselį įsipareigojusius asmenis. Toliau perduoti vekselio tarpininkas negali.\n\n2. Indosantai, pasirašę vėliau už asmenį, už kurį vekselis buvo apmokėtas, nuo įsipareigojimų atleidžiami.\n\n3. Jeigu apmokėti vekselį tarpininkavimo tvarka tuo pat metu siūlosi keli asmenys, pirmenybė suteikiama tam, kurio apmokėjimas panaikintų didesnio skaičiaus asmenų įsipareigojimus. Asmuo, kuris tarpininkauja žinodamas, kad pažeidžia šią nuostatą, netenka atgręžtinio reikalavimo teisės į asmenis, kurie sumokėjimo atveju būtų atleisti nuo įsipareigojimų.\n\nIX SKYRIUS\nVEKSELIO EGZEMPLIORIAI IR NUORAŠAI"
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "IX SKYRIUS VEKSELIO EGZEMPLIORIAI IR NUORAŠAI",
+      "section": "66",
+      "title": "66 straipsnis. Vekselio egzempliorių skaičius",
+      "content": "1. Vekselis gali būti išrašytas keliais egzemplioriais. Visi egzemplioriai turi vienodą juridinę galią.\n\n2. Vekselio tekste turi būti įrašytas egzemplioriaus eilės numeris. Jei egzemplioriaus numeris neįrašytas, kiekvienas egzempliorius laikomas atskiru vekseliu.\n\n3. Jeigu vekselyje nenurodyta, kad jis išduotas vieninteliu egzemplioriumi, vekselio turėtojas gali reikalauti, kad jo lėšomis būtų išduoti du ar daugiau egzempliorių. Dėl to jis turi kreiptis į indosantą, iš kurio gavo vekselį, o indosantas privalo kreiptis į prieš jį pasirašiusį indosantą. Taip daroma tol, kol prieinamas vekselio davėjas. Indosantai privalo pakartoti indosamentus naujuose vekselio egzemplioriuose."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "IX SKYRIUS VEKSELIO EGZEMPLIORIAI IR NUORAŠAI",
+      "section": "67",
+      "title": "67 straipsnis. Vieno iš vekselio egzempliorių apmokėjimas",
+      "content": "1. Vieno iš numeruotų vekselio egzempliorių apmokėjimas atleidžia nuo kitų apmokėjimo net ir tada, kai vekselyje nebuvo įrašyta sąlyga, kad vieną egzempliorių apmokėjus kiti egzemplioriai negalioja. Tačiau mokėtojas ir toliau atsako pagal kiekvieną jo akceptuotą ir jam negrąžintą egzempliorių.\n\n2. Indosantas, atidavęs vekselio egzempliorius skirtingiems asmenims, ir po jo pasirašę indosantai atsako pagal visus negrąžintus egzempliorius, kuriuose yra jų parašai."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "IX SKYRIUS VEKSELIO EGZEMPLIORIAI IR NUORAŠAI",
+      "section": "68",
+      "title": "68 straipsnis. Vekselio egzempliorių akceptavimas",
+      "content": "Asmuo, nusiuntęs akceptuoti vieną vekselio egzempliorių, privalo kituose egzemplioriuose nurodyti pavadinimą arba vardą, pavardę asmens, kuris turi nusiųstąjį akceptuoti egzempliorių. Nurodytasis asmuo turi tą egzempliorių atiduoti teisėtam kito egzemplioriaus turėtojui. Jeigu jis atsisako tai padaryti, vekselio turėtojas gali pasinaudoti reikalavimo teise tik patvirtinęs protesto aktu, kad:\n\n1) akceptuoti nusiųstas vekselio egzempliorius nebuvo jo reikalavimu grąžintas;\n\n2) kitas egzempliorius negalėjo būti akceptuotas arba apmokėtas."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "IX SKYRIUS VEKSELIO EGZEMPLIORIAI IR NUORAŠAI",
+      "section": "69",
+      "title": "69 straipsnis. Vekselio nuorašai",
+      "content": "1. Vekselio turėtojas turi teisę pasidaryti vekselio nuorašą.\n\n2. Vekselio nuorašas turi visiškai atitikti originalą su indosamentais ir visais kitais jame esančiais įrašais. Nuoraše turi būti nurodyta jo pabaiga.\n\n3. Notaro patvirtintas vekselio nuorašas gali būti perduotas ir laiduotas ta pačia tvarka ir su tokiomis pat pasekmėmis kaip ir originalas."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "IX SKYRIUS VEKSELIO EGZEMPLIORIAI IR NUORAŠAI",
+      "section": "70",
+      "title": "70 straipsnis. Vekselio originalo ir nuorašo sąveika",
+      "content": "1. Nuoraše turi būti nurodytas vekselio originalo turėtojas. Jis originalą turi atiduoti nuorašo turėtojui.\n\n2. Jeigu vekselio originalo turėtojas atsisako atiduoti vekselio originalą, vekselio nuorašo turėtojas, patvirtinęs protestu, kad jam reikalaujant originalas nebuvo atiduotas, gali pareikšti reikalavimus asmenims, indosavusiems arba laidavusiems vekselio nuorašą.\n\n3. Jeigu vekselio originale po paskutinio indosamento, įrašyto prieš padarant nuorašą, pažymėta, kad „nuo čia galioja tik nuoraše įrašytas indosamentas“, arba yra kiti atitinkamos reikšmės žodžiai, tai po to originale įrašytas indosamentas negalioja.\n\nX SKYRIUS\nVEKSELIO TEKSTO PAKEITIMAI"
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "X SKYRIUS VEKSELIO TEKSTO PAKEITIMAI",
+      "section": "71",
+      "title": "71 straipsnis. Atsakomybė pakeitus vekselio teksto turinį",
+      "content": "Pakeitus vekselio tekstą, vekselyje pasirašę asmenys atsako pagal pakeisto teksto turinį, o prieš tą pakeitimą pasirašę asmenys – pagal pradinį teksto turinį.\n\nXI SKYRIUS\nREIKALAVIMŲ PATEIKIMO SENATIES TERMINAI"
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "XI SKYRIUS REIKALAVIMŲ PATEIKIMO SENATIES TERMINAI",
+      "section": "72",
+      "title": "72 straipsnis. Reikalavimų pateikimo senaties terminai",
+      "content": "1. Visi reikalavimai pagal vekselį akceptantui gali būti pareikšti per trejus metus nuo mokėjimo termino dienos.\n\n2. Vekselio turėtojas turi teisę pareikšti reikalavimus indosantams ir davėjui per vienerius metus nuo nustatytu laiku įforminto protesto dienos, o kai vekselyje buvo sąlyga „grąžinti be išlaidų“ ar „neprotestuotinas“, – nuo mokėjimo termino dienos.\n\n3. Indosantai turi teisę pareikšti reikalavimus vieni kitiems ir davėjui per šešis mėnesius nuo tos dienos, kai indosantas apmokėjo vekselį, arba nuo tos dienos, kai jam pačiam buvo pareikštas reikalavimas."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "XI SKYRIUS REIKALAVIMŲ PATEIKIMO SENATIES TERMINAI",
+      "section": "73",
+      "title": "73 straipsnis. Reikalavimų pateikimo senaties termino nutraukimas",
+      "content": "Reikalavimų pateikimo senaties terminas gali būti nutrauktas tik tam asmeniui, kurio atžvilgiu senatis buvo nutraukta.\n\nXII SKYRIUS\nĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS"
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "74",
+      "title": "74 straipsnis. Nedarbo dienos",
+      "content": "1. Jeigu vekselio mokėjimo terminas baigiasi įstatymų nustatytą nedarbo dieną, jo apmokėjimo negalima reikalauti iki po jos einančios pirmos darbo dienos. Visi kiti su vekseliu susiję veiksmai, taip pat pateikimas akceptuoti ir protesto įforminimas gali būti atliekami tik darbo dieną.\n\n2. Jeigu kurie nors veiksmai turi būti atlikti per tam tikrą laiką, kurio paskutinė diena yra įstatymų nustatyta nedarbo diena, terminas pratęsiamas iki artimiausios darbo dienos. Nedarbo dienos į termino trukmę įskaičiuojamos."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "75",
+      "title": "75 straipsnis. Termino pradžia",
+      "content": "Šiuo įstatymu arba vekselį pasirašiusių asmenų susitarimu nustatyti terminai prasideda rytojaus dieną nuo termino pradžios."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "76",
+      "title": "76 straipsnis. Termino atidėjimas",
+      "content": "Įsipareigojimų pagal vekselį vykdymo terminų atidėjimas neleidžiamas nei įstatymų, nei teismo.\n\nIII DALIS\nPAPRASTASIS VEKSELIS"
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "77",
+      "title": "77 straipsnis. Paprastojo vekselio rekvizitai ir forma",
+      "content": "1. Paprastajame vekselyje turi būti:\n\n1) žodžiai „paprastasis vekselis“ tekste ta kalba, kuria vekselis išrašytas;\n\n2) besąlyginis įsipareigojimas sumokėti nurodytą sumą;\n\n3) mokėjimo terminas;\n\n4) mokėjimo vieta;\n\n5) pavadinimas ar vardas, pavardė asmens, kuriam arba kurio įsakymu turi būti sumokėta;\n\n6) išrašymo vieta ir data;\n\n7) išrašančiojo paprastąjį vekselį asmens (paprastojo vekselio davėjo) parašas;\n\n8) tais atvejais, kai paprastąjį vekselį išrašantis ūkio subjektas netvarko apskaitos pagal supaprastintos apskaitos taisykles, – tai patvirtinanti informacija.\nPapildyta straipsnio punktu:\nNr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297\n\n2. Paprastasis vekselis, kurio suma didesnė kaip trys tūkstančiai eurų, turi būti notarinės formos, jeigu vekselio davėjas yra fizinis asmuo arba ūkio subjektas, tvarkantis apskaitą pagal supaprastintos apskaitos taisykles.\n\nStraipsnio pakeitimai:\nNr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713"
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "78",
+      "title": "78 straipsnis. Paprastojo vekselio, kuriame įrašyti ne visi rekvizitai, galiojimas",
+      "content": "1. Dokumentas, kuriame nėra nors vieno iš šio įstatymo 77 straipsnyje išvardytų rekvizitų, neturi paprastojo vekselio galios, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytais atvejais.\n\n2. Paprastasis vekselis, kuriame mokėjimo terminas nenurodytas, laikomas mokėtinu jį pateikus.\n\n3. Jei atskiro įrašo nėra, paprastojo vekselio išrašymo vieta laikoma mokėjimo vieta ir paprastojo vekselio davėjo gyvenamąja vieta (buveine).\n\n4. Paprastasis vekselis, kuriame neįrašyta jo išrašymo vieta, laikomas išrašytu toje vietoje, kuri pažymėta šalia paprastojo vekselio davėjo pavadinimo ar vardo, pavardės."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "79",
+      "title": "79 straipsnis. Paprastajam vekseliui taikytinos įsakomųjų vekselių nuostatos",
+      "content": "1. Paprastajam vekseliui taikomos įsakomųjų vekselių nuostatos dėl:\n\n1) indosavimo (13–22 straipsniai);\n\n2) mokėjimo termino (35–39 straipsniai);\n\n3) apmokėjimo (40–44 straipsniai);\n\n4) reikalavimų neapmokėjus vekselio (45–52, 54–56 straipsniai);\n\n5) apmokėjimo tarpininkavimo tvarka (57, 61–65 straipsniai);\n\n6) nuorašų (69 ir 70 straipsniai);\n\n7) teksto pakeitimų (71 straipsnis);\n\n8) reikalavimų pateikimo senaties terminų (72 ir 73 straipsniai);\n\n9) terminų skaičiavimo (74, 75 ir 76 straipsniai).\n\n2. Paprastajam vekseliui taip pat taikomos nuostatos, numatytos įsakomajam vekseliui dėl jo mokėjimo trečiojo asmens adresu arba vietovėje, kuri yra kita nei mokėtojo gyvenamoji vieta (buveinė) (6 ir 29 straipsniai); palūkanų nustatymo (7 straipsnis); vekselyje įrašytų sumų galiojimo (8 straipsnis); parašų galiojimo (9 straipsnis); pasekmių asmenims, pasirašiusiems be įgalinimų arba juos viršijus (10 straipsnis) ir prieštaravimų papildžius vekselį (12 straipsnis).\n\n3. Paprastajam vekseliui taip pat taikomos laidavimo nuostatos (32–34 straipsniai). Šio įstatymo 33 straipsnio 4 dalyje nustatytu atveju, kai laidavime nenurodyta, už ką laiduota, laikoma, kad laiduota už paprastojo vekselio davėją."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "80",
+      "title": "80 straipsnis. Paprastojo vekselio davėjo įsipareigojimai",
+      "content": "1. Paprastojo vekselio davėjas įsipareigoja kaip ir įsakomojo vekselio akceptantas.\n\n2. Paprastieji vekseliai, mokėtini per tam tikrą laiką po pateikimo, per šio įstatymo 25 straipsnyje nustatytus terminus turi būti pateikti vekselio davėjui vizuoti. Paprastajame vekselyje, kurio suma didesnė kaip trys tūkstančiai eurų ir kurio davėjas yra fizinis asmuo, vizuojančio fizinio asmens parašo tikrumas turi būti patvirtintas notaro. Laikas, per kurį turi būti apmokėta po pateikimo, pradedamas skaičiuoti nuo vizavimo dienos. Davėjo atsisakymas vizuoti ir nurodyti vizos datą patvirtinamas protestu (27 straipsnis), nuo kurio įforminimo datos pradedamas skaičiuoti laikas, per kurį turi būti apmokėta po pateikimo.\nStraipsnio dalies pakeitimai:\nNr. XII-1093, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12713\n\nIV DALIS\nBAIGIAMOSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "81",
+      "title": "81 straipsnis. Vekselio turėtojo piniginių reikalavimų patenkinimas",
+      "content": "1. Kai atsiranda reikalavimo teisė vekselį užprotestavus arba atleidus vekselio turėtoją nuo pareigos įforminti protestą bei pranešus visiems pagal vekselį įsipareigojusiems asmenims, kad vekselis neakceptuotas arba neapmokėtas, vekselio turėtojo reikalavimai patenkinami ne ginčo tvarka.\n\n2. Vekselio turėtojui pateikus rašytinį prašymą pinigams iš skolininko išieškoti, notarai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka padaro vykdomuosius įrašus notaro užprotestuotuose arba neprotestuotinuose vekseliuose."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "82",
+      "title": "82 straipsnis. Vykdomųjų įrašų ginčijimas",
+      "content": "Vykdomieji įrašai notarų užprotestuotuose arba neprotestuotinuose vekseliuose gali būti ginčijami ieškininės teisenos tvarka."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "83",
+      "title": "83 straipsnis. Neteko galios nuo 2021-01-01",
+      "content": "Straipsnio naikinimas:\nNr. XIV-32, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27337\nStraipsnio pakeitimai:\nNr. XI-2352, 2012-11-06, Žin., 2012, Nr. 132-6680 (2012-11-15), i. k. 1121010ISTA0XI-2352"
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "XII SKYRIUS ĮSIPAREIGOJIMŲ PAGAL VEKSELĮ  ĮVYKDYMO TERMINŲ SKAIČIAVIMAS",
+      "section": "84",
+      "title": "84 straipsnis. Teisių pagal prarastus vekselius atkūrimas",
+      "content": "Jeigu vekselis sunaikintas, pavogtas ar dėl kitos priežasties prarastas, teisės pagal prarastą vekselį atkuriamos Lietuvos Respublikos civilinio proceso kodekso šaukiamosios teisenos tvarka.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vekselis",
+      "definition": "vertybinis popierius, kuris išrašomas šio įstatymo nustatyta tvarka ir kuriuo jį išrašęs asmuo be sąlygų įsipareigoja tiesiogiai ar netiesiogiai sumokėti tam tikrą pinigų sumą vekselyje nurodytam asmeniui pats arba įsako tai padaryti kitam. Vekselis gali būti įsakomasis arba paprastasis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vekselio turėtojas",
+      "definition": "vekselio savininkas arba kitas šio įstatymo numatytais atvejais vekselį turintis asmuo.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Įsakomasis vekselis",
+      "definition": "vekselis, kurio davėjas įsako kitam asmeniui, kad šis vekselyje įrašytą sumą sumokėtų jame nurodytam asmeniui.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Paprastasis vekselis",
+      "definition": "vekselis, kurio davėjas be sąlygų įsipareigoja vekselio turėtojui sumokėti vekselyje įrašytą sumą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Indosamentas",
+      "definition": "perduodamasis įrašas vekselio antrojoje pusėje arba jo pratąsoje, patvirtinantis visų teisių pagal vekselį perdavimą kitam asmeniui.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Indosantas",
+      "definition": "asmuo, darantis vekselio antrojoje pusėje arba jo pratąsoje perduodamąjį įrašą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Neužpildytas indosamentas",
+      "definition": "indosamentas, kuriame neįrašytas vekselį priimančio asmens pavadinimas ar vardas, pavardė.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vekselio pratąsa",
+      "definition": "vekselio pridėtinis lapas perduodamiesiems įrašams, jeigu jie netelpa vekselyje.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Akceptas",
+      "definition": "įrašas vekselyje, patvirtinantis, kad padaręs įrašą asmuo sutinka vekselį apmokėti laiku.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Akceptantas",
+      "definition": "akcepto įrašą vekselyje padaręs asmuo.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Protestas",
+      "definition": "protesto aktu įformintas oficialus patvirtinimas, kad nustatytu laiku vekselis nebuvo akceptuotas arba apmokėtas. Protesto aktu gali būti patvirtinti ir kiti šiame įstatyme numatyti veiksmai arba jų neatlikimas.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vekselio suma",
+      "definition": "vekselyje įrašyta suma.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kliringo namai",
+      "definition": "finansų institucija, kurios nustatyta tvarka kredito įstaigos apsikeičia vekseliais ir už juos atsiskaito.\n\nII DALIS\nĮSAKOMASIS VEKSELIS\n\nI SKYRIUS\nĮSAKOMOJO VEKSELIO SUDARYMAS IR FORMA",
+      "source_provision": "art2"
+    }
+  ]
+}

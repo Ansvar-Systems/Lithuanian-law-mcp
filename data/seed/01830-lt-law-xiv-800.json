@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-800",
+  "type": "statute",
+  "title": "Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 trečiojo skirsnio pavadinimo pakeitimo ir 21-1 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XIV-800",
+  "status": "in_force",
+  "issued_date": "2021-12-21",
+  "in_force_date": "2022-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/475338c067e911eca9ac839120d251c4/FoCAnSGVtj",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Trečiojo skirsnio pavadinimo pakeitimas",
+      "content": "Pakeisti trečiojo skirsnio pavadinimą ir jį išdėstyti taip:\n\n„TREČIASIS SKIRSNIS\nLEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ PAPILDYMAS AR PAKEITIMAS IR GALIOJIMO PANAIKINIMAS“."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 211 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 211 straipsnį."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2022 m. liepos 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

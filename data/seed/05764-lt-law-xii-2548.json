@@ -1,0 +1,79 @@
+{
+  "id": "lt-law-xii-2548",
+  "type": "statute",
+  "title": "Lietuvos Respublikos sutarčių registro įstatymo Nr. XI-1140 pakeitimo įstatymas",
+  "short_name": "XII-2548",
+  "status": "in_force",
+  "issued_date": "2016-06-30",
+  "in_force_date": "2016-07-15",
+  "url": "https://e-tar.lt/portal/lt/legalAct/e35bdf30442011e6bd3bfefc575ccac4/igYCRxqOcL",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos sutarčių registro įstatymo Nr. XI-1140 nauja redakcija",
+      "content": "Pakeisti Lietuvos Respublikos sutarčių registro įstatymą Nr. XI-1140 ir jį išdėstyti taip:\n\n„LIETUVOS RESPUBLIKOS SUTARČIŲ REGISTRO ĮSTATYMAS"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis įstatymas nustato Sutarčių registro objektus ir jų registravimo tvarką, Sutarčių registre registruojamų duomenų tvarkymą, Sutarčių registro valdytoją, tvarkytojo skyrimo tvarką ir finansavimą."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Sutarčių registras",
+      "content": "1. Sutarčių registras yra valstybės registras.\n\n2. Sutarčių registro paskirtis – registruoti šio įstatymo 4 straipsnio 1 dalyje nurodytus Sutarčių registro objektus, rinkti, kaupti, apdoroti, sisteminti, saugoti ir teikti fiziniams ir juridiniams asmenims bei susijusiems registrams Sutarčių registro duomenis, atlikti kitus Sutarčių registro duomenų tvarkymo veiksmus.\n\n3. Sutarčių registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Sutarčių registro valdytojas ir tvarkytojas",
+      "content": "Sutarčių registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Sutarčių registro objektai",
+      "content": "1. Sutarčių registro objektai yra:\n\n1) daiktų pirkimo–pardavimo išsimokėtinai, kai neregistruojami daiktai įsigyti paslaugoms teikti arba įmonės verslui, sutartys;\n\n2) pirkimo–pardavimo su atpirkimo teise, kai neregistruojami daiktai perkami paslaugoms teikti arba įmonės verslui, sutartys;\n\n3) lizingo (finansinės nuomos), kurio dalykas yra neregistruojamas daiktas, skirtas naudoti verslo tikslams, sutartys.\n\n2. Visos šio straipsnio 1 dalyje išvardytos sutartys toliau šiame įstatyme vadinamos sutartimis."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Sutarčių registro duomenys",
+      "content": "1. Sutarčių registre tvarkomi duomenys apie daiktų pirkimo–pardavimo išsimokėtinai sutartis:\n\n1) registro objekto identifikavimo kodas;\n\n2) sutarties sudarymo data;\n\n3) sutarties numeris;\n\n4) sutarties šalys;\n\n5) sutarties ar jos pakeitimo įregistravimo data ir laikas;\n\n6) sutarties dalykas;\n\n7) nuosavybės teisės perėjimo pirkėjui momentas;\n\n8) galutinis atsiskaitymo terminas;\n\n9) duomenų pakeitimo pagrindas ir data;\n\n10) sutarties išregistravimo pagrindas, data ir laikas;\n\n11) kita informacija.\n\n2. Sutarčių registre tvarkomi duomenys apie pirkimo–pardavimo su atpirkimo teise sutartis:\n\n1) registro objekto identifikavimo kodas;\n\n2) sutarties sudarymo data;\n\n3) sutarties numeris;\n\n4) sutarties šalys;\n\n5) sutarties ar jos pakeitimo įregistravimo data ir laikas;\n\n6) sutarties dalykas;\n\n7) atpirkimo teisės terminas;\n\n8) pageidavimo pasinaudoti atpirkimo teise įregistravimo data ir laikas;\n\n9) pageidavimo pasinaudoti atpirkimo teise atšaukimo įregistravimo data ir laikas;\n\n10) duomenų pakeitimo pagrindas ir data;\n\n11) sutarties išregistravimo pagrindas, data ir laikas;\n\n12) kita informacija.\n\n3. Sutarčių registre tvarkomi duomenys apie lizingo (finansinės nuomos) sutartis:\n\n1) registro objekto identifikavimo kodas;\n\n2) sutarties sudarymo data;\n\n3) sutarties numeris;\n\n4) sutarties šalys;\n\n5) sutarties ar jos pakeitimo įregistravimo data ir laikas;\n\n6) sutarties dalykas;\n\n7) nuosavybės teisės perėjimo lizingo gavėjui momentas;\n\n8) galutinis atsiskaitymo terminas;\n\n9) duomenų pakeitimo pagrindas ir data;\n\n10) sutarties išregistravimo pagrindas, data ir laikas;\n\n11) kita informacija."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Sutarčių registro objektų registravimas ir duomenų tvarkymas",
+      "content": "1. Sudarius sutartį, ją pakeitus arba jai pasibaigus (ją nutraukus), Sutarčių registro tvarkytojui pateikiamas pranešimas apie sutarties sudarymą ar jos pakeitimą arba sutarties pabaigą (nutraukimą).\n\n2. Pranešimas apie sutarties pabaigą (nutraukimą) Sutarčių registro tvarkytojui pateikiamas tik tuo atveju, jeigu duomenų teikėjas buvo pateikęs prašymą automatiškai (be atskiro pranešimo) neišregistruoti sutarties iš registro. Šiuo atveju sutartis išregistruojama tik gavus pranešimą apie sutarties pabaigą (nutraukimą), išskyrus atvejus, kai vėlesniu sutarties pakeitimu nustatytas naujas galutinis atsiskaitymo terminas, kuriuo remiantis sutartis išregistruojama automatiškai (be atskiro pranešimo).\n\n3. Sutartis laikoma įregistruota nuo to momento, kai duomenys įrašomi į Sutarčių registrą ir registro objektui suteikiamas identifikavimo kodas.\n\n4. Sutarčių registre įregistravus sutartį ar jos pakeitimą arba išregistravus sutartį, parengiamas pranešimas apie sutarties ar jos pakeitimo įregistravimą arba sutarties išregistravimą ir išsiunčiamas duomenų teikėjui.\n\n5. Jeigu pranešime nenurodyti reikalingi duomenys arba jie nurodyti netiksliai, sudarytą sutartį ar jos pakeitimą arba pabaigą (nutraukimą) įregistruoti arba išregistruoti atsisakoma ir nurodomi atsisakymo motyvai.\n\n6. Pirkimo–pardavimo išsimokėtinai ir lizingo (finansinės nuomos) sutartys automatiškai (be atskiro pranešimo) išregistruojamos praėjus vieniems metams nuo galutinio atsiskaitymo termino pabaigos. Pirkimo–pardavimo su atpirkimo teise sutartys automatiškai (be atskiro pranešimo) išregistruojamos praėjus penkeriems metams nuo sutarties įregistravimo Sutarčių registre dienos."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Sutarčių registro finansavimas",
+      "content": "Sutarčių registras finansuojamas lėšomis, gautomis už registro objektų registravimą, registro duomenų ir kitų paslaugų teikimą, taip pat iš kitų Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Sutarčių registro reorganizavimas ir likvidavimas",
+      "content": "Sutarčių registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo ir Vyriausybės nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 straipsnis. Sutarčių registro duomenų teisinis statusas",
+      "content": "Visi Sutarčių registro nuostatų nustatyta tvarka Sutarčių registre iki šio įstatymo įsigaliojimo ir jam įsigaliojus įregistruotų sutarčių duomenys laikomi teisingais ir išsamiais, kol jie nenuginčyti įstatymų nustatyta tvarka.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2016 m. liepos 15 d.\n\n2. Lietuvos Respublikos Vyriausybė iki 2016 m. liepos 14 d. priima šio įstatymo įgyvendinamuosius teisės aktus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

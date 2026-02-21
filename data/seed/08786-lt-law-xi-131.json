@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xi-131",
+  "type": "statute",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo 39 straipsnio pakeitimo įstatymas",
+  "short_name": "XI-131",
+  "status": "in_force",
+  "issued_date": "2009-01-12",
+  "in_force_date": "2009-02-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.6D10F378011A/kaTEYaUyAm",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 39 straipsnio 2 dalies pakeitimas",
+      "content": "39 straipsnio 2 dalyje vietoj žodžių „ūkio ministro“ įrašyti žodžius „energetikos ministro“ ir šią dalį išdėstyti taip:\n\n„2. Rinkos operatorius yra atsakingas už balansavimo elektros energijos pirkimo-pardavimo kainos, susidariusios pasibaigus prekybos laikotarpiui, viešą skelbimą pagal Prekybos elektros energija taisykles ir (ar) energetikos ministro patvirtintas Prekybos elektros energija aukcione taisykles, taip pat už rinkos operatoriaus prekiaujamos elektros energijos atsiskaitymo procedūros organizavimą.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2009 m. vasario 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": []
+}

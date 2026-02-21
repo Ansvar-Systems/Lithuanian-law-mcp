@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xi-128",
+  "type": "statute",
+  "title": "Lietuvos Respublikos energetikos ministerijos įsteigimo įstatymas",
+  "short_name": "XI-128",
+  "status": "in_force",
+  "issued_date": "2009-01-12",
+  "in_force_date": "2009-01-27",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.4AE57AAAE871",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos energetikos ministerijos įsteigimas",
+      "content": "Įsteigti Lietuvos Respublikos energetikos ministeriją."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pasiūlymas Vyriausybei",
+      "content": "Lietuvos Respublikos Vyriausybė pateikia Lietuvos Respublikos Seimui įstatymų, susijusių su šio įstatymo įgyvendinimu, pakeitimų projektus ir priima šiam įstatymui įgyvendinti reikalingus teisės aktus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

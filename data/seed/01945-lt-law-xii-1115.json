@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xii-1115",
+  "type": "statute",
+  "title": "Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 224 straipsnio pakeitimo įstatymas",
+  "short_name": "XII-1115",
+  "status": "in_force",
+  "issued_date": "2014-09-23",
+  "in_force_date": "2015-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/4bbec0504a3211e483c6e89f9dba57fd",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 224 straipsnio pakeitimas",
+      "content": "Pripažinti netekusia galios 224 straipsnio 1 dalį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2015 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                             Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

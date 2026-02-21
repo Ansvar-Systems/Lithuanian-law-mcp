@@ -1,0 +1,61 @@
+{
+  "id": "lt-law-xi-1140",
+  "type": "statute",
+  "title": "Lietuvos Respublikos sutarčių ir teisių suvaržymų registro įstatymas",
+  "short_name": "XI-1140",
+  "status": "in_force",
+  "issued_date": "2010-11-16",
+  "in_force_date": "2010-11-27",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.351E85FC251C/wTIbOQQLWX",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis įstatymas nustato Sutarčių ir teisių suvaržymų registro objektus, jų registravimo ir registro duomenų tvarkymo pagrindus, Sutarčių ir teisių suvaržymų registro valdytoją, tvarkytojo skyrimo tvarką, šio registro finansavimo šaltinius, reorganizavimo ir likvidavimo tvarką ir registro duomenų teisinį statusą."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Sutarčių ir teisių suvaržymų registras",
+      "content": "1. Sutarčių ir teisių suvaržymų registras yra valstybės registras.\n\n2. Sutarčių ir teisių suvaržymų registro paskirtis – registruoti šio įstatymo 4 straipsnyje nurodytus Sutarčių ir teisių suvaržymų registro objektus, rinkti, kaupti, apdoroti, sisteminti, saugoti ir teikti asmenims bei susijusiems registrams Sutarčių ir teisių suvaržymų registro duomenis, atlikti kitus Sutarčių ir teisių suvaržymų registro duomenų tvarkymo veiksmus.\n\n3. Sutarčių ir teisių suvaržymų registrą steigia ir šio registro nuostatus tvirtina Lietuvos Respublikos Vyriausybė."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Sutarčių ir teisių suvaržymų registro valdytojas ir tvarkytojas",
+      "content": "Sutarčių ir teisių suvaržymų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Sutarčių ir teisių suvaržymų registro objektai",
+      "content": "Sutarčių ir teisių suvaržymų registro objektai yra:\n\n1) įkeitimai (išskyrus Lietuvos Respublikos nekilnojamojo turto registre įregistruotų turtinių teisių į nekilnojamuosius daiktus įkeitimą);\n\n2) Lietuvos Respublikos civilinio kodekso 1.98 straipsnio 3 dalyje ir 4.177 straipsnyje nurodyto turto hipotekos, taip pat 4.184 straipsnyje nurodytos sąlyginės hipotekos;\n\n3) neregistruojamų daiktų pirkimo–pardavimo išsimokėtinai sutartys;\n\n4) neregistruojamų daiktų pirkimo–pardavimo su atpirkimo teise sutartys;\n\n5) lizingo (finansinės nuomos), kurio dalykas yra neregistruojamas daiktas, sutartys;\n\n6) neregistruojamų daiktų nuomos (panaudos) sutartys."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Sutarčių ir teisių suvaržymų registro objektų registravimas ir registro duomenų tvarkymas",
+      "content": "Sutarčių ir teisių suvaržymų registro objektai registruojami ir registro duomenys tvarkomi Sutarčių ir teisių suvaržymų registro nuostatuose nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Sutarčių ir teisių suvaržymų registro finansavimas",
+      "content": "Sutarčių ir teisių suvaržymų registras finansuojamas lėšomis, gautomis už registro objektų registravimą, registro duomenų ir kitų paslaugų teikimą, taip pat iš kitų Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Sutarčių ir teisių suvaržymų registro reorganizavimas ir likvidavimas",
+      "content": "Sutarčių ir teisių suvaržymų registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo ir Vyriausybės nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Sutarčių ir teisių suvaržymų registro duomenų teisinis statusas",
+      "content": "Visi Sutarčių ir teisių suvaržymų registro duomenys laikomi teisingais ir išsamiais tol, kol jie nenuginčyti įstatymų nustatyta tvarka.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ"
+    }
+  ],
+  "definitions": []
+}

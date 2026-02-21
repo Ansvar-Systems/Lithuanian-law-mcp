@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-2891",
+  "type": "statute",
+  "title": "Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 priedo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas",
+  "short_name": "XIV-2891",
+  "status": "in_force",
+  "issued_date": "2024-07-11",
+  "in_force_date": "2024-12-30",
+  "url": "https://e-tar.lt/portal/lt/legalAct/f5a68cf049a111efbdaea558de59136c/sKCajGebeK",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo papildymas 241 straipsniu",
+      "content": "Papildyti Įstatymo III skyriaus antrąjį skirsnį 241 straipsniu:\n\n„241 straipsnis. Lėšų pervedimo reikalavimų netaikymas\n\nReglamento (ES) 2023/1113 reikalavimai netaikomi lėšų pervedimams, kaip jie apibrėžti Reglamente (ES) 2023/1113, Lietuvos Respublikos teritorijoje į gavėjo, kaip jis apibrėžtas Reglamente (ES) 2023/1113, mokėjimo sąskaitą, atliekant mokėjimus išimtinai už prekių tiekimą ar paslaugų teikimą, jeigu įvykdomos visos Reglamento (ES) 2023/1113 2 straipsnio 5 dalyje nurodytos sąlygos.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo priedo pakeitimas",
+      "content": "Papildyti Įstatymo priedą 6 punktu:\n\n„6. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2024 m. gruodžio 30 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

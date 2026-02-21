@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xii-2455",
+  "type": "statute",
+  "title": "Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 15 ir 57 straipsnių pakeitimo įstatymas",
+  "short_name": "XII-2455",
+  "status": "in_force",
+  "issued_date": "2016-06-16",
+  "in_force_date": "2017-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/24a14fd03c5f11e6bcc5c96b48152012/bpoqHEDsoZ",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 15 straipsnio pakeitimas",
+      "content": "Pripažinti netekusia galios 15 straipsnio 2 dalį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 57 straipsnio pakeitimas",
+      "content": "Pripažinti netekusiu galios 57 straipsnio 1 dalies 3 punktą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2017 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

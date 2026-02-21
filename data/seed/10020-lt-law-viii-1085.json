@@ -1,0 +1,183 @@
+{
+  "id": "lt-law-viii-1085",
+  "type": "statute",
+  "title": "Lietuvos Respublikos gyventojų registro įstatymo pakeitimo įstatymas",
+  "short_name": "VIII-1085",
+  "status": "in_force",
+  "issued_date": "1999-03-16",
+  "in_force_date": "1999-03-26",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.A941BFE880F7/TZESZNhhVi",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos gyventojų registro įstatymo nauja redakcija",
+      "content": "Pakeisti Lietuvos Respublikos gyventojų registro įstatymą ir jį išdėstyti taip:\n\n„LIETUVOS RESPUBLIKOS\nGYVENTOJŲ REGISTRO\nĮ S T A T Y M A S"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis įstatymas reglamentuoja Lietuvos Respublikos gyventojų registro (toliau – registro) steigimą, tvarkymą, jo duomenis bei šių duomenų naudojimo tvarką, registrą tvarkančių įstaigų, duomenų teikėjų ir asmenų, kurių duomenys įrašyti į registrą, pagrindines teises, pareigas ir atsakomybę."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Registro steigėjas",
+      "content": "Registro steigėja yra Lietuvos Respublikos Vyriausybė."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Registro statusas ir paskirtis",
+      "content": "1. Šis registras yra pagrindinis valstybės registras.\n\n2. Registro paskirtis – rinkti, kaupti, apdoroti ir saugoti šio įstatymo 9 straipsnyje išvardytus duomenis apie šio įstatymo 5 straipsnyje išvardytus asmenis; teikti šiuos duomenis Lietuvos Respublikos valdžios ir valdymo institucijoms, vietos savivaldos institucijoms, valstybės registrams bei kitiems juridiniams ir fiziniams asmenims įstatymų ir kitų teisės aktų nustatyta tvarka.\n\n3. Registro nuostatus tvirtina Vyriausybė."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Registrą tvarkančios įstaigos – vadovaujančioji registro tvarkymo įstaiga ir teritorinės registro tvarkymo įstaigos.\n\n2. Teritorinė registro tvarkymo įstaiga – vadovaujančiosios registro tvarkymo įstaigos steigiamas (skiriamas) padalinys administraciniame vienete.\n\n3. Registro tvarkymas – duomenų rinkimas, įrašymas, kaupimas, apdorojimas, saugojimas, teikimas.\n\n4. Duomenų apdorojimas – registro duomenų papildymas, keitimas, taisymas, ištrynimas, klasifikavimas.\n\n5. Registro duomenų centrinė bazė – kompiuterinė duomenų bazė, kurioje tvarkomi duomenys apie visus šio įstatymo 5 straipsnyje išvardytus asmenis.\n\n6. Duomenų teikėjai – registro nuostatuose nurodyti juridiniai asmenys, teikiantys duomenis registrą tvarkančioms įstaigoms registro nuostatuose nustatyta tvarka.\n\n7. Asmens civilinės būklės pasikeitimas – gimimas, tėvystės nustatymas, tėvystės atėmimas, mirtis, santuokos sudarymas, santuokos nutraukimas, įvaikinimas, vardo, pavardės pakeitimas ir kiti su asmens civiline būkle susiję pasikeitimai.\n\n8. Suvestinės – apibendrinti grupės asmenų duomenys, iš kurių negalima nustatyti atskiro asmens konkrečių duomenų.\n\n9. Asmens kodas – unikali vienuolikos dešimtainių skaitmenų seka, skirta asmeniui identifikuoti, duomenims apie jį kaupti, valstybės registrų ir informacinių sistemų sąveikai užtikrinti.\n\n10. Duomenų gavėjai – fiziniai, juridiniai asmenys arba įmonės, neturinčios juridinio asmens teisių, kuriems teikiami registro duomenys apie asmenį arba duomenys suvestinėse šio įstatymo ir registro nuostatų nustatyta tvarka.\n\n11. Asmens dokumentas – valstybės ar vietos savivaldos institucijos asmeniui išduotas dokumentas, kuriame įrašyti duomenys apie šį asmenį Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Asmenys, kurių duomenys tvarkomi registre",
+      "content": "Registre tvarkomi šių asmenų duomenys:\n\n1) Lietuvos Respublikos piliečių;\n\n2) asmenų be pilietybės ir kitų valstybių piliečių, deklaruojančių gyvenamąją vietą Lietuvoje ar registruojančių asmens civilinės būklės pasikeitimus Lietuvos Respublikos institucijose."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Registrą tvarkančios įstaigos",
+      "content": "1. Vadovaujančioji registro tvarkymo įstaiga yra gyventojų registro tarnyba, kurią steigia Vyriausybė arba jos įgaliota institucija. Vadovaujančioji registro tvarkymo įstaiga yra registro duomenų valdytoja.\n\n2. Vadovaujančioji registro tvarkymo įstaiga yra juridinis asmuo, turintis antspaudą su Lietuvos Respublikos herbu ir savo pavadinimu.\n\n3. Vadovaujančioji registro tvarkymo įstaiga steigia (skiria) teritorines registro tvarkymo įstaigas.\n\n4. Vadovaujančiosios registro tvarkymo įstaigos nuostatus tvirtina Vyriausybė ar jos įgaliota institucija.\n\n5. Vadovaujančioji registro tvarkymo įstaiga tvirtina teritorinių registro tvarkymo įstaigų nuostatus."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Vadovaujančiosios registro tvarkymo įstaigos pagrindinės teisės ir pareigos",
+      "content": "1. Vadovaujančiosios registro tvarkymo įstaigos teises ir pareigas reglamentuoja šis įstatymas, Lietuvos Respublikos valstybės registrų, Asmens duomenų teisinės apsaugos įstatymai ir vadovaujančiosios registro tvarkymo įstaigos nuostatai.\n\n2. Vadovaujančioji registro tvarkymo įstaiga turi teisę:\n\n1) gauti iš duomenų teikėjų šio įstatymo 9 straipsnyje išvardytus duomenis;\n\n2) paprašyti duomenų teikėją, jeigu būtina, pagrįsti registrui teikiamų duomenų teisingumą;\n\n3) atsisakyti teikti registro duomenis Asmens duomenų teisinės apsaugos įstatymo numatytais atvejais ir nustatyta tvarka;\n\n4) priimti sprendimą dėl pateiktų klaidingų ar melagingų duomenų ištaisymo ar panaikinimo registro nuostatuose nustatyta tvarka.\n\n3. Vadovaujančioji registro tvarkymo įstaiga privalo:\n\n1) tvarkyti šio įstatymo 9 straipsnyje išvardytus duomenis;\n\n2) vadovauti teritorinėms registro tvarkymo įstaigoms;\n\n3) tvarkyti registro duomenų centrinę bazę;\n\n4) užtikrinti, kad į registrą nebūtų įrašyta klaidingų duomenų;\n\n5) tvarkyti registrui teikiamų duomenų apskaitą;\n\n6) sudaryti ir suteikti asmens kodą;\n\n7) garantuoti šio įstatymo 9 straipsnyje išvardytų duomenų apsaugą;\n\n8) per 20 dienų išnagrinėti pateiktus skundus dėl atsisakymo suteikti ar patikslinti prašomus registro duomenis ir duoti atsakymus."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Asmens kodas",
+      "content": "1. Asmens kodas suteikiamas šio įstatymo 5 straipsnyje išvardytiems asmenims.\n\n2. Asmens kodo struktūra jo suteikimo metu yra tokia: pirmasis skaitmuo atitinka lytį ir gimimo šimtmetį, antrasis ir trečiasis – gimimo metų du paskutinius skaitmenis, ketvirtasis ir penktasis – gimimo mėnesį, šeštasis ir septintasis – gimimo dieną, aštuntasis, devintasis ir dešimtasis – gimusiųjų tą pačią dieną įrašymo į registrą eilės numerį, vienuoliktasis yra pirmųjų dešimties skaitmenų kontrolinis skaičius.\n\n3. Asmeniui suteiktas asmens kodas yra unikalus ir nekeičiamas. Asmens kodas įrašomas į asmens dokumentus."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 straipsnis. Registre tvarkomi asmens duomenys",
+      "content": "1. Registre tvarkomi šie asmens duomenys:\n\n1) asmens kodas;\n\n2) vardas (vardai);\n\n3) pavardė (pavardės);\n\n4) lytis;\n\n5) gimimo data;\n\n6) pilietybė (pilietybės);\n\n7) gimimo vieta;\n\n8) gyvenamoji vieta, atvykimo į gyvenamąją vietą data; jeigu išvyksta gyventi į užsienį, – išvykimo vieta (valstybė) ir išvykimo data;\n\n9) šeiminė padėtis ir jos pasikeitimo data;\n\n10) mirties data;\n\n11) tėvų, vaikų ir sutuoktinių asmens kodai; jeigu asmens kodai nesuteikti, – kiti asmens duomenys, pagrįsti dokumentais ir nurodyti registro nuostatuose;\n\n12) tautybė (duomenys apie tautybę kaupiami tik asmeniui davus sutikimą ją įrašyti asmens dokumente ir iš registro teikiami tik Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka).\n\n2. Duomenys apie asmenis be pilietybės ir kitų valstybių piliečius, neturinčius leidimo nuolat gyventi Lietuvos Respublikoje, nurodyti šio straipsnio 1 dalyje, į registrą įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje galiojančiais dokumentais; šio straipsnio 1 dalies 7-12 punktuose nurodyti duomenys nėra privalomi ir gali būti įrašyti į registrą, jeigu dokumentais yra pagrįsti visi šio straipsnio 1–6 punktuose nurodyti duomenys.\n\n3. Registre tvarkomi dokumentų, kurių pagrindu daromi įrašai registre, duomenys.\n\n4. Registro duomenys laikomi teisingais, kol jie nenuginčijami įstatymų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "10 straipsnis. Registro duomenų tvarkymas",
+      "content": "1. Registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Lietuvos Respublikos valstybės registrų ir Asmens duomenų teisinės apsaugos įstatymais, registro nuostatais.\n\n2. Teikiami registrui duomenys turi būti pagrįsti dokumentais. Duomenys apie asmenį renkami, į registrą įrašomi ir atnaujinami registro nuostatuose nustatyta tvarka.\n\n3. Teritorinės registro tvarkymo įstaigos renka asmens duomenis, teikia juos registro duomenų centrinei bazei, šios bazės duomenų pagrindu išduoda pažymėjimus ir teikia duomenis nuostatuose nustatyta tvarka.\n\n4. Registro duomenys kaupiami ir apdorojami registro duomenų centrinėje bazėje.\n\n5. Registro duomenys saugomi Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo, Valstybės registrų įstatymo, šio įstatymo bei registro nuostatuose nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "11 straipsnis. Registro duomenų naudojimas ir skelbimas",
+      "content": "1. Registro duomenys naudojami ir skelbiami vadovaujantis šiuo įstatymu, Lietuvos Respublikos valstybės registrų, Asmens duomenų teisinės apsaugos įstatymais, registro nuostatais.\n\n2. Lietuvos Respublikos valstybės valdžios ir valdymo institucijos, vietos savivaldos institucijos ir valstybės registrus ar informacines sistemas tvarkančios institucijos, savo funkcijoms atlikti naudojančios šio įstatymo 9 straipsnyje išvardytus asmens duomenis, privalo juos atnaujinti pagal registro duomenis.\n\n3. Šio straipsnio 2 dalyje išvardytos institucijos asmens dokumentus, kuriuose įrašomi asmens duomenys, išduoda remdamosi registro duomenų centrinės bazės duomenimis. Šių institucijų išduodamų asmens dokumentų duomenys turi atitikti registro duomenų centrinės bazės duomenis. Už tai atsako konkrečius asmens dokumentus išduodanti institucija.\n\n4. Registro duomenis nemokamai gauna valstybės valdžios ir valdymo institucijos, vietos savivaldos institucijos, teismai, prokuratūros ir kitos Vyriausybės nustatytos institucijos. Kiti duomenų gavėjai registro duomenis gauna už atlyginimą, kurio dydis nustatomas Vyriausybės nustatyta tvarka. Papildomas išlaidas, susijusias su registro duomenų parengimu ir perdavimu, visi duomenų gavėjai apmoka Vyriausybės nustatyta tvarka.\n\n5. Registrą tvarkančių įstaigų teikiami pažymėjimai su asmens duomenimis turi juridinę galią."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "12 straipsnis. Asmens, kurio duomenys tvarkomi registre, pagrindinės teisės",
+      "content": "1. Asmens, kurio duomenys tvarkomi registre, teises reglamentuoja šis įstatymas, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas ir registro nuostatai.\n\n2. Asmuo, kurio duomenys įrašyti registre, pateikęs asmens dokumentą registro nuostatų nustatyta tvarka, turi teisę:\n\n1) susipažinti ir gauti pažymėjimą su savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems paskirta globa ar rūpyba, duomenimis;\n\n2) reikalauti patikslinti registre netikslius savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems paskirta globa ar rūpyba, duomenis;\n\n3) apskųsti vadovaujančiajai registro tvarkymo įstaigai teritorinės registro tvarkymo įstaigos atsisakymą suteikti ar patikslinti prašomus registro duomenis. Nesutikęs su vadovaujančiosios registro tvarkymo įstaigos sprendimu, asmuo turi teisę jį apskųsti Valstybinei duomenų apsaugos inspekcijai, o Valstybinės duomenų apsaugos inspekcijos atsakymą – teismui įstatymų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "13 straipsnis. Duomenų teikėjai, jų pagrindinės teisės ir pareigos",
+      "content": "1. Duomenis registrui teikia institucijos, kurioms Lietuvos Respublikos įstatymų suteikta teisė registruoti šio įstatymo 9 straipsnyje išvardytus duomenis bei jų pasikeitimus.\n\n2. Duomenų teikėjų teises ir pareigas reglamentuoja šis įstatymas ir registro nuostatai.\n\n3. Duomenų teikėjai turi teisę reikalauti ištaisyti registre klaidingai įrašytus duomenis.\n\n4. Duomenų teikėjai privalo:\n\n1) teikti duomenis registrą tvarkančioms įstaigoms šio įstatymo, Lietuvos Respublikos valstybės registrų, Asmens duomenų teisinės apsaugos įstatymų ir registro nuostatų nustatyta tvarka;\n\n2) užtikrinti, kad teikiami duomenys būtų teisingi, išsamūs, atitiktų dokumentus ir kad būtų nuolat atnaujinami registro nuostatų nustatyta tvarka;\n\n3) suderinti su vadovaujančia registro tvarkymo įstaiga duomenų teikimo registrui tvarką;\n\n4) atsakyti į registrą tvarkančių įstaigų pateiktus paklausimus, jeigu būtina pagrįsti teikiamų registrui duomenų teisingumą."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "14 straipsnis. Registro duomenų apsauga",
+      "content": "1. Registrą tvarkančios įstaigos užtikrina registro duomenų apsaugą, kaip to reikalauja Lietuvos Respublikos įstatymai ir kiti teisės aktai.\n\n2. Registrą tvarkančių įstaigų darbuotojai turi pasirašyti pasižadėjimus, kad saugos asmens duomenų paslaptį ir nepažeis šio ir Asmens duomenų teisinės apsaugos įstatymų."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "15 straipsnis. Registro finansavimas",
+      "content": "Registrui steigti ir išlaikyti naudojamos valstybės biudžeto lėšos ir lėšos, gautos už registro duomenų teikimą šio įstatymo 11 straipsnio 4 dalyje nurodyta tvarka."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "16 straipsnis. Registro reorganizavimas ir likvidavimas",
+      "content": "Registras reorganizuojamas ar likviduojamas Lietuvos Respublikos įstatymų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "17 straipsnis. Atsakomybė ir žalos atlyginimas",
+      "content": "1. Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.\n\n2. Žala, patirta dėl duomenų teikėjų, registrą tvarkančių įstaigų ar duomenų gavėjų kaltės, atlyginama įstatymų nustatyta tvarka. Žala neatlyginama, jei žalą patyrę asmenys patys pateikė registrą tvarkančioms įstaigoms neteisingus duomenis."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "Šis įstatymas įsigalioja nuo 1999 m. birželio 1 d.“\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Registrą tvarkančios įstaigos",
+      "definition": "vadovaujančioji registro tvarkymo įstaiga ir teritorinės registro tvarkymo įstaigos.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Teritorinė registro tvarkymo įstaiga",
+      "definition": "vadovaujančiosios registro tvarkymo įstaigos steigiamas (skiriamas) padalinys administraciniame vienete.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Registro tvarkymas",
+      "definition": "duomenų rinkimas, įrašymas, kaupimas, apdorojimas, saugojimas, teikimas.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Duomenų apdorojimas",
+      "definition": "registro duomenų papildymas, keitimas, taisymas, ištrynimas, klasifikavimas.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Registro duomenų centrinė bazė",
+      "definition": "kompiuterinė duomenų bazė, kurioje tvarkomi duomenys apie visus šio įstatymo 5 straipsnyje išvardytus asmenis.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Duomenų teikėjai",
+      "definition": "registro nuostatuose nurodyti juridiniai asmenys, teikiantys duomenis registrą tvarkančioms įstaigoms registro nuostatuose nustatyta tvarka.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Asmens civilinės būklės pasikeitimas",
+      "definition": "gimimas, tėvystės nustatymas, tėvystės atėmimas, mirtis, santuokos sudarymas, santuokos nutraukimas, įvaikinimas, vardo, pavardės pakeitimas ir kiti su asmens civiline būkle susiję pasikeitimai.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Suvestinės",
+      "definition": "apibendrinti grupės asmenų duomenys, iš kurių negalima nustatyti atskiro asmens konkrečių duomenų.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Asmens kodas",
+      "definition": "unikali vienuolikos dešimtainių skaitmenų seka, skirta asmeniui identifikuoti, duomenims apie jį kaupti, valstybės registrų ir informacinių sistemų sąveikai užtikrinti.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Duomenų gavėjai",
+      "definition": "fiziniai, juridiniai asmenys arba įmonės, neturinčios juridinio asmens teisių, kuriems teikiami registro duomenys apie asmenį arba duomenys suvestinėse šio įstatymo ir registro nuostatų nustatyta tvarka.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "Asmens dokumentas",
+      "definition": "valstybės ar vietos savivaldos institucijos asmeniui išduotas dokumentas, kuriame įrašyti duomenys apie šį asmenį Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.",
+      "source_provision": "art4"
+    }
+  ]
+}

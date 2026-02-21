@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-1353",
+  "type": "statute",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso 71 ir 482 straipsnio pakeitimo įstatymas",
+  "short_name": "XIV-1353",
+  "status": "in_force",
+  "issued_date": "2022-06-30",
+  "in_force_date": "2022-08-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/a7c1a302034711edb32c9f9d8ba206f8/CSGVlpgHMZ",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 71 straipsnio pakeitimas",
+      "content": "Pakeisti 71 straipsnio 1 dalį ir ją išdėstyti taip:\n\n„1. Teisėjas, dalyvavęs nagrinėjant civilinę bylą pirmosios instancijos teisme, negali dalyvauti nagrinėjant tą bylą apeliacinės instancijos teisme ir kasaciniame teisme, taip pat nagrinėjant bylą pirmosios instancijos teisme, jeigu panaikintas sprendimas buvo priimtas jam dalyvaujant.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 482 straipsnio pakeitimas",
+      "content": "Pakeisti 482 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:\n\n„4) jeigu įvaikinti prašo vienas iš sutuoktinių, – kito sutuoktinio rašytinis sutikimas įvaikinti, išskyrus įstatymų numatytus atvejus;“."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2022 m. rugpjūčio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda\n\npart_2c8d2ca7cd7d4c71b55bc1e959d26090_end"
+    }
+  ],
+  "definitions": []
+}

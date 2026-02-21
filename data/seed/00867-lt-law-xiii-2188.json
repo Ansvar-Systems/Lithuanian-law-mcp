@@ -1,0 +1,37 @@
+{
+  "id": "lt-law-xiii-2188",
+  "type": "statute",
+  "title": "Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 17, 20 ir 21 straipsnių pakeitimo įstatymas",
+  "short_name": "XIII-2188",
+  "status": "in_force",
+  "issued_date": "2019-06-06",
+  "in_force_date": "2020-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/21d6e8d0926711e9ae2e9d61b1f977b3/zMxixWjYvL",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 17 straipsnio pakeitimas",
+      "content": "Pripažinti netekusiu galios 17 straipsnio 6 dalies 5 punktą."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 20 straipsnio pakeitimas",
+      "content": "Pripažinti netekusia galios 20 straipsnio 7 dalį."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 21 straipsnio pakeitimas",
+      "content": "Pripažinti netekusiu galios 21 straipsnio 2 dalies 5 punktą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2020 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

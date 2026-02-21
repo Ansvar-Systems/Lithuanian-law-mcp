@@ -1,0 +1,289 @@
+{
+  "id": "lt-law-viii-1392",
+  "type": "statute",
+  "title": "Lietuvos Respublikos aplinkos oro apsaugos įstatymas",
+  "short_name": "VIII-1392",
+  "status": "in_force",
+  "issued_date": "1999-11-04",
+  "in_force_date": "1999-11-19",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551/HjkGwHUxWA",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "1. Šis įstatymas:\n\n1) nustato asmenų teises į švarų orą, pareigas saugoti aplinkos orą nuo taršos, susijusios su žmonių veikla, ir mažinti jos daromą žalą žmonių sveikatai bei aplinkai;\n\n2) nustato priemones, ribojančias aplinkos oro taršą ir mažinančias jos neigiamą poveikį žmonių sveikatai bei aplinkai;\n\n3) reglamentuoja visuomeninius santykius aplinkos oro apsaugos ir kokybės valdymo srityse.\n\n2. Šis įstatymas nereglamentuoja radioaktyviosios taršos, taip pat aplinkos oro taršos, kuri gali atsirasti dėl gamtos procesų ar dėl teršalų pernašų iš kitų valstybių.\n\n3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.\nPapildyta straipsnio dalimi:\nNr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Aglomeracija – aplinkos oro užterštumo vertinimo zona, kurioje yra daugiau kaip 250 000 gyventojų arba kurioje dėl gyventojų tankumo (gyventojų skaičiaus kvadratiniame kilometre) būtina vertinti ir valdyti aplinkos oro kokybę.\n\n2. Aplinkos oras – troposferos oras (ne patalpų), išskyrus darbo aplinkos darbovietėse orą, kuriam taikomi socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyti darbuotojų saugos ir sveikatos reikalavimai ir su kuriuo kiti visuomenės nariai įprastai sąlyčio neturi.\n\n3. Aplinkos oro taršos šaltinis (toliau – taršos šaltinis) – įrenginys arba veiklos vykdymo vieta, iš kurių teršalai patenka į aplinkos orą.\n\n4. Aplinkos oro taršos šaltinio naudotojas (toliau – taršos šaltinio naudotojas) – aplinkos oro taršos šaltinio savininkas arba asmuo, kuriam teisė naudotis aplinkos oro taršos šaltiniu suteikta nuomos ar kitais pagrindais.\n\n5. Aplinkos oro užterštumo lygis (toliau – užterštumo lygis) – teršalo koncentracija aplinkos ore arba jo nuosėdų kiekis, susidarantis paviršiuje per tam tikrą laiką.\n\n6. Aplinkos oro užterštumo pavojaus slenkstis (toliau – pavojaus slenkstis) – aplinkos oro užterštumo lygis, kurį viršijus kyla pavojus žmonių sveikatai net dėl trumpalaikio poveikio.\n\n7. Aplinkos oro užterštumo vertinimo zona (toliau – zona) – aplinkos ministro ir sveikatos apsaugos ministro nustatyta šalies teritorijos dalis, kurioje pagal aplinkos ministro nustatytą tvarką valstybės lygmeniu vertinamas aplinkos oro užterštumo lygis.\n\n8. Asmuo – fizinis ar juridinis asmuo, įskaitant užsienio valstybės juridinį asmenį ir kitą organizaciją, taip pat jų padalinį.\n\n9. Buitinis aplinkos oro taršos šaltinis (toliau – buitinis taršos šaltinis) – aplinkos oro taršos šaltinis, naudojamas fizinio asmens poreikiams, nesusijusiems su ūkinės veiklos vykdymu.\n\n10. Darnus susisiekimo paslaugų organizavimo būdas – veiksmingiausia ir pažangiausia susisiekimo paslaugas teikiančių ūkio subjektų veikla ir jos metodų plėtojimas, kai sudaromos sąlygos išsaugoti esamą elektrinių transporto priemonių tinklą ir jį plėtoti, mažinti vidaus degimo varikliais varomų transporto priemonių naudojimą ir (arba) rinktis pažangiausias degalų rūšis.\n\n11. Degalai – vidaus degimo varikliams skirtos degiosios medžiagos.\n\n12. Elektrinė transporto priemonė – tik elektra varoma motorinė transporto priemonė, kuri turi bent vieną ne išorinį elektros energijos keitiklį ir kuriai elektros energija gali būti tiekiama įvairiais būdais: kontaktiniais laidais, naudojant pantografus, įkraunamus akumuliatorius, indukcijos ir kitais būdais, naudojant bet kokius šių būdų derinius.\n\n13. Geriausias prieinamas gamybos būdas – veiksmingiausia ir pažangiausia ūkio subjektų veiklos ir jos vykdymo metodų plėtojimo pakopa, kuri rodo, ar tam tikras būdas gali būti naudojamas kaip pagrindas išmetamų teršalų ribinėms vertėms, skirtoms užkirsti kelią teršalų išmetimui, nustatyti.\n\n14. Kietasis iškastinis kuras – energijai gauti naudojama kieta degioji medžiaga, sudaryta iš neatsinaujinančių energijos išteklių: antracitas, bituminės anglys, rudosios anglys (lignitas), koksas, puskoksis, durpių kuras.\n\n15. Kietosios dalelės KD2,5 – kietosios dalelės, kurių 50 procentų praeina pro 2,5 µm aerodinaminio skersmens angą, kaip nustatyta pamatiniu kietųjų dalelių KD2,5 ėminių ėmimo ir matavimo metodu, nurodytu perimtajame standarte LST EN 12341 „Aplinkos oro kokybė. Standartinis gravimetrinis matavimo metodas tvyrančių kietųjų dalelių KD10 arba KD2,5 masės koncentracijai nustatyti“.\n\n16. Kuras – dujinė, skysta arba kieta degioji medžiaga, naudojama energijai gauti degimo įrenginiuose. Kuru nelaikomos pavojingosios atliekos ir iš anksto neapdorotos nepavojingosios komunalinės atliekos, neatsižvelgiant į tai, ar jose yra degiųjų medžiagų.\n\n17. Leidžiamasis aplinkos oro taršos dydis (toliau – leistinas taršos dydis) – per tam tikrą laikotarpį iš aplinkos oro taršos šaltinio ar šaltinių visumos į aplinkos orą išmetamų teršalų kiekis, dėl kurio tam tikroje vietovėje, įvertinus kitų aplinkos oro taršos šaltinių išmetamų teršalų poveikį ir ūkinės veiklos plėtros perspektyvą, nebus viršijamos ribinės aplinkos oro užterštumo vertės.\n\n18. Leidžiamasis aplinkos oro užterštumo vertės nuokrypis (toliau – leistinas nukrypimo dydis) – ribinės aplinkos oro užterštumo vertės procentinė dalis, kuria leidžiama viršyti šią vertę, esant aplinkos ministro ir sveikatos apsaugos ministro numatytoms sąlygoms iki ribinės aplinkos oro užterštumo vertės įsigaliojimo datos.\n\n19. Mobilusis aplinkos oro taršos šaltinis (toliau – mobilusis taršos šaltinis) – motorinė transporto priemonė ar kitas judantis mechanizmas, iš kurio teršalai patenka į aplinkos orą.\n\n20. Nepalankios teršalų išsisklaidymo sąlygos – aplinkos veiksniai, kuriems esant kyla grėsmė, kad bus viršijamos ribinės aplinkos oro užterštumo vertės ar aplinkos oro užterštumo pavojaus slenksčiai.\n\n21. Ribinė aplinkos oro užterštumo vertė (toliau – ribinė užterštumo vertė) – mokslinėmis žiniomis pagrįsta aplinkos oro užterštumo lygio vertė, kuri nustatyta aplinkos ministro ir sveikatos apsaugos ministro siekiant išvengti kenksmingo poveikio žmonių sveikatai ir (arba) aplinkai, užkirsti jam kelią ar jį sumažinti ir kurios negalima viršyti nuo aplinkos ministro ir sveikatos apsaugos ministro nustatytos ribinės aplinkos oro užterštumo vertės įsigaliojimo datos.\n\n22. Siektina aplinkos oro užterštumo vertė (toliau – siektina užterštumo vertė) – aplinkos oro užterštumo lygio vertė, kuri nustatyta aplinkos ministro ir sveikatos apsaugos ministro siekiant išvengti kenksmingo poveikio žmonių sveikatai ir (arba) aplinkai, užkirsti jam kelią ar jį sumažinti ir kuri negali būti viršijama, jeigu įmanoma, nuo aplinkos ministro ir sveikatos apsaugos ministro nustatytos datos.\n\n23. Stacionarusis aplinkos oro taršos šaltinis (toliau – stacionarusis taršos šaltinis) – aplinkos oro taršos šaltinis, veikiantis nekintamoje buvimo vietoje.\n\n24. Technologinis kuras – pramoninėse krosnyse naudojamas kuras.\n\n25. Teršalas – medžiaga arba medžiagų mišinys, kuris dėl žmonių veiklos patenka į aplinkos orą ir, veikdamas atskirai ar su atmosferos komponentais, gali pakenkti žmonių sveikatai ir (arba) aplinkai.\n\n26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos ar vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos standartizacijos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.\n\nStraipsnio pakeitimai:\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Aplinkos oro apsaugos prioritetai",
+      "content": "Aplinkos oro apsaugos prioritetai yra:\n\n1) energijos naudojimo veiksmingumo didinimas ir šilumos energijos gamybai naudojamų kuro deginimo įrenginių sukeliamos taršos mažinimas griežtinant kietojo kuro vartojimo, kurą deginančių įrenginių eksploatavimo reikalavimus, plėtojant centralizuoto šilumos tiekimo sistemas, teisinėmis ir finansinėmis priemonėmis užtikrinant, kad didinant gyventojų tankumą teritorijose, kuriose galima užtikrinti centralizuotą šilumos tiekimą, nauji šilumos vartotojai šilumos energija būtų aprūpinami centralizuotai arba šilumos energijos gamybai naudotų netaršias šilumos gamybos technologijas (elektros, saulės ar geoterminę energiją);\n\n2) transporto priemonių sukeliamos taršos mažinimas mažinant vidaus degimo varikliais varomų transporto priemonių naudojimą ir didinant elektrinių transporto priemonių naudojimą;\n\n3) geriausių prieinamų gamybos, darnaus susisiekimo paslaugų organizavimo būdų ir technologijų diegimas.\n\nStraipsnio pakeitimai:\nNr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Aplinkos oro kokybės valdymas",
+      "content": "1. Aplinkos ministras ir sveikatos apsaugos ministras tvirtina sąrašą teršalų, kurių kiekis aplinkos ore ribojamas, nustato ribines ir siektinas užterštumo vertes, leistinus nukrypimo dydžius ir pavojaus slenksčius, visuomenės, suinteresuotų institucijų ir įstaigų informavimo apie aplinkos oro užterštumo lygius tvarką.\n\n2. Aplinkos ministerija ar jos įgaliotos institucijos, savivaldybės institucijos ir įstaigos šiame įstatyme nustatytas aplinkos oro kokybės valdymo, aplinkos oro taršos reguliavimo priemones įgyvendina, šiame ir kituose įstatymuose nustatytas funkcijas atlieka siekdamos, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai nebūtų viršyti.\n\n3. Savivaldybės taryba, siekdama užtikrinti, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai savivaldybės gyvenamosiose vietovėse nebūtų viršyti, savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane numato aplinkos oro kokybės valdymo priemones. Aplinkos oro kokybės valdymo priemonės numatomos atsižvelgiant į šio įstatymo 3 straipsnyje nustatytus aplinkos oro apsaugos prioritetus, savivaldybės gyvenamosios vietovės aplinkos oro užterštumo lygį ir jo galimą kenksmingą poveikį vietos gyventojų sveikatai. Savivaldybės taryba, siekdama mažinti oro taršos kenksmingą poveikį žmonių sveikatai, kai pagal Aplinkos monitoringo įstatymą vykdomo aplinkos oro monitoringo duomenys rodo, kad savivaldybės teritorijoje ar jos dalyje viršytas Pasaulio sveikatos organizacijos rekomenduojamas aplinkos oro užterštumo lygis, turi teisę savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane numatyti papildomas aplinkos oro kokybės valdymo priemones aplinkos oro užterštumo lygiui toliau mažinti. Kokia minimali informacija turi būti pateikta savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane, nustato aplinkos ministras kartu su sveikatos apsaugos ministru.\n\n4. Savivaldybės šio straipsnio 3 dalyje nurodytuose strateginiuose planuose numatytų aplinkos oro kokybės valdymo priemonių vykdymo ataskaitas viešai skelbia savivaldybės interneto svetainėje. Aplinkos ministras nustato, kokia minimali informacija, reikalinga aplinkos oro kokybės (užterštumo lygio) ataskaitoms tarptautinėms organizacijoms parengti, turi būti pateikta šioje dalyje nurodytose ataskaitose.\n\n5. Šio įstatymo 10 straipsnio 8 dalyje nurodyto sprendimo savivaldybės teritorijoje apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą, šio įstatymo 13 straipsnio 6 dalyje nustatyto draudimo deginti kietąjį iškastinį kurą buitiniuose taršos šaltiniuose, šio įstatymo 20 straipsnio 2 dalyje nustatyto draudimo deginti atliekas buitiniuose taršos šaltiniuose laikymosi kontrolę vykdo savivaldybės administracijos direktoriaus įgalioti savivaldybės administracijos valstybės tarnautojai.\n\nStraipsnio pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Aplinkos oro taršos ir aplinkos oro kokybės vertinimas valstybės lygmeniu",
+      "content": "1. Aplinkos oro taršos ir aplinkos oro kokybės vertinimas valstybės lygmeniu vykdomas pagal Aplinkos monitoringo įstatymo nustatyta tvarka rengiamą ir tvirtinamą Valstybinę aplinkos monitoringo programą, siekiant gauti pagal tarptautinius aplinkos oro taršos ir aplinkos oro kokybės vertinimo reikalavimus šio straipsnio 2 dalyje nurodyta aplinkos ministro nustatyta tvarka parengtą išsamią informaciją apie valstybės lygmeniu į aplinkos orą išmetamą teršalų kiekį ir šio straipsnio 5 dalies 1 punkte nurodyta aplinkos ministro nustatyta tvarka parengtą minimalią pakankamą informaciją apie aplinkos oro užterštumo lygį aglomeracijose ir zonose.\n\n2. Aplinkos oro taršos vertinimą valstybės lygmeniu – nacionalinę į aplinkos orą išmetamų teršalų apskaitą pagal tarptautinius reikalavimus vykdo, nacionalines į aplinkos orą išmetamų teršalų prognozes rengia ir aplinkos ministro nustatytas ataskaitas teikia aplinkos ministro įgaliota institucija aplinkos ministro nustatyta tvarka.\n\n3. Aplinkos oro taršos vertinimui valstybės lygmeniu vykdyti reikalingus duomenis ir informaciją rengia ir pagal šio straipsnio 2 dalį aplinkos ministro įgaliotai institucijai teikia Lietuvos Respublikos Vyriausybės įgaliotos institucijos Vyriausybės nustatyta tvarka.\n\n4. Aplinkos oro kokybės vertinimą valstybės lygmeniu organizuoja, koordinuoja ir vykdo aplinkos ministro įgaliota institucija aplinkos ministro nustatyta tvarka.\n\n5. Aplinkos ministras:\n\n1) nustato aplinkos oro kokybės vertinimo valstybės lygmeniu tvarką;\n\n2) nustato nepalankių teršalų išsisklaidymo sąlygų nustatymo kriterijus;\n\n3) tvirtina savivaldybių, stacionariųjų taršos šaltinių naudotojų ir visuomenės informavimo apie susidariusias ir pasibaigusias nepalankias teršalų išsisklaidymo sąlygas tvarkos aprašą;\n\n4) skiria nacionalinės etaloninės laboratorijos funkcijas aplinkos ministro nustatyta tvarka atliekančią akredituotą instituciją, pagal Europos Sąjungoje vykdomas kokybės užtikrinimo programas užtikrinančią aplinkos oro kokybės matavimų kokybę ir vykdančią matavimų kokybės kontrolę valstybės lygmeniu;\n\n5) skiria instituciją, atsakingą už:\n\na) minimalaus matavimų, atliekamų siekiant gauti informaciją, reikalingą aplinkos oro kokybei valstybės lygmeniu įvertinti, skaičiaus nustatymą ir matavimų kokybės užtikrinimą;\n\nb) matavimo sistemų (metodų, įrangos, tinklų, laboratorijų) patvirtinimą, įskaitant įrangos atitikties pamatinių matavimo metodų taikymo reikalavimams bandymo ataskaitų, kurias kitose valstybėse narėse išdavė pagal bandymo ir kalibravimo laboratorijoms taikomą darnųjį standartą tokiems bandymams atlikti akredituotos laboratorijos, priėmimą (pripažinimą);\n\nc) ėminių ėmimo vietų išdėstymo dokumentų rengimą ir saugojimą;\n\nd) aplinkos oro kokybės vertinimo valstybės lygmeniu metodų parinkimą ir vertinimo kokybės užtikrinimą;\n\ne) Europos Sąjungoje organizuojamų kokybės užtikrinimo programų ir tinkamo pamatinių aplinkos oro kokybės vertinimo metodų įgyvendinimo ir kitų aplinkos oro kokybės vertinimo metodų lygiavertiškumo įrodymo koordinavimą Lietuvoje.\n\n6. Šio straipsnio 4 dalyje nurodyta aplinkos ministro įgaliota institucija valstybės ir savivaldybių lygmeniu atlikto aplinkos oro kokybės vertinimo duomenų, ūkio subjektų vykdytų aplinkos oro užterštumo lygio matavimų ir kitų aplinkos oro kokybės vertinimo duomenų pagrindu:\n\n1) aplinkos ministro nustatyta tvarka klasifikuoja zonas ir aglomeracijas, rengia siūlymus Aplinkos ministerijai ir Sveikatos apsaugos ministerijai dėl zonų ir aglomeracijų sąrašų keitimo;\n\n2) rengia rekomendacijas savivaldybėms dėl savivaldybių aplinkos oro monitoringo plėtros, siekiant aplinkos oro kokybės vertinimo savivaldybių lygmeniu duomenis naudoti ir aplinkos oro kokybei vertinti valstybės lygmeniu;\n\n3) teikia informaciją ir ataskaitas apie aplinkos oro kokybę tarptautinėms organizacijoms;\n\n4) teikia informaciją ir metines ataskaitas apie aplinkos oro užterštumo lygį zonose ir aglomeracijose visuomenei, valstybės ir savivaldybių institucijoms ir įstaigoms.\n\nStraipsnio pakeitimai:\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702"
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "51 straipsnis. Aplinkos oro kokybės vertinimas savivaldybių lygmeniu",
+      "content": "1. Aplinkos oro kokybės vertinimas savivaldybės lygmeniu vykdomas pagal Aplinkos monitoringo įstatymo nustatyta tvarka rengiamą ir tvirtinamą savivaldybės aplinkos monitoringo programą, siekiant:\n\n1) gauti išsamią informaciją apie aplinkos oro užterštumo lygį savivaldybės gyvenamosiose vietovėse;\n\n2) nustatyti savivaldybės gyvenamosios vietovės dalis, kuriose aplinkos oro užterštumo lygis gali daryti kenksmingą poveikį vietos gyventojų sveikatai;\n\n3) nustatyti ūkio subjektus, kurių keliama tarša daro reikšmingą neigiamą poveikį aplinkos oro užterštumo lygiui savivaldybės gyvenamojoje vietovėje ar jos dalyje;\n\n4) informuoti savivaldybės gyvenamosios vietovės ar jos dalies bendruomenę apie aplinkos oro užterštumo lygį ir imtis veiksmų aplinkos oro kokybei savivaldybės gyvenamosiose vietovėse gerinti.\n\n2. Savivaldybių institucijos ir įstaigos savivaldybių gyvenamosiose vietovėse ar šio straipsnio 1 dalies 2 punkte nurodytose jų dalyse vykdo aplinkos oro užterštumo aplinkai ar žmonių sveikatai aktualiais teršalais lygio matavimus ar kitais vertinimo metodais nustato tų teršalų koncentraciją aplinkos ore, planuoja ir įgyvendina vietines aplinkos oro kokybės valdymo priemones.\n\n3. Kai nustatomas šio straipsnio 1 dalies 3 punkte nurodytas ūkio subjektas, kurio keliama tarša daro reikšmingą neigiamą poveikį aplinkos oro užterštumo lygiui savivaldybės gyvenamojoje vietovėje ar jos dalyje, savivaldybės administracija per 7 darbo dienas nuo ūkio subjekto nustatymo dienos apie tai raštu informuoja ūkio subjektą ir ūkio subjektų veiklos priežiūrą vykdančias institucijas.\n\n4. Kai nustatytas šio straipsnio 1 dalies 3 punkte nurodytas ūkio subjektas, kurio keliama tarša daro reikšmingą neigiamą poveikį aplinkos oro užterštumo lygiui savivaldybės gyvenamojoje vietovėje ar jos dalyje, turi taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius gali teikti aplinkos ministro įgaliotai išduoti leidimus institucijai prašymą aplinkos ministro nustatyta tvarka peržiūrėti šio leidimo sąlygas.\n\nPapildyta straipsniu:\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Aplinkos oro monitoringas",
+      "content": "Aplinkos oro kokybės ir taršos šaltinių monitoringas yra aplinkos monitoringo dalis. Aplinkos monitoringą nustato Aplinkos monitoringo įstatymas."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Zonos ir aglomeracijos, kuriose užterštumo lygis viršija ribines ar siektinas užterštumo vertes",
+      "content": "1. Aplinkos ministerija kartu su Sveikatos apsaugos ministerija sudaro ir tikslina sąrašus zonų ir aglomeracijų, kuriose užterštumo vienu arba daugiau teršalų lygis:\n\n1) viršija ribines užterštumo vertes kartu su leistinais nukrypimo dydžiais;\n\n2) viršija ribines užterštumo vertes, bet neviršija šių verčių kartu su leistinais nukrypimo dydžiais;\n\n3) viršija siektinas užterštumo vertes.\n\n2. Kai savivaldybės teritorijoje viršijama bent viena šio įstatymo 4 straipsnio 1 dalyje nurodyta ribinė užterštumo vertė ar siektina užterštumo vertė, savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane aplinkos oro kokybės valdymo priemonės, numatytos šio įstatymo 4 straipsnio 3 dalyje nurodyta tvarka, turi būti papildytos, siekiant kuo skubiau sumažinti aplinkos oro užterštumo lygį iki nustatytos ribinės užterštumo vertės ar, jeigu įmanoma, siektinos užterštumo vertės ir toliau mažinti aplinkos oro užterštumo lygį. Į patikslintus savivaldybės strateginį plėtros planą ir (ar) savivaldybės strateginį veiklos planą turi būti įtraukta aplinkos ministro ir sveikatos apsaugos ministro nustatyta informacija. Savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane numatytos patikslintos aplinkos oro kokybės valdymo priemonės Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka turi būti suderintos su aplinkos ministro ir sveikatos apsaugos ministro įgaliotomis institucijomis, visuomene ir patvirtintos iki kitų kalendorinių metų liepos 1 dienos. Informacija apie papildomas aplinkos oro kokybės valdymo priemones ne vėliau kaip per 3 darbo dienas paskelbiama savivaldybės interneto svetainėje.\nStraipsnio dalies pakeitimai:\nNr. XII-463, 2013-07-02, Žin., 2013, Nr. 79-3984 (2013-07-23), i. k. 1131010ISTA0XII-463\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702\n\n3. Jeigu kurio nors teršalo koncentracija viršija arba gali viršyti ribinę užterštumo vertę ir leistiną nukrypimo dydį arba pavojaus slenkstį dėl teršalų pernašos iš kitos valstybės, Aplinkos ministerija, remdamasi Lietuvos Respublikos ratifikuotomis tarptautinėmis sutartimis, susijusiomis su aplinkos apsauga, dėl sprendimų taršai pašalinti arba jai sumažinti bendradarbiauja ir konsultuojasi su atsakingomis kitos valstybės institucijomis.\n\nStraipsnio pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Zonos ir aglomeracijos, kuriose užterštumo lygis yra mažesnis už ribines užterštumo vertes",
+      "content": "1. Aplinkos ministerija kartu su Sveikatos apsaugos ministerija sudaro sąrašą zonų ir aglomeracijų, kuriose užterštumo lygiai yra mažesni už ribines užterštumo vertes.\n\n2. Šio straipsnio 1 dalyje nurodytose zonose ir aglomeracijose turi būti siekiama išlaikyti šiuos mažesnius užterštumo lygius ir kaip galima geresnę aplinkos oro kokybę."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 straipsnis. Pavojaus slenksčio viršijimas",
+      "content": "Kai teršalo koncentracija aplinkos ore lygi pavojaus slenksčiui arba jį viršija, toks įvykis laikomas atitinkančiu ekstremaliojo įvykio kriterijų, visuomenė perspėjama ir informuojama apie kylantį pavojų žmonių sveikatai ir aplinkai ir imamasi veiksmų valdant dėl pavojaus slenkstį pasiekusios ar viršijusios teršalo koncentracijos aplinkos ore susidariusią situaciją ir šalinant šios situacijos padarinius Krizių valdymo ir civilinės saugos įstatyme nustatyta tvarka.\n\nStraipsnio pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702\n\nANTRASIS SKIRSNIS\nAPLINKOS ORO TARŠOS VALDYMAS"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "10 straipsnis. Aplinkos oro taršos reguliavimo priemonės",
+      "content": "1. Lietuvos Respublikos Seimas nustato aplinkos oro apsaugos vystymo kryptis, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Nacionalinius tarptautiniais ir Europos Sąjungos teisės aktais reguliuojamų teršalų į aplinkos orą išmetamo kiekio mažinimo ir kitus aplinkos oro apsaugos ilgesnės kaip 10 metų trukmės tikslus ir uždavinius nustato Seimas nacionalinėse darbotvarkėse. Vyriausybė Nacionaliniame pažangos plane nustato 10 metų aplinkos oro apsaugos strateginius tikslus ir (arba) pažangos uždavinius ir jų stebėsenai skirtus poveikio rodiklius, rodančius į aplinkos orą išmetamo teršalų kiekio mažinimą šalies mastu ir skirtinguose ūkio sektoriuose (energetikos, pramonės, transporto, žemės ūkio). Aplinkos oro taršos mažinimo (valdymo) priemones šiems Nacionaliniame pažangos plane ir nacionalinėse darbotvarkėse numatytiems uždaviniams įgyvendinti Vyriausybė suplanuoja nacionalinėse plėtros programose ir nacionalinių darbotvarkių planuose. Šiuose planavimo dokumentuose aplinkos oro taršos mažinimo (valdymo) priemonės numatomos atsižvelgiant į šio įstatymo 3 straipsnyje nustatytus aplinkos oro apsaugos prioritetus; šiuose planavimo dokumentuose gali būti nustatytos savivaldybių, ypač tų, kuriose yra šio įstatymo 2 straipsnio 1 dalyje apibrėžtų aglomeracijų, teritorijose taikytinos aplinkos oro kokybės valdymo priemonės, iš stacionariųjų taršos šaltinių į aplinkos orą išmetamo teršalų kiekio mažinimo (valdymo) priemonės.\n\n2. Siekdamas apsaugoti žmonių sveikatą ir aplinką, kai susidaro nepalankios teršalų išsisklaidymo sąlygos arba kai viršijamos ribinės užterštumo vertės, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius turi teisę priimti sprendimą laikinai apriboti arba uždrausti transporto priemonių eismą savivaldybės teritorijoje ar jos dalyje.\n\n3. Šio straipsnio 2 dalyje nurodytas sprendimas laikinai apriboti arba uždrausti transporto priemonių eismą savivaldybės teritorijoje ar jos dalyje, sprendimas panaikinti šį sprendimą priimamas gavus pranešimą šio įstatymo 5 straipsnio 5 dalies 3 punkte nurodyta tvarka.\n\n4. Šio straipsnio 2 dalyje nurodytame sprendime laikinai apriboti arba uždrausti transporto priemonių eismą savivaldybės teritorijoje ar jos dalyje nurodoma:\n\n1) savivaldybės teritorija ar jos dalis, kurioje apribojamas arba draudžiamas transporto priemonių eismas;\n\n2) priemonės ir būdai, kuriais apribojamas arba draudžiamas transporto priemonių eismas;\n\n3) transporto priemonių eismo apribojimo arba draudimo laikotarpis.\n\n5. Šio straipsnio 2 dalyje nurodytas sprendimas laikinai apriboti arba uždrausti transporto priemonių eismą savivaldybės teritorijoje ar jos dalyje, sprendimas panaikinti šį sprendimą skelbiami savivaldybės interneto svetainėje ir įsigalioja kitą dieną po jo paskelbimo, jeigu sprendime nenustatyta vėlesnė jo įsigaliojimo data. Skelbime apie sprendimą laikinai apriboti arba uždrausti transporto priemonių eismą savivaldybės teritorijoje ar jos dalyje pateikiama savivaldybės ar jos dalies gyventojams aktuali sprendimo įgyvendinimo informacija.\n\n6. Apie susidariusias arba pasibaigusias nepalankias teršalų išsisklaidymo sąlygas šio įstatymo 5 straipsnio 5 dalies 3 punkte nustatyta tvarka informuojami stacionariųjų taršos šaltinių, patenkančių į teritoriją, kurioje susidarė nepalankios teršalų išsisklaidymo sąlygos, naudotojai.\n\n7. Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta aplinkos apsaugos valstybinę kontrolę vykdanti institucija kontroliuoja, kaip stacionariųjų taršos šaltinių naudotojai įgyvendina šio įstatymo 18 straipsnio 2 dalyje nurodytas aplinkos oro taršos mažinimo programas.\n\n8. Siekdama šio įstatymo 4 straipsnio 3 dalyje nustatytų tikslų, kai pagal Aplinkos monitoringo įstatymą vykdomo aplinkos oro monitoringo duomenys rodo, kad savivaldybės teritorijoje ar jos dalyje viršytas Pasaulio sveikatos organizacijos rekomenduojamas vidutinis vienų metų oro užterštumo azoto dioksidu ir (ar) kietosiomis dalelėmis KD2,5 lygis, savivaldybės taryba turi teisę priimti sprendimą toje savivaldybės teritorijoje apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą. Tam tikros rūšies kuro naudojimo apribojimu laikomas laikotarpio, kuriuo draudžiama naudoti tos rūšies kurą, ir (ar) tos rūšies kurą deginančio įrenginio techninių reikalavimų  nustatymas.\n\n9. Siekdama apriboti arba uždrausti vienos ar daugiau rūšių kuro naudojimą šilumos energijai gaminti gyvenamosios paskirties pastatams šildyti, savivaldybės taryba užtikrina, kad iki šio straipsnio 8 dalyje nurodyto sprendimo įsigaliojimo dienos vietos gyventojams būtų suteiktas ne trumpesnis kaip vienų metų laikotarpis ir ne mažiau kaip vienas šildymo sezonas ir (ar) numatytos savivaldybės tarybos nustatyto dydžio kompensacinės priemonės už planuojamą apriboti arba uždrausti naudoti tam tikros rūšies kurą deginančių įrenginių pakeitimą įrenginiais, atitinkančiais šio įstatymo 3 straipsnio 1 punkte nustatytus aplinkos oro apsaugos prioritetus. Apribojimas arba draudimas naudoti vienos ar daugiau rūšių kurą ir kompensacinės priemonės planuojamos savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane.\n\n10. Pagal šio straipsnio 8 dalį priimtame sprendime apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą savivaldybės teritorijoje nurodoma:\n\n1) apribojamų ir (ar) draudžiamų naudoti rūšių kuras;\n\n2) tam tikros rūšies kuro naudojimo apribojimo sąlygos: metų laikotarpis, kuriuo draudžiamas nurodytų rūšių kuro naudojimas ir (ar) nurodytos rūšies kurą deginančio įrenginio techniniai reikalavimai;\n\n3) savivaldybės teritorija ar jos dalis, kurioje apribojamas ir (ar) draudžiamas vienos ar daugiau rūšių kuro naudojimas.\n\nStraipsnio pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "11 straipsnis. Ūkinės veiklos objektų projektavimas, statyba ir rekonstravimas",
+      "content": "1. Galinčių daryti poveikį aplinkos orui ūkinės veiklos objektų projektavimo, statybos, rekonstravimo, priėmimo naudoti ir naudojimo tvarką nustato Aplinkos apsaugos įstatymas, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas ir kiti įstatymai bei teisės aktai.\n\n2. Statant naujus ūkinės veiklos objektus, kurie gali tapti aplinkos oro taršos šaltiniu, ar juos rekonstruojant, turi būti parinkti geriausi prieinami gamybos būdai. Vykdant statybos darbus taip pat turi būti taikomos priemonės aplinkos oro taršai mažinti.\nStraipsnio dalies pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785\n\n3. Planavimo organizatoriai, planuojamos ūkinės veiklos užsakovai, rengdami ir tvirtindami teritorijų planavimo dokumentus bei planuodami ūkinę veiklą, privalo užtikrinti, kad nebus viršijamos nustatytos ribinės užterštumo vertės ir pavojaus slenksčiai, taip pat nebus naudojamos teritorijos, kuriose dėl natūralių ar dirbtinių sąlygų teršalai sunkiau išsisklaido."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "12 straipsnis. Neteko galios nuo 2020-01-01.",
+      "content": "Straipsnio pakeitimai:\nNr. XIII-2168, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09940"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "13 straipsnis. Kuro reikalavimai",
+      "content": "1. Lietuvos Respublikoje naudoti galima tik tokį kurą ir tokius degalus, kurie atitinka Energetikos, Aplinkos ir Susisiekimo ministerijų nustatytus sudėties ir kokybės reikalavimus poveikio žmogaus sveikatai ir aplinkai vertinimo atžvilgiu.\nStraipsnio dalies pakeitimai:\nNr. XI-140, 2009-01-12, Žin., 2009, Nr. 10-362 (2009-01-27), i. k. 1091010ISTA00XI-140\n\n2. Gamintojai, importuotojai ir prekybininkai privalo užtikrinti, kad gaminamo, importuojamo ir vartotojams parduodamo kuro bei degalų sudėtis ir kokybė atitiktų šio straipsnio 1 dalies reikalavimus.\n\n3. Gamintojai, importuotojai, prekybininkai, vežėjai ir vartotojai turi užtikrinti, kad vežant, saugant, perkraunant kurą ir degalus būtų taikomos mažai taršios technologijos, o naudojimo metu į aplinkos orą būtų išmetama kaip galima mažiau teršalų.\n\n4. Kuro ir degalų vežimo, saugojimo ir kokybės tikrinimo tvarką nustato Vyriausybės įgaliotos institucijos.\n\n5. Kuro degimo įrenginiuose galima deginti tik tą kurą, kurį nurodo įrenginio gamintojas įrenginio techniniuose ar eksploatacijos dokumentuose ir kurio sudėtis bei kokybė atitinka šio straipsnio 1 dalies reikalavimus.\n\n6. Draudžiama deginti kietąjį iškastinį kurą kurorto statusą turinčiose gyvenamosiose vietovėse ir miestuose, kuriuose gyvena 50 tūkstančių ar daugiau gyventojų (Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje), išskyrus atvejus, kai jis deginamas kaip technologinis kuras pramoninėse krosnyse.\nPapildyta straipsnio dalimi:\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702\n\nTREČIASIS SKIRSNIS\nLEIDIMAS TERŠALUS IŠMESTI Į APLINKOS ORĄ"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "14 straipsnis. Leistinos taršos normatyvai",
+      "content": "1. Aplinkos ministerija rengia stacionarių taršos šaltinių, kuriems nustatomi leistinos taršos normatyvai, sąrašus.\n\n2. Aplinkos ministerija rengia ir tvirtina leistinos taršos normatyvų nustatymo tvarką."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "15 straipsnis. Leidimas teršalus išmesti į aplinkos orą",
+      "content": "1. Teršalai iš stacionaraus taršos šaltinio gali būti išmetami į aplinkos orą tiktai tam turint leidimą.\n\n2. Aplinkos ministerija nustato leidimų išdavimo tvarką ir sąlygas.\n\n3. Aplinkos ministerija nustato leidžiamus išmesti į aplinkos orą iš stacionarių taršos šaltinių teršalų kiekius pagal naudojamų technologinių įrenginių pajėgumus ir kitas su aplinkos oro taršos reguliavimu susijusias sąlygas.\n\n4. Pirmenybę leidimui gauti turi:\n\n1) asmenys, gaminantys energiją gyvenamosioms patalpoms, sveikatos priežiūros įstaigoms, taip pat slaugos, vaikų ugdymo ir mokymo įstaigoms;\n\n2) asmenys, kurių ūkinės veiklos metu išmetamų teršalų kiekis ir energijos poreikiai, tenkantys vienam tos pačios rūšies gaminiui, yra mažiausi.\n\n5. Informacija apie išduotus leidimus ir paraiškas jiems gauti turi būti prieinama visuomenei.\n\n6. Stacionaraus taršos šaltinio naudotojas privalo nedelsdamas pranešti leidimą išdavusiai institucijai apie gamybos arba technologinių procesų pokyčius, galinčius padidinti išmetamų teršalų kiekius arba sąlygoti kitų teršalų išmetimą.\n\nKETVIRTASIS SKIRSNIS\nASMENŲ TEISĖS IR PAREIGOS"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "16 straipsnis. Asmenų teisės",
+      "content": "Asmenys turi teisę Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka:\n\n1) iš valstybės valdymo ir savivaldos institucijų gauti teisingą informaciją apie aplinkos oro būklę, leistinos taršos normatyvus bei planuojamos ūkinės veiklos įtaką;\n\n2) dalyvauti planuojamos ūkinės veiklos poveikio aplinkos orui vertinimo procese;\n\n3) reikalauti, kad būtų nutrauktas kenksmingas ūkinės veiklos objektų poveikis aplinkos orui."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "17 straipsnis. Asmenų pareigos",
+      "content": "1. Gaminant, vežant, saugant ir naudojant įrangą, produktus ar medžiagas, kurie gamybos, paskirstymo, saugojimo ar naudojimo metu teršia arba gali teršti aplinkos orą, privaloma pasirinkti tokį būdą, kuris apsaugotų aplinkos orą nuo neleistino teršimo.\n\n2. Gamintojai, vežėjai, importuotojai ir naudotojai privalo gaminti, importuoti ir eksploatuoti tik tokius mobilius taršos šaltinius, kurie neviršytų Aplinkos ministerijos nustatytų leistinų taršos dydžių.\n\n3. Neteko galios nuo 2024-10-01\nStraipsnio dalies naikinimas:\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702\n\n4. Gamintojai, vežėjai ir naudotojai privalo įstatymų ir kitų teisės aktų nustatyta tvarka informuoti aplinkos apsaugos institucijas ir visuomenę apie aplinkos oro taršą bei priemones, kurių imtasi šiai taršai sumažinti."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "18 straipsnis. Taršos šaltinio naudotojo pareigos",
+      "content": "1. Taršos šaltinio naudotojas privalo laikytis nustatytų taršos normatyvų ir užtikrinti, kad jam priklausančių taršos šaltinių išmetami į aplinkos orą teršalai, įvertinus esamą užterštumo lygį, neviršytų šiai vietovei nustatytų ribinių arba siektinų užterštumo verčių.\n\n2. Stacionaraus taršos šaltinio naudotojas privalo parengti aplinkos oro taršos mažinimo programą, kurioje būtų numatytos priemonės išmetamų teršalų, susidarius nepalankioms teršalų išsisklaidymo sąlygoms, kiekiui sumažinti. Programa teikiama tvirtinti leidimą teršalams į aplinkos orą išmesti išdavusiai institucijai.\n\n3. Stacionaraus taršos šaltinio naudotojas, gavęs informaciją iš aplinkos apsaugos valstybinės kontrolės institucijos apie susidariusias nepalankias teršalų išsisklaidymo sąlygas, privalo įgyvendinti šio straipsnio 2 dalyje nurodytą aplinkos oro taršos mažinimo programą.\nPapildyta straipsnio dalimi:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785\n\n4. Taršos šaltinio naudotojas, vykdantis žemės gelmių išteklių gavybos, sprogdinimo darbus, tvarkantis atliekas, privalo taikyti naujausias mažai taršias technologijas, kad būtų sumažintas teršalų išmetimas į aplinkos orą.\nStraipsnio dalies pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "19 straipsnis. Teršalų išmetimo į aplinkos orą apskaita ir ataskaitų teikimas",
+      "content": "1. Taršos šaltinio naudotojas privalo įstatymų ir kitų teisės aktų nustatyta tvarka tvarkyti žaliavų, kuro, energijos sąnaudų, produkcijos kiekio, taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitą ir Aplinkos ministerijai ar jos įgaliotai institucijai teikti ataskaitas.\n\n2. Taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitos turinį ir formą bei žaliavų, kuro, energijos sąnaudų, produkcijos kiekio, taršos šaltinių ir išmetamų į aplinkos orą teršalų ataskaitų teikimo tvarką nustato Aplinkos ministerija.\n\nStraipsnio pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "20 straipsnis. Teršalų mažinimo priemonių, atliekų deginimo ir augalų ar jų dalių deginimo reikalavimai",
+      "content": "1. Įgyvendinant išmetamų į aplinkos orą teršalų mažinimo priemones, neturi būti teršiamas dirvožemis, vanduo ir kiti aplinkos elementai.\n\n2. Draudžiama deginti atliekas, išskyrus atvejus, kai jos deginamos specialiai tam skirtuose įrenginiuose, vadovaujantis šio įstatymo 15 straipsnio 1 dalies nuostatomis, ir šiame straipsnyje nurodytas išimtis.\n\n3. Draudžiama deginti nenupjautus, nesugrėbtus ar kitaip nesurinktus augalus ar jų dalis, išskyrus atvejus, numatytus Lietuvos Respublikos saugomų teritorijų įstatymo nustatyta tvarka patvirtintuose gamtotvarkos planuose.\n\n4. Surinktų augalų ar jų dalių (išskyrus surinktus vykdant miškų ūkio veiklą) deginimui lauko sąlygomis taikomi aplinkos ministro nustatyti reikalavimai.\n\nStraipsnio pakeitimai:\nNr. XII-2300, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10404"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "21 straipsnis. Taršos šaltinio naudotojo pareigos avarijų atveju",
+      "content": "1. Kiekvienas taršos šaltinio naudotojas privalo parengti veiksmų planą avarijų atvejams ir jų likvidavimui.\n\n2. Taršos šaltinio naudotojo pareigas didelių pramoninių avarijų atveju nustato Vyriausybės tvirtinami Pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatai.\nStraipsnio dalies pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785\n\n3. Avarijų likvidavimo planai sudaromi Civilinės saugos ir kitų įstatymų nustatyta tvarka.\n\nPENKTASIS SKIRSNIS\nBAIGIAMOSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "22 straipsnis. Atsakomybė už šio įstatymo pažeidimus",
+      "content": "1. Asmenys, pažeidę šio įstatymo reikalavimus, traukiami atsakomybėn įstatymų nustatyta tvarka.\n\n2. Asmenys, padarę žalą aplinkai, teisės aktų nustatyta tvarka privalo ją atlyginti ir esant galimybei atkurti aplinkos elemento būklę.\nStraipsnio dalies pakeitimai:\nNr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "23 straipsnis. Tarptautinės sutartys",
+      "content": "Jeigu įsigaliojusios Lietuvos Respublikos ratifikuotos tarptautinės sutartys numato kitokias nuostatas negu šis įstatymas, taikomos tarptautinių sutarčių nuostatos."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "24 straipsnis. Teisės aktų pripažinimas netekusiais galios",
+      "content": "Pripažįstami netekusiais galios:\n\n1) Atmosferos oro apsaugos įstatymas (Žin., 1981, Nr. 17-216);\n\n2) Aukščiausiosios Tarybos Prezidiumo 1984 m. lapkričio 28 d. įsako Nr. X-4418 „Dėl pakeitimų ir papildymų kai kuriuose Lietuvos TSR įstatymų aktuose“ (Žin., 1984, Nr. 34-391) 8 punktas;\n\n3) Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo (Žin., 1997, Nr. 118-3046; 1998, Nr. 59-1657) 1 straipsnio 9 punktas.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS\n\nLietuvos Respublikos\naplinkos oro apsaugos įstatymo\npriedas\n\nĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI\n\n1. 2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/50/EB dėl aplinkos oro kokybės ir švaresnio oro Europoje (OL 2008 L 152, p. 1).\n\n2. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2284 dėl tam tikrų valstybėse narėse į atmosferą išmetamų teršalų kiekio mažinimo, kuria iš dalies keičiama Direktyva 2003/35/EB ir panaikinama Direktyva 2001/81/EB (OL 2016 L 344, p. 1).\nPapildyta punktu:\nNr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029\n\nPapildyta priedu:\nNr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Aglomeracija",
+      "definition": "aplinkos oro užterštumo vertinimo zona, kurioje yra daugiau kaip 250 000 gyventojų arba kurioje dėl gyventojų tankumo (gyventojų skaičiaus kvadratiniame kilometre) būtina vertinti ir valdyti aplinkos oro kokybę.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Aplinkos oras",
+      "definition": "troposferos oras (ne patalpų), išskyrus darbo aplinkos darbovietėse orą, kuriam taikomi socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyti darbuotojų saugos ir sveikatos reikalavimai ir su kuriuo kiti visuomenės nariai įprastai sąlyčio neturi.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Aplinkos oro taršos šaltinis (toliau",
+      "definition": "taršos šaltinis) – įrenginys arba veiklos vykdymo vieta, iš kurių teršalai patenka į aplinkos orą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Aplinkos oro taršos šaltinio naudotojas (toliau",
+      "definition": "taršos šaltinio naudotojas) – aplinkos oro taršos šaltinio savininkas arba asmuo, kuriam teisė naudotis aplinkos oro taršos šaltiniu suteikta nuomos ar kitais pagrindais.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Aplinkos oro užterštumo lygis (toliau",
+      "definition": "užterštumo lygis) – teršalo koncentracija aplinkos ore arba jo nuosėdų kiekis, susidarantis paviršiuje per tam tikrą laiką.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Aplinkos oro užterštumo pavojaus slenkstis (toliau",
+      "definition": "pavojaus slenkstis) – aplinkos oro užterštumo lygis, kurį viršijus kyla pavojus žmonių sveikatai net dėl trumpalaikio poveikio.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Aplinkos oro užterštumo vertinimo zona (toliau",
+      "definition": "zona) – aplinkos ministro ir sveikatos apsaugos ministro nustatyta šalies teritorijos dalis, kurioje pagal aplinkos ministro nustatytą tvarką valstybės lygmeniu vertinamas aplinkos oro užterštumo lygis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Asmuo",
+      "definition": "fizinis ar juridinis asmuo, įskaitant užsienio valstybės juridinį asmenį ir kitą organizaciją, taip pat jų padalinį.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Buitinis aplinkos oro taršos šaltinis (toliau",
+      "definition": "buitinis taršos šaltinis) – aplinkos oro taršos šaltinis, naudojamas fizinio asmens poreikiams, nesusijusiems su ūkinės veiklos vykdymu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Darnus susisiekimo paslaugų organizavimo būdas",
+      "definition": "veiksmingiausia ir pažangiausia susisiekimo paslaugas teikiančių ūkio subjektų veikla ir jos metodų plėtojimas, kai sudaromos sąlygos išsaugoti esamą elektrinių transporto priemonių tinklą ir jį plėtoti, mažinti vidaus degimo varikliais varomų transporto priemonių naudojimą ir (arba) rinktis pažangiausias degalų rūšis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Degalai",
+      "definition": "vidaus degimo varikliams skirtos degiosios medžiagos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Elektrinė transporto priemonė",
+      "definition": "tik elektra varoma motorinė transporto priemonė, kuri turi bent vieną ne išorinį elektros energijos keitiklį ir kuriai elektros energija gali būti tiekiama įvairiais būdais: kontaktiniais laidais, naudojant pantografus, įkraunamus akumuliatorius, indukcijos ir kitais būdais, naudojant bet kokius šių būdų derinius.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Geriausias prieinamas gamybos būdas",
+      "definition": "veiksmingiausia ir pažangiausia ūkio subjektų veiklos ir jos vykdymo metodų plėtojimo pakopa, kuri rodo, ar tam tikras būdas gali būti naudojamas kaip pagrindas išmetamų teršalų ribinėms vertėms, skirtoms užkirsti kelią teršalų išmetimui, nustatyti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kietasis iškastinis kuras",
+      "definition": "energijai gauti naudojama kieta degioji medžiaga, sudaryta iš neatsinaujinančių energijos išteklių: antracitas, bituminės anglys, rudosios anglys (lignitas), koksas, puskoksis, durpių kuras.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kietosios dalelės KD2,5",
+      "definition": "kietosios dalelės, kurių 50 procentų praeina pro 2,5 µm aerodinaminio skersmens angą, kaip nustatyta pamatiniu kietųjų dalelių KD2,5 ėminių ėmimo ir matavimo metodu, nurodytu perimtajame standarte LST EN 12341 „Aplinkos oro kokybė. Standartinis gravimetrinis matavimo metodas tvyrančių kietųjų dalelių KD10 arba KD2,5 masės koncentracijai nustatyti“.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kuras",
+      "definition": "dujinė, skysta arba kieta degioji medžiaga, naudojama energijai gauti degimo įrenginiuose. Kuru nelaikomos pavojingosios atliekos ir iš anksto neapdorotos nepavojingosios komunalinės atliekos, neatsižvelgiant į tai, ar jose yra degiųjų medžiagų.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Leidžiamasis aplinkos oro taršos dydis (toliau",
+      "definition": "leistinas taršos dydis) – per tam tikrą laikotarpį iš aplinkos oro taršos šaltinio ar šaltinių visumos į aplinkos orą išmetamų teršalų kiekis, dėl kurio tam tikroje vietovėje, įvertinus kitų aplinkos oro taršos šaltinių išmetamų teršalų poveikį ir ūkinės veiklos plėtros perspektyvą, nebus viršijamos ribinės aplinkos oro užterštumo vertės.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Leidžiamasis aplinkos oro užterštumo vertės nuokrypis (toliau",
+      "definition": "leistinas nukrypimo dydis) – ribinės aplinkos oro užterštumo vertės procentinė dalis, kuria leidžiama viršyti šią vertę, esant aplinkos ministro ir sveikatos apsaugos ministro numatytoms sąlygoms iki ribinės aplinkos oro užterštumo vertės įsigaliojimo datos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Mobilusis aplinkos oro taršos šaltinis (toliau",
+      "definition": "mobilusis taršos šaltinis) – motorinė transporto priemonė ar kitas judantis mechanizmas, iš kurio teršalai patenka į aplinkos orą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Nepalankios teršalų išsisklaidymo sąlygos",
+      "definition": "aplinkos veiksniai, kuriems esant kyla grėsmė, kad bus viršijamos ribinės aplinkos oro užterštumo vertės ar aplinkos oro užterštumo pavojaus slenksčiai.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Ribinė aplinkos oro užterštumo vertė (toliau",
+      "definition": "ribinė užterštumo vertė) – mokslinėmis žiniomis pagrįsta aplinkos oro užterštumo lygio vertė, kuri nustatyta aplinkos ministro ir sveikatos apsaugos ministro siekiant išvengti kenksmingo poveikio žmonių sveikatai ir (arba) aplinkai, užkirsti jam kelią ar jį sumažinti ir kurios negalima viršyti nuo aplinkos ministro ir sveikatos apsaugos ministro nustatytos ribinės aplinkos oro užterštumo vertės įsigaliojimo datos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Siektina aplinkos oro užterštumo vertė (toliau",
+      "definition": "siektina užterštumo vertė) – aplinkos oro užterštumo lygio vertė, kuri nustatyta aplinkos ministro ir sveikatos apsaugos ministro siekiant išvengti kenksmingo poveikio žmonių sveikatai ir (arba) aplinkai, užkirsti jam kelią ar jį sumažinti ir kuri negali būti viršijama, jeigu įmanoma, nuo aplinkos ministro ir sveikatos apsaugos ministro nustatytos datos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Stacionarusis aplinkos oro taršos šaltinis (toliau",
+      "definition": "stacionarusis taršos šaltinis) – aplinkos oro taršos šaltinis, veikiantis nekintamoje buvimo vietoje.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Technologinis kuras",
+      "definition": "pramoninėse krosnyse naudojamas kuras.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Teršalas",
+      "definition": "medžiaga arba medžiagų mišinys, kuris dėl žmonių veiklos patenka į aplinkos orą ir, veikdamas atskirai ar su atmosferos komponentais, gali pakenkti žmonių sveikatai ir (arba) aplinkai.\n\n26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos ar vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos standartizacijos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme.\n\nStraipsnio pakeitimai:\nNr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702",
+      "source_provision": "art2"
+    }
+  ]
+}

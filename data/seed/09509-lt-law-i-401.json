@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-i-401",
+  "type": "statute",
+  "title": "Dėl Lietuvos Respublikos Seimo statuto pereinamųjų nuostatų",
+  "short_name": "I-401",
+  "status": "in_force",
+  "issued_date": "1994-03-10",
+  "in_force_date": "1994-03-16",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.90BEAC15E295",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymų ir kitų Seimo norminių aktų projektų, kurie užregistruoti, pateikti ar pradėti svarstyti Lietuvos Respublikos Seime iki Seimo statuto įsigaliojimo, svarstymo procedūra yra tokia:",
+      "content": "1) projektai, kurie užregistruoti, tačiau Seimo posėdyje nebuvo pateikti, grąžinami institucijoms ir asmenims, kurie pagal Lietuvos Respublikos Konstituciją turi įstatymų leidybos iniciatyvos teisę Seime, jeigu jie iki 1994 m. kovo 31 d. papildomai nepateikia aiškinamojo rašto pagal Seimo statuto 140 straipsnio reikalavimus;\n\n2) projektai, kurie buvo pateikti Seime, bet dar nepradėti svarstyti (sąrašas pridedamas), perduodami pagrindiniams komitetams.\n\nŠie projektai toliau svarstomi pagal Seimo statuto 21, 22 ir 23 skirsnių reikalavimus;\n\n3) projektai, kuriems pritarta po pirmojo svarstymo arba nebaigtas antrasis svarstymas Seime (sąrašas pridedamas), perduodami pagrindiniams komitetams.\n\nŠiems projektams netaikomos Seimo statuto 153, 154, 155 straipsnių ir 156 straipsnio pirmosios dalies nuostatos. Komitetai teikia juos svarstyti Seimo posėdyje, įvykdę 156 straipsnio antrosios, trečiosios ir ketvirtosios dalių reikalavimus;\n\n4) projektai, kuriems pritarta po antrojo svarstymo Seime (sąrašas pridedamas), perduodami pagrindiniams komitetams.\n\nŠiems projektams netaikomos Seimo statuto 157 ir 158 straipsnių nuostatos. Komitetai juos teikia Seimui priimti;\n\n5) projektų, kuriuos Seimas pradėjo priiminėti (sąrašas pridedamas), priėmimo procedūra tęsiama."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Šis įstatymas yra Seimo statuto sudedamoji dalis.",
+      "content": "LIETUVOS RESPUBLIKOS\nSEIMO PIRMININKAS                                                                             ČESLOVAS JURŠĖNAS\n______________"
+    }
+  ],
+  "definitions": []
+}

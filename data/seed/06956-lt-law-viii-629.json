@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-viii-629",
+  "type": "statute",
+  "title": "Lietuvos Respublikos koncesijų įstatymo 16 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "VIII-629",
+  "status": "in_force",
+  "issued_date": "1998-02-17",
+  "in_force_date": "1998-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.15AFB324FF43/BOIJWytQBY",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 16 straipsnio pripažinimas netekusiu galios",
+      "content": "16 straipsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja nuo 1998 m. liepos 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": []
+}

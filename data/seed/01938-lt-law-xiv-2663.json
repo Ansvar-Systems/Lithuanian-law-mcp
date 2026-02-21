@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiv-2663",
+  "type": "statute",
+  "title": "Lietuvos Respublikos kelių įstatymo Nr. I-891 8 straipsnio pakeitimo įstatymas",
+  "short_name": "XIV-2663",
+  "status": "in_force",
+  "issued_date": "2024-05-16",
+  "in_force_date": "2024-06-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/4b5a17601dbb11ef8b14c5bcce136045/bzcfmRtedt",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 8 straipsnio pakeitimas",
+      "content": "Papildyti 8 straipsnį 4 dalimi:\n\n„4. Keliai projektuojami, tiesiami, statomi, rekonstruojami, taisomi (remontuojami) ir prižiūrimi  Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka taikant statinio informacinio modeliavimo metodus sudėtingiems konstrukciniams kelių elementams: viadukams, estakadoms, tiltams, dviejų lygių sankryžoms, sankirtoms ir pan. Automobilių kelių objektams, kurie erdvinių duomenų rinkinyje išreiškiami linijiniu grafiniu elementu ir kurie savyje neturi konstrukcinių elementų (nėra sudėtingų mazgų ar kitų susikirtimų), taikomi Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nustatyti minimalūs statinio informacinio modeliavimo metodų taikymo reikalavimai.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. birželio 1 d.\n\n2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2024 m. gegužės 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

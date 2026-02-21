@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xi-1174",
+  "type": "statute",
+  "title": "Lietuvos Respublikos vietos savivaldos įstatymo 7 ir 32 straipsnių pakeitimo įstatymas",
+  "short_name": "XI-1174",
+  "status": "in_force",
+  "issued_date": "2010-11-25",
+  "in_force_date": "2011-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.E30A20EDFD27",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 7 straipsnio 15 punkto pripažinimas netekusiu galios",
+      "content": "7 straipsnio 15 punktą pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 32 straipsnio 2 dalies 6 punkto pripažinimas netekusiu galios",
+      "content": "32 straipsnio 2 dalies 6 punktą pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2011 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

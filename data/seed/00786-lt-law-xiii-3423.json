@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiii-3423",
+  "type": "statute",
+  "title": "Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymo Nr. XIII-2690 3 straipsnio pakeitimo įstatymas",
+  "short_name": "XIII-3423",
+  "status": "in_force",
+  "issued_date": "2020-11-10",
+  "in_force_date": "2021-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/1eb852e0299e11eb932eb1ed7f923910/qtUIvYdTAL",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 3 straipsnio pakeitimas",
+      "content": "Pakeisti 3 straipsnį ir jį išdėstyti taip:\n\n„3 straipsnis. Mokesčio objektas\n\nMokesčio objektas – M1 klasei ar N1 klasei priskirtos motorinės transporto priemonės, kurios registraciją atlieka valdytojas, duomenų šaltiniuose nurodytas išmetamas CO2 dydis, išskyrus istorinės motorinės transporto priemonės ir motorinės transporto priemonės, kurios duomenų šaltiniuose nurodyta, kad transporto priemonė pritaikyta neįgaliųjų vežimėliui ir nurodytas specialios paskirties kodas „SH“ arba transporto priemonė yra su rankiniu valdymu ir nurodytas specialios paskirties kodas „SV“, kurių registraciją atlieka valdytojas, išmetamą CO2 dydį. Motorinių transporto priemonių, kurių registraciją atlieka valdytojas, vadovaujantis Saugaus eismo automobilių keliais įstatymo 27 straipsnio 2 dalies 4 punkto nuostatomis, išmetamas CO2 dydis nėra mokesčio objektas.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2021 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

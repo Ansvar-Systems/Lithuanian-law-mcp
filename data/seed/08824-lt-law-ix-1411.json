@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-ix-1411",
+  "type": "statute",
+  "title": "Lietuvos Respublikos policijos įstatymo 16(4) ir 16(5) straipsnių pripažinimo netekusiais galios įstatymas",
+  "short_name": "IX-1411",
+  "status": "in_force",
+  "issued_date": "2003-04-01",
+  "in_force_date": "2003-04-24",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.6EB36BCBCA80",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 164 straipsnio pripažinimas netekusiu galios",
+      "content": "164  straipsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 165 straipsnio pripažinimas netekusiu galios",
+      "content": "165  straipsnį pripažinti netekusiu galios.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS\n______________"
+    }
+  ],
+  "definitions": []
+}

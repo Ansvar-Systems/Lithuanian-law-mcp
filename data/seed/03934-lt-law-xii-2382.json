@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xii-2382",
+  "type": "statute",
+  "title": "Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 20 ir 32 straipsnių pakeitimo įstatymas",
+  "short_name": "XII-2382",
+  "status": "in_force",
+  "issued_date": "2016-05-19",
+  "in_force_date": "2016-10-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/9c1f1df028b711e6acf89da936cb7409/LQdRRhLPRF",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 20 straipsnio pakeitimas",
+      "content": "Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:\n\n„2. Asmenys, atliekantys žvalgybos institucijų veiklos kontrolę, turi turėti leidimus dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, žymima slaptumo žyma „Visiškai slaptai“.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 32 straipsnio pakeitimas",
+      "content": "Pakeisti 32 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:\n\n„6) atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, jeigu pareigos susijusios su įslaptintos informacijos naudojimu;“."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2016 m. spalio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

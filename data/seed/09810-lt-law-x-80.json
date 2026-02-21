@@ -1,0 +1,43 @@
+{
+  "id": "lt-law-x-80",
+  "type": "statute",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso 57, 83, 99 ir 225 straipsnių pakeitimo įstatymas",
+  "short_name": "X-80",
+  "status": "in_force",
+  "issued_date": "2005-01-20",
+  "in_force_date": "2005-05-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.9EDA9BC64C23",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 57 straipsnio 3 dalies pakeitimas",
+      "content": "Pakeisti 57 straipsnio 3 dalį ir ją dalį išdėstyti taip:\n\n„3. Advokato arba advokato padėjėjo teisės ir pareigos bei jų mastas patvirtinami rašytine su klientu sudaryta sutartimi ar jos išrašu. Tuo atveju, kai yra teikiama valstybės garantuojama teisinė pagalba, advokato teises ir pareigas bei jų mastą patvirtina Valstybės garantuojamos teisinės pagalbos įstatyme nurodyti dokumentai.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 83 straipsnio 4 dalies pripažinimas netekusia galios",
+      "content": "83 straipsnio 4 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 99 straipsnio pakeitimas",
+      "content": "Pakeisti 99 straipsnį ir jį išdėstyti taip:\n\n„99 straipsnis. Valstybės garantuojamos teisinės pagalbos teikimas ir išlaidų atlyginimo tvarka\n\n1. Asmenims, turintiems teisę gauti valstybės garantuojamą teisinę pagalbą, ši pagalba teikiama Valstybės garantuojamos teisinės pagalbos įstatymo nustatytais atvejais ir tvarka.\n\n2. Valstybės garantuojamos teisinės pagalbos išlaidos valstybei atlyginamos pagal šio Kodekso 96 straipsnyje nustatytas taisykles.“"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. 225 straipsnio 4 punkto pripažinimas netekusiu galios",
+      "content": "225 straipsnio 4 punktą pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja nuo 2005 m. gegužės 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS\n______________"
+    }
+  ],
+  "definitions": []
+}

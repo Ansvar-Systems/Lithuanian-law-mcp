@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xi-2001",
+  "type": "statute",
+  "title": "Lietuvos Respublikos civilinio kodekso 1.74 ir 6.393 straipsnių pakeitimo įstatymas",
+  "short_name": "XI-2001",
+  "status": "in_force",
+  "issued_date": "2012-05-10",
+  "in_force_date": "2013-03-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.CF6279BFAC8E",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 1.74 straipsnio 1 dalies 1 punkto pakeitimas",
+      "content": "Pakeisti 1.74 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:\n\n„1) daiktinių teisių į nekilnojamąjį daiktą perleidimo ir daiktinių teisių bei nekilnojamojo daikto suvaržymo sandoriai, išskyrus bankroto proceso metu sudaromus nekilnojamojo daikto perleidimo sandorius, jeigu šiame kodekse nenustatyta kitaip;“."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 6.393 straipsnio 1 dalies pakeitimas",
+      "content": "Pakeisti 6.393 straipsnio 1 dalį ir ją išdėstyti taip:\n\n„1. Nekilnojamojo daikto pirkimo–pardavimo sutartis turi būti notarinės formos, išskyrus bankroto proceso metu sudaromas nekilnojamojo daikto pirkimo–pardavimo sutartis.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2013 m. kovo 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

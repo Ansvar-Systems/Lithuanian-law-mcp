@@ -1,0 +1,181 @@
+{
+  "id": "lt-law-xi-1829",
+  "type": "statute",
+  "title": "Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymas",
+  "short_name": "XI-1829",
+  "status": "in_force",
+  "issued_date": "2011-12-21",
+  "in_force_date": "2013-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.59681865CD01/dSFaMPluoL",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos žemės mokesčio įstatymo nauja redakcija",
+      "content": "Pakeisti Lietuvos Respublikos žemės mokesčio įstatymą ir jį išdėstyti taip:\n\n„Lietuvos respublikos\nžemės mokesčio\nĮ S T A T Y M A S\n\nI SKYRIUS\nBENDROSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art1",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis įstatymas nustato žemės apmokestinimo žemės mokesčiu (toliau – mokestis) tvarką."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Apleistos žemės ūkio naudmenos – sumedėjusiais augalais (išskyrus želdinius) apaugę žemės sklype ar jo dalyje esančių žemės ūkio naudmenų plotai, nustatyti nuotoliniais kartografavimo metodais Lietuvos Respublikos Vyriausybės (toliau –Vyriausybė) ar jos įgaliotos institucijos nustatyta tvarka.\n\n2. Fizinis asmuo – Lietuvos Respublikos pilietis, užsienio valstybės pilietis ar asmuo be pilietybės.\n\n3. Juridinis asmuo – Lietuvos Respublikos teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės juridinis asmuo, taip pat užsienio valstybės organizacija, pagal Lietuvos Respublikos ar šios užsienio valstybės įstatymus pripažįstama teisės subjektu.\n\n4. Masinis žemės vertinimas – žemės vertinimas, kai, naudojantis Nekilnojamojo turto registro ir rinkos duomenimis, per nustatytą laiką, taikant bendrą metodologiją ir statistines duomenų analizės ir vertinimo technologijas, sudaromi žemės verčių zonų žemėlapiai ir žemės sklypų vidutinės rinkos vertės nustatymo modeliai, pagal kuriuos įvertinami žemės sklypai ir parengiama bendra tam tikroje teritorijoje esančių žemės sklypų vertinimo ataskaita.\n\n5. Žemės sklypo vidutinės rinkos vertės nustatymo modelis – matematinė formulė, taikoma žemės sklypo vidutinei rinkos vertei apskaičiuoti, atsižvelgiant į Nekilnojamojo turto kadastro duomenis, žemės verčių zonų žemėlapio sprendinius ir žemės rinkos duomenis.\n\n6. Žemės vidutinė rinkos vertė – šio įstatymo 10 straipsnyje nustatyta tvarka apskaičiuota žemės vertė.\n\n7. Žemės verčių zonų žemėlapis – žemėlapis, kuriame, atlikus masinį žemės vertinimą, pažymėtos skirtingą vidutinę vertę turinčios zonos (teritorijos), zonų žemės vertės rodikliai ir duomenys, reikalingi atskirų žemės sklypų vidutinei rinkos vertei apskaičiuoti.\n\n8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), kituose mokesčių įstatymuose, Lietuvos Respublikos žemės įstatyme ir Lietuvos Respublikos civiliniame kodekse. Šiame įstatyme nurodytos pagrindinės žemės naudojimo paskirtys, būdai ir pobūdžiai atitinka registruojamus Nekilnojamojo turto registre."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "3",
+      "title": "3 straipsnis. Mokesčio mokėtojas",
+      "content": "1. Mokestį moka žemės savininkas – fizinis asmuo ir juridinis asmuo.\n\n2. Kolektyvinio investavimo subjekto, kuris nėra juridinis asmuo, žemės savininkams šio įstatymo nustatytas prievoles vykdančiu ir teises įgyvendinančiu asmeniu (mokesčio mokėtoju) yra šio kolektyvinio investavimo subjekto valdymo įmonė."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "4",
+      "title": "4 straipsnis. Mokesčio objektas",
+      "content": "Mokesčio objektas yra fiziniams ir juridiniams asmenims nuosavybės teise priklausanti Lietuvos Respublikoje esanti privati žemė, išskyrus miško žemę ir žemės ūkio paskirties žemę, kurioje įveistas miškas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "5",
+      "title": "5 straipsnis. Mokesčio bazė",
+      "content": "Mokesčio bazė yra žemės mokestinė vertė."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "6",
+      "title": "6 straipsnis. Mokesčio tarifas",
+      "content": "1. Mokesčio tarifas – nuo 0,01 procento iki 4 procentų žemės mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip.\n\n2. Savivaldybės taryba iki einamojo mokestinio laikotarpio birželio 1 dienos nustato konkretų mokesčio tarifą, kuris galios atitinkamos savivaldybės teritorijoje kitą mokestinį laikotarpį, neviršydama šio straipsnio 1 dalyje nustatytų ribų, jeigu šiame straipsnyje nenustatyta kitaip. Jeigu, vadovaujantis šio įstatymo 10 straipsnio 4 dalimi, nuo kito mokestinio laikotarpio žemės mokestinė vertė nustatoma atsižvelgiant į naujai atlikto masinio žemės vertinimo rezultatus, kitą mokestinį laikotarpį galiosiantį mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos.\n\n3. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčio tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų:\n\n1) pagrindinę žemės naudojimo paskirtį;\n\n2) žemės sklypo naudojimo būdą ir pobūdį;\n\n3) žemės sklypo naudojimą arba nenaudojimą;\n\n4) žemės sklypo dydį;\n\n5) mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį);\n\n6) žemės sklypo buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus).\n\n4. Jeigu savivaldybės taryba iki šio straipsnio 2 dalyje nurodytų terminų nenustato konkrečių mokesčio tarifų arba po šio straipsnio 2 dalyje nurodytų terminų keičia nustatytus mokesčio tarifus, atitinkamą mokestinį laikotarpį toje savivaldybės teritorijoje taikomas 0,01 procento mokesčio tarifas."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "7",
+      "title": "7 straipsnis. Mokesčio mokestinis laikotarpis",
+      "content": "Mokesčio mokestinis laikotarpis sutampa su kalendoriniais metais."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "8",
+      "title": "8 straipsnis. Mokesčio lengvatos",
+      "content": "1. Mokesčio nemoka:\n\n1) užsienio valstybių diplomatinės atstovybės ir konsulinės įstaigos, tarptautinės tarpvyriausybinės organizacijos ir jų atstovybės;\n\n2) bankrutavusios įmonės;\n\n3) Lietuvos bankas;\n\n4) žemės savininkai, kurių mokėtinas mokestis mokestiniu laikotarpiu už visus nuosavybės teise turimus žemės sklypus neviršija 5 litų.\n\n2. Mokesčiu neapmokestinama:\n\n1) bendro naudojimo kelių užimta žemė;\n\n2) mėgėjiško sodo teritorijoje esanti bendrojo naudojimo žemė;\n\n3) fiziniams asmenims, kurių šeimose mokestinio laikotarpio pradžioje nėra darbingų asmenų ir kuriems nustatytas 0–40 procentų darbingumo lygis arba kurie yra sukakę senatvės pensijos amžių ar yra nepilnamečiai, priklausančio žemės sklypo plotas, neviršijantis savivaldybių tarybų iki einamojo mokestinio laikotarpio rugsėjo 1 dienos nustatyto neapmokestinamojo žemės sklypo dydžio. Fiziniam asmeniui nuosavybės teise priklausantys keli žemės sklypai, esantys tos pačios savivaldybės teritorijos vietovėse (vietovėje), kurioms (kuriai) nustatytas vienodas neapmokestinamasis žemės sklypo dydis, šiuo atveju laikomi vienu žemės sklypu. Jeigu fizinis asmuo turi teisę į mokesčio lengvatą ir turi ne vieną žemės sklypą, taikoma didžiausia lengvata vienam žemės sklypui. Taikant šią nuostatą, šeima laikomi sutuoktiniai, asmenys, vieni auginantys vaikus (įvaikius), ir su jais gyvenantys jų vaikai (įvaikiai, posūniai, podukros), iki jiems sukaks 18 metų, o prie darbingų asmenų nepriskiriami švietimo įstaigų dieninių skyrių moksleiviai ir studentai;\n\n4) nacionalinių parkų, regioninių parkų, kraštovaizdžio, kultūrinių, geologinių, geomorfologinių, botaninių, zoologinių, botaninių-zoologinių, hidrografinių ir pedologinių draustinių teritorijų ir jų apsaugos zonų žemė, išskyrus minėtose teritorijose esančias žemės ūkio naudmenas, taip pat užstatytų teritorijų, kelių ir vandenų užimtą žemę;\n\n5) vandens telkinių pakrančių apsaugos juostų žemė;\n\n6) gamtos paminklų žemė, išskyrus užstatytų teritorijų ir kelių užimtą žemę;\n\n7) į Kultūros vertybių registrą įrašytų archeologinių (išskyrus senamiesčių kultūrinius sluoksnius) ir memorialinių (neveikiančių kapinių ir laidojimo vietų) nekilnojamojo kultūros paveldo objektų teritorijų žemė, išskyrus minėtose teritorijose esančių užstatytų teritorijų, kelių ir vandenų užimtą žemę;\n\n8) į Kultūros vertybių registrą įrašytų istorinių, architektūrinių ir dailės nekilnojamojo kultūros paveldo objektų teritorijų žemė kaimo vietovėse ir etnografinių kaimų teritorijose esančių etnografinių sodybų žemė;\n\n9) ūkininko ūkiui steigti įgyta žemė – tris mokesčio mokestinius laikotarpius nuo nuosavybės teisės įgijimo. Tokio pobūdžio lengvata, įskaitant iki šio įstatymo įsigaliojimo taikytą, tam pačiam asmeniui taikoma tik vieną kartą.\n\n3. Savivaldybių tarybos turi teisę savo biudžeto sąskaita sumažinti mokestį arba visai nuo jo atleisti.\n\n4. Šio straipsnio 1 ir 2 dalyse numatytos mokesčio lengvatos taikomos už visą mokesčio mokestinį laikotarpį.\n\n5. Šio straipsnio 3 dalyje numatytos lengvatos taikomos atitinkamuose savivaldybių tarybų sprendimuose nustatyta tvarka.\n\nII SKYRIUS\nŽEMĖS MOKESTINĖ VERTĖ"
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "II SKYRIUS ŽEMĖS MOKESTINĖ VERTĖ",
+      "section": "9",
+      "title": "9 straipsnis. Žemės mokestinė vertė",
+      "content": "1. Žemės mokestinė vertė yra žemės vidutinė rinkos vertė, jeigu šiame straipsnyje nenustatyta kitaip.\n\n2. Žemės mokestine verte šio įstatymo 11 straipsnio 2 dalyje nustatyta tvarka gali būti laikoma žemės vertė, nustatyta atlikus individualų žemės vertinimą, jeigu:\n\n1) turto vertinimo įmonės, tvarkančios Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą (toliau – turto vertinimo įmonė), nustatyta žemės vidutinė rinkos vertė skiriasi nuo individualiu žemės vertinimu nustatytos žemės vertės daugiau kaip 20 procentų ir\n\n2) turto vertinimo įmonės nustatytos žemės vidutinės rinkos vertės ir individualiu žemės vertinimu nustatytos žemės vertės skirtumas susidarė ne dėl žemės naudojimo ne pagal numatytą paskirtį, būdą, pobūdį, disponavimo ja suvaržymų dėl hipotekos ar kitų savininko prievolių, ir\n\n3) individualaus žemės vertinimo ataskaita atitinka Vyriausybės nustatytus reikalavimus.\n\n3. Mokesčio mokėtojo prašymas žemės mokestine verte laikyti žemės vertę, nustatytą atlikus individualų žemės vertinimą, kartu su šios žemės individualaus vertinimo ataskaita (toliau – prašymas) pateikiamas turto vertinimo įmonei ir nagrinėjamas šio įstatymo 11 straipsnio 2 dalyje nustatyta tvarka. Jeigu prašymas tenkinamas, individualaus žemės vertinimo metu nustatyta žemės vertė šios žemės mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol turto vertinimo įmonė šio įstatymo ir Vyriausybės nustatyta tvarka nustato (patvirtina) naują šios žemės mokestinę vertę.\n\n4. Žemės ūkio paskirties žemės, išskyrus apleistas žemės ūkio naudmenas, mokestinė vertė yra jos vidutinė rinkos vertė arba vertė, nustatyta atlikus individualų žemės vertinimą, padauginta iš koeficiento 0,35."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "II SKYRIUS ŽEMĖS MOKESTINĖ VERTĖ",
+      "section": "10",
+      "title": "10 straipsnis. Žemės vertinimas",
+      "content": "1. Žemės vertinimą atlieka turto vertinimo įmonė.\n\n2. Žemės vertinimas atliekamas naudojant masinio žemės vertinimo būdu parengtus žemės verčių zonų žemėlapius ir žemės sklypo vidutinės rinkos vertės nustatymo modelius.\n\n3. Vyriausybė nustato masinio žemės vertinimo atlikimo procedūras, įskaitant žemės verčių zonų žemėlapių ir žemės sklypo vidutinės rinkos vertės nustatymo modelių sudarymo tvarką ir žemės vidutinių rinkos verčių apskaičiavimo tvarką konkretiems žemės sklypams.\n\n4. Masinis žemės vertinimas žemės mokestinėms vertėms apskaičiuoti Vyriausybės nustatyta tvarka atliekamas ne rečiau kaip kas 5 metai."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "II SKYRIUS ŽEMĖS MOKESTINĖ VERTĖ",
+      "section": "11",
+      "title": "11 straipsnis. Skundai ir prašymai dėl žemės mokestinės vertės",
+      "content": "1. Mokesčio mokėtojas skundą dėl turto vertinimo įmonės nustatytos žemės vidutinės rinkos vertės, naudojamos mokestinėms žemės vertėms apskaičiuoti, gali pateikti turto vertinimo įmonei per 3 mėnesius nuo žemės mokestinės vertės nustatymo. Turto vertinimo įmonė išnagrinėja skundą ir priima sprendimą per 2 mėnesius nuo skundo gavimo dienos. Turto vertinimo įmonės sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka.\n\n2. Mokesčio mokėtojai vieną kartą per mokestinį laikotarpį, per 3 mėnesius nuo mokestinio laikotarpio pradžios, turto vertinimo įmonei gali pateikti prašymą žemės mokestine verte laikyti žemės vertę, nustatytą atlikus individualų žemės vertinimą. Šiuos prašymus turto vertinimo įmonė išnagrinėja ir sprendimą priima per 3 mėnesius (tuo mokestiniu laikotarpiu, kai įsigalioja nauji Vyriausybės nustatyta tvarka patvirtinti masinio žemės vertinimo dokumentai, – per 4 mėnesius) nuo prašymo gavimo dienos. Turto vertinimo įmonės sprendimas gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.\n\n3. Turto vertinimo įmonė apie mokesčio mokėtojo skundo arba prašymo gavimą ir dėl jo priimtą sprendimą informuoja mokesčio administratorių ne vėliau kaip per 3 darbo dienas nuo skundo arba prašymo gavimo ar sprendimo dėl jo priėmimo dienos.\n\n4. Mokesčio mokėtojo skundo pateikimas turto vertinimo įmonei mokesčio ir su juo susijusių sumų išieškojimą sustabdo iki turto vertinimo įmonės sprendimo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertinimo įmonės sprendimą apskundė Administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas Mokesčių administravimo įstatyme, arba pagrindas jas naikinti.\n\nIII SKYRIUS\nMOKESČIO APSKAIČIAVIMAS, DEKLARAVIMAS, MOKĖJIMAS IR ATSAKOMYBĖ"
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III SKYRIUS MOKESČIO APSKAIČIAVIMAS, DEKLARAVIMAS, MOKĖJIMAS IR ATSAKOMYBĖ",
+      "section": "12",
+      "title": "12 straipsnis. Mokesčio apskaičiavimas, deklaravimas ir mokėjimas",
+      "content": "1. Mokestis apskaičiuojamas žemės mokestinei vertei taikant šio įstatymo 6 straipsnio 1 dalyje nustatytą mokesčio tarifą.\n\n2. Taikant šio įstatymo 8 straipsnio 2 dalies 2 punkte nurodytą mokesčio lengvatą, šio straipsnio 1 dalyje nustatyta tvarka apskaičiuota mokesčio suma mažinama proporcingai žemės sklypo daliai, kuriai taikoma mokesčio lengvata.\n\n3. Mokestį moka asmuo, buvęs žemės savininku mokestinio laikotarpio birželio 30 dieną. Preziumuojama, kad žemės savininku yra asmuo, tokiu nurodytas Nekilnojamojo turto registre.\n\n4. Mokestį apskaičiuoja, centrinio mokesčių administratoriaus nustatytos formos mokesčio deklaracijas užpildo ir centrinio mokesčių administratoriaus nustatyta tvarka iki einamojo mokestinio laikotarpio lapkričio 1 dienos jas mokesčio mokėtojams pateikia mokesčio administratorius.\n\n5. Mokestis sumokamas iki einamojo mokestinio laikotarpio lapkričio 15 dienos.\n\n6. Mokesčio permoka grąžinama (įskaitoma) Mokesčių administravimo įstatymo nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "III SKYRIUS MOKESČIO APSKAIČIAVIMAS, DEKLARAVIMAS, MOKĖJIMAS IR ATSAKOMYBĖ",
+      "section": "13",
+      "title": "13 straipsnis. Duomenų, reikalingų mokesčiui apskaičiuoti, pateikimas",
+      "content": "1. Nekilnojamojo turto registro ir Nekilnojamojo turto kadastro duomenis, reikalingus mokesčiui apskaičiuoti, taip pat Vyriausybės įgaliotos institucijos nustatytus duomenis apie apleistas žemės ūkio naudmenas turto vertinimo įmonė pateikia mokesčių administratoriui turto vertinimo įmonės ir centrinio mokesčių administratoriaus sutartyje nustatytais būdais ir terminais, bet ne vėliau kaip iki kiekvieno mokestinio laikotarpio rugsėjo 1 dienos.\n\n2. Turto vertinimo įmonė sudaro galimybes mokesčių mokėtojams sužinoti savo žemės mokestinę vertę neatlygintinai."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "III SKYRIUS MOKESČIO APSKAIČIAVIMAS, DEKLARAVIMAS, MOKĖJIMAS IR ATSAKOMYBĖ",
+      "section": "14",
+      "title": "14 straipsnis. Atsakomybė",
+      "content": "Pažeidus šio įstatymo nuostatas, baudos skiriamos ir delspinigiai apskaičiuojami Mokesčių administravimo įstatymo nustatyta tvarka.\n\nIV SKYRIUS\nMOKESČIO ĮSKAITYMAS"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "IV SKYRIUS MOKESČIO ĮSKAITYMAS",
+      "section": "15",
+      "title": "15 straipsnis. Mokesčio įskaitymas",
+      "content": "1. Mokestis įskaitomas į savivaldybės, kurios teritorijoje yra žemė, biudžetą.\n\n2. Jeigu žemė yra kelių savivaldybių teritorijoje, mokestis įskaitomas proporcingai žemės sklypo daliai, tenkančiai atitinkamai savivaldybei.“"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "IV SKYRIUS MOKESČIO ĮSKAITYMAS",
+      "section": "2",
+      "title": "2 straipsnis. Pereinamojo laikotarpio nuostatos",
+      "content": "1. Jeigu, palyginti su 2012 metų mokestiniu laikotarpiu, 2013 metų mokestiniu laikotarpiu žemės ploto vieneto (aro) mokestinė vertė padidėjo, iš šios mokestinės vertės 2013 metų mokestiniu laikotarpiu atimama 0,8, 2014 metų mokestiniu laikotarpiu – 0,6, 2015 metų mokestiniu laikotarpiu – 0,4, 2016 metų mokestiniu laikotarpiu – 0,2 šio žemės ploto vieneto (aro) mokestinės vertės padidėjimo sumos.\n\n2. Mokesčio už žemės ūkio paskirties žemę, išskyrus apleistas žemės ūkio naudmenas ir mėgėjų sodo bei sodininkų bendrijų bendrojo naudojimo žemę, suma  2013–2014 metų mokestiniais laikotarpiais visais atvejais neviršija vieno lito už vieną arą, 2015–2017 metų mokestiniais laikotarpiais visais atvejais neviršija 0,29 euro už vieną arą.\nStraipsnio dalies pakeitimai:\nNr. XII-1134, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13608\n\n3. Mokesčio mokėtojų skundai dėl turto vertinimo įmonės nustatytos žemės vidutinės rinkos vertės, naudojamos mokestinėms vertėms apskaičiuoti, ir prašymai žemės mokestine verte laikyti žemės vertę, nustatytą atlikus individualų žemės vertinimą, 2013 metų mokestiniu laikotarpiu gali būti pateikiami per 6 mėnesius nuo šio mokestinio laikotarpio pradžios."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "IV SKYRIUS MOKESČIO ĮSKAITYMAS",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.\n\n2. Vyriausybė iki šio įstatymo įsigaliojimo dienos parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus.\n\nTAR pastaba. Pripažinti, kad Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymo 3 straipsnis (Žin., 2011, Nr. 163-7743) tiek, kiek jame eksplicitiškai nenustatyti iš visuminio teisinio reguliavimo, nustatyto Žemės mokesčio įstatymo pakeitimo įstatymo 3 straipsnio 1 dalyje, šio įstatymo 2 straipsnio 1 dalyje, Žemės mokesčio įstatymo (2011 m. gruodžio 21 d. redakcija) 6 straipsnyje, Vietos savivaldos įstatymo (2008 m. rugsėjo 15 d. redakcija) 16 straipsnio 2 dalies 37 punkte, kylantys savivaldybių tarybų įgaliojimai nustatyti žemės mokesčio tarifus 2013 metų mokestiniam laikotarpiui, prieštarauja konstituciniam teisinės valstybės principui.\nStraipsnio pakeitimai:\nNr. KT30-N16/2016, 2016-12-07, paskelbta TAR 2016-12-07, i. k. 2016-28387"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "IV SKYRIUS MOKESČIO ĮSKAITYMAS",
+      "section": "4",
+      "title": "4 straipsnis. Teisės aktų pripažinimas netekusiais galios",
+      "content": "Įsigaliojus šiam įstatymui, netenka galios:\n\n1) Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. birželio 25 d. nutarimas Nr. I-2676 „Dėl Lietuvos Respublikos žemės mokesčio įstatymo įsigaliojimo“ (Žin., 1992, Nr. 21-613);\n\n2) Lietuvos Respublikos Seimo 1995 m. birželio 20 d. nutarimas Nr. I-954 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos žemės mokesčio įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1995, Nr. 53-1307).\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Apleistos žemės ūkio naudmenos",
+      "definition": "sumedėjusiais augalais (išskyrus želdinius) apaugę žemės sklype ar jo dalyje esančių žemės ūkio naudmenų plotai, nustatyti nuotoliniais kartografavimo metodais Lietuvos Respublikos Vyriausybės (toliau –Vyriausybė) ar jos įgaliotos institucijos nustatyta tvarka.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Fizinis asmuo",
+      "definition": "Lietuvos Respublikos pilietis, užsienio valstybės pilietis ar asmuo be pilietybės.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Juridinis asmuo",
+      "definition": "Lietuvos Respublikos teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės juridinis asmuo, taip pat užsienio valstybės organizacija, pagal Lietuvos Respublikos ar šios užsienio valstybės įstatymus pripažįstama teisės subjektu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Masinis žemės vertinimas",
+      "definition": "žemės vertinimas, kai, naudojantis Nekilnojamojo turto registro ir rinkos duomenimis, per nustatytą laiką, taikant bendrą metodologiją ir statistines duomenų analizės ir vertinimo technologijas, sudaromi žemės verčių zonų žemėlapiai ir žemės sklypų vidutinės rinkos vertės nustatymo modeliai, pagal kuriuos įvertinami žemės sklypai ir parengiama bendra tam tikroje teritorijoje esančių žemės sklypų vertinimo ataskaita.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Žemės sklypo vidutinės rinkos vertės nustatymo modelis",
+      "definition": "matematinė formulė, taikoma žemės sklypo vidutinei rinkos vertei apskaičiuoti, atsižvelgiant į Nekilnojamojo turto kadastro duomenis, žemės verčių zonų žemėlapio sprendinius ir žemės rinkos duomenis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Žemės vidutinė rinkos vertė",
+      "definition": "šio įstatymo 10 straipsnyje nustatyta tvarka apskaičiuota žemės vertė.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Žemės verčių zonų žemėlapis",
+      "definition": "žemėlapis, kuriame, atlikus masinį žemės vertinimą, pažymėtos skirtingą vidutinę vertę turinčios zonos (teritorijos), zonų žemės vertės rodikliai ir duomenys, reikalingi atskirų žemės sklypų vidutinei rinkos vertei apskaičiuoti.\n\n8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), kituose mokesčių įstatymuose, Lietuvos Respublikos žemės įstatyme ir Lietuvos Respublikos civiliniame kodekse. Šiame įstatyme nurodytos pagrindinės žemės naudojimo paskirtys, būdai ir pobūdžiai atitinka registruojamus Nekilnojamojo turto registre.",
+      "source_provision": "art2"
+    }
+  ]
+}

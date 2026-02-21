@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![CI](https://github.com/Ansvar-Systems/Lithuanian-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Lithuanian-law-mcp/actions/workflows/ci.yml)
 
-A Model Context Protocol (MCP) server providing access to Lithuanian legislation covering data protection, cybersecurity, e-commerce, and criminal law provisions.
+A Model Context Protocol (MCP) server providing access to in-force Lithuanian statutes from the official TAR register, parsed into article-level provisions and definitions.
 
 **MCP Registry:** `eu.ansvar/lithuanian-law-mcp`
 **npm:** `@ansvar/lithuanian-law-mcp`

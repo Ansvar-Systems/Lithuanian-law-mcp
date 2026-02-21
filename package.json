@@ -2,7 +2,7 @@
   "name": "@ansvar/lithuanian-law-mcp",
   "version": "1.0.0",
   "mcpName": "eu.ansvar/lithuanian-law-mcp",
-  "description": "Lithuanian law database covering data protection, cybersecurity, e-commerce, and criminal law provisions via Model Context Protocol",
+  "description": "Lithuanian law database covering in-force Lithuanian statutes from TAR via Model Context Protocol",
   "author": "Ansvar Systems <hello@ansvar.eu>",
   "license": "Apache-2.0",
   "repository": {

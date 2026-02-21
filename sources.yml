@@ -14,8 +14,8 @@ sources:
       url: "https://data.gov.lt/datasets/2613/"
       summary: "Official Lithuanian legal register data is published through the government open-data portal and TAR."
     coverage:
-      scope: "10 key Lithuanian statutes on data protection, cybersecurity, communications, information governance, and related criminal/security provisions."
-      limitations: "Focused statute subset; latest TAR suvestine text is used where available via API."
+      scope: "All in-force Lithuanian statutes (rusis=Įstatymas, galioj_busena=galioja) available via TAR open-data models."
+      limitations: "A small subset of statutes are skipped when no non-empty source text is available or article-level parsing yields no extractable provisions."
     languages:
       - "lt"
 
@@ -29,8 +29,8 @@ sources:
       url: "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/:ns"
       summary: "Machine-readable TAR document and suvestine records, including consolidated legal text fields."
     coverage:
-      scope: "Dokumentas and Suvestine models from dataset gov/lrsk/teises_aktai"
-      limitations: "Model content depends on upstream publication and text availability in each suvestine row."
+      scope: "Dokumentas and Suvestine models from dataset gov/lrsk/teises_aktai, with Suvestine prioritized and Dokumentas used as fallback."
+      limitations: "Model content depends on upstream publication and text availability in each suvestine row; source gaps are documented in data/source/_skipped-laws.json."
     languages:
       - "lt"
 

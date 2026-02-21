@@ -1,0 +1,43 @@
+{
+  "id": "lt-law-xii-2039",
+  "type": "statute",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 78, 79, 89 straipsnių pakeitimo ir 88-2 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XII-2039",
+  "status": "in_force",
+  "issued_date": "2015-11-19",
+  "in_force_date": "2016-10-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/66e2ad5094d311e5a6f4e928c954d72b/DIEFkdHRsr",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 78 straipsnio pakeitimas",
+      "content": "Pakeisti 78 straipsnio 5 dalį ir ją išdėstyti taip:\n\n„5. Apmokestinamieji asmenys privalo tvarkyti gaunamų ir išrašomų PVM sąskaitų faktūrų registrus; į juos turi būti įtraukiamos visos išrašytos, taip pat gautos PVM sąskaitos faktūros, išskyrus PVM sąskaitas faktūras, nurodytas šio Įstatymo 80 straipsnio 7 dalyje. Šių registrų tvarkymo reikalavimus nustato centrinis mokesčio administratorius. Iš šių registrų PVM sąskaitų faktūrų duomenys Valstybinei mokesčių inspekcijai teikiami laikantis Mokesčių administravimo įstatymo nuostatų.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 79 straipsnio pakeitimas",
+      "content": "Pakeisti 79 straipsnio 4 dalį ir ją išdėstyti taip:\n\n„4. Jeigu bet kuriuo iš šio straipsnio 1, 2 ir 3 dalyse nurodytų atvejų prieš prekių tiekimą (paslaugų teikimą) gaunamas avansas, dėl kurio gavimo pagal šio Įstatymo 14 straipsnio nuostatas atsiranda prievolė apskaičiuoti PVM, toks avanso gavimas turi būti įformintas PVM sąskaita faktūra, o pačių prekių tiekimas (paslaugų teikimas) įformintas PVM sąskaita faktūra, kurioje atlygis sumažinamas gautu avansu.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 882 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 882 straipsnį."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. 89 straipsnio pakeitimas",
+      "content": "Pripažinti netekusia galios 89 straipsnio 3 dalį."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2016 m. spalio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                          Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

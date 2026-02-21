@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-x-1006",
+  "type": "statute",
+  "title": "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 52 straipsnio pakeitimo ir papildymo įstatymas",
+  "short_name": "X-1006",
+  "status": "in_force",
+  "issued_date": "2006-12-21",
+  "in_force_date": "2007-01-11",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.6A2AB09779EF",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 52 straipsnio 3 dalies pakeitimas ir šio straipsnio papildymas 4 dalimi",
+      "content": "1. Pakeisti 52 straipsnio 3 dalį ir ją išdėstyti taip:\n\n„3. Jei neperskaičiuota pensija viršija ar po indeksavimo pradeda viršyti maksimalią neperskaičiuotą pensiją – 500 litų, ji mokama 500 litų dydžio, kol tam asmeniui perskaičiuota pagal šį įstatymą pensija ima viršyti 500 litų. Kai šio straipsnio 4 dalyje nustatyta tvarka patvirtinama nauja maksimali neperskaičiuota pensija, mokama neperskaičiuota pensija indeksuojama šio straipsnio 1 ir 2 dalyse nustatyta tvarka, neviršijant naujos maksimalios neperskaičiuotos pensijos.“\n\n2. Papildyti 52 straipsnį 4 dalimi:\n\n„4. Maksimalią neperskaičiuotą pensiją tvirtina Vyriausybė kartu su nauju bazinės pensijos dydžiu. Maksimali neperskaičiuota pensija, lyginant su prieš tai patvirtinta, didinama tiek procentų, kiek procentų padidinta bazinė pensija.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Baigiamosios nuostatos",
+      "content": "Pirmą kartą maksimalią valstybinę socialinio draudimo neperskaičiuotą pensiją Vyriausybė tvirtina, kai po šio įstatymo paskelbimo „Valstybės žiniose“ pirmą kartą tvirtinamas naujas valstybinės socialinio draudimo bazinės pensijos dydis. Vyriausybė kartu nustato maksimalios valstybinės socialinio draudimo neperskaičiuotos pensijos taikymo pradžios datą.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS\n______________"
+    }
+  ],
+  "definitions": []
+}

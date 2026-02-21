@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-632",
+  "type": "statute",
+  "title": "Lietuvos Respublikos geležinkelių transporto kodekso 30-3 ir 30-4 straipsnių pakeitimo įstatymas",
+  "short_name": "XIV-632",
+  "status": "in_force",
+  "issued_date": "2021-11-11",
+  "in_force_date": "2022-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/3baff6904dc011ec862fdcbc8b3e3e05/hANcqACpXE",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 303 straipsnio pakeitimas",
+      "content": "1. Pakeisti 303 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:\n\n„1) traukos srovės, už kurią sąskaitose faktūrose užmokestis nurodomas atskirai nuo užmokesčio už minimalųjį prieigos paketą, apskaičiuoto už naudojimąsi elektros energijos tiekimo įrenginiais, traukos srovei užtikrinti, tiekimas;“.\n\n2. Papildyti 303 straipsnį 6 dalimi:\n\n„6. Jeigu šio Kodekso 303 straipsnio 2 dalies 1 punkte nurodytai su geležinkelių transportu susijusiai papildomai paslaugai gauti geležinkelio įmonė (vežėjas) geležinkelių paslaugų įrenginio operatoriumi pasirenka nepriklausomą tiekėją, nurodytą Lietuvos Respublikos elektros energetikos įstatyme, apie šį pasirinkimą geležinkelio įmonės (vežėjo) pasirinktas nepriklausomas tiekėjas ne vėliau kaip per 10 darbo dienų nuo naudojimosi geležinkelių paslaugų įrenginiais sutarties su geležinkelio įmone (vežėju) sudarymo dienos informuoja viešosios geležinkelių infrastruktūros valdytoją.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 304 straipsnio pakeitimas",
+      "content": "1. Pakeisti 304 straipsnio 4 dalį ir ją išdėstyti taip:\n\n„4. Užmokestį už su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas nustato geležinkelių paslaugų įrenginio operatorius. Jeigu su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas teikia vienas paslaugų teikėjas, užmokestis už šias paslaugas negali būti didesnis už jų teikimo išlaidas, pridėjus pagrįstą pelną.“\n\n2. Papildyti 304 straipsnį 41 dalimi:\n\n„41. Jeigu šio Kodekso 303 straipsnio 2 dalies 1 punkte nurodytą su geležinkelių transportu susijusią papildomą paslaugą teikia geležinkelių paslaugų įrenginio operatorius, kuris yra ir viešosios geležinkelių infrastruktūros valdytojas, užmokestis už šią paslaugą negali būti mažesnis už šios paslaugos teikimo išlaidas.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2022 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

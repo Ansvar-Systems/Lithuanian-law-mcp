@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-x-1250",
+  "type": "statute",
+  "title": "Lietuvos Respublikos pelno mokesčio įstatymo 53 ir 59 straipsnių pakeitimo įstatymas",
+  "short_name": "X-1250",
+  "status": "in_force",
+  "issued_date": "2007-07-03",
+  "in_force_date": "2008-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.6D81A4BE5937",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 53 straipsnio 3 dalies pripažinimas netekusia galios",
+      "content": "53 straipsnio 3 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 59 straipsnio 1 ir 2 dalių pakeitimas",
+      "content": "1. 59 straipsnio 1 dalyje išbraukti skaičius ir žodžius „53 straipsnio 3 dalį“ ir šią dalį išdėstyti taip: „1. Įstatymas, išskyrus 2 straipsnio 18 dalies 5 punktą, 40 straipsnį, 42 straipsnio 4 dalies 3 punktą, įsigalioja nuo 2002 m. sausio 1 d.“\n2 59 straipsnio 2 dalyje išbraukti skaičius ir žodžius „ir 53 straipsnio 3 dalies“ ir šią dalį išdėstyti taip: „2. Įstatymo 2 straipsnio 18 dalies 5 punkto nuostatos įsigalioja nuo 2003 m. sausio 1 d.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS\n______________"
+    }
+  ],
+  "definitions": []
+}

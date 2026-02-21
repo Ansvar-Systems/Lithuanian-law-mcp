@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-viii-1510",
+  "type": "statute",
+  "title": "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 44 straipsnio pakeitimo bei 31 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "VIII-1510",
+  "status": "in_force",
+  "issued_date": "1999-12-23",
+  "in_force_date": "2000-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.B6AF960D5A1C",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 31 straipsnio pripažinimas netekusiu galios",
+      "content": "31 straipsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 44 straipsnio pakeitimas",
+      "content": "1. 44 straipsnio 2 dalį pripažinti netekusia galios.\n\n2. Buvusią 44 straipsnio 3 dalį laikyti 2 dalimi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja nuo 2000 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS\n______________"
+    }
+  ],
+  "definitions": []
+}

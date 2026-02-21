@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiii-3366",
+  "type": "statute",
+  "title": "Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2 ir 11 straipsnių pakeitimo įstatymas",
+  "short_name": "XIII-3366",
+  "status": "in_force",
+  "issued_date": "2020-11-05",
+  "in_force_date": "2021-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/b0e036c02b0f11eb932eb1ed7f923910/KNKrlkCowo",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 2 straipsnio pakeitimas",
+      "content": "Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip:\n\n„7. Branduolinė žala – jonizuojančiosios spinduliuotės, atsiradusios dėl branduolinės energetikos objekto veiklos, branduolinės ar radiologinės avarijos, sukelta žmogaus mirtis ar pakenkimas sveikatai, turto netektis ar sugadinimas, nepalankūs padariniai aplinkai.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 11 straipsnio pakeitimas",
+      "content": "Pripažinti netekusiais galios 11 straipsnio 2 ir 3 punktus."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2021 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

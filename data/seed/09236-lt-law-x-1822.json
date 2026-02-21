@@ -1,0 +1,37 @@
+{
+  "id": "lt-law-x-1822",
+  "type": "statute",
+  "title": "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2 ir 19 straipsnių pakeitimo įstatymas",
+  "short_name": "X-1822",
+  "status": "in_force",
+  "issued_date": "2008-11-14",
+  "in_force_date": "2008-11-29",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.8361553AB031",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 1 straipsnio 1 dalies pakeitimas",
+      "content": "1 straipsnio 1 dalyje po žodžių „neribotos civilinės atsakomybės juridinių asmenų“ įrašyti žodžius „išteklių ir mokesčių fondų“ ir šią dalį išdėstyti taip:\n\n„1. Šis Įstatymas nustato ribotos ir neribotos civilinės atsakomybės juridinių asmenų, išteklių ir mokesčių fondų, ūkininkų ūkių, gyventojų, kurie verčiasi individualia veikla (nuolatinių Lietuvos gyventojų, kurie verčiasi individualia veikla, ir nenuolatinių Lietuvos gyventojų, veikiančių per nuolatinę bazę Lietuvos Respublikoje), užsienio juridinių asmenų filialų ir atstovybių, esančių Lietuvos Respublikoje, (toliau – ūkio subjektai) turto, nuosavo kapitalo, finansavimo sumų, įsipareigojimų buhalterinę apskaitą, jos organizavimą ir tvarkymą.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 2 straipsnio 22 dalies pakeitimas",
+      "content": "Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:\n\n„22. Ūkio subjekto vadovas – juridinio asmens vadovas arba jo administracijos vadovas, arba išteklių ar mokesčių fondą administruojančio (jį tvarkančio) subjekto vadovas, arba ūkio subjekto, kuris neturi vadovo, savininkas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas tikrasis narys, kuris paskirtas vykdyti Civilinio kodekso 2.82 straipsnio 3 dalyje nurodytas valdymo organo pareigas.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 19 straipsnio 5 dalies pripažinimas netekusia galios",
+      "content": "Pripažinti 19 straipsnio 5 dalį netekusia galios."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šio įstatymo 1 ir 2 straipsniai įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

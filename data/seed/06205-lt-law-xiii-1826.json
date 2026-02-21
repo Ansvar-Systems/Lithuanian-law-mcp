@@ -1,0 +1,535 @@
+{
+  "id": "lt-law-xiii-1826",
+  "type": "statute",
+  "title": "Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas",
+  "short_name": "XIII-1826",
+  "status": "in_force",
+  "issued_date": "2018-12-20",
+  "in_force_date": "2019-11-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/f3b97790131511e9b2b6e7cdb14007b4/alaIVeNDOa",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos vandens įstatymo Nr. VIII-474 nauja redakcija",
+      "content": "Pakeisti Lietuvos Respublikos vandens įstatymą Nr. VIII-474 ir jį išdėstyti taip:\n\n„LIETUVOS RESPUBLIKOS VANDENS ĮSTATYMAS\n\nI SKYRIUS\nBENDROSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art1",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis ir tikslai",
+      "content": "1. Šis įstatymas reglamentuoja visuomeninius santykius, atsirandančius naudojant, valdant ir saugant Lietuvos Respublikos teritorijoje esančius paviršinius ir požeminius vandens telkinius ir juose esantį vandenį.\n\n2. Šio įstatymo tikslai:\n\n1) užtikrinti gerą paviršinių ir požeminių vandens telkinių būklę ir ją išsaugoti;\n\n2) užtikrinti darnų vandens telkinių ir (arba) jų vandens naudojimą.\n\n3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai nurodyti šio įstatymo priede."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo taikymas",
+      "content": "1. Šis įstatymas taikomas asmenims, kurie disponuoja paviršiniais vandens telkiniais, valdo, naudoja ir (arba) saugo Lietuvos Respublikos teritorijoje esančius paviršinius ir (arba) požeminius vandens telkinius ir juose esantį vandenį.\n\n2. Šio įstatymo nuostatos jūros aplinkos apsaugai taikomos tiek, kiek tai susiję su vandens chemine būkle teritoriniuose vandenyse."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "I SKYRIUS BENDROSIOS NUOSTATOS",
+      "section": "3",
+      "title": "3 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis ir (arba) konstrukcijomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir panašiai).\n\n2. Galimai teršiama teritorija – atvira teritorija, kuri dėl joje vykdomos veiklos yra arba gali būti teršiama (eksploatacijos ar avarinės taršos atvejais) pavojingosiomis medžiagomis: transporto priemonių remonto, ardymo, techninės priežiūros, dažymo teritorija (teritorija, kurioje teikiamos išvardytos paslaugos, ir didesnė kaip 0,1 ha teritorija, kurioje minėta veikla vykdoma savo reikmėms); trąšų, augalų apsaugos produktų, buitinės chemijos, naftos produktų ir kitų pavojingųjų medžiagų perpylimo, perkrovimo ar sandėliavimo vieta (išskyrus galutinius nurodytų medžiagų vartotojus); didesnė kaip 0,5 ha transporto priemonių stovėjimo aikštelė; transporto priemonių stovėjimo aikštelės, naudojamos komerciniais tikslais ir esančios arčiau kaip 100 m atstumu nuo vandens telkinių; centralizuota betono ruošimo ir išdavimo vieta; degalinės, naftos bazės ir naftos išgavimo gręžinių teritorija; degalų ir kitų naftos produktų pilstymo vieta; chemijos, naftos perdirbimo, pieno, mėsos, žuvies perdirbimo, celiuliozės ir popieriaus, odų dirbimo, cukraus pramonės objekto teritorija; atliekų tvarkymo objekto, pabėgių mirkyklos, jūrų uosto, dokų teritorija.\n\n3. Gamtosauginis debitas – skaičiuotinis mažiausiasis vandentėkmės debitas, reikalingas jos ekosistemos minimalioms gyvavimo sąlygoms užtikrinti.\n\n4. Gera paviršinio vandens telkinio būklė – paviršinio vandens telkinio būklė, kai jo ekologinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai arba labai gerai.\n\n5. Gera požeminio vandens telkinio būklė – požeminio vandens telkinio būklė, kai jo kiekybinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai.\n\n6. Hidromorfologinės sąlygos – paviršinio vandens telkinio sąlygos, kurias lemia jo hidrologiniai ir morfologiniai rodikliai.\n\n7. Hidrotechniniai statiniai – statiniai ir įrenginiai vandeniui naudoti ir (arba) aplinkai nuo žalingo vandens poveikio saugoti (užtvankos, krantinės, aptekėjimo kanalai, žuvų pralaidos, hidroelektrinės, molai ir panašiai).\n\n8. Išleidžiamųjų teršalų ribinė vertė – didžiausia leidžiama išleisti teršalų koncentracija ir (arba) didžiausias leidžiamas išleisti teršalų kiekis, kurių negalima viršyti per tam tikrą laikotarpį.\n\n9. Nepratekamas dirbtinis vandens telkinys – dirbtinis vandens telkinys, nepapildomas iš upių, ežerų, tvenkinių ir (arba) kanalų.\n\n10. Pabaseinis – upės baseino dalis, iš kurios paviršinis vanduo viena upe nuteka į kitą upę arba ežerą.\n\n11. Patvenktas ežeras – ežeras, kurio vandens lygis reguliuojamas ežero ištakose įrengtais patvenkiamaisiais hidrotechniniais statiniais.\n\n12. Paviršinio vandens telkinio būklė – bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.\n\n13. Paviršinis vandens telkinys – kiekybės rodikliais apibūdinama žemės paviršiuje esanti vandens aplinkos dalis, tai yra: jūra ar jos dalis, upė ar jos dalis, ežeras, dirbtinis vandens telkinys.\n\n14. Plaukiojimo priemonės – laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.\n\n15. Požeminio vandens telkinio būklė – bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.\n\n16. Požeminis vandens telkinys – sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje susitelkęs pakankamas kiekis požeminio vandens, kurio per parą būtų galima išgauti 10 m3.\n\n17. Priekrantės vandenys – jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.\n\n18. Prioritetinės medžiagos – teršalai, kurių išleidimas ar kitoks patekimas į aplinką turi būti mažinamas ar nutrauktas. Prioritetinių medžiagų sąrašą tvirtina Lietuvos Respublikos aplinkos ministras.\n\n19. Tarpiniai vandenys – prie upės žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir kurioje maišosi sūrus ir gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.\n\n20. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.\n\n21. Teršalas – medžiaga ar medžiagų grupė, kuri patekusi į aplinką dėl savo savybių gali būti kenksminga aplinkai ar žmonių sveikatai.\n\n22. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.\n\n23. Upės baseinas – žemės plotas, iš kurio paviršinis vanduo upėmis ir ežerais nuteka į jūrą vienos upės žiotimis.\n\n24. Upių baseinų rajonas – šio įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vienos ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais, tarpiniais ir priekrantės vandenimis.\n\n25. Vandens kokybė – vandens sudėtis ir jo savybės, rodančios, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms paviršinio ir (arba) požeminio vandens telkinio ir (arba) jo vandens naudojimo sritims.\n\n26. Vandens naudojimo paslaugos – namų ūkiams, viešiesiems juridiniams asmenims ir ekonominės veiklos vykdytojams teikiamos paslaugos, apimančios paviršinių vandens telkinių užtvenkimą, vandens iš paviršinių ir (arba) požeminių vandens telkinių išgavimą, kaupimą, apdorojimą (gerinimą, ruošimą) ir tiekimą, taip pat nuotekų tvarkymą.\n\n27. Vandens telkinio ir (arba) jo vandens naudojimas – veikla, kuria daromas tiesioginis poveikis paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei, pavyzdžiui, paviršinio ir (arba) požeminio vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, hidroenergetikos, rekreacijos, laivybos, žuvininkystės reikmėms.\n\n28. Vandens telkinio ir (arba) jo vandens naudotojas – asmuo, kuris naudoja paviršinį ir (arba) požeminį vandens telkinį vandeniui išgauti, nuotekoms išleisti, rekreacijos, hidroenergetikos, laivybos, žuvininkystės ir kitoms reikmėms arba kitokiu būdu daro tiesioginį poveikį paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei.\n\n29. Vandens telkinio ir (arba) jo vandens stebėsena – sistemingas paviršinio ir (arba) požeminio vandens telkinio būklės ir (arba) jo vandens kokybės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.\n\n30. Vandensaugos tikslai – aplinkos ministro patvirtinti paviršinių ir (arba) požeminių vandens telkinių būklės ir (arba) jų vandens kokybės, taip pat upių baseinų rajonų saugomų plotų reikalavimai, kuriuos reikia įgyvendinti per tam tikrą laikotarpį.\n\n31. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos sporto įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žuvininkystės įstatyme.\n\nII SKYRIUS\nPAVIRŠINIŲ IR (ARBA) POŽEMINIŲ VANDENS TELKINIŲ NUOSAVYBĖ. VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOTOJŲ TEISĖS IR PAREIGOS"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "II SKYRIUS PAVIRŠINIŲ IR (ARBA) POŽEMINIŲ VANDENS TELKINIŲ NUOSAVYBĖ. VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOTOJŲ TEISĖS IR PAREIGOS",
+      "section": "4",
+      "title": "4 straipsnis. Nuosavybės teisė į požeminius ir (arba) paviršinius vandens telkinius",
+      "content": "1. Valstybei išimtine nuosavybės teise priklauso požeminiai vandens telkiniai ir valstybinės reikšmės vidaus vandenys.\n\n2. Valstybinės reikšmės vidaus vandenims priskiriami šie paviršiniai vandens telkiniai:\n\n1) ežerai;\n\n2) upės ir jose įrengti tvenkiniai;\n\n3) valstybinėje žemėje esantys dirbtiniai vandens telkiniai, kurie yra valstybiniuose rezervatuose, valstybiniuose parkuose ir valstybiniuose draustiniuose, biosferos rezervatuose, gamtos paveldo objektų teritorijose ir teritorijose, kurios atitinka teisės aktais nustatytus Europos ekologinio tinklo „Natura 2000“ teritorijų atrankos kriterijus ir yra įrašytos į Lietuvos Respublikos Vyriausybės įgaliotų institucijų patvirtintus tokių teritorijų sąrašus, išskyrus privačius akvakultūros tvenkinius ir nepratekamus dirbtinius vandens telkinius;\n\n4) dirbtiniai vandens telkiniai, kurie teritorijų planavimo dokumentais arba savivaldybių tarybų sprendimais priskirti rekreacinėms teritorijoms;\n\n5) pasienio vandenys.\n\n3. Šio straipsnio 2 dalyje nurodyti paviršiniai vandens telkiniai gali būti privačios nuosavybės teisės objektai, kai jie pagal Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą ar kitais teisiniais pagrindais įgyti privačion nuosavybėn iki 2019 m. lapkričio 1 d. ir (arba) iki šios datos pradėtos ir nebaigtos įgijimo privačion nuosavybėn procedūros."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "II SKYRIUS PAVIRŠINIŲ IR (ARBA) POŽEMINIŲ VANDENS TELKINIŲ NUOSAVYBĖ. VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOTOJŲ TEISĖS IR PAREIGOS",
+      "section": "5",
+      "title": "5 straipsnis. Paviršinio vandens telkinio savininko teisės ir pareigos",
+      "content": "1. Paviršinio vandens telkinio savininkas turi teisę valdyti, naudoti paviršinį vandens telkinį ir juo disponuoti Žemės įstatymo, šio ir kitų įstatymų nustatyta tvarka.\n\n2. Paviršinio vandens telkinio savininkas privalo saugoti jam priklausantį paviršinį vandens telkinį, nedaryti žalos aplinkai, nepažeisti kitų asmenų teisių ir teisėtų interesų."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "II SKYRIUS PAVIRŠINIŲ IR (ARBA) POŽEMINIŲ VANDENS TELKINIŲ NUOSAVYBĖ. VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOTOJŲ TEISĖS IR PAREIGOS",
+      "section": "6",
+      "title": "6 straipsnis. Vandens telkinių ir (arba) jų vandens naudotojų teisės ir pareigos",
+      "content": "1. Vandens telkinių ir (arba) jų vandens naudotojai turi teisę:\n\n1) naudoti paviršinį ir (arba) požeminį vandens telkinį ir jame esantį vandenį įstatymų, kitų teisės aktų nustatytomis sąlygomis;\n\n2) gauti informaciją apie paviršiniams ir (arba) požeminiams vandens telkiniams nustatytus vandensaugos tikslus, numatytas priemones juos įgyvendinti;\n\n3) teikti pastabas ir pasiūlymus dėl priemonių, reikalingų vandensaugos tikslams pasiekti.\n\n2. Vandens telkinių ir (arba) jų vandens naudotojai privalo:\n\n1) naudoti vandenį mažiausią poveikį paviršiniam ir (arba) požeminiam vandens telkiniui darančiomis priemonėmis ir būdais, kad būtų pasiekti vandensaugos tikslai;\n\n2) taupiai naudoti vandenį, neviršyti nustatytų vandens naudojimo limitų ir į gamtinę aplinką išleidžiamų teršalų ribinių verčių, nebloginti paviršinių ir (arba) požeminių vandens telkinių būklės;\n\n3) tinkamai naudoti įrenginius ir priemones, skirtas išvengti ir (arba) mažinti neigiamą poveikį paviršinių ir (arba) požeminių vandens telkinių būklei, didinti tokių įrenginių efektyvumą;\n\n4) šio įstatymo ir kitų teisės aktų nustatyta tvarka tvarkyti vandens naudojimo apskaitą ir atlikti paviršinių ir (arba) požeminių vandens telkinių ir (arba) jų vandens stebėseną;\n\n5) diegti teisės aktuose numatytas paviršinių ir (arba) požeminių vandens telkinių apsaugos priemones;\n\n6) užtikrinti, kad būtų vykdomi kraštovaizdžio, nekilnojamojo kultūros paveldo ir biologinės įvairovės apsaugą reglamentuojančių teisės aktų reikalavimai;\n\n7) nepažeisti kitų paviršinių ir (arba) požeminių vandens telkinių ir (arba) jų vandens naudotojų ir savininkų teisių ir teisėtų interesų.\n\nIII SKYRIUS\nVANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "7",
+      "title": "7 straipsnis. Pagrindinės vandens telkinių ir (arba) jų vandens naudojimo sąlygos",
+      "content": "1. Vandens telkiniai ir (arba) jų vanduo gali būti naudojami, jeigu tai neblogina paviršinių ir (arba) požeminių vandens telkinių būklės ir (arba) netrukdo pasiekti vandensaugos tikslų.\n\n2. Paviršiniai vandens telkiniai ir vandens lygis juose negali būti keičiami neatlikus poveikio aplinkai vertinimo, kai tokį vertinimą privaloma atlikti Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka.\n\n3. Planuojant, projektuojant, statant ir eksploatuojant ūkinės ar kitos veiklos objektus, galinčius neigiamai veikti paviršinių ir (arba) požeminių vandens telkinių būklę, turi būti numatytos priemonės, užtikrinančios racionalų vandens naudojimą, vandens apsaugą nuo teršimo, paviršinių vandens telkinių hidromorfologinių sąlygų, kraštovaizdžio ir biologinės įvairovės apsaugą, išgaunamo vandens apskaitą, laikomasi pažangaus ūkininkavimo praktikos, diegiamos švaresnės gamybos ir taršos mažinimo technologijos."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "8",
+      "title": "8 straipsnis. Vandens telkinių ir (arba) jų vandens naudojimo leidimai",
+      "content": "1. Šio įstatymo, Žemės gelmių įstatymo, Žuvininkystės įstatymo ir Lietuvos Respublikos mėgėjų žvejybos įstatymo nustatytais atvejais vandens telkinius ir (arba) jų vandenį naudoti galima tik turint teisės aktų nustatyta tvarka išduotus leidimus.\n\n2. Šio straipsnio 1 dalyje nurodyti leidimai neišduodami, jeigu vandens telkinių ir (arba) jų vandens naudojimo veikla trukdo pasiekti vandensaugos tikslus ir (arba) gali pabloginti paviršinių ir (arba) požeminių vandens telkinių būklę."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "9",
+      "title": "9 straipsnis. Paviršinių ir (arba) požeminių vandens telkinių naudojimas vandeniui išgauti",
+      "content": "1. Požeminių vandens telkinių naudojimą vandeniui išgauti reglamentuoja Geriamojo vandens įstatymas, Žemės gelmių įstatymas ir kiti teisės aktai, reglamentuojantys požeminio vandens išgavimą.\n\n2. Paviršinių vandens telkinių naudojimo vandeniui išgauti aplinkos apsaugos reikalavimus nustato aplinkos ministras, atsižvelgdamas į būtinybę užtikrinti, kad vandens išgavimas netrikdytų paviršinio vandens telkinio hidrologinio režimo ir neblogintų jo būklės.\n\n3. Asmuo, išgaunantis (planuojantis išgauti) 100 m3 ir daugiau vandens per parą iš vieno paviršinio vandens telkinio (išskyrus vandenį, naudojamą mėgėjų sodininkystės poreikiams, ir vandenį, naudojamą hidroenergijai išgauti hidroelektrinėse, kurių galia neviršija 10 MW), privalo turėti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, kurių išdavimo tvarką reglamentuoja Aplinkos apsaugos įstatymas. Išgaunamo vandens kiekis apskaičiuojamas per metus išgaunamą ar numatomą išgauti vandens kiekį padalijus iš išgavimo dienų skaičiaus."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "10",
+      "title": "10 straipsnis. Paviršinių vandens telkinių naudojimas rekreacijai ir sportui",
+      "content": "1. Paviršiniai vandens telkiniai rekreacijai ir sportui gali būti naudojami vadovaujantis šio įstatymo, Teritorijų planavimo įstatymo, Turizmo įstatymo ir Saugomų teritorijų įstatymo nustatytais reikalavimais.\n\n2. Rekreacijai ir sportui skirti paviršiniai vandens telkiniai nurodomi teritorijų planavimo dokumentuose.\n\n3. Maudyklų naudojimas ir maudyklų vandens kokybės rodikliai turi atitikti Lietuvos Respublikos sveikatos apsaugos ministro nustatytų visuomenės sveikatos saugos reglamentų (higienos normų) reikalavimus."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "11",
+      "title": "11 straipsnis. Paviršinių vandens telkinių tvarkymas",
+      "content": "1. Paviršiniai vandens telkiniai tvarkomi (šalinama perteklinė augalija, dugno nuosėdos, paskleidžiamas mineralinis gruntas paviršinio telkinio dugne ir kiti, su šiais darbais susiję paviršinių vandens telkinių pakrančių tvarkymo darbai) vadovaujantis paviršinių vandens telkinių tvarkymo aplinkosaugos reikalavimais, kuriuos nustato aplinkos ministras, juose nustatydamas:\n\n1) paviršinių vandens telkinių tvarkymo laikotarpius ir reikalavimus, atsižvelgiant į žuvų neršto ir paukščių perėjimo laiką;\n\n2) iš paviršinių vandens telkinių iškastų dugno nuosėdų, pašalintos augalijos ir kitų paviršinių vandens telkinių tvarkymo metu susidarančių atliekų tvarkymo reikalavimus;\n\n3) reikalavimus, kada be apribojimų gali būti šalinama vandens augalija paviršiniuose vandens telkiniuose, atsižvelgiant į šalinamos augalijos plotą paviršiniame vandens telkinyje;\n\n4) reikalavimus, kada privaloma teikti pranešimą aplinkos apsaugos valstybinę kontrolę vykdančioms institucijoms apie planuojamą vykdyti paviršinio vandens telkinio tvarkymą arba rengti paviršinio vandens telkinio tvarkymo projektą, atsižvelgiant į numatomą tvarkyti vandens telkinio plotą ir planuojamus vykdyti tvarkymo darbus;\n\n5) paviršinio vandens telkinio tvarkymo projekto ir (arba) pranešimo apie paviršinio vandens telkinio tvarkymą sudėties, rengimo ir derinimo reikalavimus.\n\n2. Paviršinio vandens telkinio tvarkymo projektus gali rengti asmenys, turintys aukštąjį universitetinį ar jam prilygintą biomedicinos mokslų studijų srities biologijos, ekologijos ir aplinkotyros, fizinių mokslų studijų srities geografijos, geologijos arba technologijos mokslų studijų srities aplinkos inžinerijos krypties išsilavinimą.\n\n3. Aplinkosauginius reikalavimus paviršinių vandens telkinių dugno valymo ir gilinimo darbams vykdyti vidaus vandenų keliuose, uostuose ir prieplaukose nustato aplinkos ministras, juose nustatydamas:\n\n1) vandens telkinių dugno valymo ir gilinimo darbų vykdymo laikotarpius ir reikalavimus atsižvelgiant į žuvų neršto ir paukščių perėjimo laiką ir Saugomų teritorijų įstatyme numatytus saugomų teritorijų veiklos reglamentavimo dokumentuose nustatytus apribojimus;\n\n2) leistiną vandens telkinių dugno valymo ir gilinimo darbų mastą, atsižvelgiant į paviršinių vandens telkinių, kuriuose įrengti vidaus vandens keliai, uostai ir prieplaukos, hidromorfologines sąlygas;\n\n3) iškastų dugno nuosėdų ir grunto tyrimų ir tvarkymo reikalavimus;\n\n4) vandens telkinių dugno valymo ir gilinimo darbams vykdyti būtinų dokumentų rengimo ir derinimo tvarką."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "12",
+      "title": "12 straipsnis. Plaukiojimo priemonių naudojimas paviršiniuose vandens telkiniuose, važiavimas paviršinių vandens telkinių dugnu ir ledu",
+      "content": "1. Asmenys, paviršiniuose vandens telkiniuose naudojantys plaukiojimo priemones, privalo užtikrinti, kad šios priemonės neterštų vandens, neardytų krantų, negadintų hidrotechninių statinių ir komunikacijų, nekeltų pavojaus žmonėms ir aplinkai.\n\n2. Aplinkosaugos sąlygas plaukioti paviršiniuose vandens telkiniuose plaukiojimo priemonėmis ir paviršinių vandens telkinių, kuriuose tam tikro tipo plaukiojimo priemonių naudojimas draudžiamas ar ribojamas, sąrašą nustato aplinkos ministras. Paviršinių vandens telkinių, kuriuose tam tikro tipo plaukiojimo priemonių naudojimas draudžiamas ar ribojamas, sąrašas sudaromas atsižvelgiant į Saugomų teritorijų įstatyme numatytus saugomų teritorijų veiklos reglamentavimo dokumentuose nustatytus apribojimus ir argumentuotus savivaldybių institucijų pasiūlymus, kuriais siekiama užtikrinti šio straipsnio 7 dalyje nurodytų žmonių saugaus elgesio paviršinių vandens telkinių vandenyje ir ant jų ledo taisyklių reikalavimų vykdymą.\n\n3. Plūduriuojančių priemonių, kurios pritaikomos gyventi ir (arba) vykdyti ūkinę komercinę veiklą, statymo ir (arba) švartavimo vietos nustatomos teritorijų planavimo dokumentuose. Plūduriuojančių priemonių įrengimo ir naudojimo, jų statymo ir (arba) švartavimo aplinkosauginius reikalavimus nustato aplinkos ministras.\n\n4. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas.\n\n5. Draudžiama važiuoti motorinėmis transporto priemonėmis, traktoriais ir savaeigėmis mašinomis paviršinių vandens telkinių ledu, išskyrus atvejus, kai:\n\n1) vykdomi žmonių paieškos ir gelbėjimo darbai, ekstremaliųjų įvykių ir (arba) avarijų padarinių likvidavimo darbai, inžinerinės infrastruktūros eksploatavimo darbai, valstybės sienos apsauga, viešosios tvarkos užtikrinimas, aplinkos apsaugos ir saugomų teritorijų valstybinė kontrolė, kariniai mokymai ir (arba) pratybos, saugomų teritorijų gamtotvarkos, paviršinių vandens telkinių tvarkymo darbai ir būklės tyrimai, kertamos nendrės;\n\n2) organizuojami ir vyksta sporto renginiai ir (arba) sporto pratybos;\n\n3) organizuojama ir vykdoma verslinė žvejyba naudojant motorines transporto priemones, traktorius ir savaeiges mašinas, būtinas tokiai žvejybai organizuoti ir vykdyti;\n\n4) organizuojama ir vykdoma mėgėjų žvejyba naudojant ne kelių transporto priemones žvejams ir įrangai vežti į žvejybos vietą ir iš jos.\n\n6. Draudžiama važiuoti motorinėmis transporto priemonėmis, traktoriais ir savaeigėmis mašinomis paviršinių vandens telkinių dugnu, išskyrus atvejus, kai:\n\n1) važiuojama per brastas, kurios, vadovaujantis Lietuvos Respublikos kelių įstatymo ir kitų teisės aktų, reglamentuojančių kelių plėtojimo, priežiūros ir naudojimosi jais teisinius pagrindus, pripažįstamos kelių dalimis, vykdomi žmonių paieškos ir gelbėjimo darbai, ekstremaliųjų įvykių ir (arba) avarijų padarinių likvidavimo darbai, inžinerinės infrastruktūros eksploatavimo darbai, valstybės sienos apsauga, viešosios tvarkos užtikrinimas, aplinkos apsaugos ir saugomų teritorijų valstybinė kontrolė, kariniai mokymai ir (ar) pratybos, saugomų teritorijų gamtotvarkos, paviršinių vandens telkinių tvarkymo darbai ir būklės tyrimai;\n\n2) organizuojami ir vyksta sporto renginiai ir (arba) sporto pratybos;\n\n3) nustatytose vietose į paviršinį vandens telkinį nuleidžiamos (ištraukiamos) plaukiojimo priemonės.\n\n7. Savivaldybių tarybos tvirtina žmonių saugaus elgesio paviršinių vandens telkinių vandenyje ir ant jų ledo taisykles."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "13",
+      "title": "13 straipsnis. Statinių statyba",
+      "content": "Paviršiniuose vandens telkiniuose gali būti statomi statiniai, reikalingi paviršinio vandens telkinio ir (arba) jame esančio vandens stebėsenai, apsaugai, naudojimui ir aplinkai nuo žalingo vandens poveikio saugoti, inžinerinės infrastruktūros plėtrai, hidroenergetikai, laivybai. Šie statiniai statomi vadovaujantis šiuo įstatymu, Aplinkos apsaugos įstatymu, Statybos įstatymu, Melioracijos įstatymu, Teritorijų planavimo įstatymu, Saugomų teritorijų įstatymu, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu, Vidaus vandenų transporto kodeksu ir kitais teisės aktais, reglamentuojančiais statinių statybą."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "14",
+      "title": "14 straipsnis. Upių ir ežerų reguliavimas",
+      "content": "1. Draudžiama reguliuoti (tvenkti (patvenkti) ir kitais būdais keisti vandens lygį, gylį ir (arba) krantų liniją) upes ir (arba) ežerus, išskyrus atvejus, kai teisės aktų nustatyta tvarka:\n\n1) atliekami paviršinių vandens telkinių tvarkymo darbai;\n\n2) įrengiamos maudyklos;\n\n3) įrengiamos bendrojo naudojimo krantinės miestuose ir miesteliuose;\n\n4) atliekami vidaus vandens kelių įrengimo ir (arba) priežiūros darbai;\n\n5) eksploatuojami naudingųjų iškasenų telkiniai ežeruose;\n\n6) statomi ir (arba) rekonstruojami melioracijos statiniai, inžineriniai tinklai, susisiekimo komunikacijos, specialiosios paskirties pastatai;\n\n7) vykdomos žuvų išteklių apsaugos priemonės (dirbtinių nerštaviečių, žuvų pralaidų, aptekėjimo kanalų ir kitų įrengimas);\n\n8) vykdomos potvynių prevencijos priemonės (polderių sistemų, krantosaugos statinių, apsauginių pylimų, vandens nuvedimo kanalų ir kitų įrengimas);\n\n9) vykdomi gerą vandens telkinio būklę užtikrinantys darbai ir darbai, skirti saugomų rūšių ir buveinių apsaugos priemonėms įgyvendinti;\n\n10) vykdomi nekilnojamojo kultūros paveldo tyrimai ar tvarkybos darbai;\n\n11) atliekami stichinių nelaimių ir (arba) avarijų padarinių likvidavimo darbai;\n\n12) atkuriama erozijos nuardyta kranto linija ir (arba) taikomos priešerozinės kranto apsaugos priemonės.\n\n2. Šio straipsnio 1 dalyje nenurodyti upių ir (arba) ežerų reguliavimo darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.\n\n3. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į šio straipsnio 1 dalyje nurodytų darbų mastą, pobūdį, tikslus ir galimą jų poveikį upėms ir (arba) ežerams, nustato kriterijus, kada šio straipsnio 1 dalyje nurodyti darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.\n\n4. Šio straipsnio 1 dalyje nurodyti ir kiti darbai ir (arba) priemonės, kuriuos vykdant upės ir (arba) ežerai, kuriems nustatyti vandensaugos tikslai, reguliuojami taip, kad blogina jų būklę, gali būti vykdomi, kai tokia veikla yra labai svarbi visuomenės interesams ir (arba) nauda žmonių sveikatai, žmonių saugos palaikymui ar subalansuotai plėtrai yra didesnė už naudą, kurią aplinkai ir visuomenei duoda nesureguliuota upė ir (arba) ežeras, ir (arba) tokia veikla yra būtina, nes dėl techninių galimybių ar per didelių sąnaudų, naudos, kurią duoda upių ir (arba) ežerų reguliavimas, negalima gauti kitais būdais, kurie aplinkosaugos požiūriu būtų gerokai pranašesni. Visais atvejais turi būti imamasi visų įmanomų priemonių, mažinančių neigiamą poveikį upėms ir (arba) ežerams ir užtikrinančių gerą jų būklę.\n\n5. Šio straipsnio 4 dalyje nurodyta veikla laikoma labai svarbia visuomenės interesams ir yra būtina, jeigu jos vykdymas numatytas planavimo dokumentuose, kuriuos tvirtina Lietuvos Respublikos Seimas.\n\n6. Draudžiama statyti užtvankas Nemuno upėje, ekologiniu ir kultūriniu požiūriu vertingose upėse ar jų ruožuose. Ekologiniu ir kultūriniu požiūriu vertingų upių ar jų ruožų sąrašą aplinkos ministro teikimu tvirtina Vyriausybė. Į šį sąrašą įtraukiami:\n\n1) upės ar jų ruožai, patenkantys į saugomas teritorijas;\n\n2) upės ar jų ruožai, kuriose (kuriuose) aptinkamos į Lietuvos raudonąją knygą įrašytos žuvų rūšys, Europos laukinės gamtos ir gamtinės aplinkos apsaugos konvencijos (Berno konvencijos) saugomos rūšys, Natūralių buveinių ir laukinės faunos bei floros apsaugos direktyvos (92/43/EEB) saugomos rūšys;\n\n3) upės ar jų ruožai, kurių užtvenkimas neleistų užtikrinti geros vandens telkinių būklės ir direktyvos 2000/60/EB reikalavimų įgyvendinimo."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "15",
+      "title": "15 straipsnis. Tvenkinių įrengimas, ežerų patvenkimas. Tokių paviršinių vandens telkinių naudojimas ir priežiūra",
+      "content": "1. Tvenkiniai įrengiami ir (arba) ežerai patvenkiami ir šių paviršinių vandens telkinių priežiūra vykdoma vadovaujantis aplinkos ministro patvirtintu tvarkos aprašu, kuriame nustatomi šie pagrindiniai reikalavimai:\n\n1) vandens lygio svyravimas tvenkinyje ir (arba) patvenktame ežere neturi daryti neigiamo poveikio tvenkinio ir (arba) patvenkto ežero ekosistemai ir aplinkinėms teritorijoms;\n\n2) turi būti užtikrinta, kad užtvankos ir (arba) patvankos praleistų ne mažiau vandens už nustatytą gamtosauginį debitą;\n\n3) turi būti įrengtos ir tinkamai naudojamos veiksmingos žuvų apsaugos ir jų migracijos priemonės;\n\n4) turi būti imamasi priemonių erozijos procesams tvenkinių ir (arba) patvenktų ežerų krantuose mažinti;\n\n5) hidroelektrinių darbas neturi keisti natūralaus upės nuotėkio režimo, kad būtų išvengta neigiamo poveikio žemiau užtvankų esantiems upių ruožams, neblogintų jų hidromorfologinių sąlygų ir nepažeistų ekosistemų stabilumo;\n\n6) turi būti tvarkoma per užtvankas (patvankas) pratekančio vandens apskaita ir teikiami apskaitos duomenys.\n\n2. Draudžiama naudoti polderių siurblinėse žuvis žalojančius greitaeigius (slėginius) vandens siurblius, išskyrus iki 2019 m. lapkričio 1 d. įrengtus greitaeigius (slėginius) vandens siurblius, kurie gali būti naudojami iki jų eksploatacijos pabaigos, bet ne ilgiau negu jų tinkamumo naudoti terminas, jeigu toks terminas yra nustatytas teisės aktuose.\n\n3. Dėl nepalankių klimatinių sąlygų, netinkamai veikiančių ir (arba) neveikiančių hidrotechninių statinių sunykę tvenkiniai, kuriuos atstatyti netikslinga, ir (arba) panaikinti tvenkiniai pripažįstami ne paviršiniais vandens telkiniais aplinkos ministro nustatyta tvarka. Sprendimą dėl tvenkinio pripažinimo ne paviršiniu vandens telkiniu priima aplinkos ministras, suderinęs šį sprendimą su Nacionaline žemės tarnyba prie Žemės ūkio ministerijos ir savivaldybės, kurios teritorijoje buvo pripažįstamas ne paviršiniu vandens telkiniu tvenkinys, administracija. Pripažinti ne paviršiniais vandens telkiniais tvenkiniai, kurie Aplinkos apsaugos įstatymo nustatyta tvarka registruoti Lietuvos Respublikos upių, ežerų ir tvenkinių kadastre, šio kadastro nuostatų nustatyta tvarka iš jo išregistruojami."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "16",
+      "title": "16 straipsnis. Nepratekamų dirbtinių vandens telkinių įrengimas ir naudojimas",
+      "content": "1. Nepratekami dirbtiniai vandens telkiniai įrengiami ir naudojami įvertinus aplinkos sąlygas ir įsitikinus, kad tokia veikla bus vykdoma nepažeidžiant šio straipsnio 2 dalyje nurodytų aplinkosauginių ir melioracijos sistemų apsaugos reikalavimų.\n\n2. Nepratekamų dirbtinių vandens telkinių įrengimo ir naudojimo aplinkosauginius ir melioracijos sistemų apsaugos reikalavimus nustato aplinkos ministras ir žemės ūkio ministras, vadovaudamiesi šiomis pagrindinėmis nuostatomis:\n\n1) aplinkosauginiai reikalavimai, atsižvelgiant į numatomų įrengti nepratekamų dirbtinių vandens telkinių dydį, turi riboti ar uždrausti tokių paviršinių vandens telkinių įrengimą konservacinės apsaugos prioriteto (išsaugančiose) teritorijose ir kompleksinėse saugomose teritorijose, paviršinių vandens telkinių pakrantės apsaugos juostose, miško žemėje, naudingųjų iškasenų telkinių, pelkių ir šaltinynų, natūralių pievų ir akmenynų, potvynio metu užliejamose teritorijose. Rengiant aplinkosauginius reikalavimus, įvertinamas nepratekamų dirbtinių vandens telkinių įrengimo galimas neigiamas poveikis kraštovaizdžiui, požeminiams vandens telkiniams, dirvožemiui ir gruntui, saugomoms rūšims, vertingoms medžių rūšims ir kitiems aplinkos komponentams, nustatomi atitinkami šių aplinkos komponentų išsaugojimo reikalavimai;\n\n2) planuojant įrengti nepratekamą dirbtinį vandens telkinį melioruotoje žemėje, jo įrengimo vieta suderinama su savivaldybės, kurios teritorijoje įrengiamas šis telkinys, administracija;\n\n3) didesnių kaip 0,1 ha nepratekamų dirbtinių vandens telkinių įrengimui nustatomi reikalavimai teikti informaciją aplinkos apsaugos valstybinę kontrolę vykdančioms institucijoms apie planuojamo įrengti nepratekamo dirbtinio vandens telkinio parametrus (plotą, gylį, profilį), įrengimo vietą (žemės sklypo planą su pažymėta nepratekamo dirbtinio vandens telkinio įrengimo vieta ir koordinatėmis) ir atitiktį nustatytiems aplinkosauginiams reikalavimams. Nepratekamų dirbtinių vandens telkinių įrengimo derinimo ir (arba) kiti specialieji reikalavimai ar draudimai įrengti tokio dydžio nepratekamus dirbtinius vandens telkinius gali būti nustatomi tik saugomose teritorijose, karstiniame regione ir (arba) miško žemėje;\n\n4) iki 0,1 ha ploto nepratekamų dirbtinių vandens telkinių įrengimo ir naudojimo reikalavimais reglamentuojamos bendrosios aplinkos ir melioracijos sistemų apsaugos nuostatos (saugotinų medžių kirtimas, saugotinų reljefo formų keitimas, melioracijos sistemų pažeidimas ir kita). Šios dalies 3 punkte nustatyti informacijos pateikimo reikalavimai, nepratekamų dirbtinių vandens telkinių įrengimo derinimo ir (arba) kiti specialieji reikalavimai ar draudimai įrengti tokio dydžio nepratekamus dirbtinius vandens telkinius gali būti nustatomi tik saugomose teritorijose, karstiniame regione ir (arba) miško žemėje."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "17",
+      "title": "17 straipsnis. Paviršinių vandens telkinių ir (arba) jų vandens naudojimas žuvininkystei ir mėgėjų žvejybai",
+      "content": "Paviršinių vandens telkinių ir (arba) jų vandens naudojimo žuvininkystei ir mėgėjų žvejybai tvarką reglamentuoja Žuvininkystės įstatymas ir Mėgėjų žvejybos įstatymas."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "18",
+      "title": "18 straipsnis. Nuotekų tvarkymas ir išleidimas",
+      "content": "1. Nuotekos turi būti renkamos, valomos ir šalinamos taip, kad būtų daromas mažiausias neigiamas poveikis aplinkai ir galima būtų pasiekti vandensaugos tikslus. Nuotekų išleidimo reikalavimus nustato aplinkos ministras.\n\n2. Asmuo, išleidžiantis į gamtinę aplinką (į paviršinius vandens telkinius ir (arba) į gruntą) nuotekas, privalo turėti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, kurių išdavimo tvarką nustato Aplinkos apsaugos įstatymas, jeigu:\n\n1) išleidžiamų (planuojamų išleisti) nuotekų (išskyrus paviršines nuotekas) kiekis yra 5 m3 ir daugiau per parą. Nuotekų kiekis apskaičiuojamas dalijant per metus išleidžiamą (planuojamą išleisti) nuotekų kiekį iš išleidimo dienų skaičiaus;\n\n2) išleidžiamos (planuojamos išleisti) paviršinės nuotekos, kurios surenkamos nuo 1 ha ir didesnių galimai teršiamų teritorijų (išskyrus transporto stovėjimo aikšteles);\n\n3) išleidžiamos (planuojamos išleisti) paviršinės nuotekos, kurios surenkamos nuo 10 ha ir didesnių teritorijų, skirtų transportui (gatvių, privažiavimų, stovėjimo aikštelių);\n\n4) išleidžiamos (planuojamos išleisti) paviršinės nuotekos, į kurių surinkimo sistemą patenka paviršinės nuotekos nuo galimai teršiamų teritorijų, kurių bendras paviršinių nuotekų surinkimo plotas didesnis kaip 1 ha;\n\n5) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos, kuriose yra prioritetinių medžiagų, kurių išleidimas turi būti nuosekliai nutrauktas (neatsižvelgiant į išleidžiamų prioritetinių medžiagų kiekį);\n\n6) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (neatsižvelgiant į išleidžiamų nuotekų kiekį / debitą), kuriose prioritetinių medžiagų, kurių išleidimas turi būti mažinamas, koncentracija yra lygi arba didesnė už aplinkos ministro nustatytą ribinės koncentracijos į gamtinę aplinką vertę;\n\n7) išleidžiamos (planuojamos išleisti) nuotekos, susidariusios valant išmetamąsias dujas iš atliekų deginimo arba bendro atliekų deginimo įrenginių;\n\n8) išleidžiamas (planuojamas išleisti) vanduo iš akvakultūros tvenkinių, kurio kiekis yra 5 m3 ir daugiau per parą. Vandens kiekis apskaičiuojamas dalijant per metus išleidžiamą (planuojamą išleisti) vandens kiekį iš išleidimo dienų skaičiaus.\n\n3. Draudžiama nuotekas išleisti tiesiai į požeminius vandens telkinius, žemės gelmių ertmes, karstines smegduobes, melioracijos požeminio drenažo sistemas. Nuotekos gali būti išleidžiamos į gruntą aplinkos ministro nustatyta tvarka.\n\n4. Draudžiama nuotekas išleisti tiesiai į ežerus ir į juos įtekančias upes mažesniu kaip 500 m atstumu iki ežero.\n\n5. Nuotekos, susidarančios gamybiniuose pastatuose, kuriuose laikomi ūkiniai gyvūnai, gali būti skleidžiamos ant žemės paviršiaus tręšimo tikslais aplinkos ministro ir žemės ūkio ministro nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "III SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS",
+      "section": "19",
+      "title": "19 straipsnis. Vandens telkinių ir (arba) jų vandens naudojimas avarijoms ar stichinėms nelaimėms likviduoti",
+      "content": "Avarijoms ar stichinėms nelaimėms likviduoti, gaisrams gesinti leidžiama naudoti visų paviršinių ir (arba) požeminių vandens telkinių vandenį be leidimo.\n\nIV SKYRIUS\nVANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALDYMAS"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "IV SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALDYMAS",
+      "section": "20",
+      "title": "20 straipsnis. Vandens telkinių ir (arba) jų vandens naudojimo valdymo planavimas",
+      "content": "Vandens telkinių ir (arba) jų vandens naudojimo valdymas planuojamas rengiant vidutinės trukmės strateginius planavimo dokumentus, kuriuos aplinkos ministro teikimu tvirtina Vyriausybė."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "IV SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALDYMAS",
+      "section": "21",
+      "title": "21 straipsnis. Paviršinių ir (arba) požeminių vandens telkinių valdymas",
+      "content": "1. Paviršinių ir (arba) požeminių vandens telkinių valdymas vykdomas upių baseinų rajonų pagrindu.\n\n2. Lietuvos Respublikos aplinkos ministerija ir (arba) jos įgaliota įstaiga (įgaliotos įstaigos), atsakinga (atsakingos) už upių baseinų rajonų arba jų dalių, esančių Lietuvos Respublikos teritorijoje, administravimą.\n\n3. Rengiant šio įstatymo 20 straipsnyje nurodytus vidutinės trukmės strateginius planavimo dokumentus, kiekviename upių baseinų rajone arba jo dalyje, esančioje Lietuvos Respublikos teritorijoje, atliekamas:\n\n1) bendras upių baseinų rajono ir jame esančių požeminių ir paviršinių vandens telkinių apibūdinimas ir išskyrimas;\n\n2) žmogaus veiklos poveikio požeminių ir paviršinių vandens telkinių būklei įvertinimas;\n\n3) saugomų plotų išskyrimas;\n\n4) paviršinių ir požeminių vandens telkinių būklės įvertinimas;\n\n5) paviršinių ir požeminių vandens telkinių būklės atitikties nustatytiems vandensaugos tikslams vertinimas;\n\n6) paviršinių ir (arba) požeminių vandens telkinių ir jų vandens naudojimo bei administravimo ekonominė analizė;\n\n7) vandensaugos tikslams pasiekti reikalingų priemonių nustatymas;\n\n8) upių ir (arba) ežerų reguliavimo darbų ir (arba) priemonių, numatytų šio įstatymo 14 straipsnio 2 ir 3 dalyse, nustatymas, pagrindžiant tokių priemonių būtinumą ir nurodant neigiamą poveikį upėms ir (arba) ežerams mažinančias priemones, kurių planuojama imtis;\n\n9) kiti efektyviam paviršinių ir požeminių vandens telkinių valdymui reikalingi veiksmai.\n\n4. Upių baseinų rajono valdymo tvarką nustato aplinkos ministras.\n\n5. Aplinkos ministras tvirtina paviršinių ir požeminių vandens telkinių būklės nustatymo metodikas, vandens telkinių tyrimų metodikas, vandensaugos tikslų nustatymo metodikas.\n\n6. Aplinkos ministras tvirtina paviršinių ir (arba) požeminių vandens telkinių vandensaugos tikslus, paviršinių ir (arba) požeminių rizikos vandens telkinių sąrašą."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "IV SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALDYMAS",
+      "section": "22",
+      "title": "22 straipsnis. Upių baseinų rajonų sudarymas",
+      "content": "1. Aplinkos ministras Lietuvos Respublikos teritoriją suskirsto pagal upių baseinus ir visus Lietuvos Respublikos teritorijoje esančius upių baseinus priskiria upių baseinų rajonams.\n\n2. Vandens apsaugos ir valdymo optimizavimui upių baseinų rajonas gali būti sudarytas iš kelių gretimų upių baseinų. Siekiant geresnio administravimo, upės baseiną galima skirstyti į pabaseinius.\n\n3. Jeigu požeminio vandens telkinio ribos nesutampa su upės baseino ribomis, toks telkinys identifikuojamas ir priskiriamas prie artimiausio arba valdymo požiūriu tinkamesnio upių baseinų rajono.\n\n4. Tarpiniai ir priekrantės vandenys identifikuojami ir priskiriami artimiausiam arba valdymo požiūriu tinkamesniam upių baseinų rajonui ar rajonams."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "IV SKYRIUS VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALDYMAS",
+      "section": "23",
+      "title": "23 straipsnis. Tarpvalstybinio upių baseinų rajono sudarymas ir valdymas",
+      "content": "1. Jeigu upės baseino ploto dalis yra Lietuvos Respublikos teritorijoje, o kita jo dalis yra už jos ribų, upės baseinas priskiriamas prie tarpvalstybinio upių baseinų rajono. Tarpvalstybiniai upių baseinų rajonai sudaromi ir valdomi Lietuvos Respublikos tarptautinių sutarčių pagrindu.\n\n2. Lietuvos Respublikos teritorijoje esančiai tarpvalstybinio upių baseinų rajono daliai skirtas upių baseinų rajonų valdymo dokumentas derinamas su atitinkamu upių baseinų rajono valdymo dokumentu, rengiamu kitoje Europos Sąjungos valstybėje narėje. Šiuo atveju siekiama parengti vieną tarpvalstybinio upių baseinų rajono valdymo dokumentą. Jeigu tarpvalstybinis upių baseinų rajono valdymo dokumentas neparengiamas, rengiamas upių baseinų rajono valdymo dokumentas tai upių baseinų rajono daliai, kuri yra Lietuvos Respublikos teritorijoje.\n\n3. Jeigu tarpvalstybinis upių baseinų rajonas driekiasi už Europos Sąjungos valstybės narės ribų, tarptautinės sutarties pagrindu turi būti siekiama parengti vieną upių baseinų rajono valdymo dokumentą. Jeigu toks dokumentas neparengiamas, rengiamas upių baseinų rajono valdymo dokumentas tai tarpvalstybinio upių baseinų rajono daliai, kuri yra Lietuvos Respublikos teritorijoje.\n\nV SKYRIUS\nPAVIRŠINIO IR (ARBA) POŽEMINIO VANDENS TELKINIO IR (ARBA) JO VANDENS STEBĖSENA IR INFORMACIJOS VALDYMAS"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "V SKYRIUS PAVIRŠINIO IR (ARBA) POŽEMINIO VANDENS TELKINIO IR (ARBA) JO VANDENS STEBĖSENA IR INFORMACIJOS VALDYMAS",
+      "section": "24",
+      "title": "24 straipsnis. Paviršinio ir (arba) požeminio vandens telkinio ir (arba) jo vandens stebėsena",
+      "content": "Paviršinių ir (arba) požeminių vandens telkinių būklei ir pokyčiams stebėti visuose upių baseinų rajonuose ar jų dalyse, esančiose Lietuvos Respublikos teritorijoje, vykdoma paviršinių ir (arba) požeminių vandens telkinių ir (arba) jų vandens stebėsena. Paviršinių ir (arba) požeminių vandens telkinių ir (arba) jų vandens stebėsenos programos ir (arba) planai sudaromi vadovaujantis Aplinkos monitoringo įstatymu, šiuo įstatymu, kitais teisės aktais, reglamentuojančiais paviršinių ir (arba) požeminių vandens telkinių ir (arba) jų vandens stebėseną."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "V SKYRIUS PAVIRŠINIO IR (ARBA) POŽEMINIO VANDENS TELKINIO IR (ARBA) JO VANDENS STEBĖSENA IR INFORMACIJOS VALDYMAS",
+      "section": "25",
+      "title": "25 straipsnis. Apskaita ir duomenų teikimas",
+      "content": "1. Iš paviršinių ir (arba) požeminių vandens telkinių išgauto vandens, jo naudojimo ir (arba) perdavimo, perduoto vandens naudojimo, išleidžiamų nuotekų ir teršalų, per hidrotechninius įrenginius praleidžiamo vandens apskaitos ir duomenų teikimo tvarką nustato aplinkos ministras.\n\n2. Iš paviršinių ir (arba) požeminių vandens telkinių išgauto vandens, jo naudojimo ir (arba) perdavimo, perduoto vandens naudojimo apskaitą privalo tvarkyti ūkio subjektai, kurie:\n\n1) Aplinkos apsaugos įstatymo nustatyta tvarka privalo gauti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą ir (arba) Žemės gelmių įstatymo nustatyta tvarka privalo gauti leidimą naudoti žemės gelmių išteklius (požeminį vandenį);\n\n2) vykdo geriamojo vandens viešojo tiekimo veiklą;\n\n3) per parą iš kitų ūkio subjektų gauna 50 m3 ir daugiau vandens, o jų pagrindinė ekonominė veiklos rūšis yra žemės ūkis, miškininkystė, žuvininkystė, kasyba, karjerų eksploatavimas, apdirbamoji gamyba, elektros energijos, dujų, garo tiekimas, oro kondicionavimas, vandens tiekimas, nuotekų valymas, atliekų tvarkymas ir regeneravimas, statyba. Vandens kiekis apskaičiuojamas per metus gaunamą ar numatomą gauti vandens kiekį padalijus iš gavimo dienų skaičiaus.\n\n3. Išleidžiamų nuotekų ir teršalų apskaitą privalo tvarkyti ūkio subjektai:\n\n1) kurie išleidžia nuotekas į gamtinę aplinką, išskyrus atvejus, kai pagal šio įstatymo nustatytus reikalavimus nuotekos gali būti skleidžiamos ant žemės paviršiaus tręšimo tikslais, ir kurie Aplinkos apsaugos įstatymo nustatyta tvarka privalo gauti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą;\n\n2) kurių vykdomos ūkinės veiklos metu per parą į kitų asmenų eksploatuojamą nuotekų surinkimo sistemą išleidžiama 50 m3 ir daugiau gamybinių ir (arba) komunalinių nuotekų. Išleidžiamų nuotekų kiekis apskaičiuojamas per metus išleidžiamą ar numatomą išleisti nuotekų kiekį padalijus iš išleidimo dienų skaičiaus;\n\n3) kurių vykdomos ūkinės veiklos metu į kitų asmenų eksploatuojamą nuotekų surinkimo sistemą išleidžiamos gamybinės nuotekos, kuriose yra prioritetinių medžiagų, kurių išleidimas turi būti nuosekliai nutrauktas, ir (arba) kuriose prioritetinių medžiagų, kurių išleidimas turi būti mažinamas, koncentracija yra lygi arba didesnė už aplinkos ministro nustatytą ribinę koncentraciją į nuotekų surinkimo sistemą.\n\n4. Ataskaitos apie iš paviršinių ir (arba) požeminių vandens telkinių išgautą vandenį, jo naudojimą ir (arba) perdavimą, perduoto vandens naudojimą, išleidžiamas nuotekas ir teršalus, per hidrotechninius įrenginius praleidžiamą vandenį teikiamos vieną kartą per metus aplinkos ministro nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "V SKYRIUS PAVIRŠINIO IR (ARBA) POŽEMINIO VANDENS TELKINIO IR (ARBA) JO VANDENS STEBĖSENA IR INFORMACIJOS VALDYMAS",
+      "section": "26",
+      "title": "26 straipsnis. Informacijos valdymas",
+      "content": "Aplinkos ministerija ir (arba) jos įgaliota įstaiga (įgaliotos įstaigos), atsakinga (atsakingos) už upių baseinų rajonų arba jų dalių, esančių Lietuvos Respublikos teritorijoje, administravimą, aplinkos ministro nustatyta tvarka renka ir tvarko informaciją, reikalingą upių baseinų rajonų valdymo dokumentams rengti."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "V SKYRIUS PAVIRŠINIO IR (ARBA) POŽEMINIO VANDENS TELKINIO IR (ARBA) JO VANDENS STEBĖSENA IR INFORMACIJOS VALDYMAS",
+      "section": "27",
+      "title": "27 straipsnis. Informacijos teikimas visuomenei",
+      "content": "Aplinkos ministerija ir (arba) jos įgaliota įstaiga (įgaliotos įstaigos) ir kiti viešieji juridiniai asmenys, turintys informacijos apie upių baseinų rajonus, aplinkos ministro nustatyta tvarka teikia informaciją apie upių baseinų rajonus visuomenei, vandens telkinių ir (arba) jų vandens naudotojams ir kitiems suinteresuotiems asmenims."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "V SKYRIUS PAVIRŠINIO IR (ARBA) POŽEMINIO VANDENS TELKINIO IR (ARBA) JO VANDENS STEBĖSENA IR INFORMACIJOS VALDYMAS",
+      "section": "28",
+      "title": "28 straipsnis. Ataskaitų teikimas Europos Komisijai",
+      "content": "1. Ataskaitų apie 2000 m. spalio 23 d. Europos Parlamento ir Tarybos direktyvos 2000/60/EB, nustatančios Bendrijos veiksmų vandens politikos srityje pagrindus, ir kitų Europos Sąjungos vandens sektoriaus teisės aktų įgyvendinimą teikimo Europos Komisijai tvarką aplinkos ministro teikimu nustato Vyriausybė.\n\n2. Lietuvos Respublikos viešieji juridiniai asmenys, susiję su paviršinių ir (arba) požeminių vandens telkinių ir (arba) jų vandens naudojimu, apsauga ir valdymu, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo teikti informaciją, reikalingą ataskaitoms rengti.\n\nVI SKYRIUS\nSĄNAUDŲ SUSIGRĄŽINIMAS IR VALSTYBĖS PARAMA"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "VI SKYRIUS SĄNAUDŲ SUSIGRĄŽINIMAS IR VALSTYBĖS PARAMA",
+      "section": "29",
+      "title": "29 straipsnis. Sąnaudų susigrąžinimas",
+      "content": "1. Vandens telkinių ir (arba) jų vandens naudotojai ir abonentai turi padengti būtinąsias sąnaudas, patirtas įgyvendinant vandensaugos tikslus ir teikiant vandens naudojimo paslaugas, įskaitant sąnaudas aplinkos apsaugai, vadovaudamiesi principu „teršėjas moka“, Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymu ir aplinkos ministro nustatyta tvarka atlikta ekonomine analize. Įgyvendinant sąnaudų susigrąžinimo principą, turi būti užtikrinta, kad:\n\n1) vandens kainų politika skatintų naudoti vandenį racionaliai ir padėtų siekti vandensaugos tikslų įgyvendinimo;\n\n2) būtų padengiamos būtinosios sąnaudos, patirtos teikiant vandens naudojimo paslaugas įvairiose vandens telkinių ir (arba) jų vandens naudojimo srityse, iš kurių išskirtos bent trys: pramonė, namų ūkio sektorius ir žemės ūkis.\n\n2. Atsižvelgiant į socialinį, ekologinį ir ekonominį poveikį, į regiono ar regionų aplinkos sąlygas, sąnaudų susigrąžinimo principas gali būti taikomas iš dalies. Jeigu pagal nusistovėjusią praktiką kokiai nors vandens telkinių ir (arba) jų vandens naudojimo veiklai netaikomas sąnaudų susigrąžinimo principas, upių baseinų rajono valdymo dokumente turi būti nurodyta priežastis ir užtikrinama, kad tai netrukdys pasiekti vandensaugos tikslų. Šiuo atveju vandens apsaugos ir valdymo programoms ir kitoms priemonėms įgyvendinti įstatymų nustatyta tvarka gali būti teikiama valstybės parama.\n\nLietuvos Respublikos\nvandens įstatymo\npriedas\n\nĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI\n\n1. 2000 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2000/60/EB, nustatanti Bendrijos veiksmų vandens politikos srityje pagrindus (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 275), su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).“"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "VI SKYRIUS SĄNAUDŲ SUSIGRĄŽINIMAS IR VALSTYBĖS PARAMA",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2019 m. lapkričio 1 d.\n\n2. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos, Lietuvos Respublikos aplinkos ministras ir Lietuvos Respublikos žemės ūkio ministras iki 2019 m. liepos 1 d., Lietuvos Respublikos vidaus reikalų ministras iki 2019 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.\nStraipsnio dalies pakeitimai:\nNr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112\n\n3. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo 18 straipsnio 4 dalyje nustatytas reikalavimas taikomas:\n\n1) nuo 2025 m. sausio 1 d. asmenims, kurie iki šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo įsigaliojimo turėjo taršos integruotos prevencijos kontrolės leidimus arba taršos leidimus išleisti nuotekas tiesiai į ežerus ir (arba) į juos įtekančias upes mažesniu kaip 500 m atstumu iki ežero;\n\n2) nuo 2030 m. sausio 1 d. šios dalies 1 punkte nenurodytiems asmenims, kurie iki šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo įsigaliojimo dienos, nepažeisdami teisės aktų reikalavimų, išleido nuotekas tiesiai į ežerus ir (arba) į juos įtekančias upes mažesniu kaip 500 m atstumu iki ežero.\n\n4. 2020 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo 7 straipsnio redakcija:\n\n„7 straipsnis. Pagrindinės vandens telkinių ir (arba) jų vandens naudojimo sąlygos\n\n1. Vandens telkiniai ir (arba) jų vanduo gali būti naudojami, jeigu tai neblogina paviršinių ir (arba) požeminių vandens telkinių būklės ir (arba) netrukdo pasiekti vandensaugos tikslų.\n\n2. Paviršiniai vandens telkiniai ir vandens lygis juose negali būti keičiami neatlikus poveikio aplinkai vertinimo, kai tokį vertinimą privaloma atlikti Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka.\n\n3. Planuojant, projektuojant, statant ir eksploatuojant ūkinės ar kitos veiklos objektus, galinčius neigiamai veikti paviršinių ir (arba) požeminių vandens telkinių būklę, turi būti numatytos priemonės, užtikrinančios racionalų vandens naudojimą, vandens apsaugą nuo teršimo, paviršinių vandens telkinių hidromorfologinių sąlygų, kraštovaizdžio ir biologinės įvairovės apsaugą, išgaunamo vandens apskaitą, laikomasi pažangaus ūkininkavimo praktikos, diegiamos švaresnės gamybos ir taršos mažinimo technologijos.\n\n4. Specialiąsias žemės naudojimo sąlygas paviršiniuose vandens telkiniuose nustato Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas.“\n\nPapildyta straipsnio dalimi:\nNr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847\n\n5. 2020 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo 12 straipsnio redakcija:\n\n„12 straipsnis. Plaukiojimo priemonių naudojimas paviršiniuose vandens telkiniuose\n\n1. Asmenys, paviršiniuose vandens telkiniuose naudojantys plaukiojimo priemones, privalo užtikrinti, kad šios priemonės neterštų vandens, neardytų krantų, negadintų hidrotechninių statinių ir komunikacijų, nekeltų pavojaus žmonėms ir aplinkai.\n\n2. Aplinkosaugos sąlygas plaukioti paviršiniuose vandens telkiniuose plaukiojimo priemonėmis ir paviršinių vandens telkinių, kuriuose tam tikro tipo plaukiojimo priemonių naudojimas draudžiamas ar ribojamas, sąrašą nustato aplinkos ministras. Paviršinių vandens telkinių, kuriuose tam tikro tipo plaukiojimo priemonių naudojimas draudžiamas ar ribojamas, sąrašas sudaromas atsižvelgiant į Saugomų teritorijų įstatyme numatytus saugomų teritorijų veiklos reglamentavimo dokumentuose nustatytus apribojimus ir argumentuotus savivaldybių institucijų pasiūlymus, kuriais siekiama užtikrinti šio įstatymo 10 straipsnio 4 dalyje nurodytų saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisyklių reikalavimų vykdymą.\n\n3. Plūduriuojančių priemonių, kurios pritaikomos gyventi ir (arba) vykdyti ūkinę komercinę veiklą, statymo ir (arba) švartavimo vietos nustatomos teritorijų planavimo dokumentuose. Plūduriuojančių priemonių įrengimo ir naudojimo, jų statymo ir (arba) švartavimo aplinkosauginius reikalavimus nustato aplinkos ministras.\n\n4. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas.“\n\nStraipsnio dalies pakeitimai:\nNr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112\n\n6. 2020 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo 14 straipsnio redakcija, išskyrus šio straipsnio 6 dalį, kuri įsigalioja 2019 m. lapkričio 2 d.\n\n„14 straipsnis. Upių ir ežerų reguliavimas\n\n1. Draudžiama reguliuoti (tvenkti (patvenkti) ir kitais būdais keisti vandens lygį, gylį ir (arba) krantų liniją) upes ir (arba) ežerus, išskyrus Specialiųjų žemės naudojimo sąlygų įstatyme nustatytus atvejus.\n\n2. Šio straipsnio 1 dalyje nenumatyti upių ir (arba) ežerų reguliavimo darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.\n\n3. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į šio straipsnio 1 dalyje numatytų darbų mastą, pobūdį, tikslus ir galimą jų poveikį upėms ir (arba) ežerams, nustato kriterijus, kada šio straipsnio 1 dalyje numatyti darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.\n\n4. Šio straipsnio 1 dalyje numatyti ir kiti darbai ir (arba) priemonės, kuriuos vykdant upės ir (arba) ežerai, kuriems nustatyti vandensaugos tikslai, reguliuojami taip, kad blogina jų būklę, gali būti vykdomi, kai tokia veikla yra labai svarbi visuomenės interesams ir (arba) nauda žmonių sveikatai, žmonių saugos palaikymui ar subalansuotai plėtrai yra didesnė už naudą, kurią aplinkai ir visuomenei duoda nesureguliuota upė ir (arba) ežeras, ir (arba) tokia veikla yra būtina, nes dėl techninių galimybių ar per didelių sąnaudų, naudos, kurią duoda upių ir (arba) ežerų reguliavimas, negalima gauti kitais būdais, kurie aplinkosaugos požiūriu būtų gerokai pranašesni. Visais atvejais turi būti imamasi visų įmanomų priemonių, mažinančių neigiamą poveikį upėms ir (arba) ežerams ir užtikrinančių gerą jų būklę.\n\n5. Šio straipsnio 4 dalyje nurodyta veikla laikoma labai svarbia visuomenės interesams ir yra būtina, jeigu jos vykdymas numatytas planavimo dokumentuose, kuriuos tvirtina Lietuvos Respublikos Seimas.\n\n6. Draudžiama statyti užtvankas Nemune ir kitose upėse, jeigu:\n\n1) upės ar jų ruožai patenka į saugomas teritorijas;\n\n2) upėse aptinkama į Lietuvos raudonąją knygą įrašytų žuvų rūšių, Europos laukinės gamtos ir gamtinės aplinkos apsaugos konvencijos (Berno konvencijos) saugomų rūšių, Natūralių buveinių ir laukinės faunos bei floros apsaugos direktyvos (92/43/EEB) saugomų rūšių;\n\n3) upių užtvenkimas neleistų užtikrinti geros vandens telkinių būklės ir Direktyvos 2000/60/EB reikalavimų įgyvendinimo.“\n\nPapildyta straipsnio dalimi:\nNr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847\n\n7. 2020 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo 3 straipsnio redakcija:\n\n„3 straipsnis. Pagrindinės šio įstatymo sąvokos\n\n1. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis ir (arba) konstrukcijomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir panašiai).\n\n2. Galimai teršiama teritorija – atvira teritorija, kuri dėl joje vykdomos veiklos yra arba gali būti teršiama (eksploatacijos ar avarinės taršos atvejais) pavojingosiomis medžiagomis: transporto priemonių remonto, ardymo, techninės priežiūros, dažymo teritorija (teritorija, kurioje teikiamos išvardytos paslaugos, ir didesnė kaip 0,1 ha teritorija, kurioje minėta veikla vykdoma savo reikmėms); trąšų, augalų apsaugos produktų, buitinės chemijos, naftos produktų ir kitų pavojingųjų medžiagų perpylimo, perkrovimo ar sandėliavimo vieta (išskyrus galutinius nurodytų medžiagų vartotojus); didesnė kaip 0,5 ha transporto priemonių stovėjimo aikštelė; transporto priemonių stovėjimo aikštelės, naudojamos komerciniais tikslais ir esančios arčiau kaip 100 m atstumu nuo vandens telkinių; centralizuota betono ruošimo ir išdavimo vieta; degalinės, naftos bazės ir naftos išgavimo gręžinių teritorija; degalų ir kitų naftos produktų pilstymo vieta; chemijos, naftos perdirbimo, pieno, mėsos, žuvies perdirbimo, celiuliozės ir popieriaus, odų dirbimo, cukraus pramonės objekto teritorija; atliekų tvarkymo objekto, pabėgių mirkyklos, jūrų uosto, dokų teritorija.\n\n3. Gamtosauginis debitas – skaičiuotinis mažiausiasis vandentėkmės debitas, reikalingas jos ekosistemos minimalioms gyvavimo sąlygoms užtikrinti.\n\n4. Gera paviršinio vandens telkinio būklė – paviršinio vandens telkinio būklė, kai jo ekologinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai arba labai gerai.\n\n5. Gera požeminio vandens telkinio būklė – požeminio vandens telkinio būklė, kai jo kiekybinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai.\n\n6. Hidromorfologinės sąlygos – paviršinio vandens telkinio sąlygos, kurias lemia jo hidrologiniai ir morfologiniai rodikliai.\n\n7. Hidrotechniniai statiniai – statiniai ir įrenginiai vandeniui naudoti ir (arba) aplinkai nuo žalingo vandens poveikio saugoti (užtvankos, krantinės, aptekėjimo kanalai, žuvų pralaidos, hidroelektrinės, molai ir panašiai).\n\n8. Išleidžiamųjų teršalų ribinė vertė – didžiausia leidžiama išleisti teršalų koncentracija ir (arba) didžiausias leidžiamas išleisti teršalų kiekis, kurių negalima viršyti per tam tikrą laikotarpį.\n\n9. Nepratekamas dirbtinis vandens telkinys – dirbtinis vandens telkinys, nepapildomas iš upių, ežerų, tvenkinių ir (arba) kanalų.\n\n10. Pabaseinis – upės baseino dalis, iš kurios paviršinis vanduo viena upe nuteka į kitą upę arba ežerą.\n\n11. Paplūdimys – sausumos ir su ja besiribojančio paviršinio vandens telkinio dalis, skirta poilsiui organizuoti.\n\n12. Patvenktas ežeras – ežeras, kurio vandens lygis reguliuojamas ežero ištakose įrengtais patvenkiamaisiais hidrotechniniais statiniais.\n\n13. Paviršinio vandens telkinio būklė – bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.\n\n14. Paviršinis vandens telkinys – kiekybės rodikliais apibūdinama žemės paviršiuje esanti vandens aplinkos dalis, tai yra: jūra ar jos dalis, upė ar jos dalis, ežeras, dirbtinis vandens telkinys.\n\n15. Plaukiojimo priemonės – laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.\n\n16. Požeminio vandens telkinio būklė – bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.\n\n17. Požeminis vandens telkinys – sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje susitelkęs pakankamas kiekis požeminio vandens, kurio per parą būtų galima išgauti 10 m3.\n\n18. Priekrantės vandenys – jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.\n\n19. Prioritetinės medžiagos – teršalai, kurių išleidimas ar kitoks patekimas į aplinką turi būti mažinamas ar nutrauktas. Prioritetinių medžiagų sąrašą tvirtina Lietuvos Respublikos aplinkos ministras.\n\n20. Tarpiniai vandenys – prie upės žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir kurioje maišosi sūrus ir gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.\n\n21. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.\n\n22. Teršalas – medžiaga ar medžiagų grupė, kuri patekusi į aplinką dėl savo savybių gali būti kenksminga aplinkai ar žmonių sveikatai.\n\n23. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.\n\n24. Upės baseinas – žemės plotas, iš kurio paviršinis vanduo upėmis ir ežerais nuteka į jūrą vienos upės žiotimis.\n\n25. Upių baseinų rajonas – šio įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vienos ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais, tarpiniais ir priekrantės vandenimis.\n\n26. Vandens kokybė – vandens sudėtis ir jo savybės, rodančios, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms paviršinio ir (arba) požeminio vandens telkinio ir (arba) jo vandens naudojimo sritims.\n\n27. Vandens naudojimo paslaugos – namų ūkiams, viešiesiems juridiniams asmenims ir ekonominės veiklos vykdytojams teikiamos paslaugos, apimančios paviršinių vandens telkinių užtvenkimą, vandens iš paviršinių ir (arba) požeminių vandens telkinių išgavimą, kaupimą, apdorojimą (gerinimą, ruošimą) ir tiekimą, taip pat nuotekų tvarkymą.\n\n28. Vandens telkinio ir (arba) jo vandens naudojimas – veikla, kuria daromas tiesioginis poveikis paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei, pavyzdžiui, paviršinio ir (arba) požeminio vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, hidroenergetikos, rekreacijos, laivybos, žuvininkystės reikmėms.\n\n29. Vandens telkinio ir (arba) jo vandens naudotojas – asmuo, kuris naudoja paviršinį ir (arba) požeminį vandens telkinį vandeniui išgauti, nuotekoms išleisti, rekreacijos, hidroenergetikos, laivybos, žuvininkystės ir kitoms reikmėms arba kitokiu būdu daro tiesioginį poveikį paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei.\n\n30. Vandens telkinio ir (arba) jo vandens stebėsena – sistemingas paviršinio ir (arba) požeminio vandens telkinio būklės ir (arba) jo vandens kokybės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.\n\n31. Vandensaugos tikslai – aplinkos ministro patvirtinti paviršinių ir (arba) požeminių vandens telkinių būklės ir (arba) jų vandens kokybės, taip pat upių baseinų rajonų saugomų plotų reikalavimai, kuriuos reikia įgyvendinti per tam tikrą laikotarpį.\n\n32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos sporto įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žuvininkystės įstatyme.“\n\nPapildyta straipsnio dalimi:\nNr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112\n\n8. 2020 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo 10 straipsnio redakcija:\n\n„10 straipsnis. Paviršinių vandens telkinių naudojimas rekreacijai ir sportui, skęstančiųjų gelbėjimas\n\n1. Paviršiniai vandens telkiniai rekreacijai ir sportui gali būti naudojami vadovaujantis šio įstatymo, Teritorijų planavimo įstatymo, Turizmo įstatymo ir Saugomų teritorijų įstatymo nustatytais reikalavimais.\n\n2. Rekreacijai ir sportui skirti paviršiniai vandens telkiniai nurodomi teritorijų planavimo dokumentuose.\n\n3. Maudyklų naudojimas ir maudyklų vandens kokybės rodikliai turi atitikti Lietuvos Respublikos sveikatos apsaugos ministro nustatytų visuomenės sveikatos saugos reglamentų (higienos normų) reikalavimus.\n\n4. Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisykles tvirtina savivaldybių tarybos pagal Lietuvos Respublikos vidaus reikalų ministro patvirtintas pavyzdines Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisykles.\n\n5. Skęstančiųjų gelbėjimo darbus organizuoja:\n\n1) paplūdimyje Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisyklėse nustatytomis paplūdimio lankymo valandomis – paplūdimio administratorius;\n\n2) paviršiniuose vandens telkiniuose ne paplūdimio teritorijoje (išskyrus paieškos ir gelbėjimo rajoną), taip pat paplūdimyje po Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisyklėse nustatytų paplūdimio lankymo valandų – Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos.“\n\nPapildyta straipsnio dalimi:\nNr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Dirbtinis vandens telkinys",
+      "definition": "techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis ir (arba) konstrukcijomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir panašiai).",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Galimai teršiama teritorija",
+      "definition": "atvira teritorija, kuri dėl joje vykdomos veiklos yra arba gali būti teršiama (eksploatacijos ar avarinės taršos atvejais) pavojingosiomis medžiagomis: transporto priemonių remonto, ardymo, techninės priežiūros, dažymo teritorija (teritorija, kurioje teikiamos išvardytos paslaugos, ir didesnė kaip 0,1 ha teritorija, kurioje minėta veikla vykdoma savo reikmėms); trąšų, augalų apsaugos produktų, buitinės chemijos, naftos produktų ir kitų pavojingųjų medžiagų perpylimo, perkrovimo ar sandėliavimo vieta (išskyrus galutinius nurodytų medžiagų vartotojus); didesnė kaip 0,5 ha transporto priemonių stovėjimo aikštelė; transporto priemonių stovėjimo aikštelės, naudojamos komerciniais tikslais ir esančios arčiau kaip 100 m atstumu nuo vandens telkinių; centralizuota betono ruošimo ir išdavimo vieta; degalinės, naftos bazės ir naftos išgavimo gręžinių teritorija; degalų ir kitų naftos produktų pilstymo vieta; chemijos, naftos perdirbimo, pieno, mėsos, žuvies perdirbimo, celiuliozės ir popieriaus, odų dirbimo, cukraus pramonės objekto teritorija; atliekų tvarkymo objekto, pabėgių mirkyklos, jūrų uosto, dokų teritorija.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Gamtosauginis debitas",
+      "definition": "skaičiuotinis mažiausiasis vandentėkmės debitas, reikalingas jos ekosistemos minimalioms gyvavimo sąlygoms užtikrinti.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Gera paviršinio vandens telkinio būklė",
+      "definition": "paviršinio vandens telkinio būklė, kai jo ekologinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai arba labai gerai.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Gera požeminio vandens telkinio būklė",
+      "definition": "požeminio vandens telkinio būklė, kai jo kiekybinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Hidromorfologinės sąlygos",
+      "definition": "paviršinio vandens telkinio sąlygos, kurias lemia jo hidrologiniai ir morfologiniai rodikliai.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Hidrotechniniai statiniai",
+      "definition": "statiniai ir įrenginiai vandeniui naudoti ir (arba) aplinkai nuo žalingo vandens poveikio saugoti (užtvankos, krantinės, aptekėjimo kanalai, žuvų pralaidos, hidroelektrinės, molai ir panašiai).",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Išleidžiamųjų teršalų ribinė vertė",
+      "definition": "didžiausia leidžiama išleisti teršalų koncentracija ir (arba) didžiausias leidžiamas išleisti teršalų kiekis, kurių negalima viršyti per tam tikrą laikotarpį.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Nepratekamas dirbtinis vandens telkinys",
+      "definition": "dirbtinis vandens telkinys, nepapildomas iš upių, ežerų, tvenkinių ir (arba) kanalų.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Pabaseinis",
+      "definition": "upės baseino dalis, iš kurios paviršinis vanduo viena upe nuteka į kitą upę arba ežerą.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Patvenktas ežeras",
+      "definition": "ežeras, kurio vandens lygis reguliuojamas ežero ištakose įrengtais patvenkiamaisiais hidrotechniniais statiniais.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Paviršinio vandens telkinio būklė",
+      "definition": "bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Paviršinis vandens telkinys",
+      "definition": "kiekybės rodikliais apibūdinama žemės paviršiuje esanti vandens aplinkos dalis, tai yra: jūra ar jos dalis, upė ar jos dalis, ežeras, dirbtinis vandens telkinys.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Plaukiojimo priemonės",
+      "definition": "laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Požeminio vandens telkinio būklė",
+      "definition": "bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Požeminis vandens telkinys",
+      "definition": "sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje susitelkęs pakankamas kiekis požeminio vandens, kurio per parą būtų galima išgauti 10 m3.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Priekrantės vandenys",
+      "definition": "jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Prioritetinės medžiagos",
+      "definition": "teršalai, kurių išleidimas ar kitoks patekimas į aplinką turi būti mažinamas ar nutrauktas. Prioritetinių medžiagų sąrašą tvirtina Lietuvos Respublikos aplinkos ministras.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Tarpiniai vandenys",
+      "definition": "prie upės žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir kurioje maišosi sūrus ir gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Tarša",
+      "definition": "dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Teršalas",
+      "definition": "medžiaga ar medžiagų grupė, kuri patekusi į aplinką dėl savo savybių gali būti kenksminga aplinkai ar žmonių sveikatai.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Tvenkinys",
+      "definition": "dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Upės baseinas",
+      "definition": "žemės plotas, iš kurio paviršinis vanduo upėmis ir ežerais nuteka į jūrą vienos upės žiotimis.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Upių baseinų rajonas",
+      "definition": "šio įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vienos ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais, tarpiniais ir priekrantės vandenimis.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Vandens kokybė",
+      "definition": "vandens sudėtis ir jo savybės, rodančios, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms paviršinio ir (arba) požeminio vandens telkinio ir (arba) jo vandens naudojimo sritims.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Vandens naudojimo paslaugos",
+      "definition": "namų ūkiams, viešiesiems juridiniams asmenims ir ekonominės veiklos vykdytojams teikiamos paslaugos, apimančios paviršinių vandens telkinių užtvenkimą, vandens iš paviršinių ir (arba) požeminių vandens telkinių išgavimą, kaupimą, apdorojimą (gerinimą, ruošimą) ir tiekimą, taip pat nuotekų tvarkymą.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Vandens telkinio ir (arba) jo vandens naudojimas",
+      "definition": "veikla, kuria daromas tiesioginis poveikis paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei, pavyzdžiui, paviršinio ir (arba) požeminio vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, hidroenergetikos, rekreacijos, laivybos, žuvininkystės reikmėms.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Vandens telkinio ir (arba) jo vandens naudotojas",
+      "definition": "asmuo, kuris naudoja paviršinį ir (arba) požeminį vandens telkinį vandeniui išgauti, nuotekoms išleisti, rekreacijos, hidroenergetikos, laivybos, žuvininkystės ir kitoms reikmėms arba kitokiu būdu daro tiesioginį poveikį paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Vandens telkinio ir (arba) jo vandens stebėsena",
+      "definition": "sistemingas paviršinio ir (arba) požeminio vandens telkinio būklės ir (arba) jo vandens kokybės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Vandensaugos tikslai",
+      "definition": "aplinkos ministro patvirtinti paviršinių ir (arba) požeminių vandens telkinių būklės ir (arba) jų vandens kokybės, taip pat upių baseinų rajonų saugomų plotų reikalavimai, kuriuos reikia įgyvendinti per tam tikrą laikotarpį.\n\n31. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos sporto įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žuvininkystės įstatyme.\n\nII SKYRIUS\nPAVIRŠINIŲ IR (ARBA) POŽEMINIŲ VANDENS TELKINIŲ NUOSAVYBĖ. VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOTOJŲ TEISĖS IR PAREIGOS",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Dirbtinis vandens telkinys",
+      "definition": "techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis ir (arba) konstrukcijomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir panašiai).",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Galimai teršiama teritorija",
+      "definition": "atvira teritorija, kuri dėl joje vykdomos veiklos yra arba gali būti teršiama (eksploatacijos ar avarinės taršos atvejais) pavojingosiomis medžiagomis: transporto priemonių remonto, ardymo, techninės priežiūros, dažymo teritorija (teritorija, kurioje teikiamos išvardytos paslaugos, ir didesnė kaip 0,1 ha teritorija, kurioje minėta veikla vykdoma savo reikmėms); trąšų, augalų apsaugos produktų, buitinės chemijos, naftos produktų ir kitų pavojingųjų medžiagų perpylimo, perkrovimo ar sandėliavimo vieta (išskyrus galutinius nurodytų medžiagų vartotojus); didesnė kaip 0,5 ha transporto priemonių stovėjimo aikštelė; transporto priemonių stovėjimo aikštelės, naudojamos komerciniais tikslais ir esančios arčiau kaip 100 m atstumu nuo vandens telkinių; centralizuota betono ruošimo ir išdavimo vieta; degalinės, naftos bazės ir naftos išgavimo gręžinių teritorija; degalų ir kitų naftos produktų pilstymo vieta; chemijos, naftos perdirbimo, pieno, mėsos, žuvies perdirbimo, celiuliozės ir popieriaus, odų dirbimo, cukraus pramonės objekto teritorija; atliekų tvarkymo objekto, pabėgių mirkyklos, jūrų uosto, dokų teritorija.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gamtosauginis debitas",
+      "definition": "skaičiuotinis mažiausiasis vandentėkmės debitas, reikalingas jos ekosistemos minimalioms gyvavimo sąlygoms užtikrinti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gera paviršinio vandens telkinio būklė",
+      "definition": "paviršinio vandens telkinio būklė, kai jo ekologinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai arba labai gerai.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Gera požeminio vandens telkinio būklė",
+      "definition": "požeminio vandens telkinio būklė, kai jo kiekybinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Hidromorfologinės sąlygos",
+      "definition": "paviršinio vandens telkinio sąlygos, kurias lemia jo hidrologiniai ir morfologiniai rodikliai.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Hidrotechniniai statiniai",
+      "definition": "statiniai ir įrenginiai vandeniui naudoti ir (arba) aplinkai nuo žalingo vandens poveikio saugoti (užtvankos, krantinės, aptekėjimo kanalai, žuvų pralaidos, hidroelektrinės, molai ir panašiai).",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Išleidžiamųjų teršalų ribinė vertė",
+      "definition": "didžiausia leidžiama išleisti teršalų koncentracija ir (arba) didžiausias leidžiamas išleisti teršalų kiekis, kurių negalima viršyti per tam tikrą laikotarpį.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Nepratekamas dirbtinis vandens telkinys",
+      "definition": "dirbtinis vandens telkinys, nepapildomas iš upių, ežerų, tvenkinių ir (arba) kanalų.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Pabaseinis",
+      "definition": "upės baseino dalis, iš kurios paviršinis vanduo viena upe nuteka į kitą upę arba ežerą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Paplūdimys",
+      "definition": "sausumos ir su ja besiribojančio paviršinio vandens telkinio dalis, skirta poilsiui organizuoti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Patvenktas ežeras",
+      "definition": "ežeras, kurio vandens lygis reguliuojamas ežero ištakose įrengtais patvenkiamaisiais hidrotechniniais statiniais.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Paviršinio vandens telkinio būklė",
+      "definition": "bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Paviršinis vandens telkinys",
+      "definition": "kiekybės rodikliais apibūdinama žemės paviršiuje esanti vandens aplinkos dalis, tai yra: jūra ar jos dalis, upė ar jos dalis, ežeras, dirbtinis vandens telkinys.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Plaukiojimo priemonės",
+      "definition": "laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Požeminio vandens telkinio būklė",
+      "definition": "bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Požeminis vandens telkinys",
+      "definition": "sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje susitelkęs pakankamas kiekis požeminio vandens, kurio per parą būtų galima išgauti 10 m3.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Priekrantės vandenys",
+      "definition": "jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Prioritetinės medžiagos",
+      "definition": "teršalai, kurių išleidimas ar kitoks patekimas į aplinką turi būti mažinamas ar nutrauktas. Prioritetinių medžiagų sąrašą tvirtina Lietuvos Respublikos aplinkos ministras.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Tarpiniai vandenys",
+      "definition": "prie upės žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir kurioje maišosi sūrus ir gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Tarša",
+      "definition": "dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Teršalas",
+      "definition": "medžiaga ar medžiagų grupė, kuri patekusi į aplinką dėl savo savybių gali būti kenksminga aplinkai ar žmonių sveikatai.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Tvenkinys",
+      "definition": "dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Upės baseinas",
+      "definition": "žemės plotas, iš kurio paviršinis vanduo upėmis ir ežerais nuteka į jūrą vienos upės žiotimis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Upių baseinų rajonas",
+      "definition": "šio įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vienos ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais, tarpiniais ir priekrantės vandenimis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vandens kokybė",
+      "definition": "vandens sudėtis ir jo savybės, rodančios, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms paviršinio ir (arba) požeminio vandens telkinio ir (arba) jo vandens naudojimo sritims.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vandens naudojimo paslaugos",
+      "definition": "namų ūkiams, viešiesiems juridiniams asmenims ir ekonominės veiklos vykdytojams teikiamos paslaugos, apimančios paviršinių vandens telkinių užtvenkimą, vandens iš paviršinių ir (arba) požeminių vandens telkinių išgavimą, kaupimą, apdorojimą (gerinimą, ruošimą) ir tiekimą, taip pat nuotekų tvarkymą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vandens telkinio ir (arba) jo vandens naudojimas",
+      "definition": "veikla, kuria daromas tiesioginis poveikis paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei, pavyzdžiui, paviršinio ir (arba) požeminio vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, hidroenergetikos, rekreacijos, laivybos, žuvininkystės reikmėms.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vandens telkinio ir (arba) jo vandens naudotojas",
+      "definition": "asmuo, kuris naudoja paviršinį ir (arba) požeminį vandens telkinį vandeniui išgauti, nuotekoms išleisti, rekreacijos, hidroenergetikos, laivybos, žuvininkystės ir kitoms reikmėms arba kitokiu būdu daro tiesioginį poveikį paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vandens telkinio ir (arba) jo vandens stebėsena",
+      "definition": "sistemingas paviršinio ir (arba) požeminio vandens telkinio būklės ir (arba) jo vandens kokybės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vandensaugos tikslai",
+      "definition": "aplinkos ministro patvirtinti paviršinių ir (arba) požeminių vandens telkinių būklės ir (arba) jų vandens kokybės, taip pat upių baseinų rajonų saugomų plotų reikalavimai, kuriuos reikia įgyvendinti per tam tikrą laikotarpį.\n\n32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos sporto įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žuvininkystės įstatyme.“\n\nPapildyta straipsnio dalimi:\nNr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112\n\n8. 2020 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos vandens įstatymo 10 straipsnio redakcija:\n\n„10 straipsnis. Paviršinių vandens telkinių naudojimas rekreacijai ir sportui, skęstančiųjų gelbėjimas\n\n1. Paviršiniai vandens telkiniai rekreacijai ir sportui gali būti naudojami vadovaujantis šio įstatymo, Teritorijų planavimo įstatymo, Turizmo įstatymo ir Saugomų teritorijų įstatymo nustatytais reikalavimais.\n\n2. Rekreacijai ir sportui skirti paviršiniai vandens telkiniai nurodomi teritorijų planavimo dokumentuose.\n\n3. Maudyklų naudojimas ir maudyklų vandens kokybės rodikliai turi atitikti Lietuvos Respublikos sveikatos apsaugos ministro nustatytų visuomenės sveikatos saugos reglamentų (higienos normų) reikalavimus.\n\n4. Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisykles tvirtina savivaldybių tarybos pagal Lietuvos Respublikos vidaus reikalų ministro patvirtintas pavyzdines Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisykles.\n\n5. Skęstančiųjų gelbėjimo darbus organizuoja:\n\n1) paplūdimyje Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisyklėse nustatytomis paplūdimio lankymo valandomis – paplūdimio administratorius;\n\n2) paviršiniuose vandens telkiniuose ne paplūdimio teritorijoje (išskyrus paieškos ir gelbėjimo rajoną), taip pat paplūdimyje po Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisyklėse nustatytų paplūdimio lankymo valandų – Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos.“\n\nPapildyta straipsnio dalimi:\nNr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė",
+      "source_provision": "art2"
+    }
+  ]
+}

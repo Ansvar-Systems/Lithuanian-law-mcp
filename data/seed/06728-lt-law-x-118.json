@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-x-118",
+  "type": "statute",
+  "title": "Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 46 ir 47 straipsnių pripažinimo netekusiais galios įstatymas",
+  "short_name": "X-118",
+  "status": "in_force",
+  "issued_date": "2005-02-15",
+  "in_force_date": "2005-03-05",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.0B9DF512FA9A/UGvzbPodjv",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 46 straipsnio pripažinimas netekusiu galios",
+      "content": "46 straipsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 47 straipsnio pripažinimas netekusiu galios",
+      "content": "47 straipsnį pripažinti netekusiu galios.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xv-675",
+  "type": "statute",
+  "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 11 ir 40 straipsnių pakeitimo įstatymas",
+  "short_name": "XV-675",
+  "status": "in_force",
+  "issued_date": "2025-12-11",
+  "in_force_date": "2026-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/fb37e112dfea11f08918e1adc7c5b1ec",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 11 straipsnio pakeitimas",
+      "content": "Pakeisti 11 straipsnio 5 dalies 6 punktą ir jį išdėstyti taip:\n\n„6) jeigu žemės sklypas valstybei priklauso bendrosios dalinės nuosavybės teise su kitais bendraturčiais – privačiais asmenimis, – šiems bendraturčiams, kai nėra galimybės atidalyti valstybei nuosavybės teise priklausančios žemės sklypo dalies ir suformuoti atskiro žemės sklypo ir išskyrus atvejus, kai sklypas užstatytas statiniais ir (ar) įrenginiais. Valstybinės žemės ūkio paskirties žemės sklypai bendraturčiams parduodami Žemės ūkio paskirties žemės įsigijimo įstatyme numatytais atvejais ir tvarka;“."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 40 straipsnio pakeitimas",
+      "content": "Pakeisti 40 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:\n\n„7) suformuojami nauji valstybinės žemės sklypai, išskyrus atvejus, kai sklypai formuojami Žemės reformos įstatymo nustatyta tvarka rengiant žemės reformos žemėtvarkos projektus;“."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2026 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

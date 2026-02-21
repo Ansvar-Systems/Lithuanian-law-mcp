@@ -1,0 +1,43 @@
+{
+  "id": "lt-law-xii-246",
+  "type": "statute",
+  "title": "Lietuvos Respublikos draudimo įstatymo 93, 114, 127 straipsnių pakeitimo ir 228 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XII-246",
+  "status": "in_force",
+  "issued_date": "2013-04-23",
+  "in_force_date": "2013-05-07",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.B1AC6AD45468/TAIS_463754",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 93",
+      "content": "straipsnio 2 dalies pakeitimas\n93\nstraipsnio 2 dalyje išbraukti žodžius „išskyrus šio įstatymo 114 straipsnio\n2 dalyje nustatytas išimtis“ ir šią dalį išdėstyti taip:\n„2.\nDraudikas, apskaičiuodamas draudimo įmokas ir draudimo išmokas, neturi teisės\natsižvelgti į draudėjo ar apdraustojo lytį, kaip į draudimo rizikai reikšmės\nturintį veiksnį.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 114 straipsnio 2 dalies",
+      "content": "pripažinimas netekusia galios\n114\nstraipsnio 2 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 127 straipsnio 1",
+      "content": "dalies pakeitimas\n127\nstraipsnio 1 dalyje išbraukti skaičių „2“ ir šią dalį išdėstyti taip:\n„1. Sveikatos\ndraudimo sutarčiai mutatis mutandis taikomos šio įstatymo 114 straipsnio 1 ir 3\ndalių, 115, 116 ir 120 straipsnių nuostatos.“"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. 228 straipsnio pripažinimas netekusiu galios",
+      "content": "228\nstraipsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Neteko galios nuo 2013-12-30.",
+      "content": "Straipsnio"
+    }
+  ],
+  "definitions": []
+}

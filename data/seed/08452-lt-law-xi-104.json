@@ -1,0 +1,37 @@
+{
+  "id": "lt-law-xi-104",
+  "type": "statute",
+  "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 21 straipsnių pakeitimo ir priedo papildymo įstatymo 1 straipsnio pakeitimo ir 4, 5 straipsnių pripažinimo netekusiais galios įstatymas",
+  "short_name": "XI-104",
+  "status": "in_force",
+  "issued_date": "2008-12-22",
+  "in_force_date": "2009-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.5C3DCED3CF99",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 1 straipsnio 4 dalies pripažinimas netekusia galios",
+      "content": "1 straipsnio 4 dalį pripažinti netekusia galios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 4 straipsnio pripažinimas netekusiu galios",
+      "content": "4 straipsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. 5 straipsnio pripažinimas netekusiu galios",
+      "content": "5 straipsnį pripažinti netekusiu galios."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2009 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

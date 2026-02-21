@@ -1,0 +1,235 @@
+{
+  "id": "lt-law-xiv-868",
+  "type": "statute",
+  "title": "Lietuvos Respublikos žvalgybos kontrolierių įstatymas",
+  "short_name": "XIV-868",
+  "status": "in_force",
+  "issued_date": "2021-12-23",
+  "in_force_date": "2022-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/fa177910658911eca9ac839120d251c4/oshpKdPpRA",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "1. Šio įstatymo paskirtis – sukurti nepriklausomos išorinės žvalgybos institucijų priežiūros teisinį reguliavimą, kuris garantuotų žvalgybos institucijų veiklos nepriklausomumą, teisėtumą ir atitiktį žmogaus teisių ir laisvių apsaugos reikalavimams.\n\n2. Šis įstatymas nustato žvalgybos kontrolieriaus statusą, įgaliojimus, skyrimo ir atleidimo tvarką bei atskaitomybę, santykius su žvalgybos institucijų parlamentinę kontrolę atliekančiu Lietuvos Respublikos Seimo komitetu, už žmogaus teisių ir laisvių užtikrinimą atsakingu Seimo komitetu ir kitais žvalgybos institucijų veiklos kontrolės subjektais, taip pat Lietuvos Respublikos žvalgybos kontrolierių įstaigos statusą ir jos veiklos organizavimo pagrindus."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Pareiškėjas – fizinis ar juridinis asmuo, kuris kreipiasi į žvalgybos kontrolierių pateikdamas skundą.\n\n2. Pranešimas – žvalgybos pareigūno pateikta informacija apie žvalgybos institucijos galimai neteisėtą veiklą ir (ar) jos priimtus galimai neteisėtus sprendimus dėl asmenų, kurių atžvilgiu vykdoma žvalgybinė veikla, pažeidžiant žmogaus teisių ir laisvių apsaugos reikalavimus ir asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo reikalavimus.\n\n3. Skundas – pareiškėjo kreipimasis į žvalgybos kontrolierių, kuriame nurodoma, kad dėl žvalgybos institucijų ir (ar) žvalgybos pareigūnų piktnaudžiavimo ar biurokratizmo viešojo administravimo srityje arba dėl kitokių žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiksmų yra pažeistos jo teisės ir laisvės, padaryti asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo pažeidimai, ir prašoma šias teises apginti, užtikrinti šių asmens duomenų tvarkymo reikalavimų laikymąsi.\n\n4. Už žmogaus teisių ir laisvių užtikrinimą atsakingas Seimo komitetas – Lietuvos Respublikos Seimo statute nurodytas Seimo komitetas, atsakingas už valstybės žmogaus teisių ir laisvių politikos formavimą.\n\n5. Žvalgybos institucijų parlamentinę kontrolę atliekantis Seimo komitetas – Seimo statute nurodytas Seimo komitetas, kuriam yra pavesta atlikti žvalgybos institucijų parlamentinę kontrolę.\n\n6. Žvalgybos kontrolieriaus patikrinimas – žvalgybos kontrolieriaus atliekamas faktinių aplinkybių patikrinimas, siekiant nustatyti, ar nėra pagrindo pradėti žvalgybos kontrolieriaus tyrimą.\n\n7. Žvalgybos kontrolieriaus tyrimas – žvalgybos kontrolieriaus atliekama procedūra, apimanti žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiklos teisėtumo, piktnaudžiavimo jiems suteiktais įgaliojimais, galimo asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo reikalavimų pažeidimo arba kitokio galimo žmogaus teisių ir laisvių apsaugos reikalavimų pažeidimo viešojo administravimo srityje vertinimą, sprendimų priėmimą ir rekomendacijų teikimą.\n\n8. Šiame įstatyme vartojama sąvoka „atstovas“ suprantama taip, kaip yra ji apibrėžta Lietuvos Respublikos civilinio proceso kodekse."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Žvalgybos kontrolieriaus veiklos tikslas ir uždaviniai",
+      "content": "1. Žvalgybos kontrolieriaus veiklos tikslas – atlikti nepriklausomą žvalgybos institucijų veiklos teisėtumo priežiūrą ir atitikties žmogaus teisių ir laisvių apsaugos reikalavimams vertinimą.\n\n2. Žvalgybos kontrolieriaus veiklos uždaviniai:\n\n1) vertinti žvalgybos institucijų veiklos ir žvalgybos pareigūnų veiksmų ir (ar) jų priimtų sprendimų, taip pat žvalgybos institucijų vidaus teisės aktų atitiktį įstatymams ir kitiems teisės aktams, tikrinti ir įvertinti žvalgybinės informacijos rinkimo ir žvalgybos metodų taikymo teisėtumą;\n\n2) atlikti asmens duomenų, tvarkomų žvalgybos institucijos nacionalinio saugumo ar gynybos tikslais, tvarkymo teisėtumo kontrolę;\n\n3) nagrinėti pareiškėjų skundus;\n\n4) nagrinėti žvalgybos pareigūnų pranešimus."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Pagrindiniai žvalgybos kontrolieriaus veiklos principai",
+      "content": "Žvalgybos kontrolierius savo veikloje vadovaujasi šiais principais:\n\n1) teisėtumo ir įstatymo viršenybės. Žvalgybos kontrolierius savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis ir susitarimais, šiuo ir kitais įstatymais bei teisės aktais, teisės principais;\n\n2) pagarbos žmogui ir valstybei. Žvalgybos kontrolierius savo veiklą grindžia pagarba žmogaus pagrindinėms teisėms ir laisvėms, visuomenės interesams ir valstybei, jos institucijoms ir įstaigoms;\n\n3) nepriklausomumo. Žvalgybos kontrolierius yra nepriklausomas nuo kitų institucijų, savarankiškai sprendžia jo kompetencijai priskirtus klausimus;\n\n4) atskaitingumo. Žvalgybos kontrolierius už savo veiklą yra atskaitingas Seimui;\n\n5) savalaikiškumo. Žvalgybos kontrolierius kiek įmanoma greičiau atlieka tyrimus dėl žvalgybos institucijų vykdomos veiklos teisėtumo, galimų pažeidimų;\n\n6) skaidrumo. Žvalgybos kontrolierius teikia informaciją visuomenei, Seimui ir kitiems suinteresuotiems asmenims apie savo vykdomą veiklą, priimtus sprendimus, siekdamas atskleisti priimtų sprendimų motyvus. Informacija neteikiama, jeigu gali būti atskleisti žvalgybos institucijų veiklos metodai ir priemonės, veiklos taktika ir (ar) padaryta žala žvalgybos institucijų veiklai;\n\n7) aiškumo. Žvalgybos kontrolieriaus priimtas sprendimas turi būti argumentuotas, nuoseklus, tikslus, suprantamas ir nedviprasmiškas;\n\n8) nešališkumo. Žvalgybos kontrolierius vienodai (lygiai teisingai) gina visų asmenų teises ir laisves, nepaisydamas jų tautybės, rasės, lyties, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;\n\n9) objektyvumo ir patikimumo. Žvalgybos kontrolieriaus priimtas sprendimas turi būti paremtas duomenimis grindžiamais vertinimais.\n\nANTRASIS SKIRSNIS\nŽVALGYBOS KONTROLIERIUS"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Žvalgybos kontrolierius",
+      "content": "Žvalgybos kontrolierius – Seimo skiriamas valstybės pareigūnas, atliekantis žvalgybos institucijų veiklos teisėtumo priežiūrą ir atitikties žmogaus teisių ir laisvių apsaugos reikalavimams vertinimą."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Žvalgybos kontrolieriui keliami reikalavimai",
+      "content": "Žvalgybos kontrolieriumi skiriamas nepriekaištingos reputacijos, kaip tai apibrėžta Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos pilietis, įgijęs magistro kvalifikacinį laipsnį arba kvalifikaciją, įgyjamą baigus vientisąsias studijas, ne mažesnę kaip 10 metų patirtį vykdant veiklą, susijusią su nacionaliniu saugumu ir gynyba ir (arba) žmogaus teisių ir laisvių apsauga, ir atitinkantis teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“. Žvalgybos kontrolieriumi skiriamas asmuo, kuris iki jo kandidatūros pateikimo Seime dienos pastaruosius 5 metus nebuvo valstybės politiku.\n\nStraipsnio pakeitimai:\nNr. XIV-2090, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13989"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Žvalgybos kontrolieriaus skyrimas",
+      "content": "1. Seimo Pirmininko teikimu, apsvarsčius žvalgybos institucijų parlamentinę kontrolę atliekančiam Seimo komitetui ir už žmogaus teisių ir laisvių užtikrinimą atsakingam Seimo komitetui, Seimas skiria du žvalgybos kontrolierius 5 metų kadencijai.\n\n2. Tas pats asmuo žvalgybos kontrolieriumi gali būti skiriamas ne daugiau kaip du kartus iš eilės.\n\n3. Žvalgybos kontrolierius pradeda eiti pareigas tik po to, kai Seimo posėdyje prisiekia Lietuvos Respublikai.\n\n4. Asmuo, paskirtas žvalgybos kontrolieriumi, prieš prisiekdamas, turi sustabdyti savo narystę ir veiklą politinėse partijose iki savo kadencijos pabaigos, nutraukti narystę ir veiklą visuomeniniuose rinkimų komitetuose."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Žvalgybos kontrolieriaus priesaika",
+      "content": "1. Nustatomas toks žvalgybos kontrolieriaus priesaikos tekstas:\n\n„Aš, (vardas, pavardė),\n\nprisiekiu būti ištikimas (ištikima) Lietuvos Respublikai, gerbti ir vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (nešališka), saugoti man patikėtas paslaptis.\n\nTepadeda man Dievas.“\n\n2. Prisiekti leidžiama ir be paskutinio sakinio.\n\n3. Prisiekęs asmuo po priesaikos tekstu pasirašo. Pasirašytas priesaikos tekstas saugomas žvalgybos kontrolieriaus asmens byloje.\n\n4. Priesaikos teksto nepasirašymas arba pasirašymas su išlyga reiškia, kad asmuo neprisiekė ir dėl to negali eiti pareigų."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 straipsnis. Žvalgybos kontrolieriui taikomi draudimai",
+      "content": "1. Žvalgybos kontrolieriui draudžiama:\n\n1) būti politinių partijų nariu, savarankišku politinės kampanijos dalyviu, savarankiškų politinės kampanijos dalyvių nariu ar rėmėju;\n\n2) būti įstatymų nustatyta tvarka uždraustos organizacijos nariu;\n\n3) dalyvauti politinių partijų, savarankiškų politinės kampanijos dalyvių susirinkimuose ar kitokiuose viešuose veiksmuose, kuriais reiškiamos politinės nuostatos ar politiniai reikalavimai arba tiesiogiai remiama politinė partija, savarankiškas politinės kampanijos dalyvis;\n\n4) būti privataus ar viešojo juridinio asmens savininku, tikruoju nariu ar nariu komanditoriumi, skiriamu (renkamu) valdymo organų nariu, juridinio asmens steigėju ir dalyviu;\n\n5) dirbti privačiuose ar viešuosiuose juridiniuose asmenyse, gauti kitą atlyginimą, išskyrus atlyginimą už pedagoginį ir kūrybinį darbą;\n\n6) vykdyti ekonominę, ūkinę komercinę arba individualią veiklą;\n\n7) streikuoti ar piketuoti;\n\n8) kurti profesines sąjungas, būti jų nariu ir dalyvauti jų veikloje;\n\n9) priimti dovanas ar paslaugas arba jas teikti, jeigu tai gali sukelti viešųjų ir privačių interesų konfliktą.\n\n2. Žvalgybos kontrolierius ne tarnybos tikslais negali vykti į užsienio valstybes ar teritorijas, kuriose vyksta ginkluotas konfliktas, taip pat į kitas užsienio valstybes ar teritorijas, jeigu jo buvimas jose galėtų pakenkti Lietuvos Respublikos nacionaliniam saugumui ar valstybės interesams."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "10 straipsnis. Žvalgybos kontrolieriaus įgaliojimų pasibaigimas",
+      "content": "1. Žvalgybos kontrolieriaus įgaliojimai nutrūksta, kai:\n\n1) pasibaigia jo įgaliojimų laikas;\n\n2) jis atsistatydina;\n\n3) jis miršta;\n\n4) nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jeigu įstatymų nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką, arba kai žvalgybos kontrolierius pagal Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadą negali eiti pareigų;\n\n5) įsiteisėja apkaltinamasis teismo nuosprendis, kuriuo žvalgybos kontrolierius pripažįstamas kaltu padaręs nusikalstamą veiką, arba įsiteisėja teismo sprendimas, kuriuo žvalgybos kontrolierius atleidžiamas nuo baudžiamosios atsakomybės;\n\n6) daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo;\n\n7) Lietuvos Respublikos pilietybės įstatymo nustatyta tvarka netenka Lietuvos Respublikos pilietybės;\n\n8) netenka teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“.\n\n2. Šio straipsnio 1 dalies 4 punkte nustatytu atveju klausimą dėl žvalgybos kontrolieriaus įgaliojimų nutraukimo Seimas sprendžia tik tada, kai yra sveikatos apsaugos ministro sudarytos gydytojų komisijos išvada.\n\n3. Nutrūkus žvalgybos kontrolieriaus, kuris eina Žvalgybos kontrolierių įstaigos vadovo pareigas, įgaliojimams, Seimo valdyba sprendimu paveda kitam žvalgybos kontrolieriui laikinai eiti Žvalgybos kontrolierių įstaigos vadovo pareigas, iki paskiriamas nuolatinis Žvalgybos kontrolierių įstaigos vadovas."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "11 straipsnis. Žvalgybos kontrolieriaus pareigos",
+      "content": "Žvalgybos kontrolierius:\n\n1) atlieka nuolatinę žvalgybos institucijų veiklos teisėtumo priežiūrą, susijusią su žvalgybos institucijų, žvalgybos pareigūnų veiksmais, jų priimamais sprendimais;\n\n2) atlieka patikrinimus siekiant nustatyti, ar nėra pagrindo pradėti žvalgybos kontrolieriaus tyrimą;\n\n3) vertina žvalgybinės informacijos rinkimo ir žvalgybos metodų taikymo bei kitos žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiklos teisėtumą, piktnaudžiavimą jiems suteiktais įgaliojimais, biurokratizmą, galimo žmogaus teisių ir laisvių ar teisėtų interesų arba galimo asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo reikalavimų ar kitokius galimus žmogaus teisių ir laisvių viešojo administravimo srityje pažeidimus;\n\n4) tikrina asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo teisėtumą;\n\n5) nagrinėja pareiškėjų (žvalgybos pareigūnų) skundus (pranešimus);\n\n6) atlikęs tyrimus, priima sprendimus dėl išnagrinėtų pareiškėjų (žvalgybos pareigūnų) skundų (pranešimų);\n\n7) teikia sprendimus pareiškėjams (žvalgybos pareigūnams), žvalgybos institucijų, dėl kurių buvo atliekami tyrimai, vadovams, kitoms sprendimuose nurodytoms institucijoms ar suinteresuotiems asmenims, teikia rekomendacijas žvalgybos institucijoms, siekiant pašalinti nustatytų pažeidimų priežastis ir užtikrinti, kad panašūs pažeidimai nebesikartotų ateityje;\n\n8) aptikęs galimai padarytos nusikalstamos veikos požymių, kreipiasi į ikiteisminio tyrimo įstaigą ar prokurorą;\n\n9) rengia ir teikia žvalgybos institucijoms metodines rekomendacijas ir (ar) konsultacijas dėl jų veiklos, susijusios su žvalgybos ir kontržvalgybos vykdymu, tobulinimo;\n\n10) teikia Seimui šio įstatymo 30 straipsnyje nurodytus vertinimus ir ataskaitas;\n\n11) reguliariai informuoja visuomenę apie savo veiklą;\n\n12) atlieka kitas įstatymuose nustatytas pareigas."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "12 straipsnis. Žvalgybos kontrolieriaus teisės",
+      "content": "Žvalgybos kontrolierius, atlikdamas savo pareigas, turi teisę:\n\n1) patekti į žvalgybos institucijų tarnybines ar kitas jų teisėtai valdomas ar naudojamas patalpas, teritorijas, transporto priemones ar į kitus objektus, jeigu tai būtina žvalgybos kontrolieriaus pareigoms atlikti;\n\n2) susipažinti su valstybės ar tarnybos paslaptį sudarančia informacija, kuria disponuoja žvalgybos institucija, jeigu toks susipažinimas yra būtinas žvalgybos kontrolieriaus pareigoms atlikti, ir ja naudotis, išskyrus informaciją apie įslaptintų žvalgybos pareigūnų ar žvalgybos slaptųjų bendradarbių tapatybę ir iš užsienio partnerių gautą informaciją;\n\n3) gauti dokumentus (įskaitant dokumentus, kuriuose yra valstybės ar tarnybos paslaptį sudarančios informacijos), kurie yra būtini žvalgybos kontrolieriaus pareigoms atlikti, išskyrus informaciją apie įslaptintų žvalgybos pareigūnų ar žvalgybos slaptųjų bendradarbių tapatybę ir iš užsienio partnerių gautą informaciją;\n\n4) gauti žvalgybos institucijų vadovų ar jų įgaliotų pavaduotojų motyvuotus teikimus atlikti teismo sankcionuojamus žvalgybos informacijos rinkimo veiksmus;\n\n5) gauti žodinius ir (ar) rašytinius žvalgybos pareigūnų ir kitų su žvalgybos kontrolieriaus tyrimu susijusių asmenų paaiškinimus;\n\n6) surašyti administracinių nusižengimų protokolą dėl Lietuvos Respublikos administracinių nusižengimų kodekso 505 ir 507 straipsniuose numatytų administracinių nusižengimų;\n\n7) kreiptis į administracinį teismą su prašymu ištirti, ar norminis administracinis aktas (ar jo dalis) atitinka įstatymų ar Lietuvos Respublikos Vyriausybės norminių teisės aktų nuostatas;\n\n8) įstatymų nustatyta tvarka kreiptis į teismą ar į kitas valstybės, savivaldybių institucijas ir įstaigas bei kitus asmenis žvalgybos kontrolieriaus kompetencijai priskirtais klausimais;\n\n9) gauti motyvuotas apygardų teismų nutartis atlikti teismo sankcionuojamus žvalgybos informacijos rinkimo veiksmus. Žvalgybos kontrolierius teismų nutarčių pagrįstumo ir teisėtumo nevertina;\n\n10) teikti pagal kompetenciją Respublikos Prezidentui, Seimui, Vyriausybei bei kitoms valstybės institucijoms ir įstaigoms siūlymus dėl žvalgybos institucijų veiklos ir žmogaus teisių ir laisvių apsaugą bei asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, apsaugą reglamentuojančių teisės aktų tobulinimo, informuoti šiame punkte nurodytus subjektus apie įstatymų ar kitų teisės aktų pažeidimus;\n\n11) naudotis kitomis teisėmis, kurias žvalgybos kontrolieriui suteikia kiti Lietuvos Respublikos įstatymai."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "13 straipsnis. Pareiga saugoti paslaptis ir asmens duomenis",
+      "content": "Žvalgybos kontrolierius, Žvalgybos kontrolierių įstaigos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartį (toliau – darbuotojai), privalo saugoti valstybės, tarnybos, komercines ar banko paslaptis, taip pat įstatymų saugomus asmens duomenis, kuriuos sužino eidami pareigas.\n\nTREČIASIS SKIRSNIS\nTYRIMAI, SKUNDŲ (PRANEŠIMŲ) PRIĖMIMAS IR NAGRINĖJIMAS, METODINIŲ REKOMENDACIJŲ IR KONSULTACIJŲ TEIKIMAS"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "14 straipsnis. Žvalgybos kontrolieriaus atliekami tyrimai",
+      "content": "Žvalgybos kontrolierius atlieka tyrimus:\n\n1) savo iniciatyva, nustatęs požymių, leidžiančių manyti, kad žvalgybos institucijos ir (ar) žvalgybos pareigūnai galimai piktnaudžiauja jiems suteiktais įgaliojimais ar galimai pažeidžia žmogaus teises ir laisves ar teisėtus interesus, ar galimai pažeidžia asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo reikalavimus, ar kitaip galimai pažeidžia žmogaus teises ir laisves viešojo administravimo srityje;\n\n2) gavęs žvalgybos pareigūno pranešimą;\n\n3) gavęs pareiškėjo skundą."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "15 straipsnis. Skundų (pranešimų) pateikimas",
+      "content": "1. Pareiškėjas turi teisę pateikti žvalgybos kontrolieriui skundą dėl žvalgybos institucijų ir (ar) žvalgybos pareigūnų piktnaudžiavimo jiems suteiktais įgaliojimais ar biurokratizmo viešojo administravimo srityje, taip pat dėl kitokių žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiksmų atitikties teisės aktų ir žmogaus teisių ir laisvių apsaugos reikalavimams bei galimų asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo pažeidimų.\n\n2. Žvalgybos pareigūnas turi teisę pateikti žvalgybos kontrolieriui pranešimą dėl žvalgybos institucijos galimai neteisėtos veiklos ir (ar) jos priimtų galimai neteisėtų sprendimų dėl asmenų, kurių atžvilgiu vykdoma žvalgybinė veikla, pažeidžiant žmogaus teisių ir laisvių apsaugos reikalavimus ir asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo reikalavimus.\n\n3. Žvalgybos kontrolierius taip pat nagrinėja Seimo narių, kitų institucijų ar pareigūnų jam perduotus pareiškėjų skundus, kurie atitinka šio įstatymo 16 straipsnyje nustatytus reikalavimus.\n\n4. Rašytiniai skundai paprastai pateikiami per Nacionalinę elektroninių siuntų pristatymo, naudojant pašto tinklą, informacinę sistemą (toliau – E. pristatymo sistema), kitomis elektroninių ryšių priemonėmis, registruotąja pašto siunta arba tiesiogiai. Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia žvalgybos kontrolieriui, teikiamos neatlygintinai. Jeigu skundas gautas žodžiu, telefonu, žvalgybos kontrolierius gali pradėti tyrimą savo iniciatyva.\n\n5. Kreipimasis į žvalgybos kontrolierių neapriboja asmens teisės kreiptis į teismą dėl žvalgybos institucijų veiksmų ar neveikimo, galimai pažeistų jo teisių ir laisvių."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "16 straipsnis. Skundui ir pranešimui taikomi reikalavimai",
+      "content": "1. Skunde turi būti nurodyta:\n\n1) adresatas;\n\n2) pareiškėjo vardas, pavardė (pavadinimas) ir adresas (buveinė), jeigu pareiškėjas turi, –jo elektroninio pašto adresas, telefono, fakso numeriai ar kitų elektroninių ryšių priemonių adresai, taip pat atstovo, jeigu jis yra, vardas, pavardė ir adresas, jeigu žinoma, – atstovo elektroninio pašto adresas, telefono, fakso numeriai ar kitų elektroninių ryšių priemonių adresai;\n\n3) skundžiamų žvalgybos pareigūnų vardai, pavardės ir pareigos, žvalgybos institucijos, kurioje jie eina pareigas, pavadinimas;\n\n4) skundžiamo žvalgybos institucijos sprendimo arba veikos apibūdinimas, jos padarymo laikas ir aplinkybės;\n\n5) suformuluotas prašymas;\n\n6) skundo surašymo data ir pareiškėjo parašas.\n\n2. Jeigu skundą pateikia pareiškėjo atstovas, turi būti pridedamas įgaliojimas ar kitoks dokumentas, patvirtinantis atstovo įgaliojimus.\n\n3. Prie skundo gali būti pridedama:\n\n1) ginčijamo sprendimo nuorašas;\n\n2) turimi duomenys ir jų aprašymas.\n\n4. Pranešime turi būti nurodyta:\n\n1) adresatas;\n\n2) žvalgybos pareigūno vardas, pavardė ir adresas, jeigu turi, – jo elektroninio pašto adresas, telefono, fakso numeriai ar kitų elektroninių ryšių priemonių adresai, žvalgybos institucijos, kurioje jis eina pareigas, pavadinimas;\n\n3) žvalgybos institucijos galimai neteisėtos veikos apibūdinimas ir (ar) jos galimai neteisėto sprendimo priėmimo data ir numeris;\n\n4) pranešimo surašymo data ir žvalgybos pareigūno parašas.\n\n5. Prie pranešimo gali būti pridedami turimi duomenys ir jų aprašymas.\n\n6. Šio straipsnio 1, 2 ir 4 dalyse nurodytų reikalavimų nesilaikymas ar rekvizitų nenurodymas negali būti pagrindas atsisakyti nagrinėti skundą (pranešimą), išskyrus anoniminius skundus (pranešimus), taip pat atvejus, kai neįmanoma pradėti tyrimo dėl duomenų trūkumo, o pareiškėjas (žvalgybos pareigūnas) žvalgybos kontrolieriaus prašymu jų nepateikia, arba kai skundo (pranešimo) tekstas yra neįskaitomas ar skundo (pranešimo) turinys yra nesuprantamas."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "17 straipsnis. Skundų (pranešimų) pateikimo terminas",
+      "content": "Skundams (pranešimams) pateikti nustatomas vienų metų terminas nuo skundžiamų veiksmų padarymo ar skundžiamo sprendimo priėmimo dienos. Skundai (pranešimai), pateikti praėjus nurodytam terminui, nenagrinėjami, jeigu žvalgybos kontrolierius nenusprendžia kitaip."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "18 straipsnis. Anoniminiai skundai (pranešimai)",
+      "content": "Anoniminiai skundai (pranešimai) nenagrinėjami, jeigu žvalgybos kontrolierius nenusprendžia kitaip."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "19 straipsnis. Atsisakymas nagrinėti skundą (pranešimą)",
+      "content": "1. Žvalgybos kontrolierius ne vėliau kaip per 10 darbo dienų nuo skundo (pranešimo) gavimo dienos priima sprendimą atsisakyti nagrinėti skundą (pranešimą), jeigu:\n\n1) skunde (pranešime) nurodytų aplinkybių tyrimas nepriklauso žvalgybos kontrolieriaus kompetencijai;\n\n2) skundas (pranešimas) tuo pačiu klausimu jau yra išnagrinėtas ar yra nagrinėjamas teisme, ar jį nagrinėja kitos kompetentingos valstybės institucijos ar įstaigos;\n\n3) dėl skundo (pranešimo) dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą;\n\n4) nustatomi šio įstatymo 16 straipsnio 6 dalyje nurodyti atvejai.\n\n2. Priėmus sprendimą atsisakyti nagrinėti skundą (pranešimą), skundą (pranešimą) pateikusiam pareiškėjui (žvalgybos pareigūnui) šio įstatymo 20 straipsnio 2 dalyje nustatyta tvarka nurodomi atsisakymo nagrinėti pagrindai. Tais atvejais, kai skundo (pranešimo) nagrinėjimas nėra priskirtas žvalgybos kontrolieriaus kompetencijai, šio įstatymo 20 straipsnio 2 dalyje nustatyta tvarka nurodoma, į kokią instituciją ar įstaigą tuo klausimu galėtų kreiptis skundą (pranešimą) pateikęs pareiškėjas (žvalgybos pareigūnas), arba pranešama, kuriai institucijai ar įstaigai skundas (pranešimas) yra perduotas.\n\n3. Pakartotinai pateiktas skundas (pranešimas) nenagrinėjamas, išskyrus atvejus, kai pakartotinai pateiktame skunde (pranešime) nurodoma naujų reikšmingų aplinkybių ir (ar) faktų.\n\n4. Jeigu pareiškėjas (žvalgybos pareigūnas) piktnaudžiauja teise kreiptis į žvalgybos kontrolierių, žvalgybos kontrolieriaus sprendimu pareiškėjo skundas (pranešimas) gali būti nenagrinėjamas."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "20 straipsnis. Skundo (pranešimo) nagrinėjimo terminai ir informavimo būdai",
+      "content": "1. Skundas (pranešimas) turi būti išnagrinėtas ir pareiškėjui (žvalgybos pareigūnui) šio straipsnio 2 dalyje nustatyta tvarka atsakyta per 3 mėnesius nuo skundo (pranešimo) gavimo dienos, išskyrus atvejus, kai dėl skunde (pranešime) nurodytų aplinkybių sudėtingumo, informacijos gausos, skundžiamų veiksmų tęstinio pobūdžio ar kitų svarbių priežasčių būtina skundo (pranešimo) nagrinėjimą pratęsti. Apie sprendimą pratęsti skundo (pranešimo) nagrinėjimo terminą informuojamas pareiškėjas (žvalgybos pareigūnas) šio straipsnio 2 dalyje nustatyta tvarka. Skundai (pranešimai) turi būti išnagrinėti per įmanomai trumpiausią laiką.\n\n2. Jeigu pareiškėjas nėra nurodęs pageidaujamo atsakymo į skundą gavimo būdo ir (ar) reikalingų kontaktinių duomenų, jis apie žvalgybos kontrolieriaus sprendimus informuojamas šia prioriteto tvarka: per E. pristatymo sistemą; jeigu pareiškėjo elektroninio pristatymo sistemos dėžutė yra neaktyvi, atsakymas jam siunčiamas per E. pristatymo sistemą, bet įteikiamas kaip registruotoji pašto siunta; kitomis elektroninių ryšių priemonėmis ar registruotąja pašto siunta. Kai pareiškėjas yra nurodęs pageidaujamą atsakymo į skundą (pranešimą) gavimo būdą ir reikalingus kontaktinius duomenis, atsakymas į skundą (pranešimą) jam įteikiamas šiuo būdu."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "21 straipsnis. Žvalgybos kontrolieriaus atliekamo tyrimo nutraukimas",
+      "content": "1. Žvalgybos kontrolieriaus atliekamas tyrimas nutraukiamas, jeigu:\n\n1) tyrimo metu išnyksta aplinkybės, dėl kurių buvo pradėtas tyrimas;\n\n2) skundą (pranešimą) pateikęs pareiškėjas (žvalgybos pareigūnas) atsiima skundą (pranešimą);\n\n3) žvalgybos kontrolieriui tarpininkaujant problemos išsprendžiamos arba žmogaus teises ir laisves, jo teisėtus interesus pažeidžianti veika nutraukiama;\n\n4) nagrinėjant skundą (pranešimą), nustatomi skundo (pranešimo) atsisakymo nagrinėti pagrindai, nurodyti šio įstatymo 19 straipsnio 1 ir 4 dalyse.\n\n2. Jeigu skundą (pranešimą) pateikęs pareiškėjas (žvalgybos pareigūnas) atsiima skundą (pranešimą), pradėtas tyrimas gali būti nenutraukiamas ir žvalgybos kontrolieriaus iniciatyva tęsiamas toliau."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "22 straipsnis. Žvalgybos kontrolieriaus sprendimai",
+      "content": "1. Žvalgybos kontrolierius, išnagrinėjęs skundą (pranešimą) ir atlikęs tyrimui reikalingus veiksmus, įvertina surinktus duomenis ir pagal kompetenciją priima vieną iš šių sprendimų:\n\n1) pripažinti skundą (pranešimą) pagrįstu visa apimtimi ar iš dalies;\n\n2) atmesti skundą (pranešimą) kaip nepagrįstą;\n\n3) skundo (pranešimo) nagrinėjimą nutraukti.\n\n2. Žvalgybos kontrolierius, atlikęs tyrimo veiksmus, kurie buvo pradėti jo iniciatyva, įvertina surinktus duomenis ir pagal kompetenciją priima vieną iš šių sprendimų:\n\n1) pripažinti, kad teisės aktų pažeidimų nenustatyta ir (ar) nebūta piktnaudžiavimo, biurokratizmo atvejų ar kitokių žmogaus teisių ir laisvių viešojo administravimo srityje pažeidimų;\n\n2) pripažinti, kad nustatyti teisės aktų pažeidimai ir (ar) piktnaudžiavimo, biurokratizmo atvejai ar kitaip pažeistos žmogaus teisės ir laisvės viešojo administravimo srityje.\n\n3. Žvalgybos kontrolieriaus sprendimai yra rekomendaciniai.\n\n4. Žvalgybos kontrolieriaus sprendimas pateikiamas:\n\n1) pareiškėjui (žvalgybos pareigūnui), pateikusiam skundą (pranešimą);\n\n2) žvalgybos institucijos, dėl kurios buvo atliekamas tyrimas, vadovui;\n\n3) kitoms sprendime nurodytoms valstybės institucijoms ar įstaigoms pagal jų kompetenciją.\n\n5. Kai aptinkama galimai padarytos nusikalstamos veikos požymių, sprendimas pateikiamas ikiteisminio tyrimo įstaigai ar prokurorui.\n\n6. Tais atvejais, kai žvalgybos kontrolieriaus priimtame sprendime yra informacijos, sudarančios valstybės, tarnybos, komercinę ar banko paslaptį, arba įstatymų saugomų asmens duomenų, gali būti pateikiamas žvalgybos kontrolieriaus sprendimo išrašas, jeigu asmuo, kuriam toks sprendimas pateikiamas, neturi teisės susipažinti su informacija, sudarančia valstybės, tarnybos, komercinę ar banko paslaptį, arba įstatymų saugomais kitų asmenų asmens duomenimis."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "23 straipsnis. Žvalgybos kontrolieriaus reikalavimų privalomumas",
+      "content": "1. Žvalgybos institucijos ir (ar) žvalgybos pareigūnai privalo žvalgybos kontrolieriaus reikalavimu per jo nustatytą terminą pateikti jam informaciją, dokumentus, paaiškinimus ir kitą medžiagą, būtinus jo funkcijoms atlikti.\n\n2. Žvalgybos kontrolieriaus sprendimą privalo nagrinėti žvalgybos institucija, kuriai toks sprendimas adresuojamas, ir apie nagrinėjimo rezultatus informuoti žvalgybos kontrolierių. Informacija žvalgybos kontrolieriui pateikiama nedelsiant, priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į žvalgybos kontrolieriaus sprendimą, bet ne vėliau kaip per 30 dienų nuo sprendimo gavimo dienos.\n\n3. Asmenys, nevykdantys žvalgybos kontrolieriaus reikalavimų, atsako įstatymų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "24 straipsnis. Žvalgybos kontrolieriaus metodinės rekomendacijos, konsultacijos",
+      "content": "Žvalgybos kontrolierius teikia žvalgybos institucijoms metodines rekomendacijas ir (ar) konsultacijas dėl jų veiklos, susijusios su žvalgybos ir kontržvalgybos vykdymu, tobulinimo. Metodinės rekomendacijos ir (ar) konsultacijos nesiejamos su konkrečiais žvalgybos kontrolieriaus atliekamais tyrimais ir teikiamos siekiant užtikrinti žvalgybos institucijų veiklos teisėtumą ir atitiktį žmogaus teisių ir laisvių apsaugos reikalavimams.\n\nKETVIRTASIS SKIRSNIS\nŽVALGYBOS KONTROLIERIŲ ĮSTAIGA"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "25 straipsnis. Žvalgybos kontrolierių įstaiga",
+      "content": "1. Žvalgybos kontrolierių darbui užtikrinti steigiama Žvalgybos kontrolierių įstaiga, kuri padeda atlikti žvalgybos institucijų veiklos patikrinimus, tyrimus, nagrinėti pareiškėjų ir žvalgybos pareigūnų skundus (pranešimus) ir rengti šio įstatymo 24 straipsnyje numatytas metodines rekomendacijas ir (ar) konsultacijas, taip pat padeda Žvalgybos kontrolierių įstaigos vadovui tinkamai atlikti įstaigos vadovo funkcijas.\n\n2. Žvalgybos kontrolierių įstaiga – iš valstybės biudžeto finansuojama biudžetinė įstaiga, turinti atsiskaitomąją sąskaitą banke ir antspaudą su Lietuvos valstybės herbu bei savo pavadinimu.\n\n3. Už Žvalgybos kontrolierių įstaigos antspaudo naudojimą ir saugojimą atsako Žvalgybos kontrolierių įstaigos vadovas."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "26 straipsnis. Žvalgybos kontrolierių įstaigos struktūra",
+      "content": "1. Žvalgybos kontrolierių įstaigai vadovauja Žvalgybos kontrolierių įstaigos vadovas.\n\n2. Žvalgybos kontrolierių įstaigą sudaro du žvalgybos kontrolieriai, valstybės tarnautojai ir darbuotojai.\n\n3. Žvalgybos kontrolierių įstaigos valstybės tarnautojai ir darbuotojai turi atitikti teisės aktų nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija. Su kokia konkrečia slaptumo žyma žymima įslaptinta informacija Žvalgybos kontrolierių įstaigos valstybės tarnautojai ir darbuotojai privalo gauti leidimą dirbti ar susipažinti, nurodoma įstaigos valstybės tarnautojų ir darbuotojų pareigybių aprašymuose.\n\n4. Žvalgybos kontrolierių įstaigos struktūrą, jos uždavinius, funkcijas ir darbo organizavimą nustato Žvalgybos kontrolierių įstaigos vadovo tvirtinami Žvalgybos kontrolierių įstaigos nuostatai.\n\n5. Žvalgybos kontrolierių įstaigos didžiausią leistiną valstybės tarnautojų ir darbuotojų pareigybių skaičių tvirtina Seimo valdyba."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "27 straipsnis. Žvalgybos kontrolierių įstaigos vadovas",
+      "content": "1. Vieną žvalgybos kontrolierių Seimas Seimo Pirmininko teikimu, apsvarsčius žvalgybos institucijų parlamentinę kontrolę atliekančiam Seimo komitetui ir už žmogaus teisių ir laisvių užtikrinimą atsakingam Seimo komitetui, skiria Žvalgybos kontrolierių įstaigos vadovu.\n\n2. Žvalgybos kontrolierių įstaigos vadovas, be tiesioginių žvalgybos kontrolieriaus pareigų, atlieka šias funkcijas:\n\n1) vadovauja Žvalgybos kontrolierių įstaigai ir organizuoja jos darbą;\n\n2) skirsto gautus nagrinėti skundus (pranešimus);\n\n3) prima sprendimą pratęsti skundo (pranešimo) nagrinėjimo terminą, kai tyrimą atliekantis žvalgybos kontrolierius yra laikinai nedarbingas ir dėl to laikinai negali eiti pareigų;\n\n4) atstovauja Žvalgybos kontrolierių įstaigai Lietuvos Respublikos ir užsienio valstybių institucijose ir įstaigose, tarptautinėse organizacijose;\n\n5) užtikrina Žvalgybos kontrolierių įstaigos veiklai skiriamų finansinių ir kitų išteklių efektyvų naudojimą;\n\n6) nustato Žvalgybos kontrolierių įstaigos vidaus administravimo, personalo patikimumo užtikrinimo, įslaptintos informacijos administravimo, įslaptintos informacijos fizinės apsaugos, įslaptintų sandorių saugumo, įslaptintos informacijos ryšių ir informacinių sistemų apsaugos bei kitus vidaus saugumo reikalavimus ir jų įgyvendinimo tvarką;\n\n7) įstatymų nustatyta tvarka priima į pareigas (darbą) ir iš pareigų (darbo) atleidžia Žvalgybos kontrolierių įstaigos valstybės tarnautojus ir darbuotojus;\n\n8) tvirtina Žvalgybos kontrolierių įstaigos nuostatus, struktūrinių padalinių nuostatus, Žvalgybos kontrolierių įstaigos darbo reglamentą, kuriame nustatomos vidaus darbo tvarkos taisyklės, taip pat valstybės tarnautojų ir darbuotojų pareigybių sąrašus ir pareigybių aprašymus, nustato konkrečius valstybės tarnautojų ir darbuotojų pareiginių algų koeficientus;\n\n9) suteikia žvalgybos kontrolieriui, Žvalgybos kontrolierių įstaigos valstybės tarnautojams ir darbuotojams atostogas, siunčia juos į komandiruotes, stažuotes;\n\n10) priima sprendimus dėl Žvalgybos kontrolierių įstaigos valstybės tarnautojų ir darbuotojų kvalifikacijos tobulinimo;\n\n11) skatina Žvalgybos kontrolierių įstaigos valstybės tarnautojus ir darbuotojus, skiria jiems tarnybines nuobaudas arba priima sprendimus dėl darbo ar pareigų pažeidimo;\n\n12) organizuoja metinio žvalgybos institucijų veiklos teisėtumo vertinimo ir Žvalgybos kontrolierių įstaigos praėjusių kalendorinių metų veiklos ataskaitos parengimą ir pateikimą Seimui;\n\n13) atlieka kitas įstatymuose ir kituose teisės aktuose nustatytas pareigas.\n\n3. Žvalgybos kontrolierių įstaigos vadovas yra Žvalgybos kontrolierių įstaigai skirtų valstybės biudžeto asignavimų valdytojas.\n\n4. Žvalgybos kontrolierių įstaigos vadovas savo kompetencijos klausimais leidžia įsakymus ir kontroliuoja, kaip jie vykdomi, pasirašo vidaus administravimo dokumentus.\n\n5. Kai Žvalgybos kontrolierių įstaigos vadovas atostogauja, yra išvykęs į komandiruotę už Lietuvos Respublikos ribų ilgiau kaip vienai dienai arba yra laikinai nedarbingas ir dėl to laikinai negali eiti pareigų, tuo laiku jį pavaduoja kitas žvalgybos kontrolierius.\n\n6. Žvalgybos kontrolierių įstaigos vadovą iš pareigų atleidžia Seimas Seimo Pirmininko teikimu, apsvarsčius žvalgybos institucijų parlamentinę kontrolę atliekančiam Seimo komitetui ir už žmogaus teisių ir laisvių užtikrinimą atsakingam Seimo komitetui.\n\nPENKTASIS SKIRSNIS\nŽVALGYBOS KONTROLIERIAUS VEIKLA IR KITOS GARANTIJOS"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "28 straipsnis. Žvalgybos kontrolieriaus darbo apmokėjimas ir socialinės garantijos",
+      "content": "1. Žvalgybos kontrolieriaus darbo užmokesčio dydis ir apmokėjimo sąlygos nustatytos Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme.\n\n2. Žvalgybos kontrolierius draudžiamas valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.\n\n3. Žvalgybos kontrolieriui kasmet suteikiamos 22 darbo dienų atostogos. Žvalgybos kontrolieriui, turinčiam didesnį kaip 5 metų tarnybos Lietuvos valstybei stažą, už kiekvienų paskesnių 3 metų tarnybos stažą suteikiamos papildomos 3 darbo dienos kasmetinių atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 37 darbo dienos. Žvalgybos kontrolierius taip pat turi teisę į Lietuvos Respublikos darbo kodekso 125 straipsnyje nustatytas tikslines ir pailgintas, papildomas atostogas. Nepanaudos kasmetinės atostogos žvalgybos kontrolieriui suteikiamos kitu laiku.\n\n4. Pasibaigus žvalgybos kontrolieriaus įgaliojimų laikui, jam išmokama 2 mėnesių atlyginimo dydžio išeitinė išmoka. Žvalgybos kontrolieriui, atleidžiamam iš pareigų, kai jis negali eiti pareigų dėl sveikatos būklės, išmokama 3 mėnesių atlyginimo dydžio išeitinė išmoka. Žvalgybos kontrolieriui mirus, jo šeimos nariams (sutuoktiniui, partneriui, sugyventiniui, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), – iki jiems sukaks 24 metai, vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų) išmokama 3 mėnesių atlyginimo dydžio išmoka. Šios išmokos mokamos iš Žvalgybos kontrolierių įstaigai skirtų valstybės biudžeto asignavimų. Atleidus žvalgybos kontrolierių jo paties prašymu ar kai įsiteisėja apkaltinamasis teismo nuosprendis, kuriuo žvalgybos kontrolierius pripažįstamas kaltu padaręs nusikalstamą veiką, arba įsiteisėja teismo sprendimas, kuriuo žvalgybos kontrolierius atleidžiamas nuo baudžiamosios atsakomybės, ar netenka Lietuvos Respublikos pilietybės, ar netenka teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“, ar kai ne mažiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, išeitinė išmoka nemokama.\n\n5. Pasibaigus įgaliojimų laikui, žvalgybos kontrolierius turi teisę Lietuvos Respublikos teisės aktų nustatyta tvarka atkurti valstybės pareigūno, statutinio valstybės tarnautojo, karjeros valstybės tarnautojo arba įstaigos vadovo statusą.\n\nŠEŠTASIS SKIRSNIS\nŽVALGYBOS KONTROLIERIAUS VEIKLOS VIEŠUMAS, VERTINIMŲ IR ATASKAITŲ TEIKIMAS"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "29 straipsnis. Veiklos viešumas",
+      "content": "Žvalgybos kontrolieriai reguliariai skelbia aktualias naujienas ir apibendrintą informaciją apie savo veiklą, atliktų patikrinimų, tyrimų rezultatus ir sprendimų įgyvendinimą Žvalgybos kontrolierių įstaigos interneto svetainėje. Viešai neskelbiama informacija, kurios viešas paskelbimas nėra leidžiamas pagal Lietuvos Respublikos įstatymus."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "30 straipsnis. Vertinimų ir metų veiklos ataskaitų teikimas",
+      "content": "Žvalgybos kontrolieriai kasmet iki kovo 1 dienos raštu pateikia Seimui metinį žvalgybos institucijų veiklos teisėtumo ir atitikties žmogaus teisių ir laisvių apsaugos reikalavimams neįslaptintą vertinimą ir praėjusių kalendorinių metų veiklos neįslaptintą ataskaitą, kurią sudaro apibendrinta informacija. Šis vertinimas ir ataskaita svarstomi Seime ir skelbiami Žvalgybos kontrolierių įstaigos interneto svetainėje.\n\nSEPTINTASIS SKIRSNIS\nBAIGIAMOSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "31 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2022 m. sausio 1 d.\n\n2. Seimas iki 2021 m. gruodžio 31 d. priima nutarimą dėl Žvalgybos kontrolierių įstaigos įsteigimo.\n\n3. Iki šio įstatymo įsigaliojimo Seimo kontrolieriaus pradėtus ir nebaigtus tyrimus dėl žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiklos užbaigia žvalgybos kontrolierius.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pareiškėjas",
+      "definition": "fizinis ar juridinis asmuo, kuris kreipiasi į žvalgybos kontrolierių pateikdamas skundą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Pranešimas",
+      "definition": "žvalgybos pareigūno pateikta informacija apie žvalgybos institucijos galimai neteisėtą veiklą ir (ar) jos priimtus galimai neteisėtus sprendimus dėl asmenų, kurių atžvilgiu vykdoma žvalgybinė veikla, pažeidžiant žmogaus teisių ir laisvių apsaugos reikalavimus ir asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo reikalavimus.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Skundas",
+      "definition": "pareiškėjo kreipimasis į žvalgybos kontrolierių, kuriame nurodoma, kad dėl žvalgybos institucijų ir (ar) žvalgybos pareigūnų piktnaudžiavimo ar biurokratizmo viešojo administravimo srityje arba dėl kitokių žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiksmų yra pažeistos jo teisės ir laisvės, padaryti asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo pažeidimai, ir prašoma šias teises apginti, užtikrinti šių asmens duomenų tvarkymo reikalavimų laikymąsi.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Už žmogaus teisių ir laisvių užtikrinimą atsakingas Seimo komitetas",
+      "definition": "Lietuvos Respublikos Seimo statute nurodytas Seimo komitetas, atsakingas už valstybės žmogaus teisių ir laisvių politikos formavimą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Žvalgybos institucijų parlamentinę kontrolę atliekantis Seimo komitetas",
+      "definition": "Seimo statute nurodytas Seimo komitetas, kuriam yra pavesta atlikti žvalgybos institucijų parlamentinę kontrolę.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Žvalgybos kontrolieriaus patikrinimas",
+      "definition": "žvalgybos kontrolieriaus atliekamas faktinių aplinkybių patikrinimas, siekiant nustatyti, ar nėra pagrindo pradėti žvalgybos kontrolieriaus tyrimą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Žvalgybos kontrolieriaus tyrimas",
+      "definition": "žvalgybos kontrolieriaus atliekama procedūra, apimanti žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiklos teisėtumo, piktnaudžiavimo jiems suteiktais įgaliojimais, galimo asmens duomenų, tvarkomų nacionalinio saugumo ar gynybos tikslais, tvarkymo reikalavimų pažeidimo arba kitokio galimo žmogaus teisių ir laisvių apsaugos reikalavimų pažeidimo viešojo administravimo srityje vertinimą, sprendimų priėmimą ir rekomendacijų teikimą.\n\n8. Šiame įstatyme vartojama sąvoka „atstovas“ suprantama taip, kaip yra ji apibrėžta Lietuvos Respublikos civilinio proceso kodekse.",
+      "source_provision": "art2"
+    }
+  ]
+}

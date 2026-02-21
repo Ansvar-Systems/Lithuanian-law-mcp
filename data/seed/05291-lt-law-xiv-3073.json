@@ -1,0 +1,37 @@
+{
+  "id": "lt-law-xiv-3073",
+  "type": "statute",
+  "title": "Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 III skyriaus septintojo skirsnio ir 3 priedo pakeitimo įstatymas",
+  "short_name": "XIV-3073",
+  "status": "in_force",
+  "issued_date": "2024-11-07",
+  "in_force_date": "2025-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/d12d1fc0a58a11ef90b5ee8931e5ce5e/XTjSRFkDtx",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. III skyriaus septintojo skirsnio pakeitimas",
+      "content": "Pakeisti III skyriaus septintąjį skirsnį ir jį išdėstyti taip:\n\n„SEPTINTASIS SKIRSNIS\nPRANEŠIMAI APIE ORLAIVIŲ AVARIJAS IR INCIDENTUS"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "42 straipsnis. Pranešimai apie orlaivių avarijas ir incidentus",
+      "content": "Pranešimų apie orlaivių avarijas ir incidentus teikimo tvarką nustato susisiekimo ministras.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo 3 priedo pakeitimas",
+      "content": "Pripažinti netekusiu galios Įstatymo 3 priedo 13 punktą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2025 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

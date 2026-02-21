@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xii-1201",
+  "type": "statute",
+  "title": "Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 39 ir 107 straipsnių pakeitimo įstatymas",
+  "short_name": "XII-1201",
+  "status": "in_force",
+  "issued_date": "2014-10-07",
+  "in_force_date": "2015-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/d60da270544211e48329c4b5fc070a74/AXgZozRmQv",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 39 straipsnio pakeitimas",
+      "content": "Pakeisti 39 straipsnį ir jį išdėstyti taip:\n\n„39 straipsnis. Užsienio valiuta išreikštų prekių muitinės vertės elementų perskaičiavimas\n\nJeigu prekių muitinės vertės elementai išreikšti ne eurais, o užsienio valiuta, šie elementai perskaičiuojami pagal Europos centrinio banko paskelbtą orientacinį euro ir užsienio valiutos santykį, o tais atvejais, kai orientacinio užsienio valiutos ir euro santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutos santykį.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 107 straipsnio pakeitimas",
+      "content": "Pakeisti 107 straipsnio 1 dalį ir ją išdėstyti taip:\n\n„1. Taikant šį Įstatymą ir kitus muitų teisės aktus, reikšmingu pažeidimu laikoma nusikalstama veika arba administracinis teisės pažeidimas, už kurį paskirta didesnė kaip 1 500 eurų administracinė bauda, kartotiniu pažeidimu – antras ir kiekvienas paskesnis administracinis teisės pažeidimas, kuris pagal šį straipsnį nelaikytinas reikšmingu.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2015 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                             Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

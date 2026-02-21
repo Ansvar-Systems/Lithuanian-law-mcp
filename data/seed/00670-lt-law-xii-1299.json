@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xii-1299",
+  "type": "statute",
+  "title": "Lietuvos Respublikos kainų įstatymo Nr. I-413 pripažinimo netekusiu galios įstatymas",
+  "short_name": "XII-1299",
+  "status": "in_force",
+  "issued_date": "2014-11-06",
+  "in_force_date": "2015-05-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/197cc62069a711e4b6b89037654e22b1",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos kainų įstatymo Nr. I-413 pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios Lietuvos Respublikos kainų įstatymą Nr. I-413 su visais pakeitimais ir papildymais."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotoms institucijoms",
+      "content": "Lietuvos Respublikos Vyriausybė ir (ar) jos įgaliotos institucijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas, išskyrus 2 straipsnį, įsigalioja 2015 m. gegužės 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                             Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

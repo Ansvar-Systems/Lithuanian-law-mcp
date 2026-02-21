@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-2005",
+  "type": "statute",
+  "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 148 straipsnio pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XIV-2005",
+  "status": "in_force",
+  "issued_date": "2023-05-25",
+  "in_force_date": "2024-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/2d9a126006c511ee9978886e85107ab2/KdGVLNWvnH",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 22 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 22 straipsnį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 148 straipsnio pakeitimas",
+      "content": "1. Pakeisti 148 straipsnio 6 dalį ir ją išdėstyti taip:\n\n„6. Komisijos narys pareigas gali eiti tik Komisijoje, taip pat dirbti mokslinį arba pedagoginį darbą.“\n\n2. Pakeisti 148 straipsnio 8 dalį ir ją išdėstyti taip:\n\n„8. Komisijos veiklą aptarnauja administracija, kurią sudaro valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2024 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda\n\npart_e6cca20d0b904ec08b71035e1173a503_end"
+    }
+  ],
+  "definitions": []
+}

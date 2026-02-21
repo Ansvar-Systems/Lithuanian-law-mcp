@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-x-1683",
+  "type": "statute",
+  "title": "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio pakeitimo ir papildymo įstatymas",
+  "short_name": "X-1683",
+  "status": "in_force",
+  "issued_date": "2008-07-03",
+  "in_force_date": "2008-07-17",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.A5D25DCF84A0",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 9 straipsnio 1 dalies pakeitimas ir papildymas",
+      "content": "9 straipsnio 1 dalies 8 punkte vietoj žodžių „kurorto statusą turinčių savivaldybių gyventojų tankumui priešingas rodiklis“ įrašyti žodžius „savivaldybės teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurorto statusas, bendras plotas“, vietoj skaičiaus „0,04“ įrašyti skaičių „0,035“, dalį papildyti 9 punktu ir ją išdėstyti taip:\n\n„1. Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys rodikliai yra išlyginimo koeficientas h, nuo kurio priklauso kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis (procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie demografiniai, socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys šių rodiklių įtaką savivaldybių išlaidų struktūrų skirtumų pasikeitimui:\n\n1) rodiklis R1 – vietinių kelių ir gatvių ilgis, kurio koeficientas K1 lygus 0,13;\n\n2) rodiklis R2 – savivaldybės teritorijos plotas, kurio koeficientas K2 lygus 0,17;\n\n3) rodiklis R3 – pensinio amžiaus gyventojų skaičius, kurio koeficientas K3 lygus 0,13;\n\n4) rodiklis R4 – vaikų nuo 7 iki 17 metų skaičius, kurio koeficientas K4 lygus 0,11;\n\n5) rodiklis R5 – vaikų nuo 0 iki 6 metų skaičius, kurio koeficientas K5 lygus 0,25;\n\n6) rodiklis R6 – savivaldybei priklausančių (iš savivaldybės biudžeto finansuojamų) švietimo įstaigų patalpų naudingas plotas, kurio koeficientas K6 lygus 0,13;\n\n7) rodiklis R7 – savivaldybės teritorijos užstatytas plotas, kurio koeficientas K7 lygus 0,04;\n\n8) rodiklis R8 – savivaldybės teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurorto statusas, bendras plotas, kurio koeficientas K8 lygus 0,035;\n\n9) rodiklis R9 – savivaldybės teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurortinės teritorijos statusas, bendras plotas, kurio koeficientas K9 lygus 0,005.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įgyvendinimas",
+      "content": "Šio įstatymo 1 straipsnyje išdėstytos Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio 1 dalies 8 ir 9 punktuose nurodyti rodikliai R8 ir R9 ir koeficientai K8 ir K9 pradedami taikyti rengiant Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

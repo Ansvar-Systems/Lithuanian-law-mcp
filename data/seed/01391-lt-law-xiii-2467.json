@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiii-2467",
+  "type": "statute",
+  "title": "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 10 straipsnio pakeitimo įstatymas",
+  "short_name": "XIII-2467",
+  "status": "in_force",
+  "issued_date": "2019-10-10",
+  "in_force_date": "2019-10-18",
+  "url": "https://e-tar.lt/portal/lt/legalAct/35b471d0f0ac11e99681cd81dcdca52c/IfyiPcsBNi",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 10 straipsnio pakeitimas",
+      "content": "Pakeisti 10 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:\n\n„1) pastoviąją gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą. Ateinančių metų pastovioji gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama einamųjų metų pastoviąją gyventojų pajamų mokesčio dalį (procentais) koreguojant atsižvelgus į einamųjų ar ateinančių biudžetinių metų Seimo ir (ar) Vyriausybės sprendimų nulemtus savivaldybių pajamų pokyčius. Dėl Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių pajamų pokyčių, kurie mažintų savivaldybių biudžetų prognozuojamas pajamas, pastovioji gyventojų pajamų mokesčio dalis (procentais) koreguojama taip:\n\na) jeigu mažėja savivaldybių iš gyventojų pajamų mokesčio gaunamos savivaldybių biudžetų prognozuojamos pajamos, naudojama suma apskaičiuojama pagal formulę:\nPSBGPM = GPMKVSBNS · GPM%(pt) – 0,3 · GPMKVSBNS, čia:\nPSBGPM – savivaldybių biudžetų gyventojų pajamų mokesčio prognozuojama suma gyventojų pajamų mokesčio daliai (procentais) koreguoti;\nGPMKVSBNS – konsoliduota valstybės biudžeto ir savivaldybių biudžetų gyventojų pajamų mokesčio prognozuojama netekti suma;\nGPM%(pt) – einamųjų biudžetinių metų savivaldybių biudžetams patvirtinta pastovioji gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus;\n\nb) jeigu mažėja kitos savivaldybių biudžetų gaunamos prognozuojamos pajamos, naudojama visa savivaldybių biudžetų kitų prognozuojamų netekti pajamų suma;“."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo taikymas",
+      "content": "Šio įstatymo nuostatos taikomos rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

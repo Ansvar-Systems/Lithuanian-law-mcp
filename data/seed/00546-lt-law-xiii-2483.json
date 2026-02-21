@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiii-2483",
+  "type": "statute",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 23-4 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XIII-2483",
+  "status": "in_force",
+  "issued_date": "2019-10-15",
+  "in_force_date": "2020-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/14a1b970fbbb11e99681cd81dcdca52c/AwsATTxauS",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 234 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 234 straipsnį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2020 m. liepos 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

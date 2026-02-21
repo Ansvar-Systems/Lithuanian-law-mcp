@@ -1,0 +1,353 @@
+{
+  "id": "lt-law-x-717",
+  "type": "statute",
+  "title": "Lietuvos Respublikos metrologijos įstatymo pakeitimo įstatymas",
+  "short_name": "X-717",
+  "status": "in_force",
+  "issued_date": "2006-06-22",
+  "in_force_date": "2006-10-30",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.0AB7F585CF04/mJojQxQLFJ",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Lietuvos Respublikos metrologijos įstatymo nauja redakcija",
+      "content": "Pakeisti Lietuvos Respublikos metrologijos įstatymą ir jį išdėstyti taip:\n\n„LIETUVOS RESPUBLIKOS METROLOGIJOS ĮSTATYMAS\n\nPIRMASIS SKIRSNIS\nBENDROSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "1. Šis įstatymas reglamentuoja matavimo vienetus, metrologinį laidavimą ir reguliavimą, matavimo priemonių tiekimą rinkai ir jų naudojimą, teisinę metrologinę priežiūrą, fizinių ir juridinių asmenų teises ir pareigas su matavimais susijusiose veiklos srityse.\n\n2. Šis įstatymas taip pat nustato fasuotoms prekėms ir matavimo indams taikomus reikalavimus bei jų teisinę metrologinę priežiūrą.\n\n3. Šis įstatymas yra taikomas fiziniams ir juridiniams asmenims, taip pat įmonių, įsisteigusių Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse, filialams Lietuvos Respublikoje (toliau – fiziniai ir juridiniai asmenys).\n\n4. Šis įstatymas yra suderintas su Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, nuostatomis."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės šio įstatymo sąvokos",
+      "content": "1. Akreditavimas – procedūra, kuria valdžios įgaliota įstaiga oficialiai pripažįsta, kad fizinis ar juridinis asmuo kompetentingi atlikti tam tikrus darbus.\n\n2. Faktinis produkto kiekis – fasuoto produkto kiekis.\n\n3. Fasuota prekė – pirkėjui nematant sufasuotas produktas, kurio kiekio negalima pakeisti neatidarius ar nepakeitus fasuotės.\n\n4. Kalibravimo liudijimas – dokumentas, patvirtinantis matavimo sietį.\n\n5. Matavimo indas – indas, turintis tūrio žymą arba užrašą.\n\n6. Matavimo metodas – tam tikrų aprašytų ir matavimo metu atliekamų veiksmų loginė seka.\n\n7. Matavimo priemonė – įrankis, prietaisas, sistema, skirti matuoti savarankiškai arba kartu su kitais papildomais įtaisais.\n\n8. Matavimo priemonės kalibravimas – visuma veiksmų, kuriais nurodytomis sąlygomis nustatomas kalibruojamos matavimo priemonės ar matavimo sistemos rodomų dydžių verčių sutapimas arba skirtumas, palyginti su darbinio etalono arba etaloninės matavimo priemonės rodomomis vertėmis.\n\n9. Matavimo priemonės tipas – tos pačios paskirties ir vienodos konstrukcijos matavimo priemonės, kurių veikimas pagrįstas tuo pačiu principu.\n\n10. Matavimo priemonės patikra – kitokia negu matavimo priemonės tipo patvirtinimas procedūra, kuri apima tyrimą bei ženklinimą ir (arba) patikros sertifikato išdavimą ir kuria konstatuojama bei patvirtinama, kad matavimo priemonė atitinka teisės aktų reikalavimus. Patikros rūšys yra šios:\n\n1) atrankinė patikra – vienarūšių matavimo priemonių partijos patikra, pagrįsta tam tikro statistiškai tinkamo ir atsitiktinai iš identifikuotos partijos paimtų pavyzdžių skaičiaus tyrimo rezultatais;\n\n2) neeilinė patikra – naudojamų matavimo priemonių patikra anksčiau nustatyto termino;\n\n3) periodinė patikra – naudojamos matavimo priemonės patikra laikantis nustatytų terminų;\n\n4) pirminė patikra – pagamintos ar sutaisytos matavimo priemonės pirmoji patikra.\n\n11. Matavimo priemonės tiekimas rinkai – veiksmas, kai matavimo priemonė tiekiama galutiniam vartotojui už mokestį arba nemokamai.\n\n12. Matavimo priemonės tipo įvertinimas – sistemiškas vieno ar kelių matavimo priemonių identifikuoto tipo arba modelio pavyzdžių parametrų tyrimas ir bandymas bei lyginimas su dokumentų reikalavimais siekiant nustatyti, ar tas tipas gali būti patvirtintas.\n\n13. Matavimo priemonės tipo patvirtinimas – procedūra, kurios metu valstybės įgaliota institucija nustato ir patvirtina, kad matavimo priemonės tipas atitinka nustatytus reikalavimus.\n\n14. Matavimo sietis – matavimo rezultatų verčių ryšys su matavimo vieneto etalono vertėmis, nustatytas nenutrūkstamuoju lyginamuoju metodu.\n\n15. Matavimo sistema – kartu sujungtų matavimo priemonių ir kitokių įrenginių grupė tam tikriems matavimams atlikti.\n\n16. Matavimo sieties schema – etaloninių vienetų verčių perdavimo matavimo priemonėms grandinė, kurioje nurodyta vieneto verčių perdavimo ir neapibrėžčių palyginimo seka.\n\n17. Matavimo vienetas – susitarimu apibrėžtas ir priimtas atskirasis dydis, su kuriuo lyginami kiti vienarūšiai dydžiai, norint juos kiekybiškai išreikšti šio dydžio atžvilgiu.\n\n18. Matavimo vieneto etalonas – matavimo priemonė, matavimo sistema ar sertifikuotoji pamatinė medžiaga, skirti dydžio vieneto vienai ar kelioms jo vertėms atkurti, išsaugoti ir perduoti kitiems etalonams arba matavimo priemonėms.\n\n19. Metrologija – matavimo mokslas. Metrologija apima visus teorinius ir praktinius matavimo aspektus, nesvarbu, kokia yra matavimų neapibrėžtis ir kurioje mokslo ar technikos srityje atliekami matavimai.\n\n20. Metrologinis laidavimas – visuma reglamentų, techninių priemonių ir privalomųjų veiksmų, taikomų matavimo rezultatų patikimumui teisinėje metrologijoje laiduoti.\n\n21. Metrologinis patvirtinimas – visuma veiksmų, apimančių kalibravimą ir patikrą, taip pat derinimą, taisymą, pakartotinį kalibravimą ir neeilinę patikrą, įskaitant plombavimą ir ženklinimą, skirtų nustatyti matavimo priemonės metrologinių ir techninių charakteristikų ir jos paskirties bei naudojimo reikalavimų atitiktį.\n\n22. Sertifikuotoji pamatinė medžiaga – turinti sertifikatą pamatinė medžiaga, kurios vienos ar daugiau savybių vertės yra patvirtintos naudojant procedūrą, kuri sieties principu tiksliai realizuoja matavimo vienetą, kuriuo išreiškiamos tos vertės, ir kiekviena patvirtintoji vertė turi neapibrėžtį su pasirinktu pasikliovimo lygmeniu.\n\n23. Pamatinis matavimo vieneto etalonas – etalonas, paprastai turintis geriausių metrologinių savybių toje vietovėje, vietoje ar toje organizacijoje, kurioje matuojama.\n\n24. Patikros sertifikatas – dokumentas, patvirtinantis, kad matavimo priemonės patikros rezultatas patenkinamas.\n\n25. Paskelbtoji įstaiga – įstaiga, kuriai pavedama įvertinti matavimo priemonių atitiktį pagal Europos Sąjungos teisės aktų reikalavimus ir apie kurią pranešama Europos Komisijai bei kitoms Europos Sąjungos valstybėms narėms.\n\n26. Paskirtoji įstaiga – bandymų, kalibravimo ar patikros laboratorija, sertifikavimo ar kontrolės įstaiga, kurią Valstybinė metrologijos tarnyba paskiria atlikti matavimo priemonių, fasuotų prekių ar matavimo indų atitikties įvertinimą.\n\n27. Rinkos priežiūra – rinkai tiekiamų ar saugomų prieš tiekiant rinkai teisinei metrologijai priskirtų matavimo priemonių, fasuotų prekių ir matavimo indų teisinės metrologijos reikalavimų atitikties kontrolė, apimanti veiksmus, neleidžiančius šių reikalavimų neatitinkančioms matavimo priemonėms, fasuotoms prekėms ir matavimo indams patekti į rinką.\n\n28. Techninis reglamentas – įgaliotos institucijos parengta ir patvirtinta techninė specifikacija, kiti reikalavimai arba paslaugų taisyklės, įskaitant atitinkamas administracines nuostatas, kurių būtina laikytis de jure ir de facto parduodant ar naudojant gaminį, teikiant paslaugą, steigiant paslaugų teikėjo verslą Lietuvoje ar kitoje Europos Sąjungos valstybėje narėje.\n\n29. Teisinė metrologija – su matavimais, matavimo vienetais, matavimo priemonėmis, matavimo indais ir metodais susijusi metrologijos sritis, kurios veiklą reglamentuoja įstatymų ir kitų teisės aktų nustatyti reikalavimai ir vykdo kompetentingos institucijos.\n\n30. Teisinė metrologinė priežiūra – teisinio metrologinio reglamentavimo objektų, tai yra matavimo priemonių, prekių kiekio, taip pat ir esančio fasuotėse, matavimo indų teisinės metrologijos reikalavimų atitikties kontrolė, jų gamintojų, pardavėjų ir naudotojų kontrolė, ar jie laikosi šio įstatymo ir kitų teisės aktų nuostatų, ir su tuo susijusi rinkos priežiūra. Teisinė metrologinė priežiūra apima kiekio, nurodyto ant fasuočių, kontrolę.\n\n31. Teisinis metrologinis reglamentavimas -valdymo ir kontrolės veiksmų visuma siekiant teisingų matavimų rezultatų.\n\n32. Valstybinis matavimo vieneto etalonas -valstybės sprendimu pripažintas etalonas, kuris naudojamas valstybėje kaip pagrindinis, priskiriant tam tikro dydžio vertes kitiems etalonams.\n\n33. Vardinis produkto kiekis – produkto kiekis, kuris privalo būti fasuotėje pagal fasuotės užrašą arba žymėjimą, arba pagal jos dokumentus.\n\nANTRASIS SKIRSNIS\nMATAVIMO VIENETAI, JŲ ATKŪRIMAS IR PERDAVIMAS"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Matavimo vienetai",
+      "content": "1. Lietuvos Respublikoje naudojami Tarptautinės vienetų sistemos (SI) pagrindiniai ir jų išvestiniai, kartotiniai bei daliniai matavimo vienetai.\n\n2. Leidžiama naudoti nesisteminius matavimo vienetus, kuriuos patvirtina Lietuvos Respublikos Vyriausybė.\n\n3. Eksportui į trečiąsias šalis ir išvežimui į Europos Sąjungos valstybes nares gaminamos produkcijos metrologinės charakteristikos ir techniniai parametrai gali būti išreikšti užsakovo nurodytais nesisteminiais vienetais.\n\n4. Matavimo vienetų pavadinimai, simboliai ir jų rašymo tvarka turi atitikti tarptautinių standartų, perimtų kaip Lietuvos standartai, reikalavimus."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Matavimo vienetų verčių atkūrimas ir perdavimas",
+      "content": "Matavimo vienetų vertės atkuriamos naudojant etalonus ir perduodamos kitoms matavimo priemonėms pagal matavimų sieties schemas."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Matavimų sietis",
+      "content": "1. Matavimo rezultatai turi būti nenutrūkstama matavimų sieties grandine susieti su etalonų teikiamomis vertėmis.\n\n2. Matavimo priemonių sietis laiduojama kalibravimu, naudojant kalibruotus etalonus. Teisinėje metrologijoje matavimų sietis laiduojama matavimo priemonių patikra, matuojant kalibruotų etalonų perduodamas matavimo vieneto vertes.\n\n3. Valstybinių etalonų sietis laiduojama jų palyginimu su atitinkamo lygmens etalonais arba kalibravimu. Pamatinių etalonų sietis laiduojama kalibravimu. Pamatinius etalonus įsigyja, išlaiko ir saugo ūkio subjektai, užtikrindami jų laiku atliekamą kalibravimą ir saugojimo bei naudojimo sąlygas, atitinkančias etalonų techninių dokumentų reikalavimus.\n\n4. Cheminių matavimų sietis laiduojama naudojant sertifikuotąsias pamatines medžiagas ir taikant patvirtintus metodus. Sertifikuotąsias pamatines medžiagas įsigyja, išlaiko ir saugo ūkio subjektai, užtikrindami jų naudojimo ir galiojimo sąlygas, atitinkančias medžiagų techninių dokumentų reikalavimus."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Matavimo vienetų etalonai",
+      "content": "1. Matavimo vienetų valstybiniai etalonai kuriami arba įsigyjami atsižvelgiant į Lietuvos Respublikos poreikius ir yra valstybės nuosavybė.\n\n2. Lietuvos Respublikos Vyriausybė tvirtina valstybinių etalonų sąrašą ir paskiria valstybinių etalonų laboratorijas. Šios laboratorijos įgaliojamos kurti, saugoti, naudoti ir tobulinti valstybinius etalonus bei laiduoti sietį su kitų valstybių matavimo vienetų valstybiniais etalonais ir užtikrinti matavimo vienetų verčių perdavimą.\n\n3. Valstybinis etalonas turi būti tiriamas ir tobulinamas siekiant laiduoti reikiamą atkuriamos matavimo vieneto vertės tikslumą, jos išsaugojimą ir perdavimą. Valstybinis etalonas tobulinamas pagal techninę užduotį, tvirtinamą Valstybinės metrologijos tarnybos.\n\nTREČIASIS SKIRSNIS\nMETROLOGINIS LAIDAVIMAS"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "7 straipsnis. Metrologinio laidavimo uždaviniai",
+      "content": "Metrologinio laidavimo uždaviniai:\n\n1) apsaugoti fizinius ir juridinius asmenis, taip pat įmonių, įsisteigusių Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse, filialus Lietuvos Respublikoje nuo neteisingo matavimo pasekmių;\n\n2) šalinti laisvo prekių judėjimo kliūtis, susijusias su matavimo priemonių gamyba ir prekyba bei matavimo vienetų naudojimu;\n\n3) taikyti veiksmingą matavimo priemonių naudojimo ir prekių kiekio kontrolę;\n\n4) sudaryti palankias sąlygas ekonomikos plėtrai;\n\n5) skatinti ūkio, mokslo ir aukštųjų technologijų plėtrą;\n\n6) siekti Lietuvos Respublikoje atliekamų matavimų rezultatų ir metrologinio laidavimo tarptautinio pripažinimo."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "8 straipsnis. Metrologinio laidavimo sistemos subjektai",
+      "content": "Metrologinio laidavimo sistemą sudaro:\n\n1) Lietuvos Respublikos Vyriausybė;\n\n2) Lietuvos Respublikos Vyriausybės įgaliota ministerija (ministerijos);\n\n3) Valstybinė metrologijos tarnyba prie Lietuvos Respublikos Vyriausybės įgaliotos ministerijos;\n\n4) Lietuvos metrologijos inspekcija prie Lietuvos Respublikos Vyriausybės įgaliotos ministerijos;\n\n5) matavimo vienetų valstybinių etalonų bei etaloninių matavimo metodų ir priemonių cheminių matavimų valstybinės laboratorijos, skiriamos Lietuvos Respublikos Vyriausybės;\n\n6) kalibravimo, bandymų ir patikros laboratorijos, kontrolės ar sertifikavimo įstaigos, veikiančios Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka. Jos gali būti skiriamos ir (arba) skelbiamos atitikties įvertinimams atitinkamose teisinio metrologinio reglamentavimo srityse;\n\n7) matavimo priemonių taisymo įmonės."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "9 straipsnis. Metrologinio laidavimo sistemos subjektų pagrindinės funkcijos",
+      "content": "1. Lietuvos Respublikos Vyriausybė nustato valstybės metrologinio laidavimo politikos principus ir numato priemones jiems įgyvendinti.\n\n2. Lietuvos Respublikos Vyriausybė paveda Lietuvos Respublikos Vyriausybės įgaliotai ministerijai (ministerijoms) atlikti Valstybinės metrologijos tarnybos ir (arba) Lietuvos metrologijos inspekcijos steigėjo funkcijas.\n\n3. Valstybinė metrologijos tarnyba:\n\n1) Lietuvos Respublikos Vyriausybės pavedimu formuoja metrologinio laidavimo politikos uždavinius ir organizuoja jų įgyvendinimą;\n\n2) atlieka teisinį metrologinį reglamentavimą ir atsako už matavimų vienovę Lietuvos Respublikoje;\n\n3) keičiasi informacija su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis matavimo priemonių patikros ir paskelbtųjų įstaigų veiklos klausimais.\n\n4. Lietuvos metrologijos inspekcija atlieka teisinę metrologinę priežiūrą, teisės aktų nustatytais atvejais praneša Europos Komisijai ir kitų valstybių narių įgaliotoms institucijoms apie priemones, taikomas uždraudžiant naudoti ar tiekti rinkai matavimo priemones, fasuotas prekes ar matavimo indus, ir tokių sprendimų priežastis.\n\n5. Matavimo vienetų valstybinių etalonų ar etaloninių matavimo metodų ir priemonių cheminių matavimų valstybinės laboratorijos kuria, saugo, naudoja ir tobulina valstybinius etalonus, užtikrina atkurtų matavimo vienetų verčių perdavimą, palaiko tarptautinę sietį jai priskirtose srityse ir atstovauja tarptautinių metrologinių organizacijų veikloje.\n\n6. Kalibravimo laboratorija kalibruoja pamatinius ir žemesnio lygmens etalonus ir (arba) matavimo priemones bei išduoda kalibravimo liudijimus.\n\n7. Bandymų laboratorija atlieka bandymus ir išduoda atliktų bandymų rezultatų protokolus.\n\n8. Patikros laboratorija atlieka matavimo priemonių patikrą, ženklina jas atitiktį patvirtinančiais ženklais ir (arba) išduoda patikros sertifikatus.\n\n9. Kontrolės įstaiga atlieka atitikties įvertinimą ir priima sprendimą, pagrįstą atitinkamų matavimų, bandymų ar lyginimų su etalonu rezultatais, ir išduoda kontrolės ataskaitas ir (arba) kontrolės sertifikatus.\n\n10. Sertifikavimo įstaiga sertifikuoja matavimo priemones ir išduoda atitikties sertifikatus bei vykdo kitą teisės aktuose ir (arba) standartuose nustatytą veiklą.\n\n11. Matavimo priemonių taisymo įmonė taiso matavimo priemones.\n\n12. Laboratorijų ir įstaigų funkcijos teisinio metrologinio reglamentavimo srityje gali būti papildomai nustatytos ir išplėstos jas paskiriant ir (arba) paskelbiant."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "10 straipsnis. Paskirtųjų ir paskelbtųjų įstaigų funkcijos ir jų skyrimas",
+      "content": "1. Paskirtoji įstaiga atlieka matavimo priemonių metrologinį ir fasuotų prekių ar matavimo indų atitikties įvertinimą, pritvirtina atitinkamus ženklus ir (arba) išduoda atitiktį patvirtinančius dokumentus.\n\n2. Paskirtosios įstaigos – kalibravimo, bandymų ir patikros laboratorijos, kontrolės ar sertifikavimo įstaigos, skiriamos Valstybinės metrologijos tarnybos.\n\n3. Paskirtųjų įstaigų kompetencija turi atitikti teisės aktų ir (arba) standartų nustatytus reikalavimus. Patikros laboratorijos turi atitikti bandymų laboratorijai ar kontrolės įstaigai nustatytus reikalavimus.\n\n4. Paskelbtoji įstaiga atlieka atitikties įvertinimą pagal matavimo priemonių techninius reglamentus. Šiai įstaigai Europos Komisija suteikia atitinkamą identifikavimo numerį ir apie jos paskyrimą pranešama Europos Komisijai bei kitoms Europos Sąjungos valstybėms narėms.\n\n5. Paskelbtosios įstaigos paskiriamos ir skelbiamos Lietuvos Respublikos Vyriausybės nustatyta tvarka.\n\n6. Paskirtosios ar paskelbtosios įstaigos kompetencija ir nešališkumas turi būti įvertinti jas akredituojant arba kitais motyvuotais būdais.\n\nKETVIRTASIS SKIRSNIS\nMATAVIMO PRIEMONĖMS, FASUOTOMS PREKĖMS IR MATAVIMO INDAMS TAIKOMI REIKALAVIMAI"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "11 straipsnis. Matavimo priemonėms taikomi bendrieji reikalavimai",
+      "content": "1. Matavimo priemonės, naudojamos dydžiams ir dydžių santykiams matuoti, matavimų rezultatus turi rodyti Lietuvos Respublikoje naudojamais matavimo vienetais.\n\n2. Pagamintos ar pataisytos matavimo priemonės turi atitikti teisės aktų ir (arba) gamintojo techninių dokumentų nustatytus reikalavimus.\n\n3. Matavimo priemonės ir jų programinė įranga turi būti apsaugotos nuo rodmenų klastojimo."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "12 straipsnis. Matavimo priemonių tiekimas rinkai",
+      "content": "1. Rinkai tiekiamos matavimo priemonės, skirtos naudoti teisinėje metrologijoje, turi turėti techniniais reglamentais arba kitais teisės aktais nustatytus žymenis ir (arba) ženklus, ir (arba) reikiamus liudijimus (sertifikatus), atitinkančius šio įstatymo, techninių reglamentų ir kitų teisės aktų reikalavimus ir įrodančius atliktą atitikties įvertinimą. Kai matavimo priemonė yra per maža arba per jautri, kad ant jos galėtų būti pritvirtinti žymenys ir (arba) ženklai, jie turi būti ant pakuotės, jei tokia yra, ir ant pridedamų dokumentų.\n\n2. Valstybinė metrologijos tarnyba nustato ne Europos Sąjungos valstybėse narėse išduotų matavimo priemonių sertifikatų ir žymenų pripažinimo sąlygas ir tvarką ir leidžia šias matavimo priemones tiekti rinkai, jei jos nepatenka į techninių reglamentų, kurie nustato tiekimo rinkai sąlygas, taikymo sritį.\n\n3. Draudžiama trukdyti patiekti rinkai ir pradėti naudoti matavimo priemones, kurios atitinka šio įstatymo, techninių reglamentų ir kitų teisės aktų reikalavimus.\n\n4. Draudžiama trukdyti rodyti matavimo priemones, neatitinkančias teisinės metrologijos reikalavimų, prekybos mugėse, parodose, pristatymuose, jeigu yra matomas ženklas, kuriame aiškiai pažymėta jų neatitiktis nustatytiems reikalavimams ir tai, kad jos negali būti patiektos rinkai ir (arba) pradėtos naudoti tol, kol nebus įvykdyti teisinės metrologijos reikalavimai."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "13 straipsnis. Matavimo priemonių naudojimas",
+      "content": "1. Matavimo priemonė turi būti naudojama laikantis gamintojo parengtų naudojimo instrukcijų ir techninio aptarnavimo reikalavimų. Dokumentai turi būti pateikti lietuvių kalba.\n\n2. Teisinėje metrologijoje gamintojo apibrėžtas matavimo priemonių normines veikimo sąlygas užtikrina asmuo, teisiškai paskirtas matavimo priemonę įrengti taip, kad matavimo priemonė tiksliai atliktų savo paskirtį.\n\n3. Matavimo priemonės, neturinčios atitikties metrologiniams reikalavimams įvertinimo, gali būti naudojamos tik asmeniniams tikslams ir teisinei metrologijai nepriskirtose veiklos srityse. Pirkėjų pageidavimu pardavėjas tokias matavimo priemones turi parduoti kalibruotas."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "14 straipsnis. Reikalavimai prekių kiekiui ir matavimo indų tūriui",
+      "content": "1. Prekėms, kurios parduodant yra sveriamos, skaičiuojamos arba dozuojamos, taip pat prekėms, kurios parduoti tiekiamos fasuotos ir kurių produkto kiekis yra nurodytas etiketėse arba ant fasuotės, taikomi teisinės metrologijos reikalavimai.\n\n2. Fasuotos prekės gali būti gaminamos, importuojamos arba parduodamos, perduodamos, saugomos su faktiniu produkto kiekiu, kuris turi atitikti vardinį produkto kiekį su leidžiamu nuokrypiu.\n\n3. Indai, skirti gėrimams ir kitiems skysčiams supilti bei matuoti, gali būti naudojami, realizuojami ir laikomi parengti, jeigu jie turi vardinio tūrio užrašus arba ženklinimus bei žymą, iš kurios gali būti atpažintas gamintojas.\n\n4. Fasuočių ir indų vardinių kiekių vertes, jų ženklinimo būdą ir tvarką, reikalavimus produkto faktinio kiekio tikslumui ir kitus reikalavimus fasuotoms prekėms bei matavimo indams nustato techniniai reglamentai.\n\nPENKTASIS SKIRSNIS\nTEISINIS METROLOGINIS REGLAMENTAVIMAS"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "15 straipsnis. Teisinio metrologinio reglamentavimo sritys",
+      "content": "1. Teisinis metrologinis reglamentavimas taikomas matavimo priemonėms, kurios naudojamos:\n\n1) nustatant prekių, energijos, paslaugų kiekį ir vertę tiesioginio pardavimo sandoriuose tarp pirkėjo ir pardavėjo bei atsiskaitant už suteiktas paslaugas ir prekes, kai nuo jų kiekio matavimo priklauso kaina;\n\n2) matavimams, kai nuo jų rezultatų priklauso baudos ar žalos atlyginimo dydis;\n\n3) sveikatos apsaugos, veterinarijos, aplinkosaugos ir darbų saugos srityse;\n\n4) banko, mokesčių, muitinės ir pašto operacijoms;\n\n5) atliekant matavimus teisėsaugos bei valstybės valdymo ir kontrolės institucijų pavedimu.\n\n2. Teisinei metrologijai priskirtų matavimo priemonių grupių sąrašą tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "16 straipsnis. Teisinio metrologinio reglamentavimo objektai",
+      "content": "1. Teisinio metrologinio reglamentavimo objektai yra:\n\n1) matavimo priemonės, priskirtos teisinei metrologijai;\n\n2) prekių kiekis, taip pat ir esantis fasuotėse, matavimo indų tūris.\n\n2. Teisinio metrologinio reglamentavimo objektais taip pat gali būti matavimo metodai, jeigu tai nustato techniniai reglamentai ar kiti teisės aktai."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "17 straipsnis. Matavimo priemonių teisinis metrologinis patvirtinimas",
+      "content": "1. Matavimo priemonių teisinį metrologinį patvirtinimą sudaro:\n\n1) matavimo priemonės tipo įvertinimas ir patvirtinimas;\n\n2) matavimo priemonės patikra (pirminė, periodinė, neeilinė, atrankinė);\n\n3) kiti veiksmai, numatyti techniniuose reglamentuose ir kituose teisės aktuose.\n\n2. Juridiniai ir fiziniai asmenys, kurie patiekia rinkai, įrengia bei naudoja matavimo priemones, kurios yra teisinio metrologinio reglamentavimo objektai, yra atsakingi už tai, kad būtų laiku atliktas techninių reglamentų ar kitų teisės aktų nustatytas metrologinis patvirtinimas."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "18 straipsnis. Matavimo priemonių tipo įvertinimas ir patvirtinimas",
+      "content": "1. Matavimo priemonių tipo įvertinimas ir patvirtinimas atliekamas techninių reglamentų ir kitų teisės aktų nustatyta tvarka.\n\n2. Matavimo priemonių, kurioms netaikomi techniniai reglamentai, tipo įvertinimo ir patvirtinimo tvarką nustato Valstybinė metrologijos tarnyba.\n\n3. Lietuvoje patvirtinti matavimo priemonių tipai įrašomi j Lietuvos matavimo priemonių registrą, įkurtą vadovaujantis Lietuvos Respublikos valstybės registrų įstatymu. Lietuvos Respublikos Vyriausybės patvirtinti Lietuvos matavimo priemonių registro nuostatai reglamentuoja šio registro steigimą, paskirtį, objektus, registro tvarkymo teises ir pareigas, jo reorganizavimą ir likvidavimą. Registrą tvarkanti įstaiga yra Valstybinė metrologijos tarnyba.\n\n4. Matavimo priemonės tipo patvirtinimas, atliktas Europos Sąjungos valstybėse narėse pagal Europos Sąjungos teisės aktų reikalavimus, yra pripažįstamas Lietuvos Respublikoje."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "19 straipsnis. Matavimo priemonių metrologinė patikra",
+      "content": "1. Pirminė patikra atliekama pagaminus naujas ar sutaisius naudotas matavimo priemones.\n\n2. Periodinė patikra atliekama naudojamoms matavimo priemonėms.\n\n3. Neeilinė patikra atliekama anksčiau nustatyto periodinės patikros termino, jei įtariama, kad naudojama matavimo priemonė neatitinka jai nustatytų reikalavimų arba prieš pradedant naudoti ją po sandėliavimo ar eksponavimo.\n\n4. Atrankinė patikra atliekama dideliais kiekiais naudojamoms matavimo priemonėms pagal atrankinės patikros metodiką.\n\n5. Matavimo priemonių patikrą atlieka paskirtosios įstaigos.\n\n6. Patikra, atlikta Europos Sąjungos valstybėse narėse pagal Europos Sąjungos teisės aktų reikalavimus, yra pripažįstama Lietuvos Respublikoje.\n\n7. Atlikus patikrą, jeigu yra patvirtinama atitiktis nustatytiems metrologiniams reikalavimams, matavimo priemonė yra žymima patikros žymeniu ir (arba) plombuojama, ir (arba) išduodamas patikros sertifikatas, suteikiantis teisę naudoti šią matavimo priemonę pagal paskirtį. Matavimo priemonė turi būti užplombuota arba ant jos pritvirtintas patikros žymuo taip, kad nebūtų galima daryti įtaką matavimo priemonės rodmenims nepažeidus plombų arba patikros žymenų. Esant reikalui arba pageidaujant matavimo priemonės naudotojui, gali būti naudojamas ir patikros žymuo arba plomba, ir patikros sertifikatas kartu.\n\n8. Valstybinė metrologijos tarnyba nustato laiko intervalus tarp patikrų, tvirtina periodinės ir atrankinės patikrų metodikas ir nustato ne Europos Sąjungos valstybėse narėse atliktų patikrų pripažinimo tvarką.\n\nŠEŠTASIS SKIRSNIS\nTEISINĖ METROLOGINĖ PRIEŽIŪRA"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "20 straipsnis. Teisinės metrologinės priežiūros taikymas",
+      "content": "Teisinė metrologinė priežiūra taikoma:\n\n1) matavimo priemonėms, kurios yra teisinio metrologinio reglamentavimo objektai;\n\n2) fasuotų prekių kiekiui ir matavimo indų tūriui;\n\n3) parduodant sveriamų, skaičiuojamų, matuojamų ar dozuojamų prekių kiekiui."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "21 straipsnis. Teisinės metrologinės priežiūros veiksmai",
+      "content": "Vykdant teisinę metrologinę priežiūrą, atliekama:\n\n1) matavimo priemonių, fasuotų prekių ir matavimo indų gamintojų, pardavėjų bei naudotojų šio įstatymo ir kitų teisės aktų reikalavimų laikymosi kontrolė;\n\n2) matavimo priemonių, fasuotų prekių ir matavimo indų rinkos priežiūra;\n\n3) matavimo priemonių būklės ir naudojimo kontrolė;\n\n4) fasuotų prekių ir matavimo indų kontrolė;\n\n5) parduodant sveriamų, skaičiuojamų, matuojamų ar dozuojamų prekių kiekio kontrolė."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "22 straipsnis. Lietuvos metrologijos inspekcijos pareigūnų teisės ir pareigos",
+      "content": "1. Lietuvos metrologijos inspekcijos pareigūnai, atlikdami teisinę metrologinę priežiūrą, turi teisę:\n\n1) pateikę tarnybinį pažymėjimą ir šios inspekcijos įgalioto asmens pavedimą, atlikti patikrinimus gamybinėse patalpose ir teritorijose, kuriose fasuojamos ar saugomos fasuotos bei parduodamos sveriamos, skaičiuojamos, matuojamos, dozuojamos prekės ar matavimo indai arba parduodamos, nuomojamos, naudojamos, saugomos ir taisomos matavimo priemonės, ir gauti reikalingą informaciją bei dokumentus;\n\n2) Lietuvos Respublikos Vyriausybės nustatyta tvarka paimti tyrimui matavimo priemonę, fasuotas prekes ar matavimo indus metrologijos reikalavimų atitikčiai nustatyti;\n\n3) kviesti ekspertus (konsultantus), kontroliuojančių institucijų ar įstaigų atstovus.\n\n2. Lietuvos metrologijos inspekcijos pareigūnai, nustatę teisinės metrologijos reikalavimų pažeidimą, turi teisę:\n\n1) raštu apie tai įspėti tikrinamus ūkio subjektus ir įpareigoti juos per nustatytą laiką pašalinti pažeidimą;\n\n2) uždrausti naudoti ar tiekti rinkai matavimo priemones, fasuotas prekes ar matavimo indus, jeigu laiku nepašalinamas pažeidimas;\n\n3) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus ir (ar) nagrinėti administracinių teisės pažeidimų bylas.\n\n3. Lietuvos metrologijos inspekcijos pareigūnai, atlikdami teisinę metrologinę priežiūrą, privalo:\n\n1) gerbti tikrinamo ūkio subjekto teisėtus interesus;\n\n2) saugoti sužinotą informaciją, jeigu tai yra komercinė (gamybos) paslaptis.\n\nSEPTINTASIS SKIRSNIS\nFINANSAVIMAS IR METROLOGIJOS PASLAUGŲ APMOKĖJIMAS"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "23 straipsnis. Finansavimas",
+      "content": "Matavimo vienetų valstybinių etalonų, įskaitant cheminių matavimų etaloninius matavimo metodus ir priemones, įsigijimas, kūrimas, tobulinimas bei etalonų ir valstybinių laboratorijų išlaikymas finansuojami valstybės biudžeto ir kitomis lėšomis."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "24 straipsnis. Metrologijos paslaugų apmokėjimas",
+      "content": "Už metrologines paslaugas atsiskaitoma pagal tarp paslaugos teikėjo ir užsakovo sudarytas sutartis.\n\nAŠTUNTASIS SKIRSNIS\nBAIGIAMOSIOS NUOSTATOS"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "25 straipsnis. Vartotojų teisė gauti metrologinę informaciją",
+      "content": "Vartotojai turi teisę gauti patikimą informaciją apie matavimų rezultatus, jeigu tai gali būti susiję su visuomenės sveikatos apsauga, aplinkosauga, darbų sauga ar komerciniais atsiskaitymais, Lietuvos Respublikos įstatymų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "26 straipsnis. Atsakomybė už šio įstatymo pažeidimus",
+      "content": "Juridiniai ir fiziniai asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "27 straipsnis. Žalos atlyginimas",
+      "content": "Žala, atsiradusi dėl neteisingų matavimų ar asmenų, vykdančių teisinį metrologinį įvertinimą ar priežiūrą, veiksmų, atlyginama įstatymų nustatyta tvarka. Ginčus dėl žalos atlyginimo sprendžia teismas.\n\nLietuvos Respublikos metrologijos įstatymo\npriedas\n\nĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI\n\n1. 1971 m. liepos 26 d. Tarybos direktyva 71/316/EEB dėl valstybių narių įstatymų, susijusių su bendromis matavimo priemonių ir metrologinės kontrolės nuostatomis, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 127 (su paskutiniais pakeitimais, padarytais 1987 m. birželio 25 d. Tarybos direktyva 87/355/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 8 tomas, p. 280).\n\n2. 1971 m. liepos 26 d. Tarybos direktyva 71/317/EEB dėl valstybių narių įstatymų, susijusių su 5–50 kg vidutinio tikslumo stačiakampiais svarsčiais ir 1-10 kg vidutinio tikslumo cilindriniais svarsčiais, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 140).\n\n3. 1971 m. spalio 12 d. Tarybos direktyva 71/347/EEB dėl valstybių narių įstatymų, reglamentuojančių grūdų hektolitro masės matavimą, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 201).\n\n4. 1971 m. spalio 12 d. Tarybos direktyva 71/349/EEB dėl valstybių narių įstatymų, susijusių su laivų rezervuarų kalibravimu, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 215).\n\n5. 1974 m. kovo 4 d. Tarybos direktyva 74/148/EEB dėl valstybių narių įstatymų, susijusių su didesnio nei vidutinio tikslumo svarsčiais (nuo 1 mg iki 50 kg), suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 63).\n\n6. 1974 m. gruodžio 17 d. Tarybos direktyva 75/33/EEB dėl valstybių narių įstatymų, susijusių su šalto vandens skaitikliais, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 147).\n\n7. 1974 m. gruodžio 19 d. Tarybos direktyva 75/106/EEB dėl valstybių narių įstatymų, susijusių su kai kurių skystųjų produktų fasavimu pagal tūrį, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 156 (su paskutiniais pakeitimais, padarytais 1989 m. gruodžio 21 d. Tarybos direktyva 89/676/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 10 tomas, p. 85).\n\n8. 1974 m. gruodžio 19 d. Tarybos direktyva 75/107/EEB dėl valstybių narių įstatymų, susijusių su butelių, naudojamų kaip matavimo talpos, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 169).\n\n9. 1976 m. sausio 20 d. Tarybos direktyva 76/21 l/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimo pagal masę arba tūrį, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 3 tomas, p. 91 (su paskutiniais pakeitimais, padarytais 1978 m. rugsėjo 28 d. Komisijos direktyva 78/891/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 5 tomas, p. 195).\n\n10. 1976 m. liepos 27 d. Tarybos direktyva 76/765/EEB dėl valstybių narių įstatymų, susijusių su spiritometrais ir alkoholio areometrais, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 3 tomas, p. 259 (su paskutiniais pakeitimais, padarytais 1982 m. liepos 1 d. Komisijos direktyva 82/624/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 6 tomas, p. 336).\n\n11. 1976 m. liepos 27 d. Tarybos direktyva 76/766/EEB dėl valstybių narių įstatymų, susijusių su alkoholio lentelėmis, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 3 tomas, p. 265).\n\n12. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 6 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2000 m. sausio 24 d. Europos Parlamento ir Tarybos direktyva 1999/103/EB, OL 2004 m. specialusis leidimas, 13 skyrius, 24 tomas, p. 266).\n\n13. 1980 m. sausio 15 d. Tarybos direktyva 80/232/EEB dėl valstybių narių įstatymų, susijusių su leidžiamomis tam tikrų fasuotų produktų vardinių kiekių ir vardinių tūrių skalėmis, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 6 tomas, p. 14 (su paskutiniais pakeitimais, padarytais 1987 m. birželio 25 d. Tarybos direktyva 87/355/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 8 tomas, p. 280).\n\n14. 1986 m. gegužės 26 d. Tarybos direktyva 86/217/EEB dėl valstybių narių įstatymų, susijusių su automobilių padangų slėgmačiais, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 8 tomas, p. 148).\n\n15. 1990 m. liepos 20 d. Tarybos direktyva 90/384/EEB dėl valstybių narių įstatymų, susijusių su neautomatinėmis svarstyklėmis, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 10 tomas, p. 138 (su paskutiniais pakeitimais, padarytais 1993 m. liepos 22 d. Tarybos direktyva 93/68/EEB, OL 2004 m. specialusis leidimas, 13 skyrius, 12 tomas, p. 173).\n\n16. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/22/EB dėl matavimo priemonių (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 149).“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "1. Šis įstatymas, išskyrus 10 straipsnio 3 dalį, įsigalioja nuo 2006 m. spalio 30 d.\n\n2. Šio įstatymo 10 straipsnio 3 dalies nuostata dėl to, kad patikros laboratorijos turi atitikti bandymų laboratorijai ar kontrolės įstaigai nustatytus reikalavimus, įsigalioja nuo 2012 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS\n______________"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Akreditavimas",
+      "definition": "procedūra, kuria valdžios įgaliota įstaiga oficialiai pripažįsta, kad fizinis ar juridinis asmuo kompetentingi atlikti tam tikrus darbus.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Faktinis produkto kiekis",
+      "definition": "fasuoto produkto kiekis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Fasuota prekė",
+      "definition": "pirkėjui nematant sufasuotas produktas, kurio kiekio negalima pakeisti neatidarius ar nepakeitus fasuotės.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Kalibravimo liudijimas",
+      "definition": "dokumentas, patvirtinantis matavimo sietį.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo indas",
+      "definition": "indas, turintis tūrio žymą arba užrašą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo metodas",
+      "definition": "tam tikrų aprašytų ir matavimo metu atliekamų veiksmų loginė seka.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo priemonė",
+      "definition": "įrankis, prietaisas, sistema, skirti matuoti savarankiškai arba kartu su kitais papildomais įtaisais.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo priemonės kalibravimas",
+      "definition": "visuma veiksmų, kuriais nurodytomis sąlygomis nustatomas kalibruojamos matavimo priemonės ar matavimo sistemos rodomų dydžių verčių sutapimas arba skirtumas, palyginti su darbinio etalono arba etaloninės matavimo priemonės rodomomis vertėmis.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo priemonės tipas",
+      "definition": "tos pačios paskirties ir vienodos konstrukcijos matavimo priemonės, kurių veikimas pagrįstas tuo pačiu principu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo priemonės patikra",
+      "definition": "kitokia negu matavimo priemonės tipo patvirtinimas procedūra, kuri apima tyrimą bei ženklinimą ir (arba) patikros sertifikato išdavimą ir kuria konstatuojama bei patvirtinama, kad matavimo priemonė atitinka teisės aktų reikalavimus. Patikros rūšys yra šios:\n\n1) atrankinė patikra – vienarūšių matavimo priemonių partijos patikra, pagrįsta tam tikro statistiškai tinkamo ir atsitiktinai iš identifikuotos partijos paimtų pavyzdžių skaičiaus tyrimo rezultatais;\n\n2) neeilinė patikra – naudojamų matavimo priemonių patikra anksčiau nustatyto termino;\n\n3) periodinė patikra – naudojamos matavimo priemonės patikra laikantis nustatytų terminų;\n\n4) pirminė patikra – pagamintos ar sutaisytos matavimo priemonės pirmoji patikra.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo priemonės tiekimas rinkai",
+      "definition": "veiksmas, kai matavimo priemonė tiekiama galutiniam vartotojui už mokestį arba nemokamai.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo priemonės tipo įvertinimas",
+      "definition": "sistemiškas vieno ar kelių matavimo priemonių identifikuoto tipo arba modelio pavyzdžių parametrų tyrimas ir bandymas bei lyginimas su dokumentų reikalavimais siekiant nustatyti, ar tas tipas gali būti patvirtintas.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo priemonės tipo patvirtinimas",
+      "definition": "procedūra, kurios metu valstybės įgaliota institucija nustato ir patvirtina, kad matavimo priemonės tipas atitinka nustatytus reikalavimus.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo sietis",
+      "definition": "matavimo rezultatų verčių ryšys su matavimo vieneto etalono vertėmis, nustatytas nenutrūkstamuoju lyginamuoju metodu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo sistema",
+      "definition": "kartu sujungtų matavimo priemonių ir kitokių įrenginių grupė tam tikriems matavimams atlikti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo sieties schema",
+      "definition": "etaloninių vienetų verčių perdavimo matavimo priemonėms grandinė, kurioje nurodyta vieneto verčių perdavimo ir neapibrėžčių palyginimo seka.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo vienetas",
+      "definition": "susitarimu apibrėžtas ir priimtas atskirasis dydis, su kuriuo lyginami kiti vienarūšiai dydžiai, norint juos kiekybiškai išreikšti šio dydžio atžvilgiu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Matavimo vieneto etalonas",
+      "definition": "matavimo priemonė, matavimo sistema ar sertifikuotoji pamatinė medžiaga, skirti dydžio vieneto vienai ar kelioms jo vertėms atkurti, išsaugoti ir perduoti kitiems etalonams arba matavimo priemonėms.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Metrologija",
+      "definition": "matavimo mokslas. Metrologija apima visus teorinius ir praktinius matavimo aspektus, nesvarbu, kokia yra matavimų neapibrėžtis ir kurioje mokslo ar technikos srityje atliekami matavimai.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Metrologinis laidavimas",
+      "definition": "visuma reglamentų, techninių priemonių ir privalomųjų veiksmų, taikomų matavimo rezultatų patikimumui teisinėje metrologijoje laiduoti.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Metrologinis patvirtinimas",
+      "definition": "visuma veiksmų, apimančių kalibravimą ir patikrą, taip pat derinimą, taisymą, pakartotinį kalibravimą ir neeilinę patikrą, įskaitant plombavimą ir ženklinimą, skirtų nustatyti matavimo priemonės metrologinių ir techninių charakteristikų ir jos paskirties bei naudojimo reikalavimų atitiktį.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Sertifikuotoji pamatinė medžiaga",
+      "definition": "turinti sertifikatą pamatinė medžiaga, kurios vienos ar daugiau savybių vertės yra patvirtintos naudojant procedūrą, kuri sieties principu tiksliai realizuoja matavimo vienetą, kuriuo išreiškiamos tos vertės, ir kiekviena patvirtintoji vertė turi neapibrėžtį su pasirinktu pasikliovimo lygmeniu.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Pamatinis matavimo vieneto etalonas",
+      "definition": "etalonas, paprastai turintis geriausių metrologinių savybių toje vietovėje, vietoje ar toje organizacijoje, kurioje matuojama.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Patikros sertifikatas",
+      "definition": "dokumentas, patvirtinantis, kad matavimo priemonės patikros rezultatas patenkinamas.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Paskelbtoji įstaiga",
+      "definition": "įstaiga, kuriai pavedama įvertinti matavimo priemonių atitiktį pagal Europos Sąjungos teisės aktų reikalavimus ir apie kurią pranešama Europos Komisijai bei kitoms Europos Sąjungos valstybėms narėms.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Paskirtoji įstaiga",
+      "definition": "bandymų, kalibravimo ar patikros laboratorija, sertifikavimo ar kontrolės įstaiga, kurią Valstybinė metrologijos tarnyba paskiria atlikti matavimo priemonių, fasuotų prekių ar matavimo indų atitikties įvertinimą.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Rinkos priežiūra",
+      "definition": "rinkai tiekiamų ar saugomų prieš tiekiant rinkai teisinei metrologijai priskirtų matavimo priemonių, fasuotų prekių ir matavimo indų teisinės metrologijos reikalavimų atitikties kontrolė, apimanti veiksmus, neleidžiančius šių reikalavimų neatitinkančioms matavimo priemonėms, fasuotoms prekėms ir matavimo indams patekti į rinką.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Techninis reglamentas",
+      "definition": "įgaliotos institucijos parengta ir patvirtinta techninė specifikacija, kiti reikalavimai arba paslaugų taisyklės, įskaitant atitinkamas administracines nuostatas, kurių būtina laikytis de jure ir de facto parduodant ar naudojant gaminį, teikiant paslaugą, steigiant paslaugų teikėjo verslą Lietuvoje ar kitoje Europos Sąjungos valstybėje narėje.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Teisinė metrologija",
+      "definition": "su matavimais, matavimo vienetais, matavimo priemonėmis, matavimo indais ir metodais susijusi metrologijos sritis, kurios veiklą reglamentuoja įstatymų ir kitų teisės aktų nustatyti reikalavimai ir vykdo kompetentingos institucijos.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Teisinė metrologinė priežiūra",
+      "definition": "teisinio metrologinio reglamentavimo objektų, tai yra matavimo priemonių, prekių kiekio, taip pat ir esančio fasuotėse, matavimo indų teisinės metrologijos reikalavimų atitikties kontrolė, jų gamintojų, pardavėjų ir naudotojų kontrolė, ar jie laikosi šio įstatymo ir kitų teisės aktų nuostatų, ir su tuo susijusi rinkos priežiūra. Teisinė metrologinė priežiūra apima kiekio, nurodyto ant fasuočių, kontrolę.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Teisinis metrologinis reglamentavimas",
+      "definition": "valdymo ir kontrolės veiksmų visuma siekiant teisingų matavimų rezultatų.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Valstybinis matavimo vieneto etalonas",
+      "definition": "valstybės sprendimu pripažintas etalonas, kuris naudojamas valstybėje kaip pagrindinis, priskiriant tam tikro dydžio vertes kitiems etalonams.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vardinis produkto kiekis",
+      "definition": "produkto kiekis, kuris privalo būti fasuotėje pagal fasuotės užrašą arba žymėjimą, arba pagal jos dokumentus.\n\nANTRASIS SKIRSNIS\nMATAVIMO VIENETAI, JŲ ATKŪRIMAS IR PERDAVIMAS",
+      "source_provision": "art2"
+    }
+  ]
+}

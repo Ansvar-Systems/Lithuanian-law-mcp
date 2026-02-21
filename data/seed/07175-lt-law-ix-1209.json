@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-ix-1209",
+  "type": "statute",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 28, 129 straipsnių pakeitimo ir papildymo įstatymas",
+  "short_name": "IX-1209",
+  "status": "in_force",
+  "issued_date": "2002-11-28",
+  "in_force_date": "2003-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.1F673E8F0275",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 28 straipsnio pakeitimas",
+      "content": "Pakeisti 28 straipsnio 7 dalį ir ją išdėstyti taip:\n\n„7. Apmokestinamasis asmuo, teikiantis šio straipsnio 1–4 dalyse nurodytas paslaugas, turi teisę pasirinkti skaičiuoti PVM už šias paslaugas šio Įstatymo nustatyta tvarka, jeigu pirkėjas (klientas) yra PVM mokėtojas.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 129 straipsnio papildymas 13 dalimi",
+      "content": "Papildyti 129 straipsnį 13 dalimi:\n\n„13. Neatsižvelgiant į šio Įstatymo IV skyriaus nuostatas, iki 2003 m. gruodžio 31 d. visais atvejais PVM neapmokestinamas žemės pardavimas ar kitoks perdavimas, kai pagal sandorio sąlygas asmuo, kuriam tokia žemė perduodama, arba trečioji šalis įgyja teisę disponuoti ja kaip jos savininkas.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS\n______________"
+    }
+  ],
+  "definitions": []
+}

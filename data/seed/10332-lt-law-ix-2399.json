@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-ix-2399",
+  "type": "statute",
+  "title": "Lietuvos Respublikos aviacijos įstatymo 3 straipsnio papildymo įstatymas",
+  "short_name": "IX-2399",
+  "status": "in_force",
+  "issued_date": "2004-07-15",
+  "in_force_date": "2004-09-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.B77566D7E848/YBKjuImuSD",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 3 straipsnio papildymas",
+      "content": "3 straipsnį papildyti 5 dalimi:\n\n„5. Šis įstatymas netaikomas bemotoriams orlaiviams, kurių minimalus greitis ne mažesnis kaip 45 kilometrai per valandą, maksimali pakilimo masė neviršija 170 kilogramų, kai šie orlaiviai naudojami vaikų aviaciniam švietimui ir mokymui.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pasiūlymai Vyriausybei",
+      "content": "Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo nustato orlaivių, nurodytų Aviacijos įstatymo 3 straipsnio 5 dalyje, naudojimo tvarką."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas, išskyrus 2 straipsnį, įsigalioja nuo 2004 m. rugsėjo 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": []
+}

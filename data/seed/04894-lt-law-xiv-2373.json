@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-2373",
+  "type": "statute",
+  "title": "Lietuvos Respublikos darbo kodekso 248 ir 258 straipsnių pakeitimo įstatymas",
+  "short_name": "XIV-2373",
+  "status": "in_force",
+  "issued_date": "2023-12-14",
+  "in_force_date": "2024-01-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/c19b9d90a54d11eea5a28c81c82193a8/mDvCUpVCKU",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 248 straipsnio pakeitimas",
+      "content": "Pakeisti 248 straipsnio 2 dalį ir ją išdėstyti taip:\n\n„2. Streiko ribojimus mobilizacijos, nepaprastosios, karo padėties ar ekstremaliosios situacijos metu nustato mobilizaciją, nepaprastąją, karo padėtį ar ekstremaliąją situaciją reglamentuojantys įstatymai.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 258 straipsnio pakeitimas",
+      "content": "Pakeisti 258 straipsnį ir jį išdėstyti taip:\n\n„258 straipsnis. Lokauto draudimas\n\nDraudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, ekstremaliosios situacijos zonose, taip pat regionuose, kuriuose nustatyta tvarka paskelbta mobilizacija, karo, nepaprastoji padėtis, taip pat viešojo administravimo įstaigose ir kitais įstatymų nustatytais atvejais.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2024 m. sausio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

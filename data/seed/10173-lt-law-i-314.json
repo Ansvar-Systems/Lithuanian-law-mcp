@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-i-314",
+  "type": "statute",
+  "title": "Dėl 1963 m. gegužės 21 d. Vienos konvencijos dėl civilinės atsakomybės už branduolinę žalą ir Bendro protokolo dėl Vienos konvencijos bei Paryžiaus konvencijos taikymo įsigaliojimo",
+  "short_name": "I-314",
+  "status": "in_force",
+  "issued_date": "1993-11-30",
+  "in_force_date": "1993-12-05",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.B007DBC8A33E",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Šio įstatymo 1 straipsnyje nurodytuose Vienos konvencijos straipsniuose žodžiai „ši Konvencija“ reiškia Vienos konvenciją, išskyrus I straipsnio 1 dalį ir IV straipsnio 1, 3, 4, 5, 7 dalis, VI straipsnio 1 dalį bei IX straipsnio 2 dalies b punktą, kuriuose „ši Konvencija“ reiškia šį įstatymą, o „Susitariančios šalys“ arba „Susitarianti šalis“ reiškia pasirašiusias Vienos konvenciją šalis arba šalį, išskyrus VII straipsnio 2 dalį, kur „Susitarianti šalis“ reiškia Lietuvos Respubliką.",
+      "content": "Bendro protokolo I straipsnyje ir II straipsnio pirmoje eilutėje žodžiai „šis Protokolas“ reiškia šį įstatymą.\n\nKeletas vieno operatoriaus branduolinių įrenginių, esančių toje pačioje teritorijoje, turi būti laikomi vienu branduoliniu įrenginiu.\n\nOperatoriaus atsakomybės dydis už bet kurį branduolinį incidentą apribojamas suma Lietuvos litais, ekvivalentiška minimaliam atsakomybės dydžiui, nustatytam Vienos konvencijos V straipsnyje."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Šis įstatymas įsigalioja nuo 1993 m. gruodžio 5 d. ir taikomas visiems branduoliniams incidentams, galintiems įvykti šią dieną arba vėliau, nesvarbu, kokia incidento priežastis ar jo kilmės data.",
+      "content": "Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS\n______________"
+    }
+  ],
+  "definitions": []
+}

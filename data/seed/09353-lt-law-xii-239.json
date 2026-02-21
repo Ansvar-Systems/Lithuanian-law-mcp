@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xii-239",
+  "type": "statute",
+  "title": "Lietuvos Respublikos civilinio kodekso 6.923 straipsnio pakeitimo ir kodekso papildymo 6.930-1 straipsniu įstatymas",
+  "short_name": "XII-239",
+  "status": "in_force",
+  "issued_date": "2013-04-18",
+  "in_force_date": "2013-10-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.88CC8DFF10C7",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 6.923 straipsnio pakeitimas",
+      "content": "Pakeisti 6.923 straipsnį ir jį išdėstyti taip:\n\n„6.923 straipsnis. Lėšų nurašymo eiliškumas\n\nLėšos nurašomos pagal kliento nurodymų ir kitų dokumentų gavimo eilę (kalendorinis eiliškumas), jeigu įstatymai nenustato ko kita.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Kodekso papildymas 6.9301 straipsniu",
+      "content": "Papildyti Kodeksą 6.9301 straipsniu:\n\n„6.9301 straipsnis. Atsiskaitymų grynaisiais ir negrynaisiais pinigais eiliškumas\n\n1. Skolininkas – fizinis ar juridinis asmuo, kuris neturi pakankamai lėšų visiems pareikštiems reikalavimams patenkinti, privalo atsiskaitymus atlikti šia eile:\n\n1) pirmąja eile atsiskaityti pagal vykdomuosius dokumentus dėl žalos, padarytos dėl sveikatos sužalojimo ar gyvybės atėmimo, atlyginimo ir išlaikymo išieškojimo;\n\n2) antrąja eile atsiskaityti pagal vykdomuosius dokumentus dėl išmokų, atsirandančių iš darbo ir autorinių sutarčių;\n\n3) trečiąja eile atsiskaityti pagal mokėjimo dokumentus, nustatančius įmokas į biudžetą (valstybės, savivaldybės, Valstybinio socialinio draudimo fondo ir Privalomojo sveikatos draudimo fondo biudžetus) ir valstybės pinigų fondus;\n\n4) ketvirtąja eile atsiskaityti pagal vykdomuosius dokumentus kitiems piniginiams reikalavimams patenkinti;\n\n5) penktąja eile atsiskaityti pagal kitus mokėjimo dokumentus kalendorinio eiliškumo tvarka.\n\n2. Atsiskaitymai pagal tos pačios eilės reikalavimus atliekami mokėjimo dokumentų gavimo kalendorinio eiliškumo tvarka.\n\n3. Atsiskaitymų eilę vykdymo proceso, bankroto, restruktūrizavimo ir kitais įstatymų numatytais atvejais nustato kiti įstatymai.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2013 m. spalio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

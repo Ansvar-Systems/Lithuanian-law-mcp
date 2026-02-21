@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiv-790",
+  "type": "statute",
+  "title": "Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 I dalies III skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas",
+  "short_name": "XIV-790",
+  "status": "in_force",
+  "issued_date": "2021-12-16",
+  "in_force_date": "2022-07-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/4c275d7067e611eca9ac839120d251c4/DEFiJcGSOy",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. I dalies III skyriaus pavadinimo pakeitimas",
+      "content": "Pakeisti I dalies III skyriaus pavadinimą ir jį išdėstyti taip:\n\n„III SKYRIUS\nSVEIKATOS DUOMENŲ TVARKYMAS ELEKTRONINĖMIS PRIEMONĖMIS“."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo papildymas 132 straipsniu",
+      "content": "Papildyti Įstatymą 132 straipsniu:\n\n„132 straipsnis. Pakartotinis sveikatos duomenų, tvarkomų elektroninėmis priemonėmis, naudojimas\n\nSveikatos duomenys, tvarkomi elektroninėmis priemonėmis, Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatyme nurodytose srityse ir nustatytomis sąlygomis bei tvarka gali būti naudojami pakartotinai.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2022 m. liepos 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                               Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

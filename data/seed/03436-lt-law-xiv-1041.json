@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiv-1041",
+  "type": "statute",
+  "title": "Lietuvos Respublikos švietimo įstatymo Nr. I-1489 62 straipsnio pakeitimo įstatymas",
+  "short_name": "XIV-1041",
+  "status": "in_force",
+  "issued_date": "2022-04-21",
+  "in_force_date": "2022-12-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/864ce930c6f411ec8d9390588bf2de65/QuyhEfupbv",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 62 straipsnio pakeitimas",
+      "content": "Pripažinti netekusiu galios 62 straipsnio 4 punktą."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2022 m. gruodžio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda"
+    }
+  ],
+  "definitions": []
+}

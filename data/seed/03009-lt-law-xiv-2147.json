@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiv-2147",
+  "type": "statute",
+  "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 61-3 straipsnio pakeitimo įstatymas",
+  "short_name": "XIV-2147",
+  "status": "in_force",
+  "issued_date": "2023-06-29",
+  "in_force_date": "2024-05-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/7556d7701b3b11eeb233e8b04dc9bb3d/pVGySpXoay",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 613 straipsnio pakeitimas",
+      "content": "1. Pakeisti 613 straipsnio 3 dalį ir ją išdėstyti taip:\n\n„3. Pradėjęs užsienio platformos operatoriaus veiklą, duomenis teikiantis užsienio platformos operatorius privalo būti užsiregistravęs centrinio mokesčių administratoriaus nustatyta tvarka. Jeigu duomenis teikiantis užsienio platformos operatorius nevykdo pareigos registruotis arba jeigu jo registracija buvo panaikinta ir Europos Sąjungos valstybės narės koordinuodamos veiksmus, kuriais siekiama užtikrinti registravimosi ir informacijos teikimo reikalavimų vykdymą, be kita ko, sutaria neleisti duomenis teikiančiam užsienio platformos operatoriui veikti Europos Sąjungoje, Valstybinė mokesčių inspekcija atlieka poveikio vertinimą ir priima sprendimą, kuriuo Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoda privalomą nurodymą panaikinti galimybę pasiekti duomenis teikiančio užsienio platformos operatoriaus interneto svetainę iki tol, kol užsienio platformos operatorius įvykdo pareigą užsiregistruoti arba iš naujo užsiregistruoja, jeigu jo registracija buvo panaikinta.“\n\n2. Pakeisti 613 straipsnio 4 dalį ir ją išdėstyti taip:\n\n„4. Jeigu duomenis teikiantis platformos operatorius, išskyrus užsienio platformos operatorių, nevykdo pareigos teikti informaciją apie pardavėjus pagal šį straipsnį, Valstybinė mokesčių inspekcija po dviejų iš eilės platformos operatoriui pateiktų priminimų, ne vėliau kaip per 90 dienų, bet ne anksčiau kaip po 30 dienų nuo antrojo priminimo dienos, priima sprendimą, kuriuo Elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoda privalomą nurodymą panaikinti galimybę pasiekti platformos operatoriaus interneto svetainę tol, kol platformos operatorius pašalins pažeidimą. 30 dienų laikotarpis pradedamas skaičiuoti nuo tos dienos, kai platformos operatoriui buvo pateiktas antrasis priminimas.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2024 m. gegužės 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentas                                                                                          Gitanas Nausėda\n\npart_1fb27f8778904400acabea02b842cf48_end"
+    }
+  ],
+  "definitions": []
+}

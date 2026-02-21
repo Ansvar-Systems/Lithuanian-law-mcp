@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xi-1234",
+  "type": "statute",
+  "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 12, 13 straipsnių pakeitimo ir papildymo įstatymas",
+  "short_name": "XI-1234",
+  "status": "in_force",
+  "issued_date": "2010-12-14",
+  "in_force_date": "2011-02-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.56B04E699270",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 12 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3, 4, 5 dalimis",
+      "content": "Pakeisti 12 straipsnio 2 dalį, straipsnį papildyti 3, 4, 5 dalimis ir visą straipsnį išdėstyti taip:\n\n„12 straipsnis. Teisė gauti informaciją\n\n1. Draudėjai, apdraustieji asmenys ir socialinio draudimo išmokų gavėjai turi teisę gauti apie juos Fondo administravimo informacinėje sistemoje sukauptą informaciją.\n\n2. Informacija apie draudėją, apdraustąjį asmenį arba socialinio draudimo išmokos gavėją gali būti pateikta kitiems asmenims tik esant rašytiniam ar jam prilyginamam draudėjo, apdraustojo asmens arba socialinio draudimo išmokos gavėjo sutikimui arba jo prašymui, išskyrus šio straipsnio 3 dalyje ir kituose įstatymuose nustatytus atvejus, kai draudėjo, apdraustojo asmens arba socialinio draudimo išmokų gavėjo sutikimo nereikia. Informacijos pateikimo tvarką nustato Fondo valdyba.\n\n3. Šie draudėjo duomenys yra vieši:\n\n1) draudėjo kodas, jo suteikimo ir pabaigos datos;\n\n2) draudėjo apdraustųjų skaičius;\n\n3) draudėjo socialinio draudimo įmokų, baudų, delspinigių skola.\n\n4. Teikiant šio straipsnio 3 dalies 3 punkte nurodytą informaciją, Asmens duomenų teisinės apsaugos įstatymo 21 straipsnio 3 dalis netaikoma.\n\n5. Fondo valdybos informacinės sistemos duomenų teikimo už atlyginimą atvejus ir atlyginimo dydį nustato Vyriausybė ar jos įgaliota institucija.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 13 straipsnio pakeitimas",
+      "content": "13 straipsnyje po žodžių „teisės aktų nustatyta tvarka“ įrašyti žodžius „išskyrus šiame įstatyme nustatytas išimtis“ ir šį straipsnį išdėstyti taip:\n\n„13 straipsnis. Duomenų apie draudėjus, apdraustuosius asmenis ir socialinio draudimo išmokų gavėjus tvarkymas\n\nDuomenys apie draudėją, apdraustąjį asmenį arba socialinio draudimo išmokos gavėją, pateikti Fondo administravimo įstaigoms, turi būti tvarkomi vadovaujantis Asmens duomenų teisinės apsaugos įstatymu ir kitų teisės aktų nustatyta tvarka, išskyrus šiame įstatyme nustatytas išimtis.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas",
+      "content": "1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. vasario 1 d.\n\n2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ\n\n_________________"
+    }
+  ],
+  "definitions": []
+}

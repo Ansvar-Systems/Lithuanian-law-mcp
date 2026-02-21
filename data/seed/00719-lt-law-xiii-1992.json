@@ -1,0 +1,25 @@
+{
+  "id": "lt-law-xiii-1992",
+  "type": "statute",
+  "title": "Lietuvos Respublikos konsulinio statuto 14 straipsnio pakeitimo įstatymas",
+  "short_name": "XIII-1992",
+  "status": "in_force",
+  "issued_date": "2019-03-14",
+  "in_force_date": "2019-04-01",
+  "url": "https://e-tar.lt/portal/lt/legalAct/1c2577104f0c11e9975f9c35aedfe438/wyxBsydsFx",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 14 straipsnio pakeitimas",
+      "content": "Pripažinti netekusia galios 14 straipsnio 3 dalį."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2019 m. balandžio 1 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                        Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

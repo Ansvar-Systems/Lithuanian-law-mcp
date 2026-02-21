@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xii-702",
+  "type": "statute",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 7 ir 216 straipsnių pakeitimo ir Kodekso papildymo 224(1) straipsniu įstatymas",
+  "short_name": "XII-702",
+  "status": "in_force",
+  "issued_date": "2013-12-19",
+  "in_force_date": "2014-01-08",
+  "url": "https://e-tar.lt/portal/lt/legalAct/7de9ff10779011e3996afa27049d9d4e",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 7 straipsnio 5 punkto pakeitimas",
+      "content": "7 straipsnio 5 punkte vietoj žodžių „įgytų pinigų ar“ įrašyti žodį „gauto“ ir šį punktą išdėstyti taip:\n\n„5) nusikalstamu būdu gauto turto legalizavimą (216 straipsnis);“."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 216 straipsnio pakeitimas",
+      "content": "Pakeisti 216 straipsnį ir jį išdėstyti taip:\n\n„216 straipsnis. Nusikalstamu būdu gauto turto legalizavimas\n\n1. Tas, kas siekdamas nuslėpti ar įteisinti savo paties ar kito asmens turtą, žinodamas, kad jis gautas nusikalstamu būdu, tą turtą įgijo, valdė, naudojo, perdavė jį kitiems asmenims, atliko su tuo turtu susijusias finansines operacijas, sudarė sandorius, naudojo jį ūkinėje, komercinėje veikloje, kitaip jį pertvarkė ar melagingai nurodė, kad tai gauta iš teisėtos veiklos, taip pat tas, kas slėpė savo paties ar kito asmens turto tikrąjį pobūdį, šaltinį, buvimo vietą, disponavimą juo, judėjimą arba nuosavybės ar kitas su tuo turtu susijusias teises, žinodamas, kad tas turtas gautas nusikalstamu būdu,\nbaudžiamas bauda arba laisvės atėmimu iki septynerių metų.\n\n2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Kodekso papildymas 2241 straipsniu",
+      "content": "Papildyti Kodeksą 2241 straipsniu:\n\n„2241 straipsnis. Sąvokų išaiškinimas\n\nŠio skyriaus 216 straipsnyje nurodytas nusikalstamu būdu gautas turtas yra tiesiogiai ar netiesiogiai iš nusikalstamos veikos gautas bet kokio pavidalo turtas.“\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "lt-law-xiii-1429",
+  "type": "statute",
+  "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 55 straipsnio pakeitimo ir 56-1 straipsnio pripažinimo netekusiu galios įstatymas",
+  "short_name": "XIII-1429",
+  "status": "in_force",
+  "issued_date": "2018-06-30",
+  "in_force_date": "2018-07-16",
+  "url": "https://e-tar.lt/portal/lt/legalAct/ee3cb1b084cc11e8ae2bfd1913d66d57/KpudsydSJQ",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. 55 straipsnio pakeitimas",
+      "content": "Pakeisti 55 straipsnio 2 dalį ir ją išdėstyti taip:\n\n„2. Bankas, banko darbuotojai ir bet kurie kiti asmenys, kurie žino banko paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos kitiems asmenims, išskyrus šio straipsnio 3–7 dalyse, šio įstatymo 58 straipsnio 2 dalyje, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme, mokėjimo ir kitų finansinių paslaugų teikimą reguliuojančiuose įstatymuose, nustatytus atvejus.“"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. 561 straipsnio pripažinimas netekusiu galios",
+      "content": "Pripažinti netekusiu galios 561 straipsnį."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Įstatymo įsigaliojimas",
+      "content": "Šis įstatymas įsigalioja 2018 m. liepos 16 d.\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRespublikos Prezidentė                                                                                          Dalia Grybauskaitė"
+    }
+  ],
+  "definitions": []
+}

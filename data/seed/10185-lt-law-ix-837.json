@@ -1,0 +1,60 @@
+{
+  "id": "lt-law-ix-837",
+  "type": "statute",
+  "title": "Lietuvos Respublikos vaiko gimimo momento nustatymo įstatymas",
+  "short_name": "IX-837",
+  "status": "in_force",
+  "issued_date": "2002-04-04",
+  "in_force_date": "2002-04-26",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.B09F5ED0F81B/vYsxBXpYzQ",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "1 straipsnis. Įstatymo paskirtis",
+      "content": "Šis Įstatymas reglamentuoja vaiko gimimo momento nustatymą, jo gimimo momentą nustatančių asmenų pareigas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "2 straipsnis. Pagrindinės Įstatymo sąvokos",
+      "content": "1. Vaiko gimimas – gyvo vaisiaus išstūmimas ar ištraukimas iš moters organizmo.\n\n2. Vaiko gyvybingumo požymiai – savarankiškas kvėpavimas ar širdies plakimas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "3 straipsnis. Vaiko gimimo momentą nustatantys asmenys",
+      "content": "Vaiko gimimo momentą nustato sveikatos priežiūros specialistai."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "4 straipsnis. Vaiko gimimo momentas",
+      "content": "1. Vaiko gimimo momento konstatavimo kriterijai yra viso gyvybingo vaisiaus pasirodymas iš moters organizmo.\n\n2. Vaiko gimimo momentas fiksuojamas medicinos dokumentuose kalendorine data, vietos laiku, minučių tikslumu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "5 straipsnis. Vaiko gimimo momentą nustatančių asmenų pareigos",
+      "content": "Vaiko gimimo momentą nustatantys asmenys privalo:\n\n1) nustatyti vaiko lytį, kūno masę ir nurodyti gimimo vietą;\n\n2) fiksuoti vaiko gimimo momentą;\n\n3) padaryti gimimo įrašus medicinos dokumentuose."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "6 straipsnis. Vaiko gimimo pažymėjimo sudarymas ir išdavimas",
+      "content": "1. Vaiko gimimo pažymėjimą Lietuvos Respublikos Vyriausybės nustatyta tvarka sudaro ir išduoda sveikatos priežiūros įstaiga.\n\n2. Sveikatos priežiūros įstaiga sudarytą vaiko gimimo pažymėjimą privalo nedelsdama, ne vėliau kaip kitą darbo dieną po jo išdavimo, elektroninių ryšių priemonėmis perduoti civilinės metrikacijos įstaigai, registruojančiai vaiko gimimą.\n\nTAR pastaba. Iki 2018 m. kovo 1 d. sveikatos priežiūros įstaigos, nesinaudojančios valstybės elektronine sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacine sistema, sudarytus vaiko gimimo pažymėjimus perduoda civilinės metrikacijos įstaigoms Lietuvos Respublikos teisingumo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka.\nStraipsnio pakeitimai:\nNr. XII-2121, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19714\n\nSkelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.\n\nRESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vaiko gimimas",
+      "definition": "gyvo vaisiaus išstūmimas ar ištraukimas iš moters organizmo.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Vaiko gyvybingumo požymiai",
+      "definition": "savarankiškas kvėpavimas ar širdies plakimas.",
+      "source_provision": "art2"
+    }
+  ]
+}

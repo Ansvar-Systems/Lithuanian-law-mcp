@@ -4,13 +4,14 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 import {
-  fetchDocumentRecord,
-  fetchEditionRecords,
-  fetchEditionText,
-  pickCurrentEdition,
+  fetchAllInForceLaws,
+  fetchDocumentTextsByIds,
+  fetchSuvestineMetadataByDocumentIds,
+  fetchSuvestineTextsByIds,
   sortEditionsNewestFirst,
   type DocumentRecord,
   type EditionRecord,
+  type EditionTextRecord,
 } from './lib/fetcher.js';
 import { parseLithuanianLawText } from './lib/parser.js';
 
@@ -20,17 +21,17 @@ const __dirname = path.dirname(__filename);
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 
-interface TargetLaw {
-  file: string;
+interface KnownLawOverride {
+  documentId: string;
   id: string;
+  file: string;
   shortName: string;
   titleEn: string;
   description: string;
-  documentId: string;
   preferredEditionId?: string;
 }
 
-const TARGET_LAWS: TargetLaw[] = [
+const KNOWN_LAWS: KnownLawOverride[] = [
   {
     file: '01-personal-data-protection.json',
     id: 'lt-pdpa-i1374',
@@ -109,7 +110,6 @@ const TARGET_LAWS: TargetLaw[] = [
     description:
       'Contains criminal law provisions, including offenses relevant to information systems, data, and cybersecurity.',
     documentId: 'TAR.2B866DFF7D43',
-    // Latest two suvestine rows currently expose empty text via API; use latest non-empty edition.
     preferredEditionId: 'kdXNfHZbYx',
   },
   {
@@ -134,21 +134,85 @@ const TARGET_LAWS: TargetLaw[] = [
   },
 ];
 
-function parseArgs(): { limit: number | null } {
+const KNOWN_BY_DOCUMENT = new Map(KNOWN_LAWS.map(item => [item.documentId, item]));
+
+type SourceModel = 'Suvestine' | 'Dokumentas';
+
+interface SelectedSource {
+  sourceModel: SourceModel;
+  sourceUrl: string;
+  text: string;
+  edition?: EditionRecord;
+}
+
+interface SkippedLaw {
+  document_id: string;
+  title: string;
+  reason: string;
+  details?: string;
+}
+
+interface CliArgs {
+  mode: 'full' | 'sample';
+  limit: number | null;
+  chunkDocs: number;
+  chunkTexts: number;
+  maxSuvestineRounds: number;
+}
+
+function parseArgs(): CliArgs {
   const args = process.argv.slice(2);
-  let limit: number | null = null;
+  const parsed: CliArgs = {
+    mode: 'full',
+    limit: null,
+    chunkDocs: 100,
+    chunkTexts: 40,
+    maxSuvestineRounds: 20,
+  };
 
   for (let i = 0; i < args.length; i++) {
-    if (args[i] === '--limit' && args[i + 1]) {
-      const value = Number.parseInt(args[i + 1], 10);
-      if (Number.isFinite(value) && value > 0) {
-        limit = value;
-      }
+    const arg = args[i];
+    const next = args[i + 1];
+
+    if (arg === '--sample') {
+      parsed.mode = 'sample';
+      continue;
+    }
+    if (arg === '--full') {
+      parsed.mode = 'full';
+      continue;
+    }
+
+    if (arg === '--limit' && next) {
+      const value = Number.parseInt(next, 10);
+      if (Number.isFinite(value) && value > 0) parsed.limit = value;
       i++;
+      continue;
+    }
+
+    if (arg === '--chunk-docs' && next) {
+      const value = Number.parseInt(next, 10);
+      if (Number.isFinite(value) && value > 0) parsed.chunkDocs = value;
+      i++;
+      continue;
+    }
+
+    if (arg === '--chunk-texts' && next) {
+      const value = Number.parseInt(next, 10);
+      if (Number.isFinite(value) && value > 0) parsed.chunkTexts = value;
+      i++;
+      continue;
+    }
+
+    if (arg === '--max-suvestine-rounds' && next) {
+      const value = Number.parseInt(next, 10);
+      if (Number.isFinite(value) && value > 0) parsed.maxSuvestineRounds = value;
+      i++;
+      continue;
     }
   }
 
-  return { limit };
+  return parsed;
 }
 
 function mapStatus(value: string | null | undefined): 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force' {
@@ -163,143 +227,442 @@ function ensureDirs(): void {
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
 }
 
-function clearSeedFiles(): void {
-  const files = fs.readdirSync(SEED_DIR).filter(name => name.endsWith('.json'));
-  for (const file of files) {
-    fs.unlinkSync(path.join(SEED_DIR, file));
+function clearJsonFiles(dir: string): void {
+  if (!fs.existsSync(dir)) return;
+  for (const name of fs.readdirSync(dir)) {
+    if (!name.endsWith('.json')) continue;
+    fs.unlinkSync(path.join(dir, name));
   }
 }
 
-async function resolveEditionWithText(
-  documentId: string,
-  editions: EditionRecord[],
-  preferredEditionId?: string,
-): Promise<{ edition: EditionRecord; text: string; sourceUrl: string }> {
-  const tryEdition = async (edition: EditionRecord): Promise<{ edition: EditionRecord; text: string; sourceUrl: string } | null> => {
-    const row = await fetchEditionText(documentId, edition.suvestines_id);
-    const text = row?.tekstas_lt?.trim() ?? '';
-    if (!text) return null;
-    return {
-      edition,
-      text,
-      sourceUrl: row?.nuoroda ?? edition.nuoroda,
-    };
-  };
+function chunkArray<T>(items: T[], chunkSize: number): T[][] {
+  const chunks: T[][] = [];
+  for (let i = 0; i < items.length; i += chunkSize) {
+    chunks.push(items.slice(i, i + chunkSize));
+  }
+  return chunks;
+}
 
-  if (preferredEditionId) {
-    const preferred = editions.find(e => e.suvestines_id === preferredEditionId);
-    if (preferred) {
-      const resolved = await tryEdition(preferred);
-      if (resolved) return resolved;
+function slugify(input: string): string {
+  const normalized = input
+    .toLowerCase()
+    .replace(/ą/g, 'a')
+    .replace(/č/g, 'c')
+    .replace(/ę/g, 'e')
+    .replace(/ė/g, 'e')
+    .replace(/į/g, 'i')
+    .replace(/š/g, 's')
+    .replace(/ų/g, 'u')
+    .replace(/ū/g, 'u')
+    .replace(/ž/g, 'z');
+
+  return normalized
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+/, '')
+    .replace(/-+$/, '')
+    .replace(/-{2,}/g, '-');
+}
+
+function buildAutoId(doc: DocumentRecord, usedIds: Set<string>): string {
+  const raw = doc.atv_dok_nr?.trim() || doc.dokumento_id;
+  let base = `lt-law-${slugify(raw) || slugify(doc.dokumento_id) || 'unknown'}`;
+  if (base.length > 72) {
+    base = base.slice(0, 72).replace(/-+$/, '');
+  }
+
+  const suffix = slugify(doc.dokumento_id).slice(0, 10) || 'id';
+  let candidate = base;
+
+  if (usedIds.has(candidate)) {
+    candidate = `${base}-${suffix}`;
+  }
+
+  let i = 2;
+  while (usedIds.has(candidate)) {
+    candidate = `${base}-${suffix}-${i}`;
+    i++;
+  }
+
+  usedIds.add(candidate);
+  return candidate;
+}
+
+function buildSeedIdMap(docs: DocumentRecord[]): Map<string, string> {
+  const map = new Map<string, string>();
+  const used = new Set<string>();
+
+  for (const doc of docs) {
+    const known = KNOWN_BY_DOCUMENT.get(doc.dokumento_id);
+    if (known) {
+      if (used.has(known.id)) {
+        throw new Error(`Duplicate known id detected: ${known.id}`);
+      }
+      used.add(known.id);
+      map.set(doc.dokumento_id, known.id);
+      continue;
+    }
+
+    map.set(doc.dokumento_id, buildAutoId(doc, used));
+  }
+
+  return map;
+}
+
+async function collectSuvestineMetadata(
+  docs: DocumentRecord[],
+  chunkDocs: number,
+): Promise<Map<string, EditionRecord[]>> {
+  const byDoc = new Map<string, EditionRecord[]>();
+  const ids = docs.map(doc => doc.dokumento_id);
+  const chunks = chunkArray(ids, chunkDocs);
+
+  for (let i = 0; i < chunks.length; i++) {
+    const chunk = chunks[i];
+    process.stdout.write(`  [suvestine-meta ${i + 1}/${chunks.length}] documents=${chunk.length} ... `);
+    const rows = await fetchSuvestineMetadataByDocumentIds(chunk);
+    console.log(`rows=${rows.length}`);
+
+    for (const row of rows) {
+      const list = byDoc.get(row.dokumento_id) ?? [];
+      list.push(row);
+      byDoc.set(row.dokumento_id, list);
     }
   }
 
-  const current = pickCurrentEdition(editions);
-  if (current) {
-    const resolved = await tryEdition(current);
-    if (resolved) return resolved;
+  for (const doc of docs) {
+    const list = byDoc.get(doc.dokumento_id) ?? [];
+    const dedupe = new Map<string, EditionRecord>();
+    for (const item of list) {
+      const key = item.suvestines_id;
+      const existing = dedupe.get(key);
+      if (!existing || item.galioja_nuo > existing.galioja_nuo) {
+        dedupe.set(key, item);
+      }
+    }
+
+    const sorted = sortEditionsNewestFirst(Array.from(dedupe.values()));
+    const known = KNOWN_BY_DOCUMENT.get(doc.dokumento_id);
+    if (known?.preferredEditionId) {
+      const idx = sorted.findIndex(item => item.suvestines_id === known.preferredEditionId);
+      if (idx > 0) {
+        const [preferred] = sorted.splice(idx, 1);
+        sorted.unshift(preferred);
+      }
+    }
+
+    byDoc.set(doc.dokumento_id, sorted);
   }
 
-  for (const edition of sortEditionsNewestFirst(editions)) {
-    const resolved = await tryEdition(edition);
-    if (resolved) return resolved;
-  }
-
-  throw new Error(`No edition with non-empty text found for ${documentId}`);
+  return byDoc;
 }
 
-function requireDocument(documentId: string, row: DocumentRecord | null): DocumentRecord {
-  if (!row) {
-    throw new Error(`Document ${documentId} was not found in official API`);
+async function resolveSuvestineSources(
+  docs: DocumentRecord[],
+  editionsByDoc: Map<string, EditionRecord[]>,
+  chunkTexts: number,
+  maxRounds: number,
+): Promise<{ selected: Map<string, SelectedSource>; unresolved: string[] }> {
+  const selected = new Map<string, SelectedSource>();
+  const initiallyResolvable = docs
+    .map(doc => doc.dokumento_id)
+    .filter(docId => (editionsByDoc.get(docId)?.length ?? 0) > 0);
+
+  let unresolved = initiallyResolvable;
+  let round = 0;
+
+  while (unresolved.length > 0 && round < maxRounds) {
+    const candidates = new Map<string, EditionRecord>();
+    const roundExhausted: string[] = [];
+
+    for (const docId of unresolved) {
+      const list = editionsByDoc.get(docId) ?? [];
+      const candidate = list[round];
+      if (candidate) {
+        candidates.set(docId, candidate);
+      } else {
+        roundExhausted.push(docId);
+      }
+    }
+
+    if (candidates.size === 0) break;
+
+    const suvestineIds = Array.from(new Set(Array.from(candidates.values()).map(item => item.suvestines_id)));
+    console.log(
+      `  [suvestine-text round ${round + 1}] unresolved=${unresolved.length}, candidates=${candidates.size}, suvestines=${suvestineIds.length}`,
+    );
+
+    const textBySuvestine = new Map<string, EditionTextRecord>();
+    const textChunks = chunkArray(suvestineIds, chunkTexts);
+    for (let i = 0; i < textChunks.length; i++) {
+      const chunk = textChunks[i];
+      const rows = await fetchSuvestineTextsByIds(chunk);
+      for (const row of rows) {
+        textBySuvestine.set(row.suvestines_id, row);
+      }
+      if ((i + 1) % 25 === 0 || i + 1 === textChunks.length) {
+        console.log(`    text chunks fetched: ${i + 1}/${textChunks.length}`);
+      }
+    }
+
+    const nextUnresolved: string[] = [];
+
+    for (const [docId, edition] of candidates) {
+      const row = textBySuvestine.get(edition.suvestines_id);
+      const text = row?.tekstas_lt?.trim() ?? '';
+
+      if (text.length > 0) {
+        selected.set(docId, {
+          sourceModel: 'Suvestine',
+          sourceUrl: row?.nuoroda ?? edition.nuoroda,
+          text,
+          edition,
+        });
+        continue;
+      }
+
+      const list = editionsByDoc.get(docId) ?? [];
+      const hasMore = list.length > round + 1;
+      if (hasMore) {
+        nextUnresolved.push(docId);
+      }
+    }
+
+    for (const docId of roundExhausted) {
+      const list = editionsByDoc.get(docId) ?? [];
+      const hasMore = list.length > round + 1;
+      if (hasMore) {
+        nextUnresolved.push(docId);
+      }
+    }
+
+    unresolved = nextUnresolved;
+    round++;
   }
-  if ((row.rusis ?? '').toLowerCase() !== 'įstatymas') {
-    throw new Error(`Document ${documentId} is not an įstatymas (rusis=${row.rusis ?? 'unknown'})`);
-  }
-  return row;
-}
 
-async function ingestOne(law: TargetLaw): Promise<{ provisions: number; definitions: number; editionId: string }> {
-  const doc = requireDocument(law.documentId, await fetchDocumentRecord(law.documentId));
-  const editions = await fetchEditionRecords(law.documentId);
-  if (editions.length === 0) {
-    throw new Error(`No suvestine editions found for ${law.documentId}`);
-  }
-
-  const resolved = await resolveEditionWithText(law.documentId, editions, law.preferredEditionId);
-  const parsed = parseLithuanianLawText(resolved.text);
-
-  if (parsed.provisions.length === 0) {
-    throw new Error(`No provisions parsed for ${law.documentId}`);
-  }
-
-  const seed = {
-    id: law.id,
-    type: 'statute' as const,
-    title: doc.pavadinimas,
-    title_en: law.titleEn,
-    short_name: law.shortName,
-    status: mapStatus(doc.galioj_busena),
-    issued_date: doc.priimtas ?? undefined,
-    in_force_date: doc.isigalioja ?? undefined,
-    url: resolved.sourceUrl,
-    description: law.description,
-    provisions: parsed.provisions,
-    definitions: parsed.definitions,
-  };
-
-  const seedPath = path.join(SEED_DIR, law.file);
-  fs.writeFileSync(seedPath, `${JSON.stringify(seed, null, 2)}\n`, 'utf8');
-
-  const sourceMeta = {
-    document_id: law.documentId,
-    atv_dok_nr: doc.atv_dok_nr ?? null,
-    title: doc.pavadinimas,
-    selected_suvestines_id: resolved.edition.suvestines_id,
-    selected_galioja_nuo: resolved.edition.galioja_nuo,
-    selected_galioja_iki: resolved.edition.galioja_iki,
-    source_url: resolved.sourceUrl,
-    raw_text_length: resolved.text.length,
-  };
-  fs.writeFileSync(
-    path.join(SOURCE_DIR, `${law.file.replace(/\.json$/, '')}.source.json`),
-    `${JSON.stringify(sourceMeta, null, 2)}\n`,
-    'utf8',
-  );
+  const unresolvedAfterRounds = docs
+    .map(doc => doc.dokumento_id)
+    .filter(docId => !selected.has(docId));
 
   return {
-    provisions: parsed.provisions.length,
-    definitions: parsed.definitions.length,
-    editionId: resolved.edition.suvestines_id,
+    selected,
+    unresolved: unresolvedAfterRounds,
   };
+}
+
+async function resolveDocumentFallbackSources(
+  unresolvedDocIds: string[],
+  chunkDocs: number,
+): Promise<Map<string, SelectedSource>> {
+  const selected = new Map<string, SelectedSource>();
+  const chunks = chunkArray(unresolvedDocIds, chunkDocs);
+
+  for (let i = 0; i < chunks.length; i++) {
+    const chunk = chunks[i];
+    process.stdout.write(`  [document-fallback ${i + 1}/${chunks.length}] documents=${chunk.length} ... `);
+    const rows = await fetchDocumentTextsByIds(chunk);
+    console.log(`rows=${rows.length}`);
+
+    for (const row of rows) {
+      const text = row.tekstas_lt?.trim() ?? '';
+      if (!text) continue;
+      selected.set(row.dokumento_id, {
+        sourceModel: 'Dokumentas',
+        sourceUrl: row.nuoroda,
+        text,
+      });
+    }
+  }
+
+  return selected;
+}
+
+function writeJson(filePath: string, value: unknown): void {
+  fs.writeFileSync(filePath, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
 }
 
 async function main(): Promise<void> {
-  const { limit } = parseArgs();
-  const laws = limit ? TARGET_LAWS.slice(0, limit) : TARGET_LAWS;
+  const args = parseArgs();
 
   console.log('Lithuanian Law MCP -- Real Data Ingestion');
   console.log('========================================');
   console.log('Source: TAR open data API (get.data.gov.lt / datasets/gov/lrsk/teises_aktai)');
-  console.log(`Target laws: ${laws.length}\n`);
+  console.log(`Mode: ${args.mode}`);
+  console.log(`Chunk sizes: docs=${args.chunkDocs}, texts=${args.chunkTexts}`);
+  console.log(`Max suvestine fallback rounds: ${args.maxSuvestineRounds}\n`);
 
   ensureDirs();
-  clearSeedFiles();
+  clearJsonFiles(SEED_DIR);
+  clearJsonFiles(SOURCE_DIR);
 
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
+  const allInForceLaws = await fetchAllInForceLaws();
+  allInForceLaws.sort((a, b) => a.dokumento_id.localeCompare(b.dokumento_id));
 
-  for (const law of laws) {
-    process.stdout.write(`- ${law.file} (${law.documentId}) ... `);
-    const result = await ingestOne(law);
-    totalProvisions += result.provisions;
-    totalDefinitions += result.definitions;
-    console.log(`OK (${result.provisions} provisions, ${result.definitions} definitions, edition ${result.editionId})`);
+  let targetDocs: DocumentRecord[];
+  if (args.mode === 'sample') {
+    const wantedIds = new Set(KNOWN_LAWS.map(item => item.documentId));
+    targetDocs = allInForceLaws.filter(doc => wantedIds.has(doc.dokumento_id));
+    targetDocs.sort((a, b) => {
+      const ai = KNOWN_LAWS.findIndex(item => item.documentId === a.dokumento_id);
+      const bi = KNOWN_LAWS.findIndex(item => item.documentId === b.dokumento_id);
+      return ai - bi;
+    });
+  } else {
+    targetDocs = allInForceLaws;
   }
 
+  if (args.limit) {
+    targetDocs = targetDocs.slice(0, args.limit);
+  }
+
+  console.log(`In-force laws discovered: ${allInForceLaws.length}`);
+  console.log(`Target laws selected: ${targetDocs.length}\n`);
+
+  const seedIdByDocument = buildSeedIdMap(targetDocs);
+
+  console.log('Collecting consolidated edition metadata...');
+  const editionsByDoc = await collectSuvestineMetadata(targetDocs, args.chunkDocs);
+
+  const docsWithSuvestine = targetDocs.filter(doc => (editionsByDoc.get(doc.dokumento_id)?.length ?? 0) > 0).length;
+  console.log(`Suvestine coverage: ${docsWithSuvestine}/${targetDocs.length} docs have at least one edition\n`);
+
+  console.log('Resolving consolidated text editions...');
+  const suvestineResolution = await resolveSuvestineSources(
+    targetDocs,
+    editionsByDoc,
+    args.chunkTexts,
+    args.maxSuvestineRounds,
+  );
+
+  console.log(`Suvestine text resolved: ${suvestineResolution.selected.size}/${targetDocs.length}`);
+  console.log(`Needs Dokumentas fallback: ${suvestineResolution.unresolved.length}\n`);
+
+  console.log('Resolving fallback text from Dokumentas...');
+  const fallbackSelected = await resolveDocumentFallbackSources(suvestineResolution.unresolved, args.chunkDocs);
+  console.log(`Dokumentas fallback resolved: ${fallbackSelected.size}/${suvestineResolution.unresolved.length}\n`);
+
+  const selectedByDocument = new Map<string, SelectedSource>();
+  for (const [docId, source] of suvestineResolution.selected) {
+    selectedByDocument.set(docId, source);
+  }
+  for (const [docId, source] of fallbackSelected) {
+    if (!selectedByDocument.has(docId)) {
+      selectedByDocument.set(docId, source);
+    }
+  }
+
+  const skipped: SkippedLaw[] = [];
+  let written = 0;
+  let totalProvisions = 0;
+  let totalDefinitions = 0;
+  let suvestineUsed = 0;
+  let dokumentasUsed = 0;
+
+  const width = Math.max(5, String(targetDocs.length).length);
+
+  console.log('Parsing and writing seed files...');
+  for (const doc of targetDocs) {
+    const source = selectedByDocument.get(doc.dokumento_id);
+    if (!source) {
+      skipped.push({
+        document_id: doc.dokumento_id,
+        title: doc.pavadinimas,
+        reason: 'no_text_available',
+        details: 'No non-empty text from Suvestine rounds or Dokumentas fallback',
+      });
+      continue;
+    }
+
+    const parsed = parseLithuanianLawText(source.text);
+    if (parsed.provisions.length === 0) {
+      skipped.push({
+        document_id: doc.dokumento_id,
+        title: doc.pavadinimas,
+        reason: 'no_parsed_provisions',
+        details: `Source model=${source.sourceModel}, text_length=${source.text.length}`,
+      });
+      continue;
+    }
+
+    const known = KNOWN_BY_DOCUMENT.get(doc.dokumento_id);
+    const seedId = seedIdByDocument.get(doc.dokumento_id);
+    if (!seedId) {
+      throw new Error(`Missing seed id for ${doc.dokumento_id}`);
+    }
+
+    const fileName =
+      args.mode === 'sample' && known?.file
+        ? known.file
+        : `${String(written + 1).padStart(width, '0')}-${seedId}.json`;
+
+    const seed = {
+      id: seedId,
+      type: 'statute' as const,
+      title: doc.pavadinimas,
+      title_en: known?.titleEn ?? undefined,
+      short_name: known?.shortName ?? doc.atv_dok_nr ?? undefined,
+      status: mapStatus(doc.galioj_busena),
+      issued_date: doc.priimtas ?? undefined,
+      in_force_date: doc.isigalioja ?? undefined,
+      url: source.sourceUrl || doc.nuoroda,
+      description: known?.description ?? undefined,
+      provisions: parsed.provisions,
+      definitions: parsed.definitions,
+    };
+
+    writeJson(path.join(SEED_DIR, fileName), seed);
+
+    const sourceMeta = {
+      document_id: doc.dokumento_id,
+      atv_dok_nr: doc.atv_dok_nr ?? null,
+      title: doc.pavadinimas,
+      selected_suvestines_id: source.edition?.suvestines_id ?? null,
+      selected_galioja_nuo: source.edition?.galioja_nuo ?? null,
+      selected_galioja_iki: source.edition?.galioja_iki ?? null,
+      source_model: source.sourceModel,
+      source_url: source.sourceUrl || doc.nuoroda,
+      raw_text_length: source.text.length,
+      parsed_provisions: parsed.provisions.length,
+      parsed_definitions: parsed.definitions.length,
+    };
+
+    writeJson(path.join(SOURCE_DIR, `${fileName.replace(/\.json$/, '')}.source.json`), sourceMeta);
+
+    totalProvisions += parsed.provisions.length;
+    totalDefinitions += parsed.definitions.length;
+    written++;
+    if (source.sourceModel === 'Suvestine') suvestineUsed++;
+    if (source.sourceModel === 'Dokumentas') dokumentasUsed++;
+
+    if (written % 250 === 0) {
+      console.log(`  progress: ${written} written`);
+    }
+  }
+
+  const summary = {
+    mode: args.mode,
+    run_at: new Date().toISOString(),
+    target_laws: targetDocs.length,
+    written_seed_files: written,
+    skipped_laws: skipped.length,
+    source_usage: {
+      suvestine: suvestineUsed,
+      dokumentas_fallback: dokumentasUsed,
+    },
+    totals: {
+      provisions: totalProvisions,
+      definitions: totalDefinitions,
+    },
+  };
+
+  writeJson(path.join(SOURCE_DIR, '_ingestion-summary.json'), summary);
+  writeJson(path.join(SOURCE_DIR, '_skipped-laws.json'), skipped);
+
   console.log('\nIngestion complete.');
-  console.log(`Seed files: ${laws.length}`);
+  console.log(`Seed files written: ${written}`);
+  console.log(`Skipped laws: ${skipped.length}`);
   console.log(`Total provisions: ${totalProvisions}`);
   console.log(`Total definitions: ${totalDefinitions}`);
+  console.log(`Source usage: Suvestine=${suvestineUsed}, Dokumentas fallback=${dokumentasUsed}`);
 }
 
 main().catch(error => {
