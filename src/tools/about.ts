@@ -45,7 +45,7 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
     },
     data_source: {
       name: 'TAR (Teisės aktų registras)',
-      authority: 'Lithuanian Government, Office of Parliamentary Counsel',
+      authority: 'Seimas of the Republic of Lithuania',
       url: 'https://www.www.e-tar.lt',
       license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
       jurisdiction: 'LT',

@@ -33,7 +33,7 @@ export function generateResponseMetadata(
     data_source: 'TAR (Teisės aktų registras) (www.e-tar.lt) — Seimas of the Republic of Lithuania',
     jurisdiction: 'LT',
     disclaimer:
-      'This data is sourced from the TAR (Teisės aktų registras) under CC BY 4.0 licence. ' +
+      'This data is sourced from the TAR (Teisės aktų registras) under public domain. ' +
       'The authoritative versions are maintained by the Seimas of the Republic of Lithuania. ' +
       'Always verify with the official TAR (Teisės aktų registras) portal (www.e-tar.lt).',
     freshness,
