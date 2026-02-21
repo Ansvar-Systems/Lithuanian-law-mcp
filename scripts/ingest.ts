@@ -155,6 +155,8 @@ interface SkippedLaw {
 interface CliArgs {
   mode: 'full' | 'sample';
   limit: number | null;
+  start: number;
+  resume: boolean;
   chunkDocs: number;
   chunkTexts: number;
   maxSuvestineRounds: number;
@@ -165,6 +167,8 @@ function parseArgs(): CliArgs {
   const parsed: CliArgs = {
     mode: 'full',
     limit: null,
+    start: 0,
+    resume: false,
     chunkDocs: 100,
     chunkTexts: 40,
     maxSuvestineRounds: 20,
@@ -180,6 +184,17 @@ function parseArgs(): CliArgs {
     }
     if (arg === '--full') {
       parsed.mode = 'full';
+      continue;
+    }
+    if (arg === '--resume') {
+      parsed.resume = true;
+      continue;
+    }
+
+    if (arg === '--start' && next) {
+      const value = Number.parseInt(next, 10);
+      if (Number.isFinite(value) && value >= 0) parsed.start = value;
+      i++;
       continue;
     }
 
@@ -487,37 +502,50 @@ async function main(): Promise<void> {
   console.log('========================================');
   console.log('Source: TAR open data API (get.data.gov.lt / datasets/gov/lrsk/teises_aktai)');
   console.log(`Mode: ${args.mode}`);
+  console.log(`Start offset: ${args.start}`);
+  console.log(`Resume mode: ${args.resume}`);
   console.log(`Chunk sizes: docs=${args.chunkDocs}, texts=${args.chunkTexts}`);
   console.log(`Max suvestine fallback rounds: ${args.maxSuvestineRounds}\n`);
 
   ensureDirs();
-  clearJsonFiles(SEED_DIR);
-  clearJsonFiles(SOURCE_DIR);
+  if (!args.resume) {
+    clearJsonFiles(SEED_DIR);
+    clearJsonFiles(SOURCE_DIR);
+  }
 
   const allInForceLaws = await fetchAllInForceLaws();
   allInForceLaws.sort((a, b) => a.dokumento_id.localeCompare(b.dokumento_id));
 
-  let targetDocs: DocumentRecord[];
+  let corpusDocs: DocumentRecord[];
   if (args.mode === 'sample') {
     const wantedIds = new Set(KNOWN_LAWS.map(item => item.documentId));
-    targetDocs = allInForceLaws.filter(doc => wantedIds.has(doc.dokumento_id));
-    targetDocs.sort((a, b) => {
+    corpusDocs = allInForceLaws.filter(doc => wantedIds.has(doc.dokumento_id));
+    corpusDocs.sort((a, b) => {
       const ai = KNOWN_LAWS.findIndex(item => item.documentId === a.dokumento_id);
       const bi = KNOWN_LAWS.findIndex(item => item.documentId === b.dokumento_id);
       return ai - bi;
     });
   } else {
-    targetDocs = allInForceLaws;
+    corpusDocs = allInForceLaws;
+  }
+
+  let targetDocs: DocumentRecord[];
+  if (args.limit) {
+    targetDocs = corpusDocs.slice(args.start, args.start + args.limit);
+  } else {
+    targetDocs = corpusDocs.slice(args.start);
   }
 
   if (args.limit) {
-    targetDocs = targetDocs.slice(0, args.limit);
+    // already applied together with start
   }
 
   console.log(`In-force laws discovered: ${allInForceLaws.length}`);
+  console.log(`Corpus laws selected by mode: ${corpusDocs.length}`);
   console.log(`Target laws selected: ${targetDocs.length}\n`);
 
-  const seedIdByDocument = buildSeedIdMap(targetDocs);
+  const seedIdByDocument = buildSeedIdMap(corpusDocs);
+  const globalIndexByDocument = new Map(corpusDocs.map((doc, idx) => [doc.dokumento_id, idx]));
 
   console.log('Collecting consolidated edition metadata...');
   const editionsByDoc = await collectSuvestineMetadata(targetDocs, args.chunkDocs);
@@ -557,7 +585,7 @@ async function main(): Promise<void> {
   let suvestineUsed = 0;
   let dokumentasUsed = 0;
 
-  const width = Math.max(5, String(targetDocs.length).length);
+  const width = Math.max(5, String(corpusDocs.length).length);
 
   console.log('Parsing and writing seed files...');
   for (const doc of targetDocs) {
@@ -590,9 +618,15 @@ async function main(): Promise<void> {
     }
 
     const fileName =
-      args.mode === 'sample' && known?.file
+      args.mode === 'sample' && known?.file && args.start === 0
         ? known.file
-        : `${String(written + 1).padStart(width, '0')}-${seedId}.json`;
+        : (() => {
+            const globalIndex = globalIndexByDocument.get(doc.dokumento_id);
+            if (globalIndex === undefined) {
+              throw new Error(`Missing global index for ${doc.dokumento_id}`);
+            }
+            return `${String(globalIndex + 1).padStart(width, '0')}-${seedId}.json`;
+          })();
 
     const seed = {
       id: seedId,
@@ -638,28 +672,54 @@ async function main(): Promise<void> {
     }
   }
 
+  const summaryPath = path.join(SOURCE_DIR, '_ingestion-summary.json');
+  const skippedPath = path.join(SOURCE_DIR, '_skipped-laws.json');
+  const previousSummary = args.resume && fs.existsSync(summaryPath)
+    ? JSON.parse(fs.readFileSync(summaryPath, 'utf8')) as Record<string, unknown>
+    : null;
+  const previousSkipped = args.resume && fs.existsSync(skippedPath)
+    ? JSON.parse(fs.readFileSync(skippedPath, 'utf8')) as SkippedLaw[]
+    : [];
+
+  const mergedSkippedMap = new Map<string, SkippedLaw>();
+  for (const item of previousSkipped) {
+    mergedSkippedMap.set(`${item.document_id}:${item.reason}`, item);
+  }
+  for (const item of skipped) {
+    mergedSkippedMap.set(`${item.document_id}:${item.reason}`, item);
+  }
+  const mergedSkipped = Array.from(mergedSkippedMap.values()).sort((a, b) => a.document_id.localeCompare(b.document_id));
+
   const summary = {
     mode: args.mode,
     run_at: new Date().toISOString(),
-    target_laws: targetDocs.length,
-    written_seed_files: written,
-    skipped_laws: skipped.length,
+    target_laws: corpusDocs.length,
+    processed_window: {
+      start: args.start,
+      count: targetDocs.length,
+      end_exclusive: args.start + targetDocs.length,
+    },
+    written_seed_files: fs.readdirSync(SEED_DIR).filter(name => name.endsWith('.json')).length,
+    skipped_laws: mergedSkipped.length,
     source_usage: {
-      suvestine: suvestineUsed,
-      dokumentas_fallback: dokumentasUsed,
+      suvestine: (Number(previousSummary?.source_usage && (previousSummary.source_usage as { suvestine?: number }).suvestine) || 0) + suvestineUsed,
+      dokumentas_fallback:
+        (Number(previousSummary?.source_usage && (previousSummary.source_usage as { dokumentas_fallback?: number }).dokumentas_fallback) || 0) +
+        dokumentasUsed,
     },
     totals: {
-      provisions: totalProvisions,
-      definitions: totalDefinitions,
+      provisions: (Number(previousSummary?.totals && (previousSummary.totals as { provisions?: number }).provisions) || 0) + totalProvisions,
+      definitions: (Number(previousSummary?.totals && (previousSummary.totals as { definitions?: number }).definitions) || 0) + totalDefinitions,
     },
   };
 
-  writeJson(path.join(SOURCE_DIR, '_ingestion-summary.json'), summary);
-  writeJson(path.join(SOURCE_DIR, '_skipped-laws.json'), skipped);
+  writeJson(summaryPath, summary);
+  writeJson(skippedPath, mergedSkipped);
 
   console.log('\nIngestion complete.');
   console.log(`Seed files written: ${written}`);
-  console.log(`Skipped laws: ${skipped.length}`);
+  console.log(`Skipped laws (batch): ${skipped.length}`);
+  console.log(`Skipped laws (merged): ${mergedSkipped.length}`);
   console.log(`Total provisions: ${totalProvisions}`);
   console.log(`Total definitions: ${totalDefinitions}`);
   console.log(`Source usage: Suvestine=${suvestineUsed}, Dokumentas fallback=${dokumentasUsed}`);

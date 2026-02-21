@@ -1,0 +1,19 @@
+{
+  "id": "lt-law-i-182",
+  "type": "statute",
+  "title": "Dėl amnestijos pažymint Lietuvos Respublikos Konstitucijos priėmimą",
+  "short_name": "I-182",
+  "status": "in_force",
+  "issued_date": "1993-06-15",
+  "in_force_date": "1993-06-25",
+  "url": "https://e-tar.lt/portal/lt/legalAct/TAR.BD83D2A7535D/TAIS_28712",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "@D1=19930615;D2=19951221;D3=19960614",
+      "content": "@D1=19930615;D2=19951221;D3=19960614\n\n@D1=19930615;D2=19951221;D3=19960614"
+    }
+  ],
+  "definitions": []
+}

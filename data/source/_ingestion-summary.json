@@ -1,15 +1,20 @@
 {
   "mode": "full",
-  "run_at": "2026-02-21T20:39:23.968Z",
+  "run_at": "2026-02-21T21:15:36.369Z",
   "target_laws": 12045,
-  "written_seed_files": 11799,
-  "skipped_laws": 246,
+  "processed_window": {
+    "start": 12000,
+    "count": 45,
+    "end_exclusive": 12045
+  },
+  "written_seed_files": 12045,
+  "skipped_laws": 0,
   "source_usage": {
-    "suvestine": 7651,
-    "dokumentas_fallback": 4148
+    "suvestine": 7761,
+    "dokumentas_fallback": 4284
   },
   "totals": {
-    "provisions": 91310,
+    "provisions": 91556,
     "definitions": 20578
   }
 }

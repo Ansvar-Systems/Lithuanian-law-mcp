@@ -15,7 +15,7 @@ sources:
       summary: "Official Lithuanian legal register data is published through the government open-data portal and TAR."
     coverage:
       scope: "All in-force Lithuanian statutes (rusis=Įstatymas, galioj_busena=galioja) available via TAR open-data models."
-      limitations: "A small subset of statutes are skipped when no non-empty source text is available or article-level parsing yields no extractable provisions."
+      limitations: "No skipped statutes in the 2026-02-21 full-corpus run; ingestion uses Dokumentas fallback where consolidated Suvestine text is unavailable."
     languages:
       - "lt"
 
@@ -30,7 +30,7 @@ sources:
       summary: "Machine-readable TAR document and suvestine records, including consolidated legal text fields."
     coverage:
       scope: "Dokumentas and Suvestine models from dataset gov/lrsk/teises_aktai, with Suvestine prioritized and Dokumentas used as fallback."
-      limitations: "Model content depends on upstream publication and text availability in each suvestine row; source gaps are documented in data/source/_skipped-laws.json."
+      limitations: "Model content depends on upstream publication and text availability in each suvestine row."
     languages:
       - "lt"
 

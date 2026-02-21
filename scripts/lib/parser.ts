@@ -199,11 +199,29 @@ function extractDefinitionsFromProvision(content: string, provisionRef: string):
   return deduped;
 }
 
+function buildFallbackProvision(text: string): ParsedProvision | null {
+  const content = cleanContent(text);
+  if (!content) return null;
+
+  const firstLine = content.split('\n').map(line => line.trim()).find(Boolean) ?? '';
+  const shortTitle = firstLine.length > 180 ? 'Dokumento tekstas' : firstLine;
+
+  return {
+    provision_ref: 'art1',
+    section: '1',
+    title: shortTitle,
+    content,
+  };
+}
+
 export function parseLithuanianLawText(text: string): ParseResult {
   const normalized = trimTrailingSections(normalizeInput(text));
   const firstArticle = normalized.search(FIRST_ARTICLE_HEADING);
   if (firstArticle < 0) {
-    return { provisions: [], definitions: [] };
+    const fallback = buildFallbackProvision(normalized);
+    return fallback
+      ? { provisions: [fallback], definitions: [] }
+      : { provisions: [], definitions: [] };
   }
 
   const relevant = normalized.slice(firstArticle);
@@ -245,6 +263,13 @@ export function parseLithuanianLawText(text: string): ParseResult {
 
     if (/sąvok|apibrėž|šiame įstatyme vartojam/i.test(`${title}\n${content}`)) {
       definitions.push(...extractDefinitionsFromProvision(content, provisionRef));
+    }
+  }
+
+  if (provisions.length === 0) {
+    const fallback = buildFallbackProvision(relevant);
+    if (fallback) {
+      return { provisions: [fallback], definitions: [] };
     }
   }
 
