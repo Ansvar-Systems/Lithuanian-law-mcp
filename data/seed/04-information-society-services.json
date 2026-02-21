@@ -1,0 +1,157 @@
+{
+  "id": "lt-iss-2006",
+  "type": "statute",
+  "title": "Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas",
+  "title_en": "Law on Information Society Services",
+  "short_name": "IVPĮ",
+  "status": "in_force",
+  "issued_date": "2006-05-25",
+  "in_force_date": "2006-06-15",
+  "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.A88B9D6CE81B",
+  "description": "Regulates the provision of information society services in Lithuania, including e-commerce. Implements Directive 2000/31/EC (e-Commerce Directive). Covers service provider liability, commercial communications, and electronic contracts.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Purpose and Scope",
+      "content": "This Law regulates the provision of information society services in the Republic of Lithuania. It implements Directive 2000/31/EC of the European Parliament and of the Council on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market. This Law establishes requirements for service providers, the principles of intermediary liability, and rules for electronic contracts."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Law: 1) information society service — a service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services; 2) service provider — any natural or legal person providing an information society service; 3) recipient of the service — any natural or legal person who, for professional ends or otherwise, uses an information society service; 4) commercial communication — any form of communication designed to promote goods, services or the image of an undertaking."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Country of Origin Principle",
+      "content": "Information society services provided by a service provider established in the Republic of Lithuania shall comply with Lithuanian law. The Republic of Lithuania shall not restrict the freedom to provide information society services from another Member State of the European Union."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter II",
+      "section": "Service Provider Requirements",
+      "title": "Information Requirements",
+      "content": "Service providers shall make available to recipients of the service and to competent authorities, in a form which is easily, directly and permanently accessible: 1) the name of the service provider; 2) the geographic address and electronic mail address; 3) trade register details; 4) VAT identification number if applicable; 5) details of any relevant supervisory authority."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter II",
+      "section": "Service Provider Requirements",
+      "title": "Commercial Communications",
+      "content": "Commercial communications which are part of, or constitute, an information society service shall be clearly identifiable as such. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Promotional offers shall be clearly identifiable and the conditions for qualifying shall be easily accessible and presented clearly and unambiguously."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter II",
+      "section": "Service Provider Requirements",
+      "title": "Unsolicited Commercial Communications",
+      "content": "Unsolicited commercial communications sent by electronic mail shall be clearly and unambiguously identifiable as such as soon as they are received. Service providers who send unsolicited commercial communications by electronic mail shall consult and comply with opt-out registers in which natural persons who do not wish to receive such communications may register themselves."
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter III",
+      "section": "Electronic Contracts",
+      "title": "Electronic Contract Formation",
+      "content": "Where the recipient of a service places his order through technological means, the service provider must: 1) acknowledge receipt of the order without undue delay by electronic means; 2) make available to the recipient the terms and conditions of the contract in a way that allows storage and reproduction. Contract terms and general conditions provided to the recipient must be made available in a way that allows him to store and reproduce them."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter III",
+      "section": "Electronic Contracts",
+      "title": "Order Placement Process",
+      "content": "Before an order is placed, the service provider shall provide the following information: 1) the different technical steps to follow to conclude the contract; 2) whether or not the concluded contract will be filed and accessible; 3) the technical means for identifying and correcting input errors prior to the placing of the order; 4) the languages offered for the conclusion of the contract."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter IV",
+      "section": "Intermediary Liability",
+      "title": "Mere Conduit",
+      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, the service provider shall not be liable for the information transmitted, on condition that the provider: 1) does not initiate the transmission; 2) does not select the receiver of the transmission; 3) does not select or modify the information contained in the transmission."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter IV",
+      "section": "Intermediary Liability",
+      "title": "Caching",
+      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, the service provider shall not be liable for the automatic, intermediate and temporary storage of that information, performed for the sole purpose of making more efficient the information's onward transmission, provided that the provider does not modify the information, complies with conditions on access, and acts expeditiously to remove or disable access when it obtains actual knowledge of unlawful content."
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter IV",
+      "section": "Intermediary Liability",
+      "title": "Hosting",
+      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider shall not be liable for the information stored at the request of a recipient, on condition that: 1) the provider does not have actual knowledge of illegal activity or information; 2) the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or disable access to the information."
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter IV",
+      "section": "Intermediary Liability",
+      "title": "No General Monitoring Obligation",
+      "content": "Service providers shall not be subject to a general obligation to monitor the information which they transmit or store, nor a general obligation to actively seek facts or circumstances indicating illegal activity. This is without prejudice to any monitoring obligations in a specific case and to targeted, proportionate and effective orders by competent authorities."
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter IV",
+      "section": "Intermediary Liability",
+      "title": "Notice and Takedown",
+      "content": "A service provider that receives a notice concerning allegedly illegal information stored on behalf of a recipient of the service shall act expeditiously to remove or disable access to the information. Notices shall contain: 1) the identity and contact information of the notifying person; 2) identification of the allegedly illegal information; 3) reasons why the information is considered illegal; 4) a statement confirming the accuracy of the information in the notice."
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter V",
+      "section": "Supervision",
+      "title": "Supervisory Authority",
+      "content": "The Consumer Rights Protection Authority (Valstybinė vartotojų teisių apsaugos tarnyba) shall supervise compliance with this Law with respect to consumer protection aspects. The Communications Regulatory Authority (RRT) shall supervise compliance with respect to electronic communications aspects."
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter V",
+      "section": "Supervision",
+      "title": "Cooperation with Other Member States",
+      "content": "The supervisory authorities shall cooperate with the competent authorities of other EU Member States in the supervision of information society services. The authorities shall respond to requests for information and mutual assistance without undue delay."
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter V",
+      "section": "Supervision",
+      "title": "Penalties",
+      "content": "Infringements of this Law may result in administrative fines. For failure to comply with information requirements or contract formation rules, fines of up to EUR 3 000 may be imposed. For repeated infringements or infringements affecting a large number of consumers, fines of up to EUR 30 000 may be imposed."
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter VI",
+      "section": "Final Provisions",
+      "title": "Codes of Conduct",
+      "content": "Trade associations and organisations representing service providers and consumers are encouraged to develop codes of conduct at the national level. Such codes shall contribute to the proper implementation of this Law and shall be communicated to the European Commission."
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter VI",
+      "section": "Final Provisions",
+      "title": "Alternative Dispute Resolution",
+      "content": "The Republic of Lithuania shall ensure that effective and accessible out-of-court mechanisms are available for the settlement of disputes arising from the provision of information society services. Such mechanisms shall enable an appropriate resolution of disputes by electronic means."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "informacinės visuomenės paslauga",
+      "definition": "Information society service — a service normally provided for remuneration, at a distance, by electronic means and at the individual request of a recipient of services.",
+      "source_provision": "2"
+    },
+    {
+      "term": "paslaugų teikėjas",
+      "definition": "Service provider — any natural or legal person providing an information society service.",
+      "source_provision": "2"
+    },
+    {
+      "term": "komercinis pranešimas",
+      "definition": "Commercial communication — any form of communication designed to promote, directly or indirectly, the goods, services or image of an undertaking.",
+      "source_provision": "2"
+    }
+  ]
+}

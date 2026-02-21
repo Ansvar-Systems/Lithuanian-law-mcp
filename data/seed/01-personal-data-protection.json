@@ -1,0 +1,211 @@
+{
+  "id": "lt-pdpa-2018",
+  "type": "statute",
+  "title": "Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas",
+  "title_en": "Law on Legal Protection of Personal Data",
+  "short_name": "ADTAĮ",
+  "status": "in_force",
+  "issued_date": "2018-06-30",
+  "in_force_date": "2018-07-16",
+  "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.5368B592234C",
+  "description": "Lithuania's primary GDPR implementing legislation. Supplements Regulation (EU) 2016/679 with national provisions on the supervisory authority, penalties, and specific processing situations.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Purpose and Scope",
+      "content": "This Law establishes the legal framework for the protection of personal data in the Republic of Lithuania. It supplements the directly applicable Regulation (EU) 2016/679 of the European Parliament and of the Council (General Data Protection Regulation) and implements Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Definitions",
+      "content": "The terms used in this Law shall have the meanings defined in Regulation (EU) 2016/679 and Directive (EU) 2016/680. Additional definitions: 1) State Data Protection Inspectorate (Valstybinė duomenų apsaugos inspekcija, VDAI) — the supervisory authority within the meaning of Article 51 of Regulation (EU) 2016/679; 2) data controller — a natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Scope of Application",
+      "content": "This Law applies to the processing of personal data by automated means, as well as to the processing of personal data that forms part of a filing system or is intended to form part of a filing system. This Law does not apply to the processing of personal data by a natural person in the course of a purely personal or household activity."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter II",
+      "section": "State Data Protection Inspectorate",
+      "title": "Supervisory Authority",
+      "content": "The State Data Protection Inspectorate (VDAI) is the independent supervisory authority responsible for monitoring and enforcing the application of Regulation (EU) 2016/679 and this Law. The VDAI acts with complete independence in performing its tasks and exercising its powers in accordance with Article 52 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter II",
+      "section": "State Data Protection Inspectorate",
+      "title": "Director of the Inspectorate",
+      "content": "The Director of the State Data Protection Inspectorate shall be appointed by the Seimas (Parliament) on the recommendation of the President of the Republic for a term of five years. The Director may serve no more than two consecutive terms. The Director shall possess the qualifications, experience, and skills necessary for the performance of the duties."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter II",
+      "section": "State Data Protection Inspectorate",
+      "title": "Tasks and Powers of the Inspectorate",
+      "content": "The State Data Protection Inspectorate shall have the tasks and powers laid down in Article 57 and Article 58 of Regulation (EU) 2016/679. In addition, the VDAI shall: 1) advise the Seimas, the Government and other institutions on legislative and administrative measures relating to the protection of personal data; 2) promote awareness among data controllers and processors; 3) approve binding corporate rules pursuant to Article 47 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter II",
+      "section": "State Data Protection Inspectorate",
+      "title": "Investigations and Inspections",
+      "content": "The State Data Protection Inspectorate may carry out investigations and inspections of data controllers and processors. During inspections, officials of the VDAI shall have the right to: 1) access premises where personal data are processed; 2) obtain information and documents necessary for the inspection; 3) require explanations from employees and managers. Controllers and processors must cooperate fully with the VDAI."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter III",
+      "section": "Lawful Processing",
+      "title": "Processing of Special Categories of Data",
+      "content": "The processing of special categories of personal data referred to in Article 9(1) of Regulation (EU) 2016/679 shall be permitted where: 1) the data subject has given explicit consent; 2) processing is necessary for employment law obligations; 3) processing is necessary for reasons of substantial public interest on the basis of Lithuanian law; 4) processing is necessary for health or social care purposes. The Government or its authorised institution may establish additional safeguards."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter III",
+      "section": "Lawful Processing",
+      "title": "Processing of Personal Data Relating to Criminal Convictions",
+      "content": "Processing of personal data relating to criminal convictions and offences referred to in Article 10 of Regulation (EU) 2016/679 may be carried out only under the control of an official authority or when processing is authorised by Lithuanian law providing for appropriate safeguards for the rights and freedoms of data subjects."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter III",
+      "section": "Lawful Processing",
+      "title": "Processing of the Personal Identification Number",
+      "content": "The personal identification number (asmens kodas) may be processed only where it is necessary and adequate for the purposes of unambiguously identifying a natural person. The personal identification number shall not be used for purposes unrelated to the identification of the data subject unless authorised by law."
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter III",
+      "section": "Lawful Processing",
+      "title": "Processing for Archiving, Research, and Statistical Purposes",
+      "content": "Personal data may be processed for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes in accordance with Article 89 of Regulation (EU) 2016/679, subject to appropriate safeguards. Such safeguards shall include technical and organisational measures to ensure respect for the principle of data minimisation, including pseudonymisation."
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter IV",
+      "section": "Rights of Data Subjects",
+      "title": "Age of Consent for Information Society Services",
+      "content": "In relation to the offer of information society services directly to a child, the processing of personal data of a child shall be lawful where the child is at least 14 years old. Where the child is below the age of 14, such processing shall be lawful only if consent is given or authorised by the holder of parental responsibility over the child, in accordance with Article 8 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter IV",
+      "section": "Rights of Data Subjects",
+      "title": "Restrictions on Data Subject Rights",
+      "content": "The rights of data subjects under Articles 12 to 22 and Article 34 of Regulation (EU) 2016/679 may be restricted by legislative measures where such restriction is necessary and proportionate in a democratic society to safeguard: 1) national security; 2) defence; 3) public security; 4) the prevention, investigation, detection or prosecution of criminal offences; 5) important objectives of general public interest."
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter IV",
+      "section": "Rights of Data Subjects",
+      "title": "Right to Compensation and Liability",
+      "content": "Any person who has suffered material or non-material damage as a result of an infringement of Regulation (EU) 2016/679 or this Law shall have the right to receive compensation from the data controller or processor for the damage suffered, in accordance with Article 82 of Regulation (EU) 2016/679. The general rules of civil liability of the Republic of Lithuania shall apply."
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter V",
+      "section": "International Transfer",
+      "title": "International Data Transfers",
+      "content": "Transfer of personal data to third countries or international organisations shall be carried out in accordance with Chapter V of Regulation (EU) 2016/679. The State Data Protection Inspectorate may authorise transfers on the basis of appropriate safeguards including binding corporate rules, standard data protection clauses, and approved codes of conduct."
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter V",
+      "section": "International Transfer",
+      "title": "Transfer Subject to Appropriate Safeguards",
+      "content": "In the absence of an adequacy decision pursuant to Article 45 of Regulation (EU) 2016/679, a controller or processor may transfer personal data to a third country only if appropriate safeguards are provided as set out in Article 46 of Regulation (EU) 2016/679, and on condition that enforceable data subject rights and effective legal remedies are available."
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter VI",
+      "section": "Administrative Sanctions",
+      "title": "Administrative Fines",
+      "content": "The State Data Protection Inspectorate may impose administrative fines in accordance with Article 83 of Regulation (EU) 2016/679. For infringements of Articles 5, 6, 7, 9, 12-22, 44-49 of Regulation (EU) 2016/679, fines of up to EUR 20 000 000 or 4% of total worldwide annual turnover may be imposed. For public bodies, the maximum fine shall be EUR 60 000."
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter VI",
+      "section": "Administrative Sanctions",
+      "title": "Corrective Measures",
+      "content": "In addition to or instead of administrative fines, the State Data Protection Inspectorate may impose corrective measures including: 1) issuing warnings; 2) issuing reprimands; 3) ordering the controller or processor to comply with data subject requests; 4) ordering rectification, restriction or erasure of data; 5) imposing temporary or definitive limitations on processing; 6) ordering the suspension of data flows to a third country."
+    },
+    {
+      "provision_ref": "19",
+      "chapter": "Chapter VII",
+      "section": "Judicial Remedies",
+      "title": "Right to an Effective Judicial Remedy",
+      "content": "Every data subject shall have the right to an effective judicial remedy against decisions of the State Data Protection Inspectorate in accordance with Article 78 of Regulation (EU) 2016/679. Actions against the VDAI shall be brought before the Vilnius Regional Administrative Court. Every data subject shall also have the right to an effective judicial remedy against a data controller or processor in accordance with Article 79 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "20",
+      "chapter": "Chapter VII",
+      "section": "Judicial Remedies",
+      "title": "Representation of Data Subjects",
+      "content": "A data subject may mandate a not-for-profit body, organisation or association which has been properly constituted in accordance with Lithuanian law, has statutory objectives in the public interest, and is active in the field of data protection to lodge complaints and exercise the rights referred to in Articles 77, 78 and 79 of Regulation (EU) 2016/679 on his or her behalf."
+    },
+    {
+      "provision_ref": "21",
+      "chapter": "Chapter VIII",
+      "section": "Processing by Law Enforcement",
+      "title": "Processing for Law Enforcement Purposes",
+      "content": "Processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and prevention of threats to public security, shall be carried out in accordance with Directive (EU) 2016/680 and this Chapter. Such processing must be lawful and fair, collected for specified, explicit and legitimate purposes."
+    },
+    {
+      "provision_ref": "22",
+      "chapter": "Chapter VIII",
+      "section": "Processing by Law Enforcement",
+      "title": "Data Protection Impact Assessment",
+      "content": "Where a type of processing, in particular using new technologies, is likely to result in a high risk to the rights and freedoms of natural persons, the data controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data. The assessment shall contain at least: 1) a systematic description of the envisaged processing operations; 2) an assessment of the necessity and proportionality; 3) an assessment of the risks to the rights and freedoms of data subjects; 4) the measures envisaged to address the risks."
+    },
+    {
+      "provision_ref": "23",
+      "chapter": "Chapter IX",
+      "section": "Final Provisions",
+      "title": "Data Protection Officer",
+      "content": "Public authorities and bodies, as well as private entities required under Article 37 of Regulation (EU) 2016/679, shall designate a data protection officer. The data protection officer shall be designated on the basis of professional qualities and, in particular, expert knowledge of data protection law and practices. The controller or processor shall ensure that the data protection officer is involved in all issues relating to the protection of personal data."
+    },
+    {
+      "provision_ref": "24",
+      "chapter": "Chapter IX",
+      "section": "Final Provisions",
+      "title": "Codes of Conduct and Certification",
+      "content": "The State Data Protection Inspectorate shall encourage the drawing up of codes of conduct intended to contribute to the proper application of Regulation (EU) 2016/679, taking account of the specific features of the various processing sectors. The VDAI may accredit certification bodies and approve certification criteria in accordance with Articles 42 and 43 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "25",
+      "chapter": "Chapter IX",
+      "section": "Final Provisions",
+      "title": "Entry into Force and Transitional Provisions",
+      "content": "This Law shall enter into force on 16 July 2018. Data controllers and processors who commenced processing before the entry into force of this Law shall bring their processing operations into compliance with Regulation (EU) 2016/679 and this Law within six months from the date of entry into force. The previous Law on Legal Protection of Personal Data (No. I-1374) is hereby repealed."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "asmens duomenys",
+      "definition": "Personal data — any information relating to an identified or identifiable natural person (data subject), as defined in Article 4(1) of Regulation (EU) 2016/679.",
+      "source_provision": "2"
+    },
+    {
+      "term": "duomenų valdytojas",
+      "definition": "Data controller — a natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.",
+      "source_provision": "2"
+    },
+    {
+      "term": "Valstybinė duomenų apsaugos inspekcija",
+      "definition": "State Data Protection Inspectorate (VDAI) — the independent supervisory authority within the meaning of Article 51 of Regulation (EU) 2016/679.",
+      "source_provision": "2"
+    },
+    {
+      "term": "asmens kodas",
+      "definition": "Personal identification number — a unique identification code assigned to each natural person in the Republic of Lithuania.",
+      "source_provision": "10"
+    }
+  ]
+}

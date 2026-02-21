@@ -1,0 +1,25 @@
+schema_version: "1.0"
+mcp_name: "Lithuanian Law MCP"
+jurisdiction: "LT"
+
+sources:
+  - name: "TAR (Teisės aktų registras)"
+    authority: "Seimas of the Republic of Lithuania"
+    official_portal: "https://www.e-tar.lt"
+    retrieval_method: "HTML_SCRAPE"
+    update_frequency: "weekly"
+    last_ingested: "2026-02-21"
+    license_or_terms:
+      type: "Lithuanian Government Open Data (public domain under Lithuanian Copyright Law Art. 5)"
+      url: "https://www.e-tar.lt"
+      summary: "Official legislative texts are public domain"
+    coverage:
+      scope: "Key Lithuanian legislation covering data protection, cybersecurity, e-commerce, criminal law cyber provisions, and related statutes"
+      limitations: "AI-generated seed data; full official ingestion pending"
+    languages:
+      - "lt"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "2026-02-21"

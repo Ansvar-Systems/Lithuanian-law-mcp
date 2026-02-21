@@ -1,0 +1,171 @@
+{
+  "id": "lt-cip-2011",
+  "type": "statute",
+  "title": "Lietuvos Respublikos ypatingos svarbos infrastruktūros apsaugos įstatymas",
+  "title_en": "Law on Critical Infrastructure Protection",
+  "short_name": "YSIĮ",
+  "status": "in_force",
+  "issued_date": "2011-07-12",
+  "in_force_date": "2011-10-01",
+  "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.7C1B4F7B5C5C",
+  "description": "Establishes the framework for identifying, designating and protecting critical infrastructure in Lithuania. Aligned with Directive (EU) 2022/2557 (CER Directive) on the resilience of critical entities.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Purpose and Scope",
+      "content": "This Law establishes the framework for identifying, designating and ensuring the protection and resilience of critical infrastructure in the Republic of Lithuania. It sets out the responsibilities of state institutions and operators of critical infrastructure. This Law is aligned with Directive (EU) 2022/2557 of the European Parliament and of the Council on the resilience of critical entities."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Law: 1) critical infrastructure — systems and assets, whether physical or digital, which are essential for the maintenance of vital societal functions, health, safety, security, economic or social well-being of people; 2) operator of critical infrastructure — a natural or legal person who owns, manages or operates critical infrastructure; 3) resilience — the ability to prevent, resist, absorb, recover from and adapt to incidents that may disrupt the provision of essential services."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Sectors of Critical Infrastructure",
+      "content": "Critical infrastructure sectors shall include: 1) energy; 2) transport; 3) banking and financial market infrastructure; 4) health; 5) drinking water supply and waste water treatment; 6) digital infrastructure; 7) public administration; 8) food; 9) space; 10) manufacturing of critical products. The Government may designate additional sectors by regulation."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter II",
+      "section": "Identification and Designation",
+      "title": "Identification of Critical Infrastructure",
+      "content": "The Government shall establish criteria for identifying critical infrastructure. The identification shall take into account: 1) the number of users dependent on the service; 2) the degree of dependency of other sectors; 3) the impact that an incident could have on public safety, security, or the economy; 4) the geographic scope of the impact; 5) the availability of alternatives. Sectoral ministries shall identify critical infrastructure within their respective sectors."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter II",
+      "section": "Identification and Designation",
+      "title": "Designation of Critical Infrastructure",
+      "content": "The Government shall designate infrastructure as critical based on the identification criteria. The designation shall be reviewed at least every four years. Operators shall be notified of the designation and of their obligations under this Law within 30 days. The list of critical infrastructure shall be classified."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter II",
+      "section": "Identification and Designation",
+      "title": "European Critical Infrastructure",
+      "content": "Critical infrastructure located in Lithuania the disruption or destruction of which would have a significant impact in at least one other EU Member State shall be identified as European critical infrastructure. The identification shall be carried out in consultation with the affected Member States."
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter III",
+      "section": "Protection Obligations",
+      "title": "Risk Assessment",
+      "content": "Operators of critical infrastructure shall carry out comprehensive risk assessments at least once every four years. Risk assessments shall take into account all relevant natural and man-made risks, including terrorism, sabotage, cyberattacks, natural disasters, pandemics, and supply chain disruptions. The risk assessment shall identify the essential services provided and the critical functions and assets supporting them."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter III",
+      "section": "Protection Obligations",
+      "title": "Resilience Measures",
+      "content": "Operators of critical infrastructure shall take appropriate technical, security and organisational measures to ensure the resilience of their infrastructure. Such measures shall include: 1) physical protection; 2) cybersecurity measures; 3) business continuity plans; 4) crisis management procedures; 5) personnel security including background checks; 6) monitoring and detection systems. Measures shall be proportionate to the identified risks."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter III",
+      "section": "Protection Obligations",
+      "title": "Operator Security Plans",
+      "content": "Operators of critical infrastructure shall develop and maintain an operator security plan. The plan shall include: 1) a description of the essential services and critical assets; 2) the results of the risk assessment; 3) the measures taken to prevent incidents; 4) the measures for incident response and recovery; 5) communication and alerting procedures; 6) training and exercise programmes. The plan shall be submitted to the competent sectoral authority."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter III",
+      "section": "Protection Obligations",
+      "title": "Incident Notification",
+      "content": "Operators of critical infrastructure shall notify the competent authority without undue delay, and in any event within 24 hours of becoming aware of any incident that has or may have a significant impact on the provision of essential services. An initial notification shall be followed by a detailed report within 72 hours. The notification shall include: 1) a description of the incident; 2) the services affected; 3) the measures taken in response."
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter III",
+      "section": "Protection Obligations",
+      "title": "Personnel Security",
+      "content": "Operators of critical infrastructure shall ensure that personnel with access to critical assets undergo appropriate security vetting. Background checks shall be conducted for personnel in sensitive positions. Security awareness training shall be provided to all personnel with access to critical infrastructure."
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter IV",
+      "section": "Institutional Framework",
+      "title": "National Coordinating Authority",
+      "content": "The Government of the Republic of Lithuania shall designate a national authority to coordinate critical infrastructure protection policy. The coordinating authority shall: 1) develop national policy and strategy; 2) coordinate between sectoral authorities; 3) represent Lithuania in EU cooperation mechanisms; 4) maintain the national register of critical infrastructure."
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter IV",
+      "section": "Institutional Framework",
+      "title": "Sectoral Authorities",
+      "content": "Each critical infrastructure sector shall have a competent sectoral authority responsible for: 1) identifying critical infrastructure within its sector; 2) supervising compliance with protection requirements; 3) providing guidance to operators; 4) reporting to the national coordinating authority."
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter IV",
+      "section": "Institutional Framework",
+      "title": "Security Liaison Officers",
+      "content": "Each operator of critical infrastructure shall designate a security liaison officer as a point of contact for matters relating to the security and resilience of the infrastructure. The liaison officer shall coordinate with the competent authorities and participate in exercises and information sharing."
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter V",
+      "section": "Supervision and Enforcement",
+      "title": "Supervisory Powers",
+      "content": "Competent authorities shall have the power to: 1) conduct inspections of critical infrastructure; 2) require operators to provide information and documents; 3) require operators to carry out security audits; 4) issue binding instructions for remediation of deficiencies; 5) impose administrative sanctions for non-compliance. Inspections may be carried out without prior notice in cases of imminent threat."
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter V",
+      "section": "Supervision and Enforcement",
+      "title": "Administrative Sanctions",
+      "content": "The competent authority may impose administrative fines on operators of critical infrastructure for infringements of this Law. Fines of up to EUR 1 000 000 or 1% of annual turnover, whichever is higher, may be imposed. In determining the amount of the fine, the authority shall take into account the gravity, duration, and consequences of the infringement."
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter V",
+      "section": "Supervision and Enforcement",
+      "title": "Exercises and Testing",
+      "content": "The national coordinating authority shall organise regular exercises to test the resilience of critical infrastructure. Operators shall participate in exercises organised by competent authorities. Cross-sectoral and cross-border exercises shall be conducted at least every two years."
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter VI",
+      "section": "Information Sharing",
+      "title": "Information Sharing Framework",
+      "content": "A framework for the sharing of information relating to threats, vulnerabilities and incidents affecting critical infrastructure shall be established. Information sharing shall be voluntary, reciprocal, and carried out in a trusted environment. Classified information shall be handled in accordance with the law on state secrets."
+    },
+    {
+      "provision_ref": "19",
+      "chapter": "Chapter VI",
+      "section": "Information Sharing",
+      "title": "Cooperation with EU and NATO",
+      "content": "Lithuania shall cooperate with the European Union and NATO in the protection of critical infrastructure. The national coordinating authority shall participate in the EU Critical Infrastructure Group and share information on European critical infrastructure with the European Commission and relevant Member States."
+    },
+    {
+      "provision_ref": "20",
+      "chapter": "Chapter VII",
+      "section": "Final Provisions",
+      "title": "Entry into Force",
+      "content": "This Law shall enter into force on 1 October 2011. Existing operators of infrastructure that is designated as critical shall comply with the requirements of this Law within 12 months of notification of the designation. The Government shall adopt implementing regulations within six months."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ypatingos svarbos infrastruktūra",
+      "definition": "Critical infrastructure — systems and assets essential for the maintenance of vital societal functions, health, safety, security, economic or social well-being.",
+      "source_provision": "2"
+    },
+    {
+      "term": "atsparumas",
+      "definition": "Resilience — the ability to prevent, resist, absorb, recover from and adapt to incidents that may disrupt the provision of essential services.",
+      "source_provision": "2"
+    },
+    {
+      "term": "operatorius",
+      "definition": "Operator of critical infrastructure — a natural or legal person who owns, manages or operates critical infrastructure.",
+      "source_provision": "2"
+    }
+  ]
+}

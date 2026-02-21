@@ -1,0 +1,152 @@
+{
+  "id": "lt-rtoi-2000",
+  "type": "statute",
+  "title": "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymas",
+  "title_en": "Law on Right to Obtain Information from State and Municipal Institutions and Agencies",
+  "short_name": "TGIĮ",
+  "status": "in_force",
+  "issued_date": "2000-01-11",
+  "in_force_date": "2000-01-25",
+  "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F5",
+  "description": "Establishes the right of persons to obtain information from state and municipal institutions and agencies, and the procedures for the provision of such information. Promotes government transparency and open data.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Purpose",
+      "content": "This Law establishes the right of persons to obtain information from state and municipal institutions and agencies, defines the procedures for the provision of information, and sets out the obligations of institutions to ensure access to public information. The purpose of this Law is to ensure openness and transparency in the activities of state and municipal institutions."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Law: 1) public information — information created or received by state and municipal institutions in the performance of their functions, which is recorded on any medium; 2) applicant — any natural or legal person requesting information; 3) institution — any state or municipal institution, agency, enterprise or organisation financed from the state or municipal budget."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Right to Information",
+      "content": "Every person shall have the right to obtain information from state and municipal institutions regardless of the purpose of the request. The applicant shall not be required to state the reasons for the request. The right to information may be restricted only in cases provided by law to protect national security, personal data, commercial secrets, or other legally protected interests."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Principles of Information Provision",
+      "content": "The provision of information shall be based on the following principles: 1) openness — information shall be publicly accessible unless classified by law; 2) completeness — information shall be provided in full; 3) timeliness — information shall be provided within the time limits set by this Law; 4) equality — all applicants shall be treated equally; 5) free of charge — information shall be provided free of charge unless otherwise provided by law."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter II",
+      "section": "Procedures",
+      "title": "Submission of Requests",
+      "content": "A request for information may be submitted orally, in writing, by electronic means, or through an electronic public services portal. Written requests shall contain: 1) the name and contact details of the applicant; 2) a description of the information requested; 3) the preferred form of provision. Anonymous requests need not be fulfilled unless they concern matters of public interest."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter II",
+      "section": "Procedures",
+      "title": "Time Limits for Response",
+      "content": "The institution shall provide the requested information within 20 working days of receipt of the request. Where the request requires extensive search or analysis, the time limit may be extended by a further 20 working days, and the applicant shall be informed of the extension and the reasons therefor. In urgent cases involving matters of public safety, the institution shall respond within 5 working days."
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter II",
+      "section": "Procedures",
+      "title": "Refusal to Provide Information",
+      "content": "The institution may refuse to provide information where: 1) the information contains state, official or professional secrets; 2) the provision would violate the protection of personal data; 3) the information relates to pre-trial investigation; 4) the information is subject to intellectual property protection. The refusal shall be communicated in writing, stating the reasons and the procedure for appeal."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter II",
+      "section": "Procedures",
+      "title": "Form of Information Provision",
+      "content": "Information shall be provided in the form requested by the applicant. Where this is not technically possible, the institution shall provide the information in another available form. Information held in electronic form shall be provided in electronic form upon request. Copies of documents shall be certified upon request."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter III",
+      "section": "Proactive Disclosure",
+      "title": "Mandatory Publication",
+      "content": "State and municipal institutions shall proactively publish the following information on their websites: 1) the legal acts adopted by the institution; 2) descriptions of the institution's functions and organisational structure; 3) contact information of officials; 4) public procurement information; 5) information on the institution's budget and expenditure; 6) reports on the institution's activities."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter III",
+      "section": "Proactive Disclosure",
+      "title": "Open Data",
+      "content": "State and municipal institutions shall make data available for re-use in machine-readable and open formats where technically feasible. The conditions for re-use shall not unnecessarily restrict possibilities for re-use and shall not be used to restrict competition. High-value datasets shall be made available free of charge through application programming interfaces (APIs)."
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter III",
+      "section": "Proactive Disclosure",
+      "title": "Information About Legislative Processes",
+      "content": "The Seimas, the Government and ministries shall publish information about legislative processes, including draft legal acts, impact assessments, and records of public consultations. Such information shall be published at least 20 working days before the adoption of the legal act."
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter IV",
+      "section": "Restrictions",
+      "title": "Classified Information",
+      "content": "Information classified as a state secret or official secret in accordance with the Law on State and Official Secrets shall not be provided. Where only part of the requested information is classified, the institution shall provide the non-classified part and indicate that the remaining part is classified."
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter IV",
+      "section": "Restrictions",
+      "title": "Protection of Personal Data",
+      "content": "Information containing personal data shall be provided in accordance with Regulation (EU) 2016/679 (GDPR) and the Law on Legal Protection of Personal Data. The institution shall anonymise personal data where possible while still providing the requested information. The applicant shall be informed if the request cannot be fulfilled due to personal data protection requirements."
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter V",
+      "section": "Appeals",
+      "title": "Right to Appeal",
+      "content": "An applicant who disagrees with a refusal to provide information or with the manner in which information was provided may appeal to the head of the institution within 30 calendar days. If the applicant is not satisfied with the decision on the appeal, he or she may bring an action before the administrative court within 30 calendar days."
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter V",
+      "section": "Appeals",
+      "title": "Parliamentary Ombudsman",
+      "content": "An applicant may also submit a complaint to the Seimas Ombudsmen's Office regarding violations of the right to obtain information. The Ombudsman shall examine the complaint and may recommend that the institution provide the requested information."
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter VI",
+      "section": "Liability",
+      "title": "Liability of Officials",
+      "content": "Officials who unlawfully refuse to provide information, provide incomplete or inaccurate information, or fail to comply with the time limits set by this Law shall be held liable in accordance with the laws of the Republic of Lithuania. Disciplinary, administrative or criminal liability may be applied depending on the gravity of the infringement."
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter VI",
+      "section": "Liability",
+      "title": "Compensation for Damage",
+      "content": "A person who has suffered damage as a result of the unlawful refusal to provide information or the provision of inaccurate information shall have the right to compensation in accordance with the general rules of civil liability."
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter VII",
+      "section": "Final Provisions",
+      "title": "Entry into Force",
+      "content": "This Law shall enter into force on 25 January 2000. State and municipal institutions shall bring their internal procedures into compliance with this Law within six months from the date of entry into force."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "viešoji informacija",
+      "definition": "Public information — information created or received by state and municipal institutions in the performance of their functions, recorded on any medium.",
+      "source_provision": "2"
+    },
+    {
+      "term": "pareiškėjas",
+      "definition": "Applicant — any natural or legal person requesting information from a state or municipal institution.",
+      "source_provision": "2"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Lithuanian Law MCP",
+  "jurisdiction": "LT",
+  "provisions": [
+    {
+      "id": "lt-hash-001",
+      "description": "ADTAĮ Art. 1 -- scope and purpose of the Law on Legal Protection of Personal Data",
+      "upstream_url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.5368B592234C",
+      "selector_hint": "Art. 1 - Purpose and Scope",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "protection of personal data"
+    },
+    {
+      "id": "lt-hash-002",
+      "description": "KSĮ Art. 1 -- scope and purpose of the Cyber Security Law",
+      "upstream_url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.3B10F17B43E4",
+      "selector_hint": "Art. 1 - Purpose and Scope",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "cyber security"
+    },
+    {
+      "id": "lt-hash-003",
+      "description": "BK Art. 196 -- unlawful access to an information system",
+      "upstream_url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43",
+      "selector_hint": "Art. 196 - Unlawful Access",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "information system"
+    },
+    {
+      "id": "lt-hash-004",
+      "description": "KPTAĮ Art. 2 -- definitions in the Law on Trade Secrets",
+      "upstream_url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.C3A9F8E7A8D2",
+      "selector_hint": "Art. 2 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "trade secret"
+    },
+    {
+      "id": "lt-hash-005",
+      "description": "eIDAS Art. 7 -- electronic signatures legal effect",
+      "upstream_url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.EE5F5E3C04A8",
+      "selector_hint": "Art. 7 - Electronic Signatures",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "electronic signature"
+    },
+    {
+      "id": "lt-hash-006",
+      "description": "YSIĮ Art. 8 -- resilience measures for critical infrastructure operators",
+      "upstream_url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.7C1B4F7B5C5C",
+      "selector_hint": "Art. 8 - Resilience Measures",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "resilience"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "lt-cybersec-2018",
+  "type": "statute",
+  "title": "Lietuvos Respublikos kibernetinio saugumo įstatymas",
+  "title_en": "Cyber Security Law",
+  "short_name": "KSĮ",
+  "status": "in_force",
+  "issued_date": "2018-05-11",
+  "in_force_date": "2018-08-28",
+  "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.3B10F17B43E4",
+  "description": "Lithuania's primary cybersecurity legislation implementing Directive (EU) 2022/2555 (NIS2). Establishes the national cybersecurity framework, CERT-LT, incident reporting requirements, and obligations for operators of essential services and digital service providers.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Purpose and Scope",
+      "content": "This Law establishes the legal framework for ensuring cyber security in the Republic of Lithuania. It implements Directive (EU) 2022/2555 of the European Parliament and of the Council (NIS2 Directive) concerning measures for a high common level of cybersecurity across the Union. This Law defines the rights and obligations of entities managing critical information infrastructure and providing essential and important services."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Law: 1) cyber security — the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats; 2) cyber incident — an event having an adverse effect on the availability, authenticity, integrity or confidentiality of stored, transmitted or processed data or of the services offered by network and information systems; 3) operator of essential services — an entity providing a service which is essential for the maintenance of critical societal or economic activities; 4) CERT-LT — the national Computer Emergency Response Team."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Principles of Cyber Security",
+      "content": "Cyber security in the Republic of Lithuania shall be ensured on the basis of the following principles: 1) proportionality — security measures shall be proportionate to the identified risks; 2) cooperation — public and private sector entities shall cooperate in ensuring cyber security; 3) resilience — systems and services shall be designed and maintained to withstand and recover from cyber incidents; 4) information sharing — relevant information about threats and incidents shall be shared."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter II",
+      "section": "Institutional Framework",
+      "title": "National Cyber Security Centre",
+      "content": "The National Cyber Security Centre (Nacionalinis kibernetinio saugumo centras, NKSC) operating under the Ministry of National Defence shall be the principal institution responsible for cyber security in the Republic of Lithuania. The NKSC shall: 1) coordinate national cybersecurity policy; 2) operate CERT-LT; 3) conduct cyber threat analysis; 4) provide cybersecurity guidance to public and private entities."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter II",
+      "section": "Institutional Framework",
+      "title": "CERT-LT",
+      "content": "CERT-LT shall be the national Computer Security Incident Response Team within the meaning of Article 10 of Directive (EU) 2022/2555. CERT-LT shall: 1) monitor cyber threats and incidents at the national level; 2) issue early warnings, alerts and advisories; 3) respond to incidents and provide assistance to affected entities; 4) collect and analyse data on cyber incidents; 5) participate in the CSIRTs network established under the NIS2 Directive."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter II",
+      "section": "Institutional Framework",
+      "title": "Competent Authority",
+      "content": "The Communications Regulatory Authority of the Republic of Lithuania (Ryšių reguliavimo tarnyba, RRT) shall be the competent authority for the supervision of essential and important entities under this Law. The RRT shall supervise compliance with cybersecurity requirements and may impose corrective measures and penalties for non-compliance."
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter III",
+      "section": "Obligations of Entities",
+      "title": "Risk Management Measures",
+      "content": "Operators of essential services and important entities shall take appropriate and proportionate technical, operational and organisational measures to manage the risks posed to the security of network and information systems. These measures shall include: 1) policies on risk analysis and information system security; 2) incident handling procedures; 3) business continuity and crisis management; 4) supply chain security; 5) security in network and information systems acquisition, development and maintenance; 6) policies and procedures for assessing the effectiveness of cybersecurity risk management measures."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter III",
+      "section": "Obligations of Entities",
+      "title": "Incident Reporting",
+      "content": "Operators of essential services and important entities shall notify CERT-LT without undue delay and in any event within 24 hours of becoming aware of a significant cyber incident. An initial notification shall be followed by an intermediate report within 72 hours and a final report within one month of the initial notification. A cyber incident shall be considered significant where: 1) it has caused or is capable of causing severe operational disruption or financial loss; 2) it has affected or is capable of affecting other natural or legal persons by causing considerable material or non-material damage."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter III",
+      "section": "Obligations of Entities",
+      "title": "Security Audits and Assessments",
+      "content": "Operators of essential services shall undergo regular security audits conducted by qualified and independent auditors. The competent authority may require targeted security audits based on risk assessments or following a significant incident. The costs of such audits shall be borne by the audited entity. Audit results shall be submitted to the competent authority."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter III",
+      "section": "Obligations of Entities",
+      "title": "Vulnerability Handling and Disclosure",
+      "content": "The NKSC shall establish a coordinated vulnerability disclosure policy for the Republic of Lithuania. Entities discovering vulnerabilities in information and communication technologies shall report them to CERT-LT. CERT-LT shall act as a trusted intermediary, facilitating the interaction between the reporting entity and the manufacturer or provider."
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter IV",
+      "section": "Essential and Important Entities",
+      "title": "Identification of Essential Services",
+      "content": "The Government of the Republic of Lithuania shall establish the criteria for identifying operators of essential services. Sectors covered shall include: 1) energy; 2) transport; 3) banking and financial market infrastructure; 4) health; 5) drinking water supply and distribution; 6) digital infrastructure; 7) public administration; 8) space. The list of operators shall be reviewed at least every two years."
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter IV",
+      "section": "Essential and Important Entities",
+      "title": "Important Entities",
+      "content": "Important entities shall include: 1) postal and courier services; 2) waste management; 3) manufacture, production and distribution of chemicals; 4) food production, processing and distribution; 5) manufacturing of certain critical products; 6) digital service providers including online marketplaces, search engines and social networking platforms. Important entities shall comply with the same risk management and reporting obligations as essential entities."
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter IV",
+      "section": "Essential and Important Entities",
+      "title": "Registration and Notification",
+      "content": "Essential and important entities shall register with the competent authority and provide the following information: 1) name and address; 2) sector and sub-sector; 3) contact details including email and phone numbers; 4) IP address ranges; 5) Member States where services are provided. Changes to the information shall be notified to the competent authority without undue delay."
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter V",
+      "section": "Supply Chain Security",
+      "title": "Supply Chain Risk Management",
+      "content": "Operators of essential services and important entities shall take into account the cybersecurity-related aspects of the relationships between each entity and its direct suppliers or service providers. Entities shall: 1) assess the overall quality and resilience of products and services; 2) assess the cybersecurity practices of suppliers; 3) include cybersecurity requirements in contractual arrangements with suppliers."
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter V",
+      "section": "Supply Chain Security",
+      "title": "ICT Product Certification",
+      "content": "The competent authority may require operators of essential services and important entities to use certified ICT products, services and processes under European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 (Cybersecurity Act). The Government may establish additional national certification requirements."
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter VI",
+      "section": "Supervision and Enforcement",
+      "title": "Supervisory Powers",
+      "content": "The competent authority shall have the power to: 1) conduct on-site inspections and off-site supervision; 2) carry out security audits or require the audited entity to have them carried out; 3) request information necessary for assessing cybersecurity risk management measures; 4) request evidence of implementation of cybersecurity policies; 5) issue binding instructions; 6) order the temporary suspension of certification or authorisation."
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter VI",
+      "section": "Supervision and Enforcement",
+      "title": "Administrative Sanctions",
+      "content": "The competent authority may impose administrative sanctions for infringements of this Law. For essential entities, fines of up to EUR 10 000 000 or 2% of total worldwide annual turnover, whichever is higher, may be imposed. For important entities, fines of up to EUR 7 000 000 or 1.4% of total worldwide annual turnover, whichever is higher, may be imposed. In determining the amount of the fine, regard shall be had to the gravity and duration of the infringement, previous infringements, and the degree of cooperation."
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter VI",
+      "section": "Supervision and Enforcement",
+      "title": "Personal Liability of Management",
+      "content": "Management bodies of essential and important entities shall approve the cybersecurity risk management measures taken by those entities and oversee their implementation. Members of management bodies may be held personally liable for infringements of this Law. Management bodies shall ensure that personnel receive adequate cybersecurity training."
+    },
+    {
+      "provision_ref": "19",
+      "chapter": "Chapter VII",
+      "section": "Information Sharing",
+      "title": "Cybersecurity Information Sharing",
+      "content": "Essential and important entities may voluntarily share cybersecurity information, including indicators of compromise, tactics, techniques and procedures, cybersecurity alerts and configuration tools. Such information sharing shall be carried out in compliance with Regulation (EU) 2016/679 and competition law. The NKSC shall facilitate the exchange of information through dedicated platforms."
+    },
+    {
+      "provision_ref": "20",
+      "chapter": "Chapter VII",
+      "section": "Information Sharing",
+      "title": "National Cybersecurity Strategy",
+      "content": "The Government of the Republic of Lithuania shall adopt a national cybersecurity strategy. The strategy shall set out: 1) the objectives and priorities of national cybersecurity policy; 2) governance framework and responsibilities; 3) measures to enhance cybersecurity preparedness and resilience; 4) cybersecurity education, training and awareness programmes; 5) research and development priorities; 6) a plan for the assessment of the strategy's effectiveness."
+    },
+    {
+      "provision_ref": "21",
+      "chapter": "Chapter VIII",
+      "section": "Final Provisions",
+      "title": "Cooperation with EU and International Partners",
+      "content": "Lithuania shall participate in the Cooperation Group and the CSIRTs network established under Directive (EU) 2022/2555. The NKSC and CERT-LT shall cooperate with the European Union Agency for Cybersecurity (ENISA) and the competent authorities and CSIRTs of other Member States. Lithuania shall facilitate cross-border mutual assistance in the event of large-scale cyber incidents."
+    },
+    {
+      "provision_ref": "22",
+      "chapter": "Chapter VIII",
+      "section": "Final Provisions",
+      "title": "Entry into Force",
+      "content": "This Law shall enter into force on 28 August 2018. Operators of essential services identified before the entry into force of this Law shall comply with the requirements within twelve months. The Government shall adopt the implementing regulations necessary for the application of this Law within six months from the date of entry into force."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "kibernetinis saugumas",
+      "definition": "Cyber security — the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats.",
+      "source_provision": "2"
+    },
+    {
+      "term": "kibernetinis incidentas",
+      "definition": "Cyber incident — an event having an adverse effect on the availability, authenticity, integrity or confidentiality of stored, transmitted or processed data or of the services offered by network and information systems.",
+      "source_provision": "2"
+    },
+    {
+      "term": "CERT-LT",
+      "definition": "The national Computer Emergency Response Team of Lithuania, operating as part of the National Cyber Security Centre.",
+      "source_provision": "2"
+    },
+    {
+      "term": "esmines paslaugos operatorius",
+      "definition": "Operator of essential services — an entity providing a service which is essential for the maintenance of critical societal or economic activities.",
+      "source_provision": "2"
+    }
+  ]
+}

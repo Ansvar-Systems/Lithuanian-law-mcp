@@ -1,0 +1,152 @@
+{
+  "id": "lt-ecomm-2004",
+  "type": "statute",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymas",
+  "title_en": "Law on Electronic Communications",
+  "short_name": "ERĮ",
+  "status": "in_force",
+  "issued_date": "2004-04-15",
+  "in_force_date": "2004-05-01",
+  "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049",
+  "description": "Regulates electronic communications networks and services in Lithuania. Implements the EU Electronic Communications Code framework. Covers licensing, spectrum management, data retention, and privacy in electronic communications.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Purpose and Scope",
+      "content": "This Law regulates the activities of electronic communications, the rights and obligations of persons engaged in the provision and use of electronic communications networks, services and associated facilities. It implements Directive (EU) 2018/1972 establishing the European Electronic Communications Code."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Definitions",
+      "content": "For the purposes of this Law: 1) electronic communications — the emission, transmission or reception of signs, signals, writings, images, sounds or intelligence of any nature by wire, radio, optical or other electromagnetic systems; 2) electronic communications service — a service normally provided for remuneration via electronic communications networks; 3) electronic communications network — transmission systems which permit the conveyance of signals by wire, radio, optical or other electromagnetic means."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Regulatory Authority",
+      "content": "The Communications Regulatory Authority of the Republic of Lithuania (RRT) is the national regulatory authority for electronic communications. The RRT shall act independently and shall not seek or take instructions from any other body with regard to the day-to-day performance of its regulatory tasks."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter II",
+      "section": "Provision of Services",
+      "title": "General Authorisation",
+      "content": "The provision of electronic communications networks and services shall be subject to a general authorisation regime. Any undertaking wishing to provide electronic communications networks or services shall notify the RRT. The notification shall include: 1) the name and registered office; 2) a description of the service or network; 3) the estimated date of commencement of the activity."
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter II",
+      "section": "Provision of Services",
+      "title": "Conditions Attached to General Authorisation",
+      "content": "The RRT may attach conditions to the general authorisation relating to: 1) interoperability of services; 2) accessibility for disabled users; 3) network and information security requirements; 4) conditions for the use of radio spectrum; 5) protection of personal data and privacy in the electronic communications sector."
+    },
+    {
+      "provision_ref": "20",
+      "chapter": "Chapter III",
+      "section": "Data Retention",
+      "title": "Obligation to Retain Data",
+      "content": "Providers of publicly available electronic communications services and providers of public communications networks shall retain traffic and location data for a period of six months from the date of the communication. The retained data shall include data necessary to trace and identify the source and destination of a communication, to determine the date, time and duration of a communication, and to identify the type of communication."
+    },
+    {
+      "provision_ref": "21",
+      "chapter": "Chapter III",
+      "section": "Data Retention",
+      "title": "Access to Retained Data",
+      "content": "Access to retained data shall be granted only to competent authorities designated by law for the purposes of the prevention, investigation, detection or prosecution of criminal offences. Access shall be subject to prior judicial authorisation. The provider shall ensure the security and confidentiality of the retained data and shall destroy the data upon expiry of the retention period."
+    },
+    {
+      "provision_ref": "30",
+      "chapter": "Chapter IV",
+      "section": "Consumer Protection",
+      "title": "Contracts with End-Users",
+      "content": "A contract between an electronic communications service provider and a consumer shall include: 1) the identity and contact details of the provider; 2) the services provided and quality parameters; 3) the price and payment conditions; 4) the duration of the contract and conditions for renewal and termination; 5) compensation and refund arrangements; 6) the means of initiating dispute resolution procedures."
+    },
+    {
+      "provision_ref": "31",
+      "chapter": "Chapter IV",
+      "section": "Consumer Protection",
+      "title": "Number Portability",
+      "content": "Subscribers shall have the right to retain their telephone number when switching between providers of publicly available telephone services. The porting process shall be completed within one working day. The provider shall not charge for the porting service beyond the actual costs incurred."
+    },
+    {
+      "provision_ref": "40",
+      "chapter": "Chapter V",
+      "section": "Privacy in Electronic Communications",
+      "title": "Confidentiality of Communications",
+      "content": "The confidentiality of communications and the related traffic data by means of a public communications network and publicly available electronic communications services shall be ensured. Listening, tapping, storage or other kinds of interception or surveillance of communications and the related traffic data by persons other than users, without the consent of the users concerned, shall be prohibited except when legally authorised."
+    },
+    {
+      "provision_ref": "41",
+      "chapter": "Chapter V",
+      "section": "Privacy in Electronic Communications",
+      "title": "Unsolicited Communications",
+      "content": "The use of automated calling systems, fax machines, or electronic mail for the purposes of direct marketing may only be allowed in respect of subscribers or users who have given their prior consent. The sender of electronic mail for direct marketing purposes shall provide a valid address to which the recipient may send a request to cease such communications."
+    },
+    {
+      "provision_ref": "42",
+      "chapter": "Chapter V",
+      "section": "Privacy in Electronic Communications",
+      "title": "Cookies and Similar Technologies",
+      "content": "The storing of information, or the gaining of access to information already stored, in the terminal equipment of a subscriber or user is only allowed on condition that the subscriber or user concerned has given his or her consent, having been provided with clear and comprehensive information about the purposes of the processing. This shall not prevent any technical storage or access for the sole purpose of carrying out the transmission of a communication."
+    },
+    {
+      "provision_ref": "50",
+      "chapter": "Chapter VI",
+      "section": "Spectrum Management",
+      "title": "Radio Spectrum Allocation",
+      "content": "The RRT shall manage the radio frequency spectrum in the Republic of Lithuania. The allocation and assignment of radio frequencies shall be based on the National Radio Frequency Plan adopted by the Government. The RRT may grant individual rights of use of radio frequencies through competitive or comparative selection procedures."
+    },
+    {
+      "provision_ref": "60",
+      "chapter": "Chapter VII",
+      "section": "Enforcement",
+      "title": "Administrative Sanctions",
+      "content": "The RRT may impose administrative sanctions on undertakings that fail to comply with obligations under this Law. Fines of up to 3% of the total annual turnover of the undertaking may be imposed. In determining the amount of the fine, the RRT shall take into account the nature, gravity and duration of the infringement, and the cooperation of the undertaking."
+    },
+    {
+      "provision_ref": "61",
+      "chapter": "Chapter VII",
+      "section": "Enforcement",
+      "title": "Dispute Resolution",
+      "content": "The RRT shall establish procedures for the resolution of disputes between undertakings providing electronic communications networks or services and between such undertakings and consumers. Decisions of the RRT may be appealed to the Vilnius Regional Administrative Court within 30 days."
+    },
+    {
+      "provision_ref": "62",
+      "chapter": "Chapter VII",
+      "section": "Enforcement",
+      "title": "Network Security Obligations",
+      "content": "Providers of electronic communications networks and services shall take appropriate technical and organisational measures to manage the risks posed to the security of networks and services. Such measures shall ensure a level of security appropriate to the risk and shall include measures to prevent and minimise the impact of security incidents. Significant security incidents shall be notified to the RRT without undue delay."
+    },
+    {
+      "provision_ref": "70",
+      "chapter": "Chapter VIII",
+      "section": "Universal Service",
+      "title": "Universal Service Obligations",
+      "content": "The Government shall ensure that all end-users in the territory of the Republic of Lithuania have access to an adequate broadband internet access service and voice communications service at an affordable price. The RRT may designate one or more undertakings to guarantee the provision of universal service."
+    },
+    {
+      "provision_ref": "80",
+      "chapter": "Chapter IX",
+      "section": "Final Provisions",
+      "title": "International Cooperation",
+      "content": "The RRT shall cooperate with the Body of European Regulators for Electronic Communications (BEREC) and with the national regulatory authorities of other EU Member States. The RRT shall contribute to the development of the internal market for electronic communications."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektroniniai ryšiai",
+      "definition": "Electronic communications — the emission, transmission or reception of signs, signals, writings, images, sounds or intelligence of any nature by wire, radio, optical or other electromagnetic systems.",
+      "source_provision": "2"
+    },
+    {
+      "term": "Ryšių reguliavimo tarnyba",
+      "definition": "Communications Regulatory Authority (RRT) — the national regulatory authority for electronic communications in Lithuania.",
+      "source_provision": "3"
+    }
+  ]
+}

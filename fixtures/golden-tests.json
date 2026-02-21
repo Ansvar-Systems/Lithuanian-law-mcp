@@ -1,0 +1,184 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Lithuanian Law MCP",
+  "description": "Golden contract tests for the Lithuanian Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "lt-001",
+      "category": "article_retrieval",
+      "description": "Retrieve ADTAĮ Art. 1 (Asmens duomenų teisinės apsaugos įstatymas) -- scope and purpose of GDPR implementing provisions",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Law on Legal Protection of Personal Data",
+        "provision_ref": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["personal data", "Regulation (EU) 2016/679", "protection", "Lithuania"],
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lt-002",
+      "category": "article_retrieval",
+      "description": "Retrieve KSĮ Art. 1 (Kibernetinio saugumo įstatymas) -- scope of the Cyber Security Law",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Cyber Security Law",
+        "provision_ref": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["cyber security", "NIS2", "Directive (EU) 2022/2555", "network and information systems"],
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lt-003",
+      "category": "article_retrieval",
+      "description": "Retrieve BK Art. 196 (Baudžiamasis kodeksas) -- unlawful access to an information system",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Criminal Code",
+        "provision_ref": "196"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["information system", "unlawfully accesses", "security measures", "imprisonment"],
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lt-004",
+      "category": "article_retrieval",
+      "description": "Retrieve Trade Secrets Law Art. 2 -- definitions of trade secret, holder, infringer",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Law on Trade Secrets",
+        "provision_ref": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["trade secret", "commercial value", "secret", "holder"],
+        "fields_present": ["content"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lt-005",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns GDPR-related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["personal data", "data protection", "GDPR", "Regulation"]
+      }
+    },
+    {
+      "id": "lt-006",
+      "category": "search",
+      "description": "Full-text search for 'cyber incident' returns cybersecurity-related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cyber incident"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["cyber", "incident", "security", "CERT-LT"]
+      }
+    },
+    {
+      "id": "lt-007",
+      "category": "search",
+      "description": "Full-text search for 'critical infrastructure' returns CIP provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "critical infrastructure"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["critical infrastructure", "resilience", "essential services", "operator"]
+      }
+    },
+    {
+      "id": "lt-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for ADTAĮ Art. 4 includes e-tar.lt URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "lt-pdpa-2018",
+        "provision_ref": "4"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "e-tar\\.lt",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lt-009",
+      "category": "citation_roundtrip",
+      "description": "Citation for BK Art. 198 includes e-tar.lt URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "lt-cc-2000",
+        "provision_ref": "198"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "e-tar\\.lt",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lt-010",
+      "category": "eu_cross_reference",
+      "description": "ADTAĮ cross-reference to EU GDPR -- Lithuanian data protection law implements Regulation (EU) 2016/679",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "document_id": "lt-pdpa-2018",
+        "provision_ref": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679"]
+      }
+    },
+    {
+      "id": "lt-011",
+      "category": "negative_test",
+      "description": "Non-existent Lithuanian law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Lietuvos Respublikos neegzistuojančio įstatymo fikcija (2099-12-31)",
+        "provision_ref": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "lt-012",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "lt-pdpa-2018",
+        "provision_ref": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}

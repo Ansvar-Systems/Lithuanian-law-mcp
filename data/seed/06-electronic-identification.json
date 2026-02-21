@@ -1,0 +1,171 @@
+{
+  "id": "lt-eidas-2016",
+  "type": "statute",
+  "title": "Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymas",
+  "title_en": "Law on Electronic Identification and Trust Services for Electronic Transactions",
+  "short_name": "EAEPUPĮ",
+  "status": "in_force",
+  "issued_date": "2016-06-16",
+  "in_force_date": "2016-07-01",
+  "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.EE5F5E3C04A8",
+  "description": "Implements Regulation (EU) No 910/2014 (eIDAS Regulation) in Lithuania. Regulates electronic identification, electronic signatures, seals, time stamps, and trust services. Establishes the national supervisory body.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Purpose and Scope",
+      "content": "This Law establishes the national framework for electronic identification and trust services for electronic transactions in the Republic of Lithuania. It supplements the directly applicable Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation)."
+    },
+    {
+      "provision_ref": "2",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Definitions",
+      "content": "The terms used in this Law shall have the meanings defined in Regulation (EU) No 910/2014. In addition: 1) supervisory body — the Communications Regulatory Authority (RRT) which is the supervisory body within the meaning of Article 17 of Regulation (EU) No 910/2014; 2) qualified trust service provider — a trust service provider that is granted qualified status by the supervisory body."
+    },
+    {
+      "provision_ref": "3",
+      "chapter": "Chapter I",
+      "section": "General Provisions",
+      "title": "Supervisory Body",
+      "content": "The Communications Regulatory Authority of the Republic of Lithuania (RRT) is designated as the supervisory body for trust services within the meaning of Article 17 of Regulation (EU) No 910/2014. The RRT shall supervise qualified trust service providers and maintain the trusted list of qualified trust service providers and the qualified trust services provided by them."
+    },
+    {
+      "provision_ref": "4",
+      "chapter": "Chapter II",
+      "section": "Electronic Identification",
+      "title": "National Electronic Identification Scheme",
+      "content": "The Republic of Lithuania operates a national electronic identification scheme that enables Lithuanian citizens and residents to authenticate their identity electronically for public and private services. The scheme is based on the Lithuanian electronic identity card (eID) and mobile electronic signatures. The scheme has been notified to the European Commission under Article 9 of Regulation (EU) No 910/2014."
+    },
+    {
+      "provision_ref": "5",
+      "chapter": "Chapter II",
+      "section": "Electronic Identification",
+      "title": "Mutual Recognition",
+      "content": "Electronic identification means issued under notified electronic identification schemes of other EU Member States shall be recognised for the purpose of cross-border authentication in Lithuanian public sector online services where the assurance level is substantial or high within the meaning of Article 8 of Regulation (EU) No 910/2014."
+    },
+    {
+      "provision_ref": "6",
+      "chapter": "Chapter II",
+      "section": "Electronic Identification",
+      "title": "Assurance Levels",
+      "content": "Electronic identification means used for access to online public services in Lithuania shall meet the assurance levels specified in Regulation (EU) No 910/2014: 1) low — limited confidence in the claimed identity; 2) substantial — substantial confidence in the claimed identity; 3) high — high confidence in the claimed identity. The Government shall determine which public services require which assurance levels."
+    },
+    {
+      "provision_ref": "7",
+      "chapter": "Chapter III",
+      "section": "Trust Services",
+      "title": "Electronic Signatures",
+      "content": "A qualified electronic signature shall have the equivalent legal effect of a handwritten signature. An electronic signature shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in electronic form or that it does not meet the requirements for qualified electronic signatures, in accordance with Article 25 of Regulation (EU) No 910/2014."
+    },
+    {
+      "provision_ref": "8",
+      "chapter": "Chapter III",
+      "section": "Trust Services",
+      "title": "Electronic Seals",
+      "content": "A qualified electronic seal shall enjoy the presumption of integrity of the data and of correctness of the origin of that data to which the qualified electronic seal is linked, in accordance with Article 35 of Regulation (EU) No 910/2014. Electronic seals may be used by legal persons to ensure the origin and integrity of electronic documents."
+    },
+    {
+      "provision_ref": "9",
+      "chapter": "Chapter III",
+      "section": "Trust Services",
+      "title": "Electronic Time Stamps",
+      "content": "A qualified electronic time stamp shall enjoy the presumption of the accuracy of the date and time it indicates and of the integrity of the data to which the date and time are bound, in accordance with Article 41 of Regulation (EU) No 910/2014. Time stamps shall be based on an accurate time source linked to Coordinated Universal Time."
+    },
+    {
+      "provision_ref": "10",
+      "chapter": "Chapter III",
+      "section": "Trust Services",
+      "title": "Electronic Registered Delivery Services",
+      "content": "Data sent and received using a qualified electronic registered delivery service shall enjoy the presumption of the integrity of the data, the sending of that data by the identified sender, its receipt by the identified addressee, and the accuracy of the date and time of sending and receipt, in accordance with Article 43 of Regulation (EU) No 910/2014."
+    },
+    {
+      "provision_ref": "11",
+      "chapter": "Chapter III",
+      "section": "Trust Services",
+      "title": "Website Authentication Certificates",
+      "content": "Qualified certificates for website authentication issued in accordance with Regulation (EU) No 910/2014 shall enable the authentication of a website and link the website to the natural or legal person to whom the certificate is issued. Web browser providers shall recognise qualified certificates for website authentication."
+    },
+    {
+      "provision_ref": "12",
+      "chapter": "Chapter IV",
+      "section": "Trust Service Providers",
+      "title": "Obligations of Trust Service Providers",
+      "content": "Trust service providers shall: 1) take appropriate technical and organisational measures to manage the risks posed to the security of the trust services they provide; 2) notify the supervisory body and data protection authority of any breach of security or loss of integrity that has a significant impact on the trust service provided; 3) comply with the requirements of Regulation (EU) No 910/2014."
+    },
+    {
+      "provision_ref": "13",
+      "chapter": "Chapter IV",
+      "section": "Trust Service Providers",
+      "title": "Qualified Status",
+      "content": "A trust service provider may apply to the supervisory body for qualified status. The RRT shall grant qualified status where the trust service provider and the trust services it provides meet the requirements of Regulation (EU) No 910/2014. The RRT shall conduct regular audits and compliance assessments of qualified trust service providers."
+    },
+    {
+      "provision_ref": "14",
+      "chapter": "Chapter IV",
+      "section": "Trust Service Providers",
+      "title": "Liability of Trust Service Providers",
+      "content": "A qualified trust service provider shall be liable for damage caused to any natural or legal person due to failure to comply with the obligations under Regulation (EU) No 910/2014 and this Law, unless the trust service provider proves that the damage was not caused by its negligence, in accordance with Article 13 of Regulation (EU) No 910/2014."
+    },
+    {
+      "provision_ref": "15",
+      "chapter": "Chapter V",
+      "section": "Supervision and Enforcement",
+      "title": "Supervisory Powers",
+      "content": "The RRT shall have the power to: 1) audit qualified trust service providers and require evidence of compliance; 2) issue binding instructions for the remediation of non-compliance; 3) withdraw qualified status where a trust service provider fails to comply; 4) impose administrative fines for infringements. The RRT shall publish and maintain a trusted list of qualified trust service providers."
+    },
+    {
+      "provision_ref": "16",
+      "chapter": "Chapter V",
+      "section": "Supervision and Enforcement",
+      "title": "Administrative Sanctions",
+      "content": "The RRT may impose administrative fines on trust service providers for infringements of this Law and Regulation (EU) No 910/2014. Fines of up to EUR 50 000 may be imposed for each infringement. For repeated or serious infringements, fines of up to EUR 200 000 may be imposed. The qualified status may also be withdrawn."
+    },
+    {
+      "provision_ref": "17",
+      "chapter": "Chapter V",
+      "section": "Supervision and Enforcement",
+      "title": "Cross-Border Cooperation",
+      "content": "The RRT shall cooperate with the supervisory bodies of other EU Member States and with the European Commission for the purposes of mutual recognition of electronic identification schemes and supervision of trust service providers. The RRT shall participate in the cooperation mechanisms established under Regulation (EU) No 910/2014."
+    },
+    {
+      "provision_ref": "18",
+      "chapter": "Chapter VI",
+      "section": "Public Sector",
+      "title": "Use of eID in Public Services",
+      "content": "State and municipal institutions providing online services shall accept electronic identification means with a substantial or high assurance level. Institutions shall accept qualified electronic signatures for the signing of documents and electronic seals for the authentication of documents. The Government shall promote the use of electronic identification and trust services in public administration."
+    },
+    {
+      "provision_ref": "19",
+      "chapter": "Chapter VI",
+      "section": "Public Sector",
+      "title": "Electronic Document Archiving",
+      "content": "Electronically signed or sealed documents shall be preserved in a manner ensuring their long-term integrity, authenticity and readability. Qualified preservation services shall be used for the long-term preservation of qualified electronic signatures and seals. The archival standards shall be established by the Government."
+    },
+    {
+      "provision_ref": "20",
+      "chapter": "Chapter VII",
+      "section": "Final Provisions",
+      "title": "Entry into Force",
+      "content": "This Law shall enter into force on 1 July 2016. Trust service providers operating before the entry into force of this Law shall submit an application for qualified status within 12 months. The Government shall adopt implementing regulations within six months."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektroninė atpažintis",
+      "definition": "Electronic identification — the process of using person identification data in electronic form uniquely representing a natural or legal person.",
+      "source_provision": "2"
+    },
+    {
+      "term": "patikimumo užtikrinimo paslauga",
+      "definition": "Trust service — an electronic service normally provided for remuneration which consists of electronic signatures, seals, time stamps, registered delivery services, or website authentication certificates.",
+      "source_provision": "2"
+    },
+    {
+      "term": "kvalifikuotas elektroninis parašas",
+      "definition": "Qualified electronic signature — an advanced electronic signature that is created by a qualified electronic signature creation device and based on a qualified certificate for electronic signatures.",
+      "source_provision": "7"
+    }
+  ]
+}
