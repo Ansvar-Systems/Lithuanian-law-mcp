@@ -162,7 +162,7 @@ describe.skipIf(!DB_AVAILABLE)(`Contract tests: ${fixture.mcp_name}`, () => {
       { name: 'lithuanian-law-test', version: '0.0.0' },
       { capabilities: { tools: {} } },
     );
-    registerTools(server, () => db);
+    registerTools(server, db);
 
     mcpClient = new Client({ name: 'test-client', version: '0.0.0' }, { capabilities: {} });
     const [clientTransport, serverTransport] = InMemoryTransport.createLinkedPair();

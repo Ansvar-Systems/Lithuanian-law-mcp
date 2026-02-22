@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/lithuanian-law-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcpName": "eu.ansvar/lithuanian-law-mcp",
   "description": "Lithuanian law database covering in-force Lithuanian statutes from TAR via Model Context Protocol",
   "author": "Ansvar Systems <hello@ansvar.eu>",
