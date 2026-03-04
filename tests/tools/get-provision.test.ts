@@ -9,8 +9,9 @@ import * as os from 'os';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_SRC = path.resolve(__dirname, '../../data/database.db');
+const DB_AVAILABLE = fs.existsSync(DB_SRC);
 
-describe('getProvision', () => {
+describe.skipIf(!DB_AVAILABLE)('getProvision', () => {
   let db: InstanceType<typeof Database>;
   let tmpDir: string;
   let dbPath: string;

@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/lithuanian-law-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcpName": "eu.ansvar/lithuanian-law-mcp",
   "description": "Lithuanian law database covering in-force Lithuanian statutes from TAR via Model Context Protocol",
   "author": "Ansvar Systems <hello@ansvar.eu>",
@@ -46,7 +46,8 @@
     "validate": "npm run lint && npm test && npm run test:contract",
     "lint": "tsc --noEmit",
     "prepublishOnly": "npm run build",
-    "postinstall": "test -d dist || npm run build || true"
+    "postinstall": "test -d dist || npm run build || true",
+    "check-updates": "node --import tsx scripts/check-updates.ts"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.3",
