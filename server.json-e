@@ -21,7 +21,7 @@
   ],
   "remoteEndpoints": [
     {
-      "url": "https://mcp.ansvar.eu/law-lithuanian-law-mcp/mcp",
+      "url": "https://lithuanian-law-mcp.vercel.app/mcp",
       "transport": {
         "type": "streamable-http"
       }
