@@ -354,7 +354,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Lithuanian Government / TAR (public domain)
+- **Statutes & Legislation:** `LT-Statutory-PD` — Lithuanian statutory public domain under Autorių teisių ir gretutinių teisių įstatymas 5 str. (ATGTĮ), which excludes legal acts, official documents of administrative, legal or regulatory nature (decisions, rulings, regulations, norms, territorial-planning documents), their official translations, officially registered drafts of legal acts, and folklore works from copyright protection. Verbatim basis: [WIPO Lex Lithuanian PDF](https://www.wipo.int/wipolex/edocs/lexdocs/laws/lt/lt/lt121lt_1.pdf) (consolidated through XIV-970/2022). Commercial reuse permitted, no attribution required. The ATGTĮ point 4 covering officially registered drafts of legal acts is the widest preparatory-doc clause in the EU set. Verified 2026-05-17.
 - **EU Metadata:** EUR-Lex (EU public domain)
 
 ---

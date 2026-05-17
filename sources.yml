@@ -10,9 +10,9 @@ sources:
     update_frequency: "unknown"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "government_terms"
-      url: "https://data.gov.lt/datasets/2613/"
-      summary: "Official Lithuanian legal register data is published through the government open-data portal and TAR."
+      type: "LT-Statutory-PD"
+      url: "https://www.wipo.int/wipolex/edocs/lexdocs/laws/lt/lt/lt121lt_1.pdf"
+      summary: "Autorių teisių ir gretutinių teisių įstatymas 5 str. (ATGTĮ) excludes legal acts, official documents of administrative, legal or regulatory nature (decisions, rulings, regulations, norms, territorial-planning documents), their official translations, officially registered drafts of legal acts, and folklore works from copyright protection. Verbatim basis verified 2026-05-17 against WIPO Lex Lithuanian-language PDF (consolidated through XIV-970/2022-03-24). Note: the e-seimas portal lazy-loads article bodies via PrimeFaces — WIPO Lex PDF is the canonical verbatim source for ingestion."
     coverage:
       scope: "All in-force Lithuanian statutes (rusis=Įstatymas, galioj_busena=galioja) available via TAR open-data models."
       limitations: "No skipped statutes in the 2026-02-21 full-corpus run; ingestion uses Dokumentas fallback where consolidated Suvestine text is unavailable."
@@ -25,9 +25,9 @@ sources:
     retrieval_method: "API"
     update_frequency: "unknown"
     license_or_terms:
-      type: "government_terms"
-      url: "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/:ns"
-      summary: "Machine-readable TAR document and suvestine records, including consolidated legal text fields."
+      type: "LT-Statutory-PD"
+      url: "https://www.wipo.int/wipolex/edocs/lexdocs/laws/lt/lt/lt121lt_1.pdf"
+      summary: "Same statutory PD basis as TAR (ATGTĮ 5 str.). Machine-readable Dokumentas and Suvestine records from the open-data portal carry the underlying statute text in raw form; the statute text itself is outside copyright protection. Verbatim basis verified 2026-05-17."
     coverage:
       scope: "Dokumentas and Suvestine models from dataset gov/lrsk/teises_aktai, with Suvestine prioritized and Dokumentas used as fallback."
       limitations: "Model content depends on upstream publication and text availability in each suvestine row."
